@@ -172,6 +172,8 @@ https://flash-plex.amagi.tv/flash/master.m3u8
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/4d0qh3BF/PREGO-TV.jpg",PREGO TV FRonnyjaguar 
 https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/htrTt5k3/vision-tv-musica.png",VISION TV HD
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/fLs5SSkD/SONY-NOVELAS.png",Sony Novelas | HD | Estados Unidos
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/sXJmYfZS/SONY-COMEDIAS-SAMSUMG.png",Sony Comedias | HD | Estados Unidos
