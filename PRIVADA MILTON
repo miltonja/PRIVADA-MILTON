@@ -1,4 +1,11 @@
 #EXTM3U
+
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports + HD
+http://190.119.178.46:8000/play/a01d/index.m3u8
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports + HD
+http://190.217.20.100:10800/play/a055/index.m3u8
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports + HD
+http://200.60.124.20:8000/play/a00m/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports +
 http://181.204.104.246:9210/play/a041
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports +
@@ -21,6 +28,10 @@ http://190.27.253.211:8000/play/a07g/index.m3u8
 http://181.175.41.170:8000/play/a0jq
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png" group-title="|CO| Colombia",CO | Win Sports +
 http://200.110.169.237:8202/play/a04m
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
+http://190.217.20.100:10800/play/a03v/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
+http://200.60.124.20:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
 http://181.78.24.67:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽  | WIN SPORTS HD
