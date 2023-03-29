@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,ES: Odisea SD
+http://maxpro.cc:8080/live/tafconew29/ADjlrXVLas345/18.ts
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports + HD
 http://190.119.178.46:8000/play/a01d/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports + HD
