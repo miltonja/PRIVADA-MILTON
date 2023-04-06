@@ -19,8 +19,6 @@ http://190.26.217.123:8000/play/a14u/index.m3u8
 http://181.78.24.67:8010/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + SD" tvg-logo="https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png" group-title="COLOMBIA",➾ COL - WIN SPORTS + HD
 http://181.204.79.178:8202/play/a04m
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="🟩 | WIN SPORTS+ HD " tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="COLOMBIA -PRIMERA A⚽",🟩  | WIN SPORTS+ HD
-http://181.236.192.254:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + SD" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="COLOMBIA",➾ COL - WIN SPORTS + SD
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/16723
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | Win Sports +
@@ -29,6 +27,8 @@ http://190.27.253.211:8000/play/a07g/index.m3u8
 http://181.175.41.170:8000/play/a0jq
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png" group-title="|CO| Colombia",CO | Win Sports +
 http://200.110.169.237:8202/play/a04m
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
+http://168.194.171.33:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
 http://190.217.20.100:10800/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
@@ -127,6 +127,8 @@ https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/q7hr1kqh/TV-QUINTA-REGION-ESP.png",QUINTA REGION TV HD
 https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/vmQr4RwP/enc-TELECREATIVA-movil.gif",TELECREATIVA LANUS HD
+https://panel.dattalive.com/8012/8012/playlist.m3u8
 #EXTINF:-1  group-title="REPUBLICA DOMINICANA" tvg-logo="https://i.postimg.cc/rppQFsWT/TELEMAX-RD.png",TELEMAX REPUBLICA DOMONICANA
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA"tvg-logo="https://i.postimg.cc/q7hr1kqh/TV-QUINTA-REGION-ESP.png",QUINTA REGION * |HD|
@@ -303,6 +305,8 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1  group-title="ARGENTINA"tvg-logo="https://i.postimg.cc/dVw5p4VL/Telemax-Argentina.png" ,TELEMAX ARGENTINA
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer_retina.png",CANAL 10 RIO NEGRO
+https://panel.dattalive.com/8204/8204/playlist.m3u8
 #EXTINF:-1  group-title="MEXICO" tvg-logo="https://i.postimg.cc/Bnpm0HjN/Telemax.png",TELEMAX MEXICO
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="EU_Spanish" tvg-logo="https://i.imgur.com/lyBkCzB.png",Cortos - Shorts TV
@@ -551,3 +555,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="Undefined",SET Televisión Canal 26.1 (720p) [Not 24/7]
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL 100 CHINIQUE" tvg-logo="https://i.postimg.cc/NGyt8sJB/CANAL-100-CHINIQUE.jpg" group-title="GUATEMALA",CANAL 100 CHINIQUE HD
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400",BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2135-294x165-FFFFFF.jpg",AGENDA 56TV
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
