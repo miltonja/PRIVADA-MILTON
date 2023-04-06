@@ -1,16 +1,18 @@
 #EXTM3U
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="http://streamgo.vip:8008/images/831576acd585fbe847690893b643f0db.png" group-title="⭐️ Tv España",ODISEA
 http://streamgo.vip:8008/kassandra/kassandra/266063
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="http://streamgo.vip:8008/images/831576acd585fbe847690893b643f0db.png" group-title="⭐️ Tv España",ODISEA HD
 http://streamgo.vip:8008/kassandra/kassandra/266064
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA FHD" tvg-logo="http://streamgo.vip:8008/images/831576acd585fbe847690893b643f0db.png" group-title="⭐️ Tv España",ODISEA FHD
 http://streamgo.vip:8008/kassandra/kassandra/266065
-#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + NUEVO
-http://168.121.46.90:8000/play/a04k/index.m3u8
-#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports + HD
-http://190.217.20.100:10800/play/a055/index.m3u8
-#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports + HD
-http://200.60.124.20:8000/play/a00m/index.m3u8
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 06
+http://201.186.166.36:4000/play/a022/index.m3u8
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 06
+http://186.28.229.210:8000/play/a0b8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports +
 http://200.6.189.28:8000/play/a05z
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="|CO| Colombia",➾ CO | Win Sports +
@@ -28,7 +30,7 @@ http://181.175.41.170:8000/play/a0jq
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png" group-title="|CO| Colombia",CO | Win Sports +
 http://200.110.169.237:8202/play/a04m
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
-http://168.194.171.33:8000/play/a078/index.m3u8
+http://201.186.166.36:4000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
 http://190.217.20.100:10800/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
@@ -65,6 +67,8 @@ https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 https://newidco-newkfood-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/029DytY4/BILLARD-TV.png" group-title="DEPORTES",➾Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/TmNwl29nwxB_0t2eRDdfcZme32zDOPh_K6kgPhv4nEaWDtpzXGxM9Nf6aqPDg6J17yEpQ5sIAbc=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",➾Billiard TV
+https://newidco-billiardstv-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/D09khrMq/World-Billiards-logo-svg.png",World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3726&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=27b9467f-5a92-4ae0-b13c-e4cb85608690&ads.user_type=visitor&ads.wurl_channel=967
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/BZCKdykv/FOX-SPORTSDOS.png",FOX SPORTS 2
@@ -77,10 +81,6 @@ https://7c273dd1cf4c41c0bb8b99335d0bc5a2.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-ESBC40000248" tvg-id="ESBC40000248" tvg-chno="4972" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/41/ESBC40000248_20220323T082046.png" group-title="Películas",Dark Matter TV
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_es_darkmatter_001.m3u8?ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_channelId=9992561&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV-TERROR.png",viwix terror
-http://45.176.193.20:7837/play/a06b
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV-ACCION.png",viwix accion
-http://45.176.193.20:7837/play/a068
 #EXTINF:-1 group-title="PCIA BS AS" tvg-logo="https://i.postimg.cc/2jhpVPJZ/TVES-SAN-JOSE.png",TVES SAN JOSE TV* |HD|
 https://stm1.rootuy.xyz:19360/envivotv/envivotv.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/Znh7NwYf/Mega-Cine-TV-esp.png",Mega Cine TV | DO
@@ -363,8 +363,6 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.imgur.com/qhLnq2W.png",Voice Over RTV
 https://tv.fullhd-streaming.com:3285/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/SK0nVQkV/univision-noticias.png" group-title="NOTICIAS",UNIVISIÓN 
-https://v-px.mybtv.net/live/28.m3u8?
 #EXTINF:-1 group-title="DEPORTES" tvg-logo=" https://i.postimg.cc/BZCKdykv/FOX-SPORTSDOS.png",FOX SPORTS 2:Deportes
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/tTJbV8Mx/CANAL-INSTITUCIONAL.png",CANAL INSTITUCIONAL
