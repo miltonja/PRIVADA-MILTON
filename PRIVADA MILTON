@@ -1,17 +1,18 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://i.postimg.cc/W42xN2F4/Odisea-HD-1.jpg" group-title="⭐️ Tv España",ODISEA
 http://45.141.194.9:9000/play/a01m/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 15
 http://179.43.85.42:82/play/a089/index.m3u8
-#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 15
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 15
 http://181.224.161.138:1010/play/a08g/index.m3u8
-#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 15
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 15
 http://181.78.18.106:8083/play/a03w/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 06
 http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 06
 http://201.186.166.36:4000/play/a022/index.m3u8
-#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 06
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 06
 http://186.28.229.210:8000/play/a0b8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports +
 http://200.6.189.28:8000/play/a05z
@@ -65,7 +66,7 @@ https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 https://inliveserver.com:1936/18506/18506/chunklist_w237701265.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/rsvT6LLv/euro-latina.png",EuroLatina TV España
 https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
-#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.postimg.cc/8z8n0Y3b/1200px-Hispan-Tv-logo.png" group-title="News",HispanTV (480p)
 https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
@@ -75,7 +76,7 @@ https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 https://newidco-newkfood-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/029DytY4/BILLARD-TV.png" group-title="DEPORTES",➾Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/TmNwl29nwxB_0t2eRDdfcZme32zDOPh_K6kgPhv4nEaWDtpzXGxM9Nf6aqPDg6J17yEpQ5sIAbc=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",➾Billiard TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2g26DJz/BILLARD-TV.png" group-title="DEPORTES",➾Billiard TV
 https://newidco-billiardstv-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/D09khrMq/World-Billiards-logo-svg.png",World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3726&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=27b9467f-5a92-4ae0-b13c-e4cb85608690&ads.user_type=visitor&ads.wurl_channel=967
@@ -575,7 +576,7 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESTRELLA NEWS" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO",Estrella News (1080p)
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ESTRELLA TV" tvg-logo=https://i.postimg.cc/pXWqW81C/Estrella-TV-2009-Logo.png"" group-title="MEXICO",Estrella TV (1080p)
+#EXTINF:-1 tvg-id="ESTRELLA TV" tvg-logo="https://i.postimg.cc/pXWqW81C/Estrella-TV-2009-Logo.png"group-title="MEXICO",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EURO NEWS" tvg-logo="https://i.postimg.cc/8C4x0B3G/euronews-old-euro-news-logo.png" group-title="NOTICIAS",Euronews en Español
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
@@ -617,9 +618,9 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="MUZZIK"tvg-logo="https://i.postimg.cc/rF5f5vQG/MUZZIC-TIKTAK.png",MUZZIK TIKTAK HD
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-id="MUZZIK"tvg-logo="https://i.postimg.cc/0yHg4zJd/MUZZIK-Z-Z.png"group-title="MUSICA",MUZZIK Z&Z  HD
+#EXTINF:-1 tvg-id="MUZZIK"tvg-logo="https://i.postimg.cc/s1CfJph3/MUZZIK-JEKA.png"group-title="MUSICA",MUZZIK JEKA HD
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-id="MUZZIK"tvg-logo="https://i.postimg.cc/fTCkJf6z/MUZZIK-SENSE.png"group-title="MUSICA",MUZZIK SENSE HD
+#EXTINF:-1 tvg-id="MUZZIK"tvg-logo="https://i.postimg.cc/0yHg4zJd/MUZZIK-Z-Z.png"group-title="MUSICA",MUZZIK Z&Z  HD
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="MUZZIK"tvg-logo="https://i.postimg.cc/fTCkJf6z/MUZZIK-SENSE.png"group-title="MUSICA",MUZZIK SENSE  HD
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
