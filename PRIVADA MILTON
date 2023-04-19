@@ -670,3 +670,49 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="CMC TV MUSIC USA" tvg-logo="https://i.postimg.cc/90jZ1jhp/CMC-MUSIC.jpg" group-title="MUSICA",CMC TV MUSIC USA HD
 https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+#EXTINF:-1 tvg-id="MUNDO TV" tvg-logo="" group-title="ARGENTINA",Aventuras TV (360p) HD
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ASTRO NET" tvg-logo="" group-title="ARGENTINA",AstroNet (360p)
+https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+#EXTINF:-1 tvg-id="TE LO CUENTO" tvg-logo="" group-title="ARGENTINA",Te Lo Cuento (360p)
+https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE INFANTIL" tvg-logo="" group-title="INFANTIL", XTREMA CINE INFANTIL HD
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="RETRO INFANTIL" tvg-logo="" group-title="INFANTIL",XTREMA RETROR CARTOONS(360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="RETRO INFANTIL" tvg-logo="" group-title="INFANTIL",Super Kaos TV (360p)
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA DEPORTES" tvg-logo="" group-title="DEPORTES",CnAr Deportes (1440p)
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE ACCION" tvg-logo="" group-title="CINE",Xtrema Cine Acción (268p)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE SUSPENSO" tvg-logo="" group-title="CINE",Xtrema Cine Suspenso (360p)
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE TERROR" tvg-logo="" group-title="CINE",Xtrema Cine Terror (270p)
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE FAMILY" tvg-logo="" group-title="CINE",Xtrema Cine Family (274p)
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE COMEDY" tvg-logo="" group-title="CINE",Xtrema Cine Comedy (344p)
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE HINDI" tvg-logo="" group-title="CINE",Xtrema Cine Hindi (272p)
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE ASIA" tvg-logo="" group-title="CINE",Xtrema Cine Asia (268p)
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE EUROPA" tvg-logo="" group-title="CINE",Xtrema Cine Europa (360p)
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE DRAMA" tvg-logo="" group-title="CINE",Xtrema Cine Drama (360p)
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="" group-title="CINE",Xtrema Cine Latino (360p)
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE SERIES" tvg-logo="" group-title="CINE",Xtrema Series (360p)
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE SERIES RETRO" tvg-logo="" group-title="CINE",Xtrema Retro Series (360p)
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 tvg-id="CINE ANIME" tvg-logo="" group-title="CINE",Xtrema Anime (360p)
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:-1 tvg-id="DANCE" tvg-logo="" group-title="MUSICA",Dance TV (360p)
+https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
+#EXTINF:-1 tvg-id="SUPER CLASSIC" tvg-logo="" group-title="MUSICA",Super Classics TV (360p)
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+#EXTINF:-1 tvg-id="MAS MUSICA" tvg-logo="" group-title="MUSICA",Más Música TV (360p)
+https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
