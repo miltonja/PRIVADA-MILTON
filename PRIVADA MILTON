@@ -1,10 +1,15 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://i.postimg.cc/W42xN2F4/Odisea-HD-1.jpg" group-title="⭐️ Tv España",ODISEA
 http://45.141.194.9:9000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5f60257e029877f2a28a803b818e3787.png",ES: Dark
+http://gamsgo.cyou:8080/Millenium/jnp6M5PkDnJQRz99/121514
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9716e02c572ed87f290c388a94ee05d6.png",ES: Crime+ Investigation
+http://gamsgo.cyou:8080/Millenium/jnp6M5PkDnJQRz99/5292
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 16
+http://gamsgo.cyou:8080/Millenium/jnp6M5PkDnJQRz99/294455
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 16
 http://181.224.161.138:1010/play/a08g/index.m3u8
-#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 15
-http://179.43.85.42:82/play/a089/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 15
 http://181.224.161.138:1010/play/a08g/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 15
@@ -23,8 +28,6 @@ http://181.78.24.67:8010/play/a05w/index.m3u8
 http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png" group-title="|CO| Colombia",CO | Win Sports 
 http://181.175.41.170:8000/play/a0jq
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports 
-http://179.43.85.42:82/play/a05y/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports 
 http://181.224.161.138:1010/play/a00s/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports 
@@ -645,7 +648,7 @@ https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-id="MUZZIK"tvg-logo="https://i.postimg.cc/Hx0VQFBK/MUZZIK-MOBA.png"group-title="MUSICA",MUZZIK MOBA  HD
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-RPgMJ90DCeU/XjtIXwH4L3I/AAAAAAAAvqs/HoaDT_pgUukebIWHY7ndUkZs1fiQerE_ACK8BGAsYHg/s0/2020-02-05.png",Canal 10 Rio Negro | AR
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RPgMJ90DCeU/XjtIXwH4L3I/AAAAAAAAvqs/HoaDT_pgUukebIWHY7ndUkZs1fiQerE_ACK8BGAsYHg/s0/2020-02-05.png",Canal 10 Rio Negro | AR
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/1cf289ea035226425388be580025cfd2.png",Canal 21 TV | AR
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
@@ -659,3 +662,11 @@ https://live.teledom.info:3242/live/teleradiohdlive.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/nb81xeU.png",WTV Canal 20 (720p)
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 tvg-id="TRACE URBAN"tvg-logo="https://trace.tv/trace-urban/wp-content/uploads/2022/11/TraceUrban_Logo_colour_578x278-2.png"group-title="MUSICA",TRACE URBAN HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC TV"tvg-logo=""group-title="BRAZIL",SIC TV HD
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="CMC TV MUSIC CALIFORNIA" tvg-logo="https://i.postimg.cc/02k9SHS1/California-Music-Channel-Logo.png" group-title="MUSICA",CMC TV MUSIC CALIFORNIA HD
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 tvg-id="CMC TV MUSIC USA" tvg-logo="https://i.postimg.cc/90jZ1jhp/CMC-MUSIC.jpg" group-title="MUSICA",CMC TV MUSIC USA HD
+https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
