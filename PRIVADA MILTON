@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://i.postimg.cc/W42xN2F4/Odisea-HD-1.jpg" group-title="⭐️ Tv España",ODISEA
 http://45.141.194.9:9000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5f60257e029877f2a28a803b818e3787.png",ES: Dark
@@ -683,35 +684,35 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA DEPORTES" tvg-logo="" group-title="DEPORTES",CnAr Deportes (1440p)
 https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE ACCION" tvg-logo="" group-title="CINE",Xtrema Cine Acción (268p)
+#EXTINF:-1 tvg-id="CINE ACCION" tvg-logo="https://i.postimg.cc/fLR1Qr1s/XTREMA-TV-ACCION.png" group-title="CINE",Xtrema Cine Acción (268p)
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE SUSPENSO" tvg-logo="" group-title="CINE",Xtrema Cine Suspenso (360p)
+#EXTINF:-1 tvg-id="CINE SUSPENSO" tvg-logo="https://i.postimg.cc/9fgzhvzt/XTREMA-TV-SUSPENSO.png" group-title="CINE",Xtrema Cine Suspenso (360p)
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE TERROR" tvg-logo="" group-title="CINE",Xtrema Cine Terror (270p)
+#EXTINF:-1 tvg-id="CINE TERROR" tvg-logo="https://i.postimg.cc/Bnydfp4P/XTREMA-TV-TERROR.png" group-title="CINE",Xtrema Cine Terror (270p)
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE FAMILY" tvg-logo="" group-title="CINE",Xtrema Cine Family (274p)
+#EXTINF:-1 tvg-id="CINE FAMILY" tvg-logo="https://i.postimg.cc/MTcbBCLd/XTREMA-TV-FAMILY.png" group-title="CINE",Xtrema Cine Family (274p)
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE COMEDY" tvg-logo="" group-title="CINE",Xtrema Cine Comedy (344p)
+#EXTINF:-1 tvg-id="CINE COMEDY" tvg-logo="https://i.postimg.cc/76LtWtW2/XTREMA-TV-COMEDY.png" group-title="CINE",Xtrema Cine Comedy (344p)
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE HINDI" tvg-logo="" group-title="CINE",Xtrema Cine Hindi (272p)
+#EXTINF:-1 tvg-id="CINE HINDI" tvg-logo="https://i.postimg.cc/W1FkXG81/XTREMA-TV-HINDI.png" group-title="CINE",Xtrema Cine Hindi (272p)
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE ASIA" tvg-logo="" group-title="CINE",Xtrema Cine Asia (268p)
+#EXTINF:-1 tvg-id="CINE ASIA" tvg-logo="https://i.postimg.cc/gjyWYTG2/XTREMA-TV-ASIA.png" group-title="CINE",Xtrema Cine Asia (268p)
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE EUROPA" tvg-logo="" group-title="CINE",Xtrema Cine Europa (360p)
+#EXTINF:-1 tvg-id="CINE EUROPA" tvg-logo="https://i.postimg.cc/FsqZrsn1/XTREMA-TV-EUROPA.png" group-title="CINE",Xtrema Cine Europa (360p)
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE DRAMA" tvg-logo="" group-title="CINE",Xtrema Cine Drama (360p)
+#EXTINF:-1 tvg-id="CINE DRAMA" tvg-logo="https://i.postimg.cc/3rqppfjc/XTREMA-TV-DRAMA.png" group-title="CINE",Xtrema Cine Drama (360p)
 https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="" group-title="CINE",Xtrema Cine Latino (360p)
+#EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="https://i.postimg.cc/J0XbtjFn/XTREMA-TV-LATINO.png" group-title="CINE",Xtrema Cine Latino (360p)
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE SERIES" tvg-logo="" group-title="CINE",Xtrema Series (360p)
+#EXTINF:-1 tvg-id="CINE SERIES" tvg-logo="https://i.postimg.cc/nV5XPsPR/XTREMA-TV-SERIES.png" group-title="CINE",Xtrema Series (360p)
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE SERIES RETRO" tvg-logo="" group-title="CINE",Xtrema Retro Series (360p)
+#EXTINF:-1 tvg-id="CINE SERIES RETRO" tvg-logo="https://i.postimg.cc/Xqbx9VC4/XTREMA-TV-RETRO-SERIES.png" group-title="CINE",Xtrema Retro Series (360p)
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE ANIME" tvg-logo="" group-title="CINE",Xtrema Anime (360p)
+#EXTINF:-1 tvg-id="CINE ANIME" tvg-logo="https://i.postimg.cc/c4Zhk45n/XTREMA-TV-ANIME.png" group-title="CINE",Xtrema Anime (360p)
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 tvg-id="DANCE" tvg-logo="" group-title="MUSICA",Dance TV (360p)
+#EXTINF:-1 tvg-id="DANCE" tvg-logo="https://i.postimg.cc/PqG0xk5z/XTREMA-TV-DANCE-TV.png" group-title="MUSICA",Dance TV (360p)
 https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
-#EXTINF:-1 tvg-id="SUPER CLASSIC" tvg-logo="" group-title="MUSICA",Super Classics TV (360p)
+#EXTINF:-1 tvg-id="SUPER CLASSIC" tvg-logo="https://i.postimg.cc/Hn4bQXwk/XTREMA-TV-SUPER-CLASSICS.png" group-title="MUSICA",Super Classics TV (360p)
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
-#EXTINF:-1 tvg-id="MAS MUSICA" tvg-logo="" group-title="MUSICA",Más Música TV (360p)
+#EXTINF:-1 tvg-id="MAS MUSICA" tvg-logo="https://i.postimg.cc/FH21H1SW/XTREMA-TV-MAS-MUSICA.png" group-title="MUSICA",Más Música TV (360p)
 https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
