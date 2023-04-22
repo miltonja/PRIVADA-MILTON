@@ -1,18 +1,23 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://i.postimg.cc/W42xN2F4/Odisea-HD-1.jpg" group-title="⭐️ Tv España",ODISEA
 http://45.141.194.9:9000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5f60257e029877f2a28a803b818e3787.png",ES: Dark
 http://gamsgo.cyou:8080/Millenium/jnp6M5PkDnJQRz99/121514
 #EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9716e02c572ed87f290c388a94ee05d6.png",ES: Crime+ Investigation
 http://gamsgo.cyou:8080/Millenium/jnp6M5PkDnJQRz99/5292
-#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 16
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 20
+http://190.119.78.170:8000/play/a0am/index.m3u8
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 20
+http://201.222.44.220:4227/play/a022/index.m3u8
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 20
+http://38.43.140.97:8000/play/a01f/index.m3u8
+#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/ZKqGqJwV/WIN_BOTON_AMARILLO.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 16
 http://gamsgo.cyou:8080/Millenium/jnp6M5PkDnJQRz99/294455
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 16
 http://181.224.161.138:1010/play/a08g/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 15
 http://181.224.161.138:1010/play/a08g/index.m3u8
-#EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 15
-http://181.78.18.106:8083/play/a03w/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 06
 http://201.186.166.36:4000/play/a022/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 06
@@ -28,9 +33,11 @@ http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png" group-title="|CO| Colombia",CO | Win Sports 
 http://181.175.41.170:8000/play/a0jq
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports 
-http://181.224.161.138:1010/play/a00s/index.m3u8
+http://190.119.78.170:8000/play/a0aw/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports 
-http://181.78.18.106:8083/play/a04y/index.m3u8
+http://201.222.44.220:4227/play/a00d/index.m3u8
+#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports 
+http://181.224.161.138:1010/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
 http://186.96.111.23:8000/play/a01b
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
@@ -39,10 +46,10 @@ http://201.186.166.36:4000/play/a00i/index.m3u8
 http://179.1.102.50:1044/play/a06u
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
 http://181.78.24.67:8010/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Sports",➾ WIN SPORTS  TV * |HD|
-http://181.78.12.166:9000/play/a065
 #EXTINF:-1 tvg-id="CABLE NOTICIAS"tvg-logo="https://i.postimg.cc/qRzwz4pC/Cable-Noticias-azul.png"group-title="COLOMBIA",CABLENOTICIAS | Bogotà | Cundinamarca
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 tvg-id="ZONA LATINA"tvg-logo="https://i.postimg.cc/rwGnCdsR/large-Zona-Latina-Alt-2021-png-3bc0074f42e2925ef35f343cdc34aa9b.png"group-title="CHILE",ZONA LATINA HD
+http://45.71.252.67:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="HUILA TV"tvg-logo="https://i.postimg.cc/PqybxmdV/HUILA-TV-ESP.png"group-title="COLOMBIA",Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-id="MÁS TV"tvg-logo="https://i.postimg.cc/W4hsrLVP/canal-mas-television-5347.jpg"group-title="COLOMBIA",Más TV
@@ -715,3 +722,5 @@ https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 #EXTINF:-1 tvg-id="MAS MUSICA" tvg-logo="https://i.postimg.cc/FH21H1SW/XTREMA-TV-MAS-MUSICA.png" group-title="MUSICA",Más Música TV (360p)
 https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-logo="https://i.postimg.cc/661mYPzt/las-estrellas.png" group-title="MEXICO",CANAL DE LAS ESTRELLAS HD
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
