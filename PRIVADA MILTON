@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://i.postimg.cc/W42xN2F4/Odisea-HD-1.jpg" group-title="⭐️ Tv España",ODISEA
 http://45.141.194.9:9000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DARK" tvg-logo="https://satcesc.com/wp-content/uploads/2020/10/DARK.jpg" group-title="⭐️ Tv España",DARK TV HD
@@ -19,20 +20,24 @@ http://200.41.79.165:8000/play/a0js/index.m3u8
 http://201.222.44.220:4227/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 16
 http://181.224.161.138:1010/play/a08g/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 15
-http://181.224.161.138:1010/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 06
 http://201.186.166.36:4000/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 28
-http://177.128.115.10:8000/play/a093
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 06
 http://186.28.229.210:8000/play/a0b8
+#EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports + FEBRERO 25
+http://181.39.202.98:9993/play/a17i/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/WinSports__VERDE.png" group-title="|CO| Colombia",➾ CO | Win Sports +
 http://200.6.189.28:8000/play/a05z
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="|CO| Colombia",➾ CO | Win Sports +
 http://181.78.24.67:8010/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="|CO| Colombia",➾ CO | Win Sports + FEB 25
+http://190.26.217.123:8000/play/a14u/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | Win Sports +
 http://190.27.253.211:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | Win Sports + FEB-19
+http://181.78.12.119:16123/play/a041/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | Win Sports + FEB-11
+http://181.78.22.97:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png" group-title="|CO| Colombia",CO | Win Sports 
 http://181.175.41.170:8000/play/a0jq
 #EXTINF:-1 tvg-id="WINSPORTS" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports  HD
@@ -741,3 +746,17 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?Playli
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png",Autentica TV | PE
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es",NET TV 27.2 TDA HD
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png",TELEMAX 26.3 TDA HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png",CANAL 4 HD JUJUY
+http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer_retina.png",CANAL 10 RIO NEGRO
+https://panel.dattalive.com/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://i.postimg.cc/RFHC64Ww/PLANETA-TV-Movies.png",PLANETA TV HD
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png",MULTIVISION
+https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png",TVMAX HD
+https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
