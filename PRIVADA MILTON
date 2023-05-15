@@ -1,4 +1,6 @@
 #EXTM3U
+
+
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="|CO| Colombia",➾ CO | Win + SD ABRIL MAYO 14
 http://8.242.126.186:7000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="|CO| Colombia",➾ CO | Win + SD ABRIL MAYO 13
@@ -163,6 +165,8 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/yYczZDgD/W-TV-NICARAGUA.png",WTV NICARAGUA TV * |HD|
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/RCjhJvQG/Global-logo-2019.png",Global TV HD
+https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://i.postimg.cc/3R0F9byh/sensacion-tv.png",SENSACION TV * |HD|
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS " tvg-logo="https://i.postimg.cc/nztnjmsG/MULTIZONAS.png",MULTIZONAS TELEVISIÓN HD
@@ -335,6 +339,8 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
 #EXTINF:-1 tvg-id="LA VOZ GRUPERA MUSIC" tvg-logo="https://public-rf-upload.minhawebradio.net/213374/program/f2375743ce72e2c213ca2b33854aa9b5.jpg" group-title="MUSIC",LA VOZ GRUPERA MUSIC
 https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CHILE" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/10/logo-tv-costa-1024x626-1.png",TV COSTA CLIPS HD
+https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Pq6XZnqC/CANAL-SEIS.png",Multimedios (Mexico)
