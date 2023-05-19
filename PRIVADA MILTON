@@ -145,8 +145,6 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_es_darkmatter_001.m3u8?ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_channelId=9992561&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 group-title="PCIA BS AS" tvg-logo="https://i.postimg.cc/2jhpVPJZ/TVES-SAN-JOSE.png",TVES SAN JOSE TV* |HD|
 https://stm1.rootuy.xyz:19360/envivotv/envivotv.m3u8
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://proflix.pro/upload/images/V%20(4).jpg",VIX CINE CLUB
-https://linear-192.frequency.stream/dist/roku/192/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/Znh7NwYf/Mega-Cine-TV-esp.png",Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA"tvg-logo="https://i.postimg.cc/xjmw48dC/BAYRES-EL-MEJOR.png", Bayres TV | AR
