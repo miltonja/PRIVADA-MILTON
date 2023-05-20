@@ -55,7 +55,7 @@ http://179.1.87.75:8098/play/a03h/index.m3u8
 http://181.78.3.162:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports 
 http://181.224.161.138:1010/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
+#EXTINF:-1 tvg-id="WINSPORTS" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="⚽COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
 http://186.96.111.23:8000/play/a01b
 #EXTINF:-1 tvg-id="RUNTIME CINE SERIES"tvg-logo="https://i.postimg.cc/7PFRffy3/RUN-TIME-CINE-SERIES.jpg" group-title="PELICULAS",RUNTIME CINE SERIES
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
