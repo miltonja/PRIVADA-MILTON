@@ -3,7 +3,7 @@
 http://45.141.194.9:9000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="⭐️ Tv España" tvg-logo="https://i.postimg.cc/W42xN2F4/Odisea-HD-1.jpg",ODISEA
 http://k4livetv.com:8080/Kari/Kari/462838
-#EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="⚽➾ | Win Sports +" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png"group-title="|CO| Colombia",➾ | Win + HD  MAYO 19
+#EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="⚽➾ | Win Sports +" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png"group-title="⭐️|CO| Colombia⭐️",➾ | Win + HD  MAYO 19
 http://181.236.192.254:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="⚽➾ | Win Sports +" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png"group-title="|CO| Colombia",➾ | Win + HD  MAYO 19
 http://181.63.102.144:12000/play/a0kw/index.m3u8
