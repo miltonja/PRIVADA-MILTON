@@ -185,7 +185,7 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8?PlaylistM3UCL
 https://live.rednet.rs/providus/redtv_multi.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA"tvg-logo="https://i.postimg.cc/T2S732Bx/fabulosa-fm990-espa-ol.png",FABULOSA FM 990 | AR
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://i.postimg.cc/y8ZLhHbJ/PLANETA-TV-VAGUA.png", Planeta TV | PE
+#EXTINF:-1 tvg-id="PLANETA TV"tvg-name="PLANETA TV" tvg-logo="https://i.postimg.cc/y8ZLhHbJ/PLANETA-TV-VAGUA.png", Planeta TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/76hsdjdP/TV-PRIME-Music.png",PRIME MUSIC TV
 https://tv.clientetvstudio.net:3670/stream/play.m3u8?PlaylistM3UCL
@@ -249,13 +249,13 @@ https://linear-408.frequency.stream/dist/localnow/408/hls/master/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.m3u8
 #EXTINF:-1 group-title=".RD" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w388706928.m3u8
-#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.postimg.cc/TYKwD1RV/i-U-IMAGEN-UNIVERSAL.png" group-title="REPUBLICA DO.",Imagen Universal TV
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.postimg.cc/Gmbmkz4r/imagen-universal-tv.png" group-title="REPUBLICA DO.",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/NjRd40fx/CENTRAL-TV.png",CENTRAL TV HD 
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://radioextremacr.com/img/logo.png",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/dt3RxBQd/image.jpg",NITIDA TV FRonnyjaguar 
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/dt3RxBQd/image.jpg",NITIDA TV 
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?WebM3UCL
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/dV0r3KsN/xtrata-tv.png",EXTRA TV HD
 https://cdn2.streamgato.us/xtratatv/xtratatv/chunklist_w1647313019.m3u8
@@ -273,7 +273,7 @@ https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/xdMywJvD/tele-caribe.png",TELE CARIBE  TV
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:-1 group-title="ARGENTINA " tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/01/logo-estrella-1024x576.png",TELE ESTRELLA HD
+#EXTINF:-1 group-title="ARGENTINA " tvg-logo="https://i.postimg.cc/J4mn1g1j/tele-estrella.png",TELE ESTRELLA HD
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="MiTV.do" tvg-logo="https://www.mitv-hd.com/images/logo.png" group-title="General",MiTV
 https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
@@ -303,7 +303,7 @@ https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
 https://flash-plex.amagi.tv/flash/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/aWvKJzr.png" group-title="Colombia", Canal Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/4d0qh3BF/PREGO-TV.jpg",PREGO TV FRonnyjaguar 
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/4d0qh3BF/PREGO-TV.jpg",PREGO TV 
 https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/fLs5SSkD/SONY-NOVELAS.png",Sony Novelas | HD | Estados Unidos
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
@@ -489,11 +489,11 @@ https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/f66d9d3fb088
 https://amg00056-vevotv-vevolatino-localnow-hc6lb.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="https://i.postimg.cc/6p8kKbSk/VEVO-POP-TV.png",VEVO POP | HD
 https://amg00056-vevotv-vevopop-localnow-0c0pg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="",VEVO R&B| HD
+#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="https://i.postimg.cc/kgs7XXjm/VEVO-R-B-TV.png",VEVO R&B| HD
 https://amg00056-vevotv-vevornb-localnow-e6fya.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="",VEVO REGGAETTON| HD
+#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="https://i.postimg.cc/QMns1YGY/VEVOREGGAETON-TV.png",VEVO REGGAETTON| HD
 https://amagicloud-medialive-common016.s3.amazonaws.com/vevo_reggaeton-localnow/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="",VEVO REGIONAL MEXICO| HD
+#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="https://i.postimg.cc/NM9t48Qs/VEVOREGIONAL-MEXICO-TV.png",VEVO REGIONAL MEXICO| HD
 https://amg00056-vevotv-vevoregionalmx-localnow-zoyae.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/9Qt3MsxZ/EURO-SPORTS-1.png",➾ EUROSPORT 1
 http://51.15.9.155/EUROSPORT_1/index.m3u8
