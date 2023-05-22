@@ -381,15 +381,13 @@ https://server40.servistreaming.com:3477/live/lamegamundiallive.m3u8
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/655px-TV8_Logo_2016.svg.png" ,TV 8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:-1 tvg-id="LA VOZ GRUPERA MUSIC" tvg-logo="https://public-rf-upload.minhawebradio.net/213374/program/f2375743ce72e2c213ca2b33854aa9b5.jpg" group-title="MUSIC",LA VOZ GRUPERA MUSIC
+#EXTINF:-1 tvg-id="LA VOZ GRUPERA MUSIC" tvg-logo="https://i.postimg.cc/wTbLnSCP/LA-VOZ-GRUPERA.png" group-title="MUSIC",LA VOZ GRUPERA MUSIC
 https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CHILE" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/10/logo-tv-costa-1024x626-1.png",TV COSTA CLIPS HD
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
-#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias 
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.postimg.cc/kGJg5gbc/AMX-NOTICIAS.png" group-title="News",AMX Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="1413" tvg-name="Diti TV" tvg-logo="https://i2.paste.pics/d60c9f34721920d05ee4a6f098fd933a.png", Diti TV | AR
-https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://i2.paste.pics/10b46fbb81287d68e7a08d726c274404.png", America Tucuman | AR
+#EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://i.postimg.cc/X79B1RYn/Am-rica-Tucum-n.png", America Tucuman | AR
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1336" tvg-name="Canal 8 Mar del Plata" tvg-logo="https://i.paste.pics/f367fbd7489929df2ba48ecab15137a6.png", Canal 8 Mar del Plata | AR
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?PlaylistM3UCL
@@ -849,103 +847,3 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://www.lasuperdiscoteca.com/wp-content/uploads/cropped-PHOTO-2021-03-02-11-22-01-png-trans.png",la super discoteca tv
 https://canal.lasuperdiscotecatv.com:3020/live/lasuperdiscotecatvlive.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",Win Sports + FHD
-https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png
-#EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",Win Sports + HD
-https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png
-#EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/4xnXxt13/WIN-SPORTS.png",Win Sports SD
-https://i.postimg.cc/4xnXxt13/WIN-SPORTS.png
-#EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/4xnXxt13/WIN-SPORTS.png",WIN SPORTS SD
-https://i.postimg.cc/4xnXxt13/WIN-SPORTS.png
-#EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/4xnXxt13/WIN-SPORTS.png",Win Sports SD
-https://i.postimg.cc/4xnXxt13/WIN-SPORTS.png
-#EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",WinSports HD
-https://i.postimg.cc/4xnXxt13/WIN-SPORTS.png
-#EXTINF:-1 group-title="FUTBOL-COLOMBIA" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png",WinSports + HD
-https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="DEPORTES",AZTECA UNO TV * |HD|
-https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Sports",WIN SPORTS  TV * |HD|
-https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png
-#EXTINF:-1 tvg-id="BANDERAS" tvg-logo="https://www.emotiyou.com/galerie/pays/portugal/201208072140VMP.gif" group-title="PAISES",BANDERAS  TV * |HD|
-https://www.emotiyou.com/galerie/pays/portugal/201208072140VMP.gif
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/0jVBCh05/win-sports-morado.png" group-title="|CO| Colombia",CO | Win Sports +
-https://i.postimg.cc/0jVBCh05/win-sports-morado.png
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/0jVBCh05/win-sports-morado.png" group-title="|CO| Colombia",CO | Win Sports +
-https://i.postimg.cc/0jVBCh05/win-sports-morado.png
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/Wp7ywq5W/win-sports-Amarillo.png" group-title="|CO| Colombia",CO | Win Sports +
-https://i.postimg.cc/Wp7ywq5W/win-sports-Amarillo.png
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png" group-title="|CO| Colombia",CO | Win Sports +
-https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png" group-title="|CO| Colombia",CO | Win Sports +
-https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="|CO| Colombia",CO | Win Sports +
-https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",CO | Win Sports +
-https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png
-#EXTINF:-1 xui-id="723" tvg-id="WINSPRT" tvg-name="CO: Win Sports + FHD" tvg-logo="https://i.postimg.cc/VvT5vGVh/WINSPORTS-ROJO.png" group-title="|CO| Colombia",CO: Win Sports + FHD
-https://i.postimg.cc/VvT5vGVh/WINSPORTS-ROJO.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="DEPORTES",CANAL DE LAS ESTRELLAS TV * |HD|
-http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png
-#EXTINF:-1 tvg-id="COMPANY TV TV" tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="DEPORTES",CANAL 5 TV * |HD|
-https://i.imgur.com/jJ6v5ea.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="DEPORTES",EL NUEVE TV * |HD|
-https://cdn140.picsart.com/278369393029211.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="DEPORTES",AZ CORAZON TV * |HD|
-https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png" group-title="DEPORTES",UNICABLE TV * |HD|
-https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s400/rojo.png" group-title="DEPORTES",TL NOVELAS TV * |HD|
-https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s400/rojo.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png",NAT GEO"
-https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="DEPORTES",NAT GEO WILL TV * |HD|
-https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png" group-title="DEPORTES",ANIMAL PLANET TV * |HD|
-https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="DEPORTES",HISTORY CHANNEL TV * |HD|
-https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.1376146781_DiscoveryChannel(2019-).png.8c7d7ccc40b6c1065c8f6b626e861022.png" group-title="DEPORTES",DISCOVERY CHANNEL TV * |HD|
-https://www.foromedios.com/uploads/monthly_2019_10/large.1376146781_DiscoveryChannel(2019-).png.8c7d7ccc40b6c1065c8f6b626e861022.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="DEPORTES",TON CAST TV * |HD|
-https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="DEPORTES",NICK TV * |HD|
-https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="DEPORTES",DISCOVERY KIDS  TV * |HD|
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="Sports",DISNEY TV * |HD|
-https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Sports",DISTRO COMEDIA TV * |HD|
-https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png" group-title="Sports",COMEDY CENTRAL TV * |HD|
-https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Sports",STAR CHANNEL TV * |HD|
-https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://logodix.com/logo/587463.png" group-title="Sports",FX TV * |HD|
-https://logodix.com/logo/587463.png
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590787/cb9deda8bcc8c46129f801a52dd0bbea/284x160-Q75_cb9deda8bcc8c46129f801a52dd0bbea.png" group-title="Sports",FXM TV * |HD|
-https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590787/cb9deda8bcc8c46129f801a52dd0bbea/284x160-Q75_cb9deda8bcc8c46129f801a52dd0bbea.png
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarLife_Logo2021_FondoOscuro.png.bbba838cb53fa5ed9a3b65be9a934742.png" group-title="Sports",STAR LIFE TV * |HD|
-https://www.foromedios.com/uploads/monthly_2020_12/large.StarLife_Logo2021_FondoOscuro.png.bbba838cb53fa5ed9a3b65be9a934742.png
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="" group-title="Sports", TV * |HD|
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",UNIVERSAL
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png",WARNER 
-http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png",SPACE
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png",CINECANAL
-https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="MEGA " tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" group-title="CHILE",MEGA 
-https://i.postimg.cc/Hkb12bwr/Mega-2020.png
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="MEGA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",MEGA
- https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png
-#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="CHV" tvg-logo="https://i.postimg.cc/ZKKp1G9m/chv.png" group-title="CHILE",CHV
-https://i.postimg.cc/ZKKp1G9m/chv.png
-#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="CHV" tvg-logo="https://i2.paste.pics/5bf0db1521a041595f387a893ab6512b.png" group-title="CHILE",CHV
-https://i2.paste.pics/5bf0db1521a041595f387a893ab6512b.png
