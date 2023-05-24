@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="⭐️ Tv España" tvg-logo="https://i.postimg.cc/rpZHbxRS/ODISEA-ESP-1.png",ODISEA
+#EXTINF:-1 group-title="⭐️ Tv España" tvg-logo="https://i.postimg.cc/XJMXNDYF/Odisea-1.png",ODISEA
 http://45.141.194.9:9000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="⚽➾ | Win Sports +" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png"group-title="⚽|CO| Colombia⚽",➾ | Win + HD  MAYO 22
 http://181.63.102.144:12000/play/a0kw/index.m3u8
@@ -43,7 +43,7 @@ http://181.78.3.162:8000/play/a04g/index.m3u8
 http://181.224.161.138:1010/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="⚽COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
 http://186.96.111.23:8000/play/a01b
-#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/yNHH0mxF/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU HD
 http://181.39.202.98:9993/play/a17y/index.m3u8
@@ -213,8 +213,6 @@ https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 #EXTINF:-1  group-title="REPUBLICA DOMINICANA" tvg-logo="https://i.postimg.cc/rppQFsWT/TELEMAX-RD.png",TELEMAX REPUBLICA DOMONICANA
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="argentina"tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg",CONTACTO TELEVISION HD
-https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA"tvg-logo="https://i.postimg.cc/q7hr1kqh/TV-QUINTA-REGION-ESP.png",QUINTA REGION * |HD|
 https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA"tvg-logo="https://i.postimg.cc/Kv9HjCL0/NEO-TV-MODIF.png",NEO TV DIGITAL 16.1 TDA
@@ -847,3 +845,5 @@ https://canal.lasuperdiscotecatv.com:3020/live/lasuperdiscotecatvlive.m3u8
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA"tvg-logo="https://i.postimg.cc/cLYwbq9n/VM-LATINO-ESP.png",VM LATINO HD
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="argentina"tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg",CONTACTO TELEVISION HD
+https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
