@@ -5,8 +5,6 @@ http://45.141.194.9:9000/play/a01m/index.m3u8
 http://190.60.39.198:8000/play/a0b6/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png",➾ CO | Win + ABRIL 16
 http://181.224.161.138:1010/play/a08g/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="|CO| Colombia",➾ CO | Win + SD  MAYO 13
-http://45.189.117.32:7075/play/a0t0/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 28
 http://181.78.3.162:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/ZKqGqJwV/WIN_BOTON_AMARILLO.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 24
@@ -19,8 +17,6 @@ http://181.78.12.119:16123/play/a041/index.m3u8
 http://181.115.238.188:6100/play/a08y
 #EXTINF:-1 tvg-id="WINSPORTS" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports MAYO 19
 http://181.78.1.158:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports MAYO 13
-http://45.189.117.32:7075/play/a0sf/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports  HD
 http://45.236.104.228:7010/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports  HD
@@ -81,7 +77,7 @@ https://36cd2ac3e37f411aa72b1d27cfd32791.mediatailor.us-east-1.amazonaws.com/v1/
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="WATHER GONE VIRAL"tvg-logo="https://i.postimg.cc/3NjS23vm/WATHER-GONE-VIRAL-AZUL.png"group-title="CULTURAL",WATHER GONE VIRAL
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjJGjSNc/verbena-fm-esp.png" group-title="Musicales" tvg-name="Verbena TV España",VERBENA TV ESPAÑA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjJGjSNc/verbena-fm-esp.png" group-title="Musicales" tvg-name="VERBENA TV ESPAÑA",VERBENA TV ESPAÑA
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 #EXTINF:-1 group-title="MUSICA"tvg-logo="https://i.postimg.cc/pTzhHW2s/IBERO-AMERICA-TV.png",IBEROAMERICA TV * |HD|
 https://limited39.todostreaming.es/live/salome-livestream.m3u8
@@ -157,7 +153,7 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_es_darkmatter_001.m3u8?ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_channelId=9992561&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 group-title="PCIA BS AS" tvg-logo="https://i.postimg.cc/2jhpVPJZ/TVES-SAN-JOSE.png",TVES SAN JOSE TV* |HD|
 https://stm1.rootuy.xyz:19360/envivotv/envivotv.m3u8
-#EXTINF:-1 tvg-id="SEO PELICULAS" tvg-logo="https://i.postimg.cc/QtmJ4bMG/SEO-PELICULAS-ESP.png" group-title="PELICULAS",SEO TV PELÍCULAS
+#EXTINF:-1 tvg-id="SEO PELICULAS" tvg-logo="https://i.postimg.cc/mrHhM5zQ/SEO-TV-PELICULAS-FHD.png" group-title="PELICULAS",SEO TV PELÍCULAS
 https://live.seo.tv.bo/live/4SEO.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/Znh7NwYf/Mega-Cine-TV-esp.png",MEGA CINE TV | DO
 https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8?PlaylistM3UCL
@@ -749,8 +745,6 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA NOTICIAS" tvg-logo="https://i.postimg.cc/kXcWrgCF/xtrema-cnar-noticias.png" group-title="NOTICIAS",CnAr NOTICIAS 
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA DEPORTES" tvg-logo="https://i.postimg.cc/yx7Wn0Dq/xtrema-cnar-deportes.png" group-title="DEPORTES",CnAr Deportes (1440p)
-https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE ACCION" tvg-logo="https://i.postimg.cc/fLR1Qr1s/XTREMA-TV-ACCION.png" group-title="CINE",Xtrema Cine Acción (268p)
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE SUSPENSO" tvg-logo="https://i.postimg.cc/9fgzhvzt/XTREMA-TV-SUSPENSO.png" group-title="CINE",Xtrema Cine Suspenso (360p)
@@ -875,11 +869,11 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV 
 https://live.obslivestream.com/sanjuanera/index.m3u8
-#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="General",SEO TV 
+#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.postimg.cc/rp2LGjf6/SEO-TV-MEJOR.png" group-title="General",SEO TV 
 https://live.seo.tv.bo/live/1SEO.m3u8
-#EXTINF:-1 tvg-id="SEOTV2Kids.bo" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="Kids",SEO TV KIDS
+#EXTINF:-1 tvg-id="SEOTV2Kids.bo" tvg-logo="https://i.postimg.cc/3xWkrR3f/SEO-TV-KIDS-FHD.png" group-title="Kids",SEO TV KIDS
 https://live.seo.tv.bo/live/2SEO.m3u8
-#EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Series",SEO TV NOVELAS 
+#EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.postimg.cc/sg8vMrXj/SEO-TV-NOVELAS-HD.png" group-title="Series",SEO TV NOVELAS 
 https://live.seo.tv.bo/live/3SEO.m3u8
 #EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="General",Tropical TV (Puerto Maldonado) 
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
