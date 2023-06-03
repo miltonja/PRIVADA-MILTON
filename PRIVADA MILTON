@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 28
 http://181.78.3.162:8000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/ZKqGqJwV/WIN_BOTON_AMARILLO.png"group-title="|CO| Colombia",➾ CO | Win + ABRIL 24
-http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win Sports +
 http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | Win Sports + FEB-19
@@ -21,8 +19,6 @@ http://181.78.20.47:9000/play/a05p
 http://181.78.24.187:8006/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="⚽COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
 http://181.78.3.162:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="⚽COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
-http://186.96.111.23:8000/play/a01b
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
 #EXTINF:-1 group-title="LOCALNOW_TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c409274e97b39297907a6",BEIN SPORTS XTRA Espanol
@@ -85,8 +81,6 @@ http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQkBgS19S-DTSG6z-NIdVCsQ
 https://6362ca6f1fc28.streamlock.net/radiofmhit/radiofmhit/playlist.m3u8?PlaylistM3Uronnyjaguar
 #EXTINF:-1 tvg-id="CABLE NOTICIAS"tvg-logo="https://i.postimg.cc/qRzwz4pC/Cable-Noticias-azul.png"group-title="COLOMBIA",CABLENOTICIAS | Bogotà | 
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",ZONA LATINA
-http://190.43.92.145:8000/play/a0kg/index.m3u8
 #EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png", LA DESPECHADA TV* |HD|CO
 https://servidordevideo.com:3077/live/despechadalive.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/TwMmm6xB/Global-TV-logo.png",GLOBAL TV * |HD|  
@@ -457,7 +451,7 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/nJOVM6e.png",LA RED TV
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg",CITRICO TV 
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/9XJy3Rvy/CITRICO-TV.png",CITRICO TV 
 https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/sJfB0AE.png",X TV (Chachapoyas)
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
@@ -597,13 +591,13 @@ https://mediacp.us:8081/8022/index.m3u8?PlaylistM3UCL
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/1cf289ea035226425388be580025cfd2.png",Canal 21 TV | AR
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/DZ4XspQZ/milennio-tvesp.png",Milennio TV * 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/DZ4XspQZ/milennio-tvesp.png",MILENIO TV * 
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="REPUBLICA.D" tvg-logo="https://i.postimg.cc/R0y3MQrz/TV-HISPANIC.png",TV HISPANIC TV * 
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="ShowVen TV" tvg-logo="https://i2.paste.pics/84325e40ce60d16037b02586850d1c30.png", SHOWVEN TV | VE
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1221" tvg-name="Cantina TV" tvg-logo="https://i.postimg.cc/fbBK5P0f/CANTINA-TV-ESP.png",CANTINA TV | VE
+#EXTINF:-1 tvg-id="1221" tvg-name="Cantina TV" tvg-logo="https://i.postimg.cc/SRcMvdzh/LA-CANTINA-TV-ESP.png",CANTINA TV | VE
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1226" tvg-name="Vale TV" tvg-logo="https://i.postimg.cc/ZKnCyMTh/VALE-TV-ESP.png", VALE TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
