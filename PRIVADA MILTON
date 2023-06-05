@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win Sports + JUNIO 04
+http://181.63.102.144:12000/play/a0kw/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win Sports + JUNIO 04
 http://181.39.202.98:9993/play/a17i/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS+" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="|CO| Colombia",➾ CO | Win + 
 http://181.78.24.67:8010/play/a05w/index.m3u8
@@ -9,6 +11,10 @@ http://190.27.253.211:8000/play/a07g/index.m3u8
 http://181.78.12.119:16123/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | Win Sports + MAYO 27
 http://181.115.238.188:6100/play/a08y
+#EXTINF:-1 tvg-id="WINSPORTS" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports JUNIO 01
+http://190.2.212.21:7000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports JUNIO 04
+http://181.39.202.98:9993/play/a16c/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports  HD
 http://181.78.20.47:9000/play/a01s
 #EXTINF:-1 tvg-id="WINSPORTS" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",CO | Win Sports  HD
@@ -23,8 +29,12 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",LATINA TV PERU HD
 http://181.39.202.98:9993/play/a17y/index.m3u8
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
+#EXTINF:-1 group-title="PERU *"tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",ZONA LATINA HD
 http://181.39.202.98:9993/play/a17x/index.m3u8
+#EXTINF:-1 group-title="CHILE *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
+http://45.4.1.156:7778/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="TERROR TV * "tvg-name="⭐TERROR TV * "tvg-logo="https://i.postimg.cc/9MdKZYYx/TERROR-TV-ESP.png"group-title="⭐PELICULAS⭐",⭐|➾TERROR TV * | CL * |HD|
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="SuperChannel12.mx" tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="General",SUPER CHANNEL 12 
 https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-id="RUNTIME CINE SERIES"tvg-logo="https://i.postimg.cc/FHJZChKP/RUN-TIME-CINE-SERIES-ESP.png" group-title="PELICULAS",RUNTIME CINE SERIES
@@ -65,9 +75,9 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 https://limited39.todostreaming.es/live/salome-livestream.m3u8
 #EXTINF:-1 tvg-id="1400" tvg-name="PORTAL FOX MIX" tvg-logo="https://i.postimg.cc/k5CsvJwj/PORTAL-FOX-MIX-NUEVO.png",PORTAL FOX MIX * |HD| VE
 https://video.streamingchilenos.cl:1936/8026/8026/chunklist_w1616500667.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="MUSIC CHOICE POP LATINO "tvg-logo="https://i.postimg.cc/W33J4Vmq/music_choice.png"group-title="MUSICA",➾MUSIC CHOISE URBAN TV * |HD|
+#EXTINF:-1 tvg-id="MUSIC CHOICE POP LATINO "tvg-logo="https://i.postimg.cc/3rcRgLqS/Music-Choice-gris.png"group-title="MUSICA",➾MUSIC CHOISE URBAN TV * |HD|
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQkHL8veLWCtSB6mW1YvaJzo
-#EXTINF:-1 tvg-id="MUSIC CHOICE POP LATINO "tvg-logo="https://i.postimg.cc/W33J4Vmq/music_choice.png"group-title="MUSICA",➾MUSIC CHOISE REGAETTON TV * |HD|
+#EXTINF:-1 tvg-id="MUSIC CHOICE POP LATINO "tvg-logo="https://i.postimg.cc/3rcRgLqS/Music-Choice-gris.png"group-title="MUSICA",➾MUSIC CHOISE REGAETTON TV * |HD|
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQspOEnT_Skn947RIfOKKSlk
 #EXTINF:-1 tvg-id="MUSIC CHOICE POP LATINO "tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png"group-title="MUSICA",➾MUSIC CHOISE HITS TV * |HD|
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQq547nOxLBBeWBO0waAuwzw
@@ -109,6 +119,8 @@ https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 https://inliveserver.com:1936/18506/18506/chunklist_w237701265.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/rsvT6LLv/euro-latina.png",EUROLATINA TV ESPAÑA
 https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
+#EXTINF:-1 tvg-id=" VClassicTV *" tvg-name="VClassicTV *" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV * | CL
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.postimg.cc/8z8n0Y3b/1200px-Hispan-Tv-logo.png" group-title="News",HISPAN TV
 https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",FRANCE 24 EN ESPAÑOL
@@ -891,3 +903,27 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://i.postimg.cc/PqMQFZn8/TNT-SPORTS5.png",EVENTOS TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura | CL
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretencion | CL
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Prime" tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime | CL
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries | CL
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="386" tvg-name="Energia TV" tvg-logo="https://lh3.googleusercontent.com/-OixheIRfa_Y/YDwn1t40sVI/AAAAAAABAcE/SV3ZQAJE8l4yRS-KV-hCat4miTZwNOuXwCK8BGAsYHg/s512/2021-02-28.png", Energia TV | CL
+https://cdn.oneplaychile.cl:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://lh3.googleusercontent.com/-G0VClSWuZuY/YG8IaybYl4I/AAAAAAABBQc/muG2PSbo290d03axgs10Z-KSgdK3uWcBACK8BGAsYHg/s512/2021-04-08.png", Re7 | CL
+https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="889"tvg-name="La Sabrosura TV"tvg-logo="https://lh3.googleusercontent.com/-8b7QS_hJZdY/YLu9e1SGFLI/AAAAAAABCrk/aO5qeFONSokBmWT8vsROhr1uigX0FizcQCJEEGAsYHg/s512/2021-06-05.png", La Sabrosura TV | CL
+https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="987" tvg-name="Emocion TV" tvg-logo="https://i2.paste.pics/2337c738e62db5b6e2b573580e2d9e82.png", Emocion TV | CL
+https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="387" tvg-name="Zona Play Radio" tvg-logo="https://lh3.googleusercontent.com/-nYwjW5gyOHs/Xm_wyxoQZ8I/AAAAAAAAw-M/UivKYmyy1tMPqn_zDoQtMGFrmivibOCLgCK8BGAsYHg/s0/2020-03-16.jpg", Zona Play Radio | CL
+https://paneltv.online:1936/8100/8100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="400"tvg-name="RedFueguina Radio"tvg-logo="https://lh3.googleusercontent.com/-AX14DpZylvw/Xqx1dYnBM7I/AAAAAAAAyhM/FKTxf_9d9hEY1okFtMwivpO3IIy9KAAcgCK8BGAsYHg/s0/2020-05-01.png",Red Fueguina Radio|CL
+https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="416" tvg-name="Sabor TV" tvg-logo="https://i2.paste.pics/0c69fb7b8aed951e8fbb9dfae98c39a5.png", Sabor TV | CL
+https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="401" tvg-name="Radio Fiessta" tvg-logo="https://lh3.googleusercontent.com/-geXQ8sv9psc/XoPRmsgB8zI/AAAAAAAAxYA/XW6P5dLJn1wAaa3IZFhc5NBjBIr-OAbqgCK8BGAsYHg/s0/2020-03-31.png", Radio Fiessta | CL
+https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
