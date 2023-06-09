@@ -27,8 +27,6 @@ http://181.78.12.119:16123/play/a041/index.m3u8
 http://181.115.238.188:6100/play/a08y
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | Win Sports +
 http://200.6.189.28:8000/play/a05z
-#EXTINF:-1 tvg-id="WINSPORTS" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="⚽COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
-http://181.78.24.187:8006/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP ||| Odisea" tvg-logo="http://tvstarlife.com:25461/images/26f24bb8c49b97eb089ea6ab668b32ac.png" group-title=" TV | ESPAÑA ",ESP | Odisea
 http://tvstarlife.live:25461/mario01/mario01/28047
 #EXTINF:-1 tvg-id="" tvg-name="ESP ||| DMAX" tvg-logo="http://tvstarlife.com:25461/images/b86d6c715b67b3d0f00db4d2840fc76f.png" group-title=" TV | ESPAÑA ",ESP | DMAX
