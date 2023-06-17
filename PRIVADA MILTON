@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/c4vFbMqQ/WIN_SPORTS_BOTON_AZUL_CELESTE.png" group-title="|CO| Colombia",➾ CO | Win + JUNIO-16
+http://8.242.126.186:7777/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/c4vFbMqQ/WIN_SPORTS_BOTON_AZUL_CELESTE.png" group-title="|CO| Colombia",➾ CO | Win + JUNIO-09
 http://181.78.24.67:8010/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/c4vFbMqQ/WIN_SPORTS_BOTON_AZUL_CELESTE.png" group-title="|CO| Colombia",➾ CO | Win + JUNIO-09
