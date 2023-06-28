@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="|CO| Colombia",➾ CO | Win +  JUNIO 24
-http://190.60.37.127:8001/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="|CO| Colombia",➾ CO | Win +  JUNIO 24
 http://190.61.44.122:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/sgnSWqvy/tv-station-win-sports-plus-2457.png" group-title="|CO| Colombia",➾ CO | Win +  19 MAYO
 http://181.236.192.254:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/sgnSWqvy/tv-station-win-sports-plus-2457.png" group-title="|CO| Colombia",➾ CO | Win +  19 MAYO
-http://186.3.162.156:40000/play/a0u7/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 16 PURPLE IPTV
 http://181.224.161.138:1010/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 16 PURPLE IPTV
@@ -35,8 +31,6 @@ http://181.78.12.119:16123/play/a041/index.m3u8
 http://200.6.189.28:8000/play/a05z
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/c4vFbMqQ/WIN_SPORTS_BOTON_AZUL_CELESTE.png" group-title="|CO| Colombia",➾ CO | Win + JUNIO-09
 http://181.78.24.67:8010/play/a05w/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports JUNIO 24
-http://190.60.37.127:8001/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports JUNIO 24
 http://190.61.44.122:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports JUNIO O9
@@ -217,6 +211,16 @@ https://estrellanews-plex.amagi.tv/playlist.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESTRELLA TV" tvg-logo="https://i.postimg.cc/pXWqW81C/Estrella-TV-2009-Logo.png"group-title="MEXICO",ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GRAN HERMANO" tvg-logo="https://i.postimg.cc/Sxn6BP9t/REVIVI-GRAN-HERMANO.png"group-title="ARGENTINA",GREN HERMANO
+https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
+#EXTINF:-1 tvg-id="PLUTO FUTBOL" tvg-logo="https://i.postimg.cc/J463d8sk/PLUTO-FUTBOL.png" group-title="ARGENTINA",PLUTO FUTBOL
+https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
+#EXTINF:-1 tvg-id="MTV CON MI EX " tvg-logo="https://i.postimg.cc/xCQnrWXv/MTV-CON-MI-EX.png"group-title="ARGENTINA",MTV CON MI EX
+https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
+#EXTINF:-1 tvg-id="PLUTO VIDA REAL"tvg-logo="https://i.postimg.cc/4NS2Mqym/PLUTO-TV-VIDA-REAL.png"group-title="ARGENTINA",PLUTO VIDA REAL
+https://i.mjh.nz/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
+#EXTINF:-1 tvg-id="PLUTO TV CINE ESTELAR"tvg-logo="https://i.postimg.cc/VL3s1Ykt/PLUTO-TV-CINE-ESTELAR.png"group-title="ARGENTINA",PLUTO TV CINE ESTELAR
+https://i.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
 #EXTINF:-1 tvg-id="VCLASSICTV" tvg-logo="https://i.postimg.cc/8cnR8Wc0/VCLASSICTV.png"group-title="MUSICA",VClASSICTV * | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Y2VSwCDV/TV-Exitos.png",TV EXITOS HD | DO
@@ -503,6 +507,8 @@ https://video.ejeserver.com/live/nets.m3u8
 https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/yNkKxtN6/FRUTILLAR-TV.png",FRUTILLAR TV
 https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
+#EXTINF:-1 group-title="COCINA" tvg-logo="https://i.postimg.cc/kGGpxR8R/TASTEMADE-ESP.png",TASTEMADE EN ESPAÑOL HD
+https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.postimg.cc/Vvk8tkZL/CANAL1-ESP.png",CANAL  1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 group-title="JOVENES Y ADULTOS" tvg-logo="https://i.imgur.com/Q6tUUF9.png",LIM TV
@@ -963,7 +969,7 @@ https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MTNATV.cl" tvg-logo="https://i.imgur.com/v7SA92F.png" group-title="Religious",MTNA TV (720p)
 https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8
-#EXTINF:-1 tvg-id="LIMACHI MOVIL TV" tvg-logo="https://www.m3u.cl/logo/1427_Limache_Movil.png" group-title="CHILE",LIMACHI MOVIL TV HD
+#EXTINF:-1 tvg-id="LIMACHI MOVIL TV" tvg-logo="https://i.postimg.cc/2SDtH3h4/Limache-Movil.png" group-title="CHILE",LIMACHI MOVIL TV HD
 https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.postimg.cc/Df5jZYKG/PUNT.png",À PUNT TV * |HD|
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
@@ -971,3 +977,17 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 http://inliveserver.com:1935/14510/14510/playlist.m3u8
 #EXTINF:-1 group-title=".RD" tvg-logo="https://digital809tv.com/wp-content/uploads/2019/02/DIGITAL809TV-teless-245-1.png",Digital809TV
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://i.postimg.cc/GpsLpn2V/miami-tv.png",JENNY LIVE TV HD
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=231,fit=crop/Yg2O5n2xkwcBl04M/logo-letras-stz-telebista-blanco-YrD9Xep4Wns5VV25.png",STZ TV * |HD|
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/pdxCpFsq/canal-26-argentina.png",CANAL 26 TV HD
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/ZYxCtH7c/canal-26-argentina.png",CANAL 26 TV HD
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/fL6wncZL/CANAL-26-HD-ESP.png",CANAL 26 TV HD
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/dVw5p4VL/Telemax-Argentina.png",TELEMAX ARGENTINA TV HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://tencanal10.tv/wp-content/uploads/2023/04/cropped-TEN-BUEN-CANAL.png",TEN TV  CANAL 10HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
