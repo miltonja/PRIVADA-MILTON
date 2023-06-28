@@ -101,7 +101,7 @@ https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="AMC EN ESPAÑOL"tvg-logo="https://i.postimg.cc/MHxvcrLV/AMC-EN-ESPA-OL-NUEVO.png" group-title="UNITED STATES" , AMC EN ESPAÑOL
 https://i.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
-#EXTINF:-1 tvg-id="MTV VERGUENZA AJENA"tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="UNITED STATES" ,MTV VERGUENZA AJENA HD
+#EXTINF:-1 tvg-id="MTV VERGUENZA AJENA"tvg-logo="https://i.postimg.cc/W1ZbWtc3/MTV-VERGUENZA-AJENA.png" group-title="UNITED STATES" ,MTV VERGUENZA AJENA HD
 https://i.mjh.nz/PlutoTV/63eb9495a8b227000841bf64-alt.m3u8
 #EXTINF:-1 tvg-id="JUST FOR LAUGHS"tvg-logo="https://i.postimg.cc/m2SLLWHy/JUST-FOR-LAUGHS-ESP.png"group-title="ENTRETENIMIENTO",JUST FOR LAUGHS
 https://36cd2ac3e37f411aa72b1d27cfd32791.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_JustForLaughsGags/playlist.m3u8?ads.wurl_channel=1191&ads.wurl_name=JustForLaughsGags&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
