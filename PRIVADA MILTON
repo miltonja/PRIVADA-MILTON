@@ -209,9 +209,9 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ESTRELLA GAMES" tvg-logo="https://i.postimg.cc/J0LRmsgJ/ESTRELLA-TV-GAMES.png" group-title="MEXICO",ESTRELLA GAMES
 https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ESTRELLA NEWS" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO",ESTRELLA NEWS
+#EXTINF:-1 tvg-id="ESTRELLA NEWS" tvg-logo="https://i.postimg.cc/4dvwVnkq/ESTRELLA-NEWS.png" group-title="MEXICO",ESTRELLA NEWS
 https://estrellanews-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ESTRELLA NEWS" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO",ESTRELLA NEWS
+#EXTINF:-1 tvg-id="ESTRELLA NEWS" tvg-logo="https://i.postimg.cc/4dvwVnkq/ESTRELLA-NEWS.png" group-title="MEXICO",ESTRELLA NEWS
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESTRELLA TV" tvg-logo="https://i.postimg.cc/pXWqW81C/Estrella-TV-2009-Logo.png"group-title="MEXICO",ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
