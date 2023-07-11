@@ -19,7 +19,7 @@ http://190.26.217.123:8000/play/a14u/index.m3u8
 http://201.222.44.220:4227/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win Sports + ABRIL 28
 http://177.93.60.43:5800/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win Sports + HD
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win Sports +
 http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win Sports + JUNIO 30
 http://168.90.13.163:1982/play/a03d
@@ -59,6 +59,8 @@ http://38.43.140.97:8000/play/a00v/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="TERROR TV * "tvg-name="⭐TERROR TV * "tvg-logo="https://i.postimg.cc/9MdKZYYx/TERROR-TV-ESP.png"group-title="⭐PELICULAS⭐",⭐|➾TERROR TV * | CL * |HD|
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="+ CINE TV * "tvg-name="⭐ + CINE TV  * "tvg-logo="https://i.postimg.cc/WzCxn6zm/CINE-TV-HD.png"group-title="⭐PELICULAS⭐",⭐|➾ + CINE TV * | CL * |HD|
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CNC SEÑAL DIGITAL *"tvg-name="⭐|➾CNC SEÑAL DIGITAL * "tvg-logo="https://i.postimg.cc/Gm3Q2rF2/CNC-SE-AL-DIGITAL.png"group-title="⭐PELICULAS⭐",⭐|➾CNC SEÑAL DIGITAL * |HD|
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1  tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1",GDM TELEVISION
@@ -125,6 +127,8 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 https://servidordevideo.com:3077/live/despechadalive.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/TwMmm6xB/Global-TV-logo.png",GLOBAL TV * |HD|  
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:-1 tvg-id="854" tvg-name="TV Quinta Region" tvg-logo="https://i.postimg.cc/q7hr1kqh/TV-QUINTA-REGION-ESP.png", TV QUINTA REGION | CL
+https://stmv2.zcasthn.com.br/tvquintaregion/tvquintaregion/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="HUILA TV"tvg-logo="https://i.postimg.cc/PqybxmdV/HUILA-TV-ESP.png"group-title="COLOMBIA",HUILA TV * |HD|  
 https://plataformavideo.com:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-id="MÁS TV"tvg-logo="https://i.postimg.cc/JznNLQxd/MAS-TELEVISION-COLOMBIA.png"group-title="COLOMBIA",MÁS TV
@@ -1063,3 +1067,13 @@ https://servercanal10.radiosportstv.online:3384/stream/play.m3u8
 https://servercanal10.radiosportstv.online:3138/stream/play.m3u8
 #EXTINF:-1 group-title="COSTARICA" tvg-logo="https://i.postimg.cc/bvQjDg9m/radio-purto-tv.png",RADIO PUERTO TV CR HD
 https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="BRAZIL"tvg-logo="https://yt3.googleusercontent.com/33wQ-BfvNten2-2yuMjdsf_mtkjOuDlqPtgxVfGbvCJhO4mI4kZcsOH50LcnhNB-WPhxj4MdxQU=s900-c-k-c0x00ffffff-no-rj",CINE TV HITS HD
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1262624811.m3u8
+#EXTINF:-1 group-title="Amerika_ARGENTINA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d1eb6498df854750a4263",Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1 group-title="LOCALNOW_TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/636914e4f42be5185b0c81f2",INFAST
+https://amg00861-terninternation-lifestyleus-localnow-2jqu0.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_CHILE" tvg-logo="https://pbs.twimg.com/profile_images/1353736383018504196/TsP8Y9B9_400x400.jpg",ITV
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-id="329" tvg-name="TV Elqui" tvg-logo="https://lh3.googleusercontent.com/-uohfVTgGqkU/XrmveWQiUXI/AAAAAAAA0oQ/Bn7Ad9_7KMY6oMCjD2UJi_cp-8ynyLYSQCK8BGAsYHg/s0/2020-05-11.png", TV Elqui | CL
+https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
