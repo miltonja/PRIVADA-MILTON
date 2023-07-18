@@ -5,7 +5,7 @@ http://190.61.44.122:8000/play/a03u/index.m3u8
 http://45.172.218.126:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win +  JUlIO 15
 http://181.78.85.67:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win +  JUlIO 15
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png" group-title="|CO| Colombia",➾ CO | Win +  JUlIO 15
 http://186.190.231.179:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="|CO| Colombia",➾ CO | Win +  JUlIO 15
 http://186.190.231.179:8000/play/a05g/index.m3u8
@@ -23,7 +23,7 @@ http://190.61.44.122:8000/play/a05i/index.m3u8
 http://181.224.161.138:1010/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL 16 PURPLE IPTV
 http://181.78.24.67:8010/play/a05w/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL-20  
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL-20  Nro-2
 http://201.222.44.220:4227/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + FEBRERO -25
 http://190.26.217.123:8000/play/a14u/index.m3u8
@@ -235,6 +235,8 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/dV4CRXfr/COSMOS-TV.png", COSMOS TV | AR
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://www.m3u.cl/logo/1436_Apanines_TV.png",APANINES  TV | AR
+https://inliveserver.com:1936/10010/10010/chunklist_w1910859242.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="ESTRELLA GAMES" tvg-logo="https://i.postimg.cc/J0LRmsgJ/ESTRELLA-TV-GAMES.png" group-title="MEXICO",ESTRELLA GAMES
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESTRELLA NEWS" tvg-logo="https://i.postimg.cc/4dvwVnkq/ESTRELLA-NEWS.png" group-title="MEXICO",ESTRELLA NEWS
