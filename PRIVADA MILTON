@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + JULIO 28
 http://181.78.22.27:8098/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + JULIO 21
-http://200.69.87.250:12500/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="|CO| Colombia",➾ CO | Win +  23 JUNIO
 http://190.61.44.122:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="|CO| Colombia",➾ CO | Win +  JUlIO 16
@@ -45,8 +43,10 @@ http://191.102.106.46:15028/play/a008/index.m3u8
 http://45.172.218.126:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP ||| Odisea" tvg-logo="http://tvstarlife.com:25461/images/26f24bb8c49b97eb089ea6ab668b32ac.png" group-title=" TV | ESPAÑA ",ESP | Odisea
 http://tvstarlife.live:25461/mario01/mario01/28047
-#EXTINF:-1 tvg-id="LA ROSA DE GUADALUPE" tvg-logo="https://nuestroblogdotblog.files.wordpress.com/2021/02/gpkbkoz7kbdjdn7rqhkhoeeeqy.jpeg" group-title="NOVELAS",LA ROSA DE GUADALUPE TV HD
+#EXTINF:-1 tvg-id="LA ROSA DE GUADALUPE" tvg-logo="https://i.postimg.cc/DyywJrKc/ROSA-DE-GUADALUPE.png" group-title="NOVELAS",LA ROSA DE GUADALUPE TV HD
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="MI GENTE TV"tvg-name="⭐| MI GENTE TV HD"tvg-logo="https://i.postimg.cc/13mF5Pzd/MI-GENTE-TV.png" group-title="⭐MUSICA⭐",⭐|➾ MI GENTE TV HD
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA HD"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
 #EXTINF:-1 group-title="LOCALNOW_TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c409274e97b39297907a6",BEIN SPORTS XTRA Espanol
@@ -57,8 +57,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 #EXTINF:-1 group-title="USA;En Español" tvg-logo="https://i.postimg.cc/NfB0CLVb/PLUTO-TV-BEINSPORTS-EXTRA.png",beIN SPORTS XTRA en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/zvt3Vm76/GOLAZONETWORK.png",GOLAZO NEW YORK HD
-https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/htgPctKv/RIDE-PASS.png", PBR RIDEPASS
 https://i.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",LATINA TV PERU HD
@@ -87,11 +85,11 @@ https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE COMEDY"tvg-name="⭐|XTREMA  CINE COMEDY"tvg-logo="https://i.postimg.cc/76LtWtW2/XTREMA-TV-COMEDY.png" group-title="⭐PELICULAS⭐",⭐|➾XTREMA  CINE COMEDY HD
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="1400" tvg-name="SOLIVE TV" tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/logo2.png", SOLIVE TV TV | VE
+#EXTINF:-1 tvg-id="1400" tvg-name="SOLIVE TV" tvg-logo="https://i.postimg.cc/Kz0K3jV4/SOLIVE-TV-ESP.png", SOLIVE TV TV | VE
 https://stmv1.cnarlatam.com/solivetv/solivetv/chunklist_w188881660.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="FLOU CINE TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="CINE SERIES",FLOU CINE TV  HD 
+#EXTINF:-1 tvg-id="FLOU CINE TV" tvg-logo="https://i.postimg.cc/8kFkmZfZ/FLOU-CINE-TV.png" group-title="CINE SERIES",FLOU CINE TV  HD 
 https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
-#EXTINF:-1 tvg-id="SANTOVITOTV*"tvg-name="⭐|➾SANTOVITO TV* "tvg-logo="https://yt3.googleusercontent.com/cLTNc45fyk6VrejPCSbSE6nQgKyR_iVQGfVAZEmxfnJ7i__RkHV06KDGfXvMecGAtV_lYmQsCw=s900-c-k-c0x00ffffff-no-rj"group-title="⭐COSTA RICA⭐",⭐|➾SANTOVITO TV* |HD|
+#EXTINF:-1 tvg-id="SANTOVITOTV*"tvg-name="⭐|➾SANTOVITO TV* "tvg-logo="https://i.postimg.cc/Qdbz452t/SANTOVITO-TV.png"group-title="⭐COSTA RICA⭐",⭐|➾SANTOVITO TV* |HD|
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1",GDM TELEVISION
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
@@ -227,7 +225,7 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://www.m3u.cl/logo/1436_Apanines_TV.png",APANINES  TV | AR
 https://inliveserver.com:1936/10010/10010/chunklist_w1910859242.m3u8?WebM3UCL
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://www.m3u.cl/logo/1416_TV_y_TV.png",TV Y TV | AR
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/wTNHGyvY/TV_y_TV.png",TV Y TV | AR
 https://stmv1.zcasthn.com.br/tvytv/tvytv/chunklist_w1505532976.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="ESTRELLA GAMES" tvg-logo="https://i.postimg.cc/J0LRmsgJ/ESTRELLA-TV-GAMES.png" group-title="MEXICO",ESTRELLA GAMES
 https://estrella-games-oando.amagi.tv/playlist.m3u8
