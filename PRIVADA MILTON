@@ -29,8 +29,6 @@ http://200.6.189.28:8000/play/a05z
 http://181.78.24.67:8010/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports  CORTO JULIO 22
 http://181.78.22.27:8098/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports  CORTO JULIO 22
-http://45.225.95.171:8589/play/a02p
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports HD JUNIO 16
 http://8.242.126.186:7777/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports HD JULIO 16
@@ -43,6 +41,8 @@ http://191.102.106.46:15028/play/a008/index.m3u8
 http://45.172.218.126:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP ||| Odisea" tvg-logo="http://tvstarlife.com:25461/images/26f24bb8c49b97eb089ea6ab668b32ac.png" group-title=" TV | ESPAÑA ",ESP | Odisea
 http://tvstarlife.live:25461/mario01/mario01/28047
+#EXTINF:-1 tvg-id="TELEMUNDO PUERTO RICO"tvg-name="⭐| TELEMUNDO PUERTORICO"tvg-logo="https://i.postimg.cc/P5nbnN0r/Telemundo-51.png" group-title="⭐INTERNACIONALES⭐",⭐|➾ TELEMUNDO PUERTO RICO TV HD
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="LA ROSA DE GUADALUPE" tvg-logo="https://i.postimg.cc/DyywJrKc/ROSA-DE-GUADALUPE.png" group-title="NOVELAS",LA ROSA DE GUADALUPE TV HD
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MI GENTE TV"tvg-name="⭐| MI GENTE TV HD"tvg-logo="https://i.postimg.cc/13mF5Pzd/MI-GENTE-TV.png" group-title="⭐MUSICA⭐",⭐|➾ MI GENTE TV HD
@@ -69,6 +69,8 @@ http://45.65.137.206:8000/play/a0ff/index.m3u8
 http://38.43.140.97:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="CINE ESTRELLA TV * "tvg-name="⭐CINE ESTRELLA TV* "tvg-logo="https://i.postimg.cc/xddXYnBq/CINE-ESTRELLA-TV-BLANCO.png"group-title="⭐PELICULAS⭐",⭐|➾CINE ESTRELLA TV * | CL * |HD|
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="DARK METTER TV"tvg-name="⭐| DARK METTER TV HD"tvg-logo="https://i.postimg.cc/T1PB4bnz/DARK-METTER.png" group-title="⭐PELICULAS⭐",⭐|➾ DARK METTER TV HD
+https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TERROR TV * "tvg-name="⭐TERROR TV * "tvg-logo="https://i.postimg.cc/9MdKZYYx/TERROR-TV-ESP.png"group-title="⭐PELICULAS⭐",⭐|➾TERROR TV * | CL * |HD|
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="+ CINE TV * "tvg-name="⭐ + CINE TV  * "tvg-logo="https://i.postimg.cc/Dw50vxX6/CINE-TV-HD.png"group-title="⭐PELICULAS⭐",⭐|➾ + CINE TV * | CL * |HD|
@@ -85,6 +87,8 @@ https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE COMEDY"tvg-name="⭐|XTREMA  CINE COMEDY"tvg-logo="https://i.postimg.cc/76LtWtW2/XTREMA-TV-COMEDY.png" group-title="⭐PELICULAS⭐",⭐|➾XTREMA  CINE COMEDY HD
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="MOVIES CENTRAL TV"tvg-name="⭐| MOVIES CENTRAL TV HD"tvg-logo="https://i.postimg.cc/tTHQsqTC/MOVIES-CENTRAL.png" group-title="⭐PELICULAS⭐",⭐|➾ MOVIES CENTRAL TV HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="1400" tvg-name="SOLIVE TV" tvg-logo="https://i.postimg.cc/Kz0K3jV4/SOLIVE-TV-ESP.png", SOLIVE TV TV | VE
 https://stmv1.cnarlatam.com/solivetv/solivetv/chunklist_w188881660.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="FLOU CINE TV" tvg-logo="https://i.postimg.cc/8kFkmZfZ/FLOU-CINE-TV.png" group-title="CINE SERIES",FLOU CINE TV  HD 
