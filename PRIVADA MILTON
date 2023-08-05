@@ -41,6 +41,22 @@ http://191.102.106.46:15028/play/a008/index.m3u8
 http://45.172.218.126:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP ||| Odisea" tvg-logo="http://tvstarlife.com:25461/images/26f24bb8c49b97eb089ea6ab668b32ac.png" group-title=" TV | ESPAÑA ",ESP | Odisea
 http://tvstarlife.live:25461/mario01/mario01/28047
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/animalplan.png",ANIMAL PLANET LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/686
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/discochannel.png",DISCOVERY CHANNEL LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/689
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png",DISCOVERY ID LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/691
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/discovery-theather.png",DISCOVERY TEATHER LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/692
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.pngfind.com/pngs/m/682-6829120_discovery-channel-png-download-discovery-tlc-logo-png.png",DISCOVERY TLC LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/693
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/h2.png",H2 LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/683
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/nationalgeo.png",NATIONAL GEOGRAPHIC LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/682
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://46.165.222.67:2095/tourobox/tntserie.png",TNT SERIES LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/678
 #EXTINF:-1 tvg-id="TELEMUNDO PUERTO RICO"tvg-name="⭐| TELEMUNDO PUERTORICO"tvg-logo="https://i.postimg.cc/P5nbnN0r/Telemundo-51.png" group-title="⭐INTERNACIONALES⭐",⭐|➾ TELEMUNDO PUERTO RICO TV HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="LA ROSA DE GUADALUPE" tvg-logo="https://i.postimg.cc/DyywJrKc/ROSA-DE-GUADALUPE.png" group-title="NOVELAS",LA ROSA DE GUADALUPE TV HD
@@ -66,7 +82,7 @@ http://190.60.39.17:4000/play/a008/index.m3u8
 #EXTINF:-1 group-title="PERU *"tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",ZONA LATINA HD
 http://45.65.137.206:8000/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="CHILE *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
-http://38.43.140.97:8000/play/a00v/index.m3u8
+http://177.93.52.100:45001/play/a07m
 #EXTINF:-1 tvg-id="CINE ESTRELLA TV * "tvg-name="⭐CINE ESTRELLA TV* "tvg-logo="https://i.postimg.cc/xddXYnBq/CINE-ESTRELLA-TV-BLANCO.png"group-title="⭐PELICULAS⭐",⭐|➾CINE ESTRELLA TV * | CL * |HD|
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="DARK METTER TV"tvg-name="⭐| DARK METTER TV HD"tvg-logo="https://i.postimg.cc/T1PB4bnz/DARK-METTER.png" group-title="⭐PELICULAS⭐",⭐|➾ DARK METTER TV HD
