@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + JULIO -28
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="|CO| Colombia",➾ CO | Win + AGOSTO 05
+http://181.78.0.192:10109/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="|CO| Colombia",➾ CO | Win + AGOSTO 05
+http://186.3.175.72:9013/play/a17i/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="|CO| Colombia",➾ CO | Win + AGOSTO 05
+http://190.14.251.57:8282/play/a0no/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + JULIO 28
 http://181.78.22.27:8098/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="|CO| Colombia",➾ CO | Win +  23 JUNIO
 http://190.61.44.122:8000/play/a03u/index.m3u8
@@ -27,6 +33,12 @@ http://177.93.60.43:5800/play/a0d7/index.m3u8
 http://200.6.189.28:8000/play/a05z
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/c4vFbMqQ/WIN_SPORTS_BOTON_AZUL_CELESTE.png" group-title="|CO| Colombia",➾ CO | Win + JUNIO-09
 http://181.78.24.67:8010/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports AGOSTO 05 2023
+http://181.78.0.192:10109/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports AGOSTO 05 2023
+http://190.14.251.57:8282/play/a0m4/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports AGOSTO 05 2023
+http://186.3.175.72:9013/play/a16c/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports  CORTO JULIO 22
 http://181.78.22.27:8098/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports HD JUNIO 16
@@ -80,7 +92,7 @@ http://201.222.44.220:4227/play/a02h/index.m3u8
 #EXTINF:-1 group-title="PERU *"tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",ZONA LATINA HD
 http://190.60.39.17:4000/play/a008/index.m3u8
 #EXTINF:-1 group-title="PERU *"tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",ZONA LATINA HD
-http://45.65.137.206:8000/play/a0ff/index.m3u8
+http://181.177.255.253:8000/play/a03l/index.m3u8
 #EXTINF:-1 group-title="CHILE *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
 http://177.93.52.100:45001/play/a07m
 #EXTINF:-1 tvg-id="CINE ESTRELLA TV * "tvg-name="⭐CINE ESTRELLA TV* "tvg-logo="https://i.postimg.cc/xddXYnBq/CINE-ESTRELLA-TV-BLANCO.png"group-title="⭐PELICULAS⭐",⭐|➾CINE ESTRELLA TV * | CL * |HD|
