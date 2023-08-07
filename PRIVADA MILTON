@@ -71,6 +71,8 @@ http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/683
 http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/682
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.postimg.cc/V6PWxCKL/1280px-TNT-Serie-HD-svg.png",TNT SERIES LT UHD
 http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/678
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/c4SWw7zy/VCLASSICTV-TROPICAL.png",V CLASSIC TROPICAL * |HD|
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TELEMUNDO PUERTO RICO"tvg-name="⭐| TELEMUNDO PUERTORICO"tvg-logo="https://i.postimg.cc/P5nbnN0r/Telemundo-51.png" group-title="⭐INTERNACIONALES⭐",⭐|➾ TELEMUNDO PUERTO RICO TV HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="LA ROSA DE GUADALUPE" tvg-logo="https://i.postimg.cc/DyywJrKc/ROSA-DE-GUADALUPE.png" group-title="NOVELAS",LA ROSA DE GUADALUPE TV HD
@@ -121,6 +123,10 @@ https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="1400" tvg-name="SOLIVE TV" tvg-logo="https://i.postimg.cc/Kz0K3jV4/SOLIVE-TV-ESP.png", SOLIVE TV TV | VE
 https://stmv1.cnarlatam.com/solivetv/solivetv/chunklist_w188881660.m3u8?WebM3UCL
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.postimg.cc/RFJW0sr0/NATIVA-TV.png",NATIVA TV * |HD|
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/54/Megavisi%C3%B3n_21_1993.png/revision/latest?cb=20170915221631&path-prefix=es",Canal 21 TV * |HD|
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FLOU CINE TV" tvg-logo="https://i.postimg.cc/8kFkmZfZ/FLOU-CINE-TV.png" group-title="CINE SERIES",FLOU CINE TV  HD 
 https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SANTOVITOTV*"tvg-name="⭐|➾SANTOVITO TV* "tvg-logo="https://i.postimg.cc/Qdbz452t/SANTOVITO-TV.png"group-title="⭐COSTA RICA⭐",⭐|➾SANTOVITO TV* |HD|
