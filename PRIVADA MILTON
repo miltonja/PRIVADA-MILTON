@@ -67,6 +67,16 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LOCALNOW_TV" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png",BEIN SPORTS XTRA
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6335a79d10efe80007297a94" tvg-id="6335a79d10efe80007297a94" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/6335a79d10efe80007297a94/colorLogoPNG.png" group-title="Spain" , La Media Inglesa
+https://i.mjh.nz/PlutoTV/6335a79d10efe80007297a94-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60dd6b1da79e4d0007309455" tvg-id="60dd6b1da79e4d0007309455" tvg-chno="456" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Spain" , Nature Time
+https://i.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64b79c057d934100080b3583" tvg-id="64b79c057d934100080b3583" tvg-chno="5" tvg-logo="https://images.pluto.tv/channels/64b79c057d934100080b3583/colorLogoPNG.png" group-title="Germany" , DAZN INTL Football x Pluto TV
+https://i.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64b67f0424ade50008a3be17" tvg-id="64b67f0424ade50008a3be17" tvg-chno="6" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Germany" , DAZN Darts x Pluto TV
+https://i.mjh.nz/PlutoTV/64b67f0424ade50008a3be17-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60a26a056d55b30007918d5a" tvg-id="60a26a056d55b30007918d5a" tvg-chno="601" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Spain" , MTV Music Made in Spain
+https://i.mjh.nz/PlutoTV/60a26a056d55b30007918d5a-alt.m3u8
 #EXTINF:-1 group-title="USA;En Español" tvg-logo="https://i.postimg.cc/NfB0CLVb/PLUTO-TV-BEINSPORTS-EXTRA.png",beIN SPORTS XTRA en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/htgPctKv/RIDE-PASS.png", PBR RIDEPASS
@@ -132,6 +142,8 @@ https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="CINES VERDI"tvg-logo="https://i.postimg.cc/3rc80k8K/CINES-VERDI-ESP.png" group-title="Spain" ,CINES VERDI TV
 https://d2vxs6a73h4kai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gson0whk7ox3g-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="AZTECA MUNDO"tvg-logo="https://i.postimg.cc/MGhGN0Cc/AZTECA-MUNDO-ESP.png" group-title="MEXICO",➾TV AZTECA MUNDO
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+ #EXTINF:-1 tvg-id="AZTECA INTERNACIONAL"tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" group-title="MEXICO",➾ AZTECA INTERNACIONAL HD
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png",AZTECA UNO (XHJK-TDT) 
 http://190.122.96.187:8888/http/002
