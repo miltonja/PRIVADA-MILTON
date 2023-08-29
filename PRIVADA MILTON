@@ -75,6 +75,8 @@ http://190.60.39.17:4000/play/a008/index.m3u8
 http://200.123.15.177:1982/play/a028/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
 http://200.123.15.177:1982/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="MEGA TV CHANNEL * "tvg-name="⭐MEGA TV CHANNEL TV* "tvg-logo="https://i.postimg.cc/nVXHvWkB/MEGA-TV.png"group-title="⭐PELICULAS⭐",⭐|➾MEGA TV CANNEL * | CL * |HD|
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE ESTRELLA TV * "tvg-name="⭐CINE ESTRELLA TV* "tvg-logo="https://i.postimg.cc/xddXYnBq/CINE-ESTRELLA-TV-BLANCO.png"group-title="⭐PELICULAS⭐",⭐|➾CINE ESTRELLA TV * | CL * |HD|
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="DARK METTER TV"tvg-name="⭐| DARK METTER TV HD"tvg-logo="https://i.postimg.cc/T1PB4bnz/DARK-METTER.png" group-title="⭐PELICULAS⭐",⭐|➾ DARK METTER TV HD
