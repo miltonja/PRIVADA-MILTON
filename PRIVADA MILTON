@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/Wp7ywq5W/win-sports-Amarillo.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
+http://161.132.194.88:7076/play/a0t0/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
+http://177.234.242.209:50032/play/a0hf/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
+http://177.234.247.66:8888/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
+http://179.1.87.75:8098/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
+http://181.224.161.138:1010/play/a08g/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
+http://181.78.22.70:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
+http://181.78.85.154:2022/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-FEB- 19
 http://181.78.12.119:16123/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-FEB- 25
@@ -27,12 +41,8 @@ http://201.222.44.220:4227/play/a022/index.m3u8
 http://201.222.44.220:4227/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports  CORTO JULIO 22
 http://181.78.22.27:8098/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports HD JULIO 16
-http://45.172.218.126:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports HD
 http://191.102.106.46:15028/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports JULIO 11
-http://45.172.218.126:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="LOCALNOW_TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6204324db9f7af67191d94a3",A+ Cinema
 https://d3e900fnvjyq99.cloudfront.net/d/JWBCCOQICVYX608BU1QH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657287
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/c4SWw7zy/VCLASSICTV-TROPICAL.png",V CLASSIC TROPICAL * |HD|
@@ -68,15 +78,19 @@ https://i.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",LATINA TV PERU HD
 http://201.222.44.220:4227/play/a02h/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",LATINA TV PERU HD
-http://200.123.15.177:1982/play/a03f/index.m3u8
+http://177.53.155.236:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",LATINA TV PERU HD
+http://161.132.194.88:7076/play/a0t8/index.m3u8
 #EXTINF:-1 group-title="PERU *"tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",ZONA LATINA HD
-http://190.60.39.17:4000/play/a008/index.m3u8
+http://179.43.82.250:8398/play/a00a/index.m3u8
 #EXTINF:-1 group-title="PERU *"tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",ZONA LATINA HD
-http://200.123.15.177:1982/play/a028/index.m3u8
+http://161.132.194.88:7076/play/a00a/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
-http://200.123.15.177:1982/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="MEGA TV CHANNEL * "tvg-name="⭐MEGA TV CHANNEL TV* "tvg-logo="https://i.postimg.cc/nVXHvWkB/MEGA-TV.png"group-title="⭐PELICULAS⭐",⭐|➾MEGA TV CANNEL * | CL * |HD|
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+http://177.53.155.236:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
+http://179.43.82.250:8398/play/a01z/index.m3u8
+#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
+http://170.254.234.244:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="CINE ESTRELLA TV * "tvg-name="⭐CINE ESTRELLA TV* "tvg-logo="https://i.postimg.cc/xddXYnBq/CINE-ESTRELLA-TV-BLANCO.png"group-title="⭐PELICULAS⭐",⭐|➾CINE ESTRELLA TV * | CL * |HD|
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="DARK METTER TV"tvg-name="⭐| DARK METTER TV HD"tvg-logo="https://i.postimg.cc/T1PB4bnz/DARK-METTER.png" group-title="⭐PELICULAS⭐",⭐|➾ DARK METTER TV HD
