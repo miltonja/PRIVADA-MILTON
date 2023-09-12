@@ -95,6 +95,10 @@ https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="+ CINE TV * "tvg-name="⭐ + CINE TV  * "tvg-logo="https://i.postimg.cc/Dw50vxX6/CINE-TV-HD.png"group-title="⭐PELICULAS⭐",⭐|➾ + CINE TV * | CL * |HD|
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="R&E TV * "tvg-name="⭐ + R&E TV  * "tvg-logo="https://i.postimg.cc/1zLsN3w7/R-E-TELEVISION-esp.png"group-title="⭐PELICULAS⭐",⭐|➾ R&E TV * | CL * |HD|
+https://multimedia.tmcreativos.com:1936/ekhmygctur/ekhmygctur/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="33 SEGUNDOS * "tvg-name="⭐ 33 SEGUNDOS  * "tvg-logo="https://i.postimg.cc/GtNvYY3T/33-SEGUNDOS-TV.png"group-title="⭐PELICULAS⭐",⭐|➾ 33 SEGUNDOS TV * |HD|
+https://stmv2.zcasthn.com.br/segundos/segundos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CNC SEÑAL DIGITAL *"tvg-name="⭐|➾CNC SEÑAL DIGITAL * "tvg-logo="https://i.postimg.cc/Gm3Q2rF2/CNC-SE-AL-DIGITAL.png"group-title="⭐PELICULAS⭐",⭐|➾CNC SEÑAL DIGITAL * |HD|
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-id="CINE ACCION"tvg-name="⭐|XTREMA CINE ACCION"tvg-logo="https://i.postimg.cc/fLR1Qr1s/XTREMA-TV-ACCION.png" group-title="⭐PELICULAS⭐",⭐|➾XTREMA CINE ACCION HD
