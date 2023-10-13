@@ -94,7 +94,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO"tvg-name="AZTECA 7"tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png",TV Azteca Noroeste (Monterrey)
 https://live.info7.mx/info7/stream.m3u8
-#EXTINF:-1 tvg-id="CXANAL 57 TV "tvg-name="⭐CANAL 57 USA TV* "tvg-logo="https://i.postimg.cc/hGwq4bcP/Canal57-USA.png"group-title="⭐NOTICIAS⭐",⭐|➾CANAL 57 USA
+#EXTINF:-1 tvg-id="CXANAL 57 TV "tvg-name="⭐CANAL 57 USA TV* "tvg-logo="https://i.postimg.cc/hGwq4bcP/Canal57-USA.png"group-title="⭐NOTICIAS⭐",⭐|➾CANAL 57 USA HD
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="TODO NOTICIAS TV"tvg-name="⭐TODO NOTICIAS TV"tvg-logo="https://i.postimg.cc/3rpWD0HD/tn-todo-noticias-3479-w480.webp"group-title="⭐NOTICIAS⭐",⭐|➾TODO NOTICIAS TV 
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
