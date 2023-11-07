@@ -189,6 +189,8 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="TELEVISION METROPOLIS 19.2"tvg-name="⭐TELEVISION METROPOLIS 19.2"tvg-logo="https://i.imgur.com/QaocW5x.png"group-title="⭐PELICULAS⭐",⭐|➾TELEVISION METROPOLIS 19.2 TV HD 
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+#EXTINF:-1 tvg-id="READY TV "tvg-name="⭐ READY TV "tvg-logo="https://i.postimg.cc/CxGThGws/Ready.png"group-title="⭐PELICULAS⭐",⭐|➾READY TV CANAL 6 HD 
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-id="CHILE VISUAL FILM "tvg-name="⭐CHILE VISUAL FILM "tvg-logo="https://cdn.m3u.cl/logo/1504_Chilevisual_Kids.png"group-title="⭐PELICULAS⭐",⭐|➾CHILE VISUAL FILM HD 
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AURORA MEDIA FILMS TV "tvg-name="⭐AURORA MEDIA FILMS"tvg-logo="https://i.postimg.cc/ydz1gzWB/AURORA-MEDIA-FILMS.png"group-title="⭐PELICULAS⭐",⭐|➾AURORA MEDIA FILMS
