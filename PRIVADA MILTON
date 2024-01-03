@@ -127,6 +127,14 @@ http://186.148.183.242:5800/play/a0dg/index.m3u8
 http://186.148.183.242:5800/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="AZUFRAL CANAL REGIONAL"group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/B6k4wLH6/CANAL-AZUFRAL.png",AZUFRAL CANAL REGIONAL HD
 https://tvlatina.live:1936/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRegionalFTV.co"group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/0y5LcS9G/CANAL-AZUFRAL.jpg",CANAL REGIONALFTV 
+https://tvlatina.live:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-id="CableSurTV.co"group-title="COLOMBIA" tvg-logo="https://www.cablesur.com.co/wp-content/uploads/2022/08/LOGOTIPO.png",CABLE SUR  TV
+https://tvlatina.live:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIpiales.co"group-title="COLOMBIA" tvg-logo="https://diocesisdeipiales.org/wp-content/uploads/2023/05/LOGO-TV-IPIALES-EN-BLANCO-768x251.png",TV IPIALES
+https://movil.ejeserver.com/live/tvipiales.m3u8
+#EXTINF:-1 tvg-id="Telepasto.co"group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/C5tZVv45/TELEPASTO-1.png",TELE PASTO HD
+https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
 #EXTINF:-1 group-title="MUSIC CHOICE" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png",90'S
 http://thevdm.xyz:25461/GregT/Erin1/28881
 #EXTINF:-1 group-title="MUSIC CHOICE" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png",ALTERNATIVE
