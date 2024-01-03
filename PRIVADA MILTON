@@ -127,7 +127,7 @@ http://186.148.183.242:5800/play/a0dg/index.m3u8
 http://186.148.183.242:5800/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="AZUFRAL CANAL REGIONAL"group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/B6k4wLH6/CANAL-AZUFRAL.png",AZUFRAL CANAL REGIONAL HD
 https://tvlatina.live:1936/8020/8020/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRegionalFTV.co"group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/0y5LcS9G/CANAL-AZUFRAL.jpg",CANAL REGIONALFTV 
+#EXTINF:-1 tvg-id="CanalRegionalFTV.co"group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/0y5LcS9G/CANAL-AZUFRAL.jpg",CANAL REGIONAL TV 
 https://tvlatina.live:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-id="CableSurTV.co"group-title="COLOMBIA" tvg-logo="https://www.cablesur.com.co/wp-content/uploads/2022/08/LOGOTIPO.png",CABLE SUR  TV
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
