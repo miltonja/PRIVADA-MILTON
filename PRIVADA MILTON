@@ -163,6 +163,8 @@ http://thevdm.xyz:25461/GregT/Erin1/28901
 http://thevdm.xyz:25461/GregT/Erin1/28902
 #EXTINF:-1 group-title="MUSIC CHOICE" tvg-logo="https://i.ibb.co/937x8xG/music-choice.png",Y2K
 http://thevdm.xyz:25461/GregT/Erin1/28904
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.postimg.cc/pTQWDVrL/infast-c.png",INFAST
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="CNC PASTO" tvg-logo="https://i.postimg.cc/SNKgFW2y/CNC-PASTO.png" group-title="CNC PASTO",CNC PASTO
 https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8
 #EXTINF:-1 tvg-id="GalerasTV.co" tvg-logo="https://i.postimg.cc/qq4ZCSvn/GALERAS-TV.png" group-title="CNC PASTO",CNC PASTO GALERAS TV 
