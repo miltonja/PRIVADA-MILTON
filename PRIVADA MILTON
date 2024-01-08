@@ -203,6 +203,8 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",LATINA TV PERU HD
 http://190.61.55.186:1010/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="LATINA TV "group-title="PERU" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png" ,LATINA TV HD
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",LATINA TV PERU HD
 http://181.78.18.26:9000/play/a029/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
