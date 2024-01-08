@@ -111,6 +111,20 @@ https://tvlatina.live:1936/8012/8012/playlist.m3u8
 https://movil.ejeserver.com/live/tvipiales.m3u8
 #EXTINF:-1 tvg-id="Telepasto.co"group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/C5tZVv45/TELEPASTO-1.png",TELE PASTO HD
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
+#EXTINF:-1 tvg-id="CLARO SPORTS"tvg-logo="https://i.postimg.cc/fbB5kmjz/CLARO-SPORTS.png" group-title="DEPORTES",CLARO SPORTS HD
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1 tvg-id="ViwixTerror"tvg-logo="https://image.winudf.com/v2/image1/Y29tLnZpd2l4LnZpd2l4YnB4X2ljb25fMTYxNTA5MDQyN18wOTk/icon.png?w=184&fakeurl=1" group-title="PELICULAS",Viwix Clasico
+http://168.90.15.138:12345/play/a03e
+#EXTINF:-1 tvg-id="ViwixAccion"tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV-ACCION.png" group-title="PELICULAS",ViwixAccion
+http://168.90.15.138:12345/play/a036
+#EXTINF:-1 tvg-id="ViwixEstrenos"tvg-logo="https://i.postimg.cc/x8HRTdWb/VIWIX-TV-ESTRENOS.png" group-title="PELICULAS",ViwixEstrenos
+http://168.90.15.138:12345/play/a037
+#EXTINF:-1 tvg-id="ViwixMusic"tvg-logo="https://i.postimg.cc/qRWwTKZT/VIWIX-TV-MUSIC.png" group-title="PELICULAS",ViwixMusic
+http://168.90.15.138:12345/play/a039
+#EXTINF:-1 tvg-id="ViwixSeries"tvg-logo="https://i.postimg.cc/fRGvGDGt/VIWIX-TV-SERIES.png" group-title="PELICULAS",ViwixSeries
+http://168.90.15.138:12345/play/a038
+#EXTINF:-1 tvg-id="ViwixTerror"tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV-TERROR.png" group-title="PELICULAS",ViwixTerror
+http://168.90.15.138:12345/play/a03a
 #EXTINF:-1 group-title="MUSIC CHOICE" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png",90'S
 http://thevdm.xyz:25461/GregT/Erin1/28881
 #EXTINF:-1 group-title="MUSIC CHOICE" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png",ALTERNATIVE
