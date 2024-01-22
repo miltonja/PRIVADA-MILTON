@@ -115,6 +115,8 @@ https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
 http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1 tvg-id="DAMAS TV"tvg-logo="https://i.postimg.cc/2j1R5BPC/DAMAS-TV-MEJOR.png" group-title="PELICULAS",DAMAS TV HD
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+#EXTINF:-1tvg-id="NETFLIX-SPANISH"tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png" group-title="PELICULAS",|➾NETFLIX-SPANISH
+http://62.201.210.86:2110/play/a0e0
 #EXTINF:-1 tvg-id="COMUNICACIONES JIMENEZ "group-title="COSTARICA" tvg-logo="https://i.postimg.cc/7h9CWzZG/COMUNICACIONES-JIMENES-2.png" ,COMUNICACIONES JIMENEZ HD
 https://s1.tvdatta.com:3156/live/jimeneztvlive.m3u8
 #EXTINF:-1 group-title="MUSIC CHOICE" tvg-logo="https://i.postimg.cc/c402rMYB/music-choise-esp.png",90'S
