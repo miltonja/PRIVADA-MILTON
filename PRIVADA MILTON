@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/ncDdTsZ2/WIN-SPORTS-PURPURA.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |ENERO 21
+http://181.78.208.254:8010/play/a050/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/ncDdTsZ2/WIN-SPORTS-PURPURA.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |ENERO 21
 http://190.61.46.126:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |ENERO 21
 http://201.182.242.253:12000/play/a02b/index.m3u8
