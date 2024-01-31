@@ -220,11 +220,11 @@ http://181.78.18.26:9000/play/a029/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
 http://181.78.18.26:9000/play/a028/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",LATINA TV PERU HD
-http://38.43.150.123:8000/play/a03h/index.m3u8
+http://190.61.55.186:1010/play/a00z/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",LATINA TV PERU SD
 http://38.43.150.123:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
-http://38.43.150.123:8000/play/a03g/index.m3u8
+http://190.61.55.186:1010/play/a00y/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU SD
 http://38.43.150.123:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL"tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/LXJsHP6k/golden-plus.png",GOLDEN PLUS TV HD
