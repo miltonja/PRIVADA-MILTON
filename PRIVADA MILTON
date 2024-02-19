@@ -111,7 +111,7 @@ http://181.119.66.30:8000/play/a03r/index.m3u8
 http://200.59.188.3:8000/play/a00n
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO |CORTO WIN SPORTS 21 ENERO
 http://200.116.199.180:8000/play/a03q
-#EXTINF:-1 tvg-logo="http://200.52.150.5:8000/playlist/tvg-logo/a0sz.png",UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk3tjfDy/Universal-Reality.png",UNIVERSAL REALITY HD
 http://200.52.150.5:8000/play/a0sz/index.m3u8
 #EXTINF:-1 tvg-id="AZUFRAL CANAL REGIONAL"group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/B6k4wLH6/CANAL-AZUFRAL.png",AZUFRAL CANAL REGIONAL HD
 https://tvlatina.live:1936/8020/8020/playlist.m3u8
