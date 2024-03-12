@@ -71,6 +71,8 @@ http://190.61.43.118:45000/play/a024
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-id="A&E HD"group-title="PREMIUM" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/AE-logo.png",A&E HD
 http://190.0.241.181:8000/play/a06q/index.m3u8
+#EXTINF:-1 tvg-id="A&E HD"group-title="PREMIUM" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/AE-logo.png",A&E HD
+http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1 tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.postimg.cc/d16zjK4P/UNIVERSAL-REALITY.png" tvg-id="UNIVERSAL REALITY" group-title="PREMIUM",UNIVERSAL REALITY TV HD
 http://200.52.150.5:8000/play/a0sz/index.m3u8
 #EXTINF:-1 tvg-id="AZUFRAL CANAL REGIONAL"group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/B6k4wLH6/CANAL-AZUFRAL.png",AZUFRAL CANAL REGIONAL HD
