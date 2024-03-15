@@ -67,6 +67,12 @@ http://181.119.66.30:8000/play/a04q/index.m3u8
 http://200.59.188.3:8000/play/a028
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/sgnSWqvy/tv-station-win-sports-plus-2457.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| CORTO WIN PLUS |ENERO 21
 http://190.61.43.118:45000/play/a024
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg",74 | MX Family
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg",75 | MX Classic
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg",76 | MX Prime
+https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-id="LA LEAGUE PREMIER"tvg-name="LA LEAGUE PREMIER"tvg-logo="https://i.postimg.cc/WtRY803S/Premier-League-Logo5.png"group-title="PLUTO TV",➾ | LA LEAGUE PREMIER | PARAMOUNT 
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-id="A&E HD"group-title="PREMIUM" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/AE-logo.png", 001 A&E HD
