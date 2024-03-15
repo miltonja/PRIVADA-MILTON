@@ -73,6 +73,16 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIES" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg",76 | MX Prime
 https://marine2.miplay.cl/mxprime/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://i.postimg.cc/15P78f98/TV-ONE.png",En prueba | TV One
+https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://i.postimg.cc/fbBGBMkz/old-music.png",274 | Old Music Televisión
+https://marine2.miplay.cl/oldmusic/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://i.postimg.cc/mDnPb5yL/MI-GENTE-TV.png",260 | Mi Gente TV
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
+#EXTINF:-1 tvg-id="VE | Mix Music Channel" tvg-name="VE | Mix Music Channel" tvg-logo="https://supertrendy.net/wp-content/uploads/2023/09/mix-pngeee.png" group-title="MUSICA Y REALITIES", En prueba | Mix Music Channel
+https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 275 | Memorias TV
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
 #EXTINF:-1 tvg-id="LA LEAGUE PREMIER"tvg-name="LA LEAGUE PREMIER"tvg-logo="https://i.postimg.cc/WtRY803S/Premier-League-Logo5.png"group-title="PLUTO TV",➾ | LA LEAGUE PREMIER | PARAMOUNT 
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-id="A&E HD"group-title="PREMIUM" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/03/AE-logo.png", 001 A&E HD
