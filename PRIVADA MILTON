@@ -3,6 +3,12 @@
 http://138.121.15.228:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|002 WIN PLUS |MARZO-21
 http://45.71.252.67:8000/play/a0ht/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|003 WIN PLUS |MARZO-21
+http://181.78.12.83:2020/play/a04k/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|004 WIN PLUS |MARZO-21
+http://181.78.77.237:8005/play/a03i/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|005 WIN PLUS |MARZO-21
+http://181.78.84.23:1010/play/a08x/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |MARZO-19
 http://186.148.163.18:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |MARZO-15
