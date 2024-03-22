@@ -9,8 +9,6 @@ http://181.78.12.83:2020/play/a04k/index.m3u8
 http://181.78.77.237:8005/play/a03i/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|005 WIN PLUS |MARZO-21
 http://181.78.84.23:1010/play/a08x/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |MARZO-19
-http://186.148.163.18:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |MARZO-15
 http://190.119.127.236:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |MARZO-15
@@ -53,8 +51,6 @@ http://181.78.0.192:10109/play/a05r/index.m3u8
 http://181.78.73.221:8000/play/a14u/index.m3u8 
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|002 WIN SPORTS PLUS | NOVIEMBRE 17
 http://181.78.0.192:10109/play/a05r/index.m3u8?null=0
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|001 WIN SPORTS PLUS | OCTUBRE 20
-http://186.148.163.18:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
 http://181.119.66.30:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS |OCTUBRE 14
@@ -75,6 +71,24 @@ http://181.119.66.30:8000/play/a04q/index.m3u8
 http://200.59.188.3:8000/play/a028
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/sgnSWqvy/tv-station-win-sports-plus-2457.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| CORTO WIN PLUS |ENERO 21
 http://190.61.43.118:45000/play/a024
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports DIC-22
+http://190.60.37.126:8002/play/a061/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOV-26
+http://181.119.66.30:8000/play/a03r/index.m3u8 
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOV-25
+http://179.1.201.133:54986/play/a03m/index.m3u8 
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOV- 17
+http://177.222.108.82:2500/play/a0hj/index.m3u8 
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOVIEMBRE 17
+http://181.78.0.192:10109/play/a05w/index.m3u8 
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOVIEMBRE 17
+http://181.78.0.192:10109/play/a05w/index.m3u8?null=0
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | WIN SPORTS 21 ENERO
+http://181.119.66.30:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO |CORTO WIN SPORTS 21 ENERO
+http://200.59.188.3:8000/play/a00n
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO |CORTO WIN SPORTS 21 ENERO
+http://200.116.199.180:8000/play/a03q
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports DIC-22
 http://190.60.37.126:8002/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOV-26
