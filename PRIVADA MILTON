@@ -81,6 +81,22 @@ http://181.119.66.30:8000/play/a03r/index.m3u8
 http://200.59.188.3:8000/play/a00n
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO |CORTO WIN SPORTS 21 ENERO
 http://200.116.199.180:8000/play/a03q
+#EXTINF:-1 group-title="*WORLD_TV MIX" tvg-logo="https://i.imgur.com/c2HLI3k.png",WORL TV MIX HD
+https://mediacp.us:8081/504tvhn/index.m3u8
+#EXTINF:-1 tvg-id="HOLA PLAY " tvg-name="HOLA PLAY" tvg-logo="https://i.postimg.cc/52DmWgXF/HOLA_PLAY.png"group-title="PLUTO TV",HOLA PLAY HD
+https://i.mjh.nz/SamsungTVPlus/ESBA1400008NE.m3u8
+#EXTINF:-1 tvg-id="+ CINE TV " tvg-name="+ CINE TV" tvg-logo=""group-title="COLOMBIA",+ CINE TV HD
+https://tv.streaming-chile.com:1936/8142/8142/chunklist_w8647447.m3u8
+#EXTINF:-1 tvg-id="VIWIX | TV ACCION " tvg-name="VIWIX | TV ACCION" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV_ACCION.png"group-title="COLOMBIA",VIWIX TV ACCION
+http://45.189.148.24:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="VIWIX | TV ESTRENOS " tvg-name="VIWIX | TV ESTRENOS" tvg-logo="https://i.postimg.cc/x8HRTdWb/VIWIX-TV_ESTRENOS.png"group-title="COLOMBIA",VIWIX TV ESTRENOS
+http://45.189.148.24:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="VIWIX | TV MUSIC " tvg-name="VIWIX | TV MUSIC" tvg-logo="https://i.postimg.cc/qRWwTKZT/VIWIX-TV_MUSIC.png"group-title="COLOMBIA",VIWIX TV MUSIC
+http://45.189.148.24:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="VIWIX | TV SERIES " tvg-name="VIWIX | TV SERIES" tvg-logo="https://i.postimg.cc/fRGvGDGt/VIWIX-TV_SERIES.png"group-title="COLOMBIA",VIWIX TV SERIES
+http://45.189.148.24:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="VIWIX | TERROR " tvg-name="VIWIX | TERROR" tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV_TERROR.png"group-title="COLOMBIA",VIWIX TV TERROR
+http://45.189.148.24:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk3tjfDy/Universal-Reality.png",UNIVERSAL REALITY HD
 http://200.52.150.5:8000/play/a0sz/index.m3u8
 #EXTINF:-1 tvg-id="AZUFRAL CANAL REGIONAL"group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/B6k4wLH6/CANAL-AZUFRAL.png",AZUFRAL CANAL REGIONAL HD
