@@ -85,7 +85,7 @@ http://200.116.199.180:8000/play/a03q
 https://mediacp.us:8081/504tvhn/index.m3u8
 #EXTINF:-1 tvg-id="HOLA PLAY " tvg-name="HOLA PLAY" tvg-logo="https://i.postimg.cc/52DmWgXF/HOLA_PLAY.png"group-title="PLUTO TV",HOLA PLAY HD
 https://i.mjh.nz/SamsungTVPlus/ESBA1400008NE.m3u8
-#EXTINF:-1 tvg-id="+ CINE TV " tvg-name="+ CINE TV" tvg-logo=""group-title="COLOMBIA",+ CINE TV HD
+#EXTINF:-1 tvg-id="+ CINE TV " tvg-name="+ CINE TV" tvg-logo="https://i.postimg.cc/Dw50vxX6/CINE-TV-HD.png"group-title="COLOMBIA",+ CINE TV HD
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w8647447.m3u8
 #EXTINF:-1 tvg-id="VIWIX | TV ACCION " tvg-name="VIWIX | TV ACCION" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV_ACCION.png"group-title="COLOMBIA",VIWIX TV ACCION
 http://45.189.148.24:8000/play/a00r/index.m3u8
