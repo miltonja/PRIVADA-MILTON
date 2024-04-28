@@ -69,6 +69,10 @@ http://190.61.40.186:45000/play/a067
 http://200.59.188.3:8000/play/a00n
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO |CORTO WIN SPORTS 21 ENERO
 http://200.116.199.180:8000/play/a03q
+#EXTINF:-1tvg-id="CANAL + SPORTS"tvg-name="CANAL + SPORTS"tvg-logo="https://i.postimg.cc/VsHtCPkm/CANAL-SPORTS.png"group-title="*DEPORTES*",CANAL+ SPORT
+http://45.144.112.150/canalplussport/index.m3u8
+#EXTINF:-1tvg-id="CANAL +FOOT"tvg-name="CANAL +FOOT"tvg-logo="https://i.postimg.cc/hPYBts6f/Canal-Foot.png"group-title="*DEPORTES*",CANAL+ FOOT
+http://45.144.112.150/itv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk3tjfDy/Universal-Reality.png",UNIVERSAL REALITY HD
 http://200.52.150.5:8000/play/a0sz/index.m3u8
 #EXTINF:-1 group-title="FREE TV" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg",FREE TV ACCION
