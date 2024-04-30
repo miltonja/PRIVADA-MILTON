@@ -105,7 +105,7 @@ http://200.52.150.5:8000/play/a0sz/index.m3u8
 https://tvlatina.live:1936/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRegionalFTV.co"group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/0y5LcS9G/CANAL-AZUFRAL.jpg",CANAL REGIONAL TV 
 https://tvlatina.live:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-id="CableSurTV.co"group-title="COLOMBIA" tvg-logo="https://www.cablesur.com.co/wp-content/uploads/2022/08/LOGOTIPO.png",CABLE SUR  TV
+#EXTINF:-1 tvg-id="CableSurTV.co"group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/GmFQX5V9/CABLE-SUR-IPIALES.png",CABLE SUR  TV
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIpiales.co"group-title="COLOMBIA" tvg-logo="https://diocesisdeipiales.org/wp-content/uploads/2023/05/LOGO-TV-IPIALES-EN-BLANCO-768x251.png",TV IPIALES
 https://movil.ejeserver.com/live/tvipiales.m3u8
