@@ -73,6 +73,12 @@ http://200.116.199.180:8000/play/a03q
 http://45.144.112.150/canalplussport/index.m3u8
 #EXTINF:-1tvg-id="CANAL +FOOT"tvg-name="CANAL +FOOT"tvg-logo="https://i.postimg.cc/hPYBts6f/Canal-Foot.png"group-title="*DEPORTES*",CANAL+ FOOT
 http://45.144.112.150/itv/index.m3u8
+#EXTINF:-1tvg-id="BEIN SPORTS"tvg-name="BEIN SPORTS"tvg-logo="https://i.postimg.cc/ZYVwSpD5/BEIN-SPORTS-HD.png"group-title="*DEPORTES*",BEIN SPORTS-1 HD
+http://45.144.112.150:80/bein1/mpegts
+#EXTINF:-1tvg-id="CANAL+SPORTS"tvg-name="CANAL+SPORTS"tvg-logo="https://i.postimg.cc/Jzw44DG9/CANAL-SPORTS-LEAGUE-PREMIERE.png"group-title="*DEPORTES*",CANAL+PREMIER LEAGUE HQ
+http://45.144.112.150:80/canalplussport/mpegts
+#EXTINF:-1tvg-id="CANAL +FOOT"tvg-name="CANAL +FOOT"tvg-logo="https://i.postimg.cc/zBYnCXtM/C-Foot.png"group-title="*DEPORTES*",+FOOT HD
+http://45.144.112.150:80/itv/mpegts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk3tjfDy/Universal-Reality.png",UNIVERSAL REALITY HD
 http://200.52.150.5:8000/play/a0sz/index.m3u8
 #EXTINF:-1 group-title="FREE TV" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg",FREE TV ACCION
