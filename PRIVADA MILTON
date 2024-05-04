@@ -31,6 +31,8 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/289741
 http://186.148.183.242:5800/play/a0d7/index.m3u
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS |OCTUBRE 14
 http://181.204.79.182:8202/play/a04m
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS |OCTUBRE 14
+http://181.78.23.26:45000/play/a03d
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| CORTO-WIN PLUS |ABRIL-30
 http://170.239.205.99:4050/play/CH1
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| CORTO-WIN PLUS |ABRIL-25
