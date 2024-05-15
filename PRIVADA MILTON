@@ -61,6 +61,8 @@ http://190.61.40.186:45000/play/a071
 http://200.59.188.3:8000/play/a028
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|CORTO WIN PLUS|ENERO 21
 http://190.61.43.118:45000/play/a024
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO | Win Sports MAYO-14
+http://181.205.77.118:4849/play/CH16
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO | Win Sports ABRIL-25
 http://181.78.1.158:8000/play/a03d/index.m3u8 
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO | Win Sports MAYO-05
