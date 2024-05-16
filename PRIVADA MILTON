@@ -101,6 +101,8 @@ http://45.144.112.150:80/itv/mpegts
 https://paneltv.online:1936/8044/8044/chunklist_w1620388534.m3u8
 #EXTINF:-1tvg-id="LA MEGA MUNDIAL"tvg-name="LA MEGA MUNDIAL"tvg-logo="https://i.postimg.cc/B6Xkn7TS/LA-MEGA-MUDIAL-1.png"group-title="*MUSIC TV",LA EGA MUNDIAL HD
 https://server40.servistreaming.com:3477/live/lamegamundiallive.m3u8
+#EXTINF:-1 tvg-id="LIMACHI MOVIL TV" tvg-logo="https://i.postimg.cc/WzzqTYPd/ESTACION-TV.png" group-title="PELICULAS",ESTACION  TV HD
+https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk3tjfDy/Universal-Reality.png",UNIVERSAL REALITY HD
 http://200.52.150.5:8000/play/a0sz/index.m3u8
 #EXTINF:-1 group-title="FREE TV" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg",FREE TV ACCION
