@@ -99,6 +99,8 @@ http://45.144.112.150:80/canalplussport/mpegts
 http://45.144.112.150:80/itv/mpegts
 #EXTINF:-1 group-title="*MUSIC TV" tvg-logo="https://cdn.m3u.cl/logo/1566_Latina_TV.png",LATINA TV MUSIC HD
 https://paneltv.online:1936/8044/8044/chunklist_w1620388534.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png",CTV CAPRICHO TV
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 #EXTINF:-1tvg-id="LA MEGA MUNDIAL"tvg-name="LA MEGA MUNDIAL"tvg-logo="https://i.postimg.cc/B6Xkn7TS/LA-MEGA-MUDIAL-1.png"group-title="*MUSIC TV",LA EGA MUNDIAL HD
 https://server40.servistreaming.com:3477/live/lamegamundiallive.m3u8
 #EXTINF:-1 tvg-id="⭐ ESTACION  TV "tvg-name="⭐ ESTACION TV "tvg-logo="https://i.postimg.cc/WzzqTYPd/ESTACION-TV.png"group-title="⭐PELICULAS⭐",⭐|➾ESTACION TV
