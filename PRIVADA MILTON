@@ -189,13 +189,9 @@ http://181.176.172.66:9000/play/a04e/index.m3u8
 http://181.176.172.66:9000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",LATINA TV PERU HD
 http://181.188.133.149:9981/stream/channelid/499984467?profile=pass
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",LATINA TV PERU SD
-http://38.25.45.241:50000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/43dKL4yX/AMERICA-TV.png",AMERICA TV PERU HD
 http://181.78.23.26:45000/play/a029
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU SD
-http://38.25.45.241:50000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://canalrumbatv.com/wp-content/uploads/2022/03/page-logo-white-1.png",RUMBA TV SD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.ipuntotv.com/IMAGES/RumbaTV-logo.png",RUMBA TV SD
 http://181.78.23.26:45000/play/a04k
 #EXTINF:-1 group-title="INTERNACIONAL"tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/LXJsHP6k/golden-plus.png",GOLDEN PLUS TV HD
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
