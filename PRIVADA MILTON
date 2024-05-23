@@ -303,7 +303,7 @@ https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA"tvg-logo="https://i.postimg.cc/xjmw48dC/BAYRES-EL-MEJOR.png", BAYRES TV | AR
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 group-title="⭐PELICULAS⭐"tvg-logo="https://i.postimg.cc/2SfKbywX/ORIGEN-TV.png",ORIGEN TV * | CL
-https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
+https://tv.streaming-chile.com:8081/origentvsd/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/kXyBVR6L/BARBE-TV-ESP.png",BARBE TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/bNFfFqKs/AGENDA-54-ESP.png",AGENDA 56TV
