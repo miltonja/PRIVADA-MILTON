@@ -294,34 +294,10 @@ https://inliveserver.com:1936/18506/18506/chunklist_w237701265.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="EU_SPAIN" tvg-logo="https://i.postimg.cc/hjQmP0g4/24-HORAS.png",24h Catalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
-#EXTINF:-1 tvg-id="FRANCE 24" tvg-logo="https://i.postimg.cc/fyh3gG1P/france-24-espa-olmodif.png" group-title="News",FRANCE 24 TV HD
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",FRANCE 24 EN ESPAÑOL
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 group-title="LG_Channels"tvg-logo="https://i.postimg.cc/13qpXzxp/NEWKFOOD.png",NEW  K FOOD (ES)
-https://newidco-newkfood-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BILLARD TV"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/029DytY4/BILLARD-TV.png"group-title="⚽DEPORTES⚽",⚽| BILLARD TV 
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="WORLD BILLARDS TV"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/j21Xqsmd/World-Billiards-logo-svg.png"group-title="⚽DEPORTES⚽",⚽|WORLD BILLARDS TV  
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3726&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=27b9467f-5a92-4ae0-b13c-e4cb85608690&ads.user_type=visitor&ads.wurl_channel=967
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhRjN7WK/WORLD-POKER-TOUR-modif.png" group-title="DEPORTES",WORLD POKER TOUR
-https://7c273dd1cf4c41c0bb8b99335d0bc5a2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_WorldPokerTour-1/playlist.m3u8?ads.wurl_channel=1155&ads.wurl_name=WorldPokerTour-1&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-ESBC40000248" tvg-id="ESBC40000248" tvg-chno="4972" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/41/ESBC40000248_20220323T082046.png" group-title="Películas",Dark Matter TV
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_es_darkmatter_001.m3u8?ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_channelId=9992561&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1 group-title="ARGENTINA"tvg-logo="https://i.postimg.cc/D019jWtJ/GEN-TV-ESP.png",GEN TV 17.4TV * |HD| 
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
-#EXTINF:-1 tvg-id="SEO PELICULAS" tvg-logo="https://i.postimg.cc/mrHhM5zQ/SEO-TV-PELICULAS-FHD.png" group-title="PELICULAS",SEO TV PELÍCULAS
-https://live.seo.tv.bo/live/SEO-4.m3u8
-#EXTINF:-1 tvg-id="SEO SERIES" tvg-logo="https://i.postimg.cc/rp2LGjf6/SEO-TV-MEJOR.png" group-title="SERIES",SEO TV SERIES
-https://live.seo.tv.bo/live/SEO-9.m3u8
-#EXTINF:-1 tvg-id="SEO DEPORTES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-deportes-bo.png" group-title="DEPORTES",SEO TV DEPORTES
-https://live.seo.tv.bo/live/SEO-5.m3u8
-#EXTINF:-1 tvg-id="SEO TV FHD" tvg-logo="https://i.postimg.cc/MK3W0F6V/SEO-TV-FHD.png" group-title="BOLIVIA",SEO TV 1 HD
-https://live.seo.tv.bo/live/SEO-1.m3u8
-#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://i.postimg.cc/3xWkrR3f/SEO-TV-KIDS-FHD.png" group-title="KIDS",SEO TV KIDS
-https://live.seo.tv.bo/live/SEO-2.m3u8
-#EXTINF:-1 tvg-id="SEO NOVELAS 2" tvg-logo="https://i.postimg.cc/sg8vMrXj/SEO-TV-NOVELAS-HD.png" group-title="NOVELAS",SEO TV 2 NOVELAS
-https://live.seo.tv.bo/live/SEO-6.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/Znh7NwYf/Mega-Cine-TV-esp.png",MEGA CINE TV | DO
 https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA"tvg-logo="https://i.postimg.cc/xjmw48dC/BAYRES-EL-MEJOR.png", BAYRES TV | AR
