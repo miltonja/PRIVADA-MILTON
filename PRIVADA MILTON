@@ -315,22 +315,12 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VCLASSICTV" tvg-logo="https://i.postimg.cc/8cnR8Wc0/VCLASSICTV.png"group-title="MUSICA",VClASSICTV * | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Y2VSwCDV/TV-Exitos.png",TV EXITOS HD | DO
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?tvflixhd
-#EXTINF:-1 tvg-id="1381" tvg-name="Maxima TV" tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png", MAXIMA TV | AR
-https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="213" tvg-name="Play Television" tvg-logo="https://i.postimg.cc/QNqB6TD4/PLAY-TELEVISION.png", PLAY TELEVISION | AR
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://i.imgur.com/F2Qv4Kt.png",RED TV TV
 https://live.rednet.rs/providus/redtv_multi.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA"tvg-logo="https://i.postimg.cc/T2S732Bx/fabulosa-fm990-espa-ol.png",FABULOSA FM 990 | AR
-http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/y8ZLhHbJ/PLANETA-TV-VAGUA.png", PLANETA TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpTyQjN0/TIV-TELEVISION.png" group-title="NORTE", TIV TRES ISLETAS CHACO
-https://inliveserver.com:1936/14044/14044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5KgCWQv/MEGA-TV.png" group-title="NORTE", MEGA TV CHACO
-https://vivo.solumedia.com:19360/megatv/megatv.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/x83p3ksx/MAKINA-TV-ESP.png",MAKINA TV
 https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png",LIM TV | PY
