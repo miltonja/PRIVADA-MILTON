@@ -113,22 +113,16 @@ https://mediacp.us:8081/504tvhn/index.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBA1400008NE.m3u8
 #EXTINF:-1 tvg-id="+ CINE TV " tvg-name="+ CINE TV" tvg-logo="https://i.postimg.cc/Dw50vxX6/CINE-TV-HD.png"group-title="COLOMBIA",+ CINE TV HD
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="VIWIX | TV ACCION " tvg-name="VIWIX | TV ACCION" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV_ACCION.png"group-title="COLOMBIA",VIWIX TV ACCION
-http://45.189.148.24:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="VIWIX | TV ESTRENOS " tvg-name="VIWIX | TV ESTRENOS" tvg-logo="https://i.postimg.cc/x8HRTdWb/VIWIX-TV_ESTRENOS.png"group-title="COLOMBIA",VIWIX TV ESTRENOS
 http://45.189.148.24:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="VIWIX | TV MUSIC " tvg-name="VIWIX | TV MUSIC" tvg-logo="https://i.postimg.cc/qRWwTKZT/VIWIX-TV_MUSIC.png"group-title="COLOMBIA",VIWIX TV MUSIC
 http://45.189.148.24:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="VIWIX | TV SERIES " tvg-name="VIWIX | TV SERIES" tvg-logo="https://i.postimg.cc/fRGvGDGt/VIWIX-TV_SERIES.png"group-title="COLOMBIA",VIWIX TV SERIES
-http://45.189.148.24:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="VIWIX | TERROR " tvg-name="VIWIX | TERROR" tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV_TERROR.png"group-title="COLOMBIA",VIWIX TV TERROR
 http://45.189.148.24:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="AZUFRAL CANAL REGIONAL"group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/B6k4wLH6/CANAL-AZUFRAL.png",AZUFRAL CANAL REGIONAL HD
 https://tvlatina.live:1936/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-id="CableSurTV.co"group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/GmFQX5V9/CABLE-SUR-IPIALES.png",CABLE SUR  TV
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-id="TVIpiales.co"group-title="COLOMBIA" tvg-logo="https://diocesisdeipiales.org/wp-content/uploads/2023/05/LOGO-TV-IPIALES-EN-BLANCO-768x251.png",TV IPIALES
-https://movil.ejeserver.com/live/tvipiales.m3u8
 #EXTINF:-1 tvg-id="Telepasto.co"group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/C5tZVv45/TELEPASTO-1.png",TELE PASTO HD
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
 #EXTINF:-1 tvg-id="DAMAS TV"tvg-logo="https://i.postimg.cc/2j1R5BPC/DAMAS-TV-MEJOR.png" group-title="PELICULAS",DAMAS TV HD
