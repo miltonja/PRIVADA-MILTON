@@ -270,38 +270,20 @@ https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 #EXTINF:-1 tvg-id="1400" tvg-name="PORTAL FOX MIX" tvg-logo="https://i.postimg.cc/k5CsvJwj/PORTAL-FOX-MIX-NUEVO.png",PORTAL FOX MIX * |HD| VE
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.postimg.cc/xd8bhK4V/LA-FABRICA-TV-ESP.png",LA FABRICA TV * |HD|
-https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/8iDabJk.png",FARRA PLAY HD (PARAGUAY)
 http://159.203.148.226/live/farra_src.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/hvPyzjwd/HIT-FM-2020-logo-svg.png",FM HIT TV * |HD|
-https://6362ca6f1fc28.streamlock.net/radiofmhit/radiofmhit/playlist.m3u8?PlaylistM3Uronnyjaguar
-#EXTINF:-1 tvg-id="CABLE NOTICIAS"tvg-logo="https://i.postimg.cc/qRzwz4pC/Cable-Noticias-azul.png"group-title="COLOMBIA",CABLENOTICIAS | Bogotà | 
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png", LA DESPECHADA TV* |HD|CO
-https://servidordevideo.com:3077/live/despechadalive.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/TwMmm6xB/Global-TV-logo.png",GLOBAL TV * |HD|  
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1 tvg-id="854" tvg-name="TV Quinta Region" tvg-logo="https://i.postimg.cc/q7hr1kqh/TV-QUINTA-REGION-ESP.png", TV QUINTA REGION | CL
 https://stmv5.voxtvhd.com.br/tvquintaregion/tvquintaregion/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="HUILA TV"tvg-logo="https://i.postimg.cc/PqybxmdV/HUILA-TV-ESP.png"group-title="COLOMBIA",HUILA TV * |HD|  
-https://plataformavideo.com:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-id="MÁS TV"tvg-logo="https://i.postimg.cc/JznNLQxd/MAS-TELEVISION-COLOMBIA.png"group-title="COLOMBIA",MÁS TV
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="4MUSIC HD" tvg-logo="https://i.postimg.cc/VsTP6DN3/4-MUSIC-HD-ESP.png" group-title="MUSICA",➾ 4 MUSIC  TV * |HD|
 https://cloudvideo.servers10.com:8081/8032/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1 MUSS HD" tvg-logo="https://i.postimg.cc/rp72rfMn/1music.png"group-title="MUSICA",➾,1MUS  TV * |HD|  
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/cLc6cNCd/TOP-MAX.png",TECHSCIENCE 365 
-https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/jqPB8BV0/THE-MOST-EXTREME-ESP.png",XTREMA ANIMAL 
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/C1Nnmvpf/MegaPlus.png",MEGA
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 group-title="France" tvg-logo="https://i.postimg.cc/7LSns0D7/SCREAM-IN.png",SCREAM'IN
-https://d1jpd8j6nh8nwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uuryop9dra2jr-prod/screamin/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="ESTILO DE VIDA " tvg-logo="https://i.postimg.cc/J0NXd5Gr/HOLA-PLAY-2.png",HOLA TV * |HD|
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 group-title="PELICULAS*" tvg-logo="https://i.postimg.cc/RFFpBwMV/CANELA-TV.png",CANELA TV HD
 https://cnm-cn.otteravision.com/out/v1/9b403726f16b42cdb83b8af6b36aa01a/index.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/T3n9Xmyz/PULA-TV.png",PULA TV HD
