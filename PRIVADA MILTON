@@ -101,6 +101,8 @@ http://45.144.112.150:80/itv/mpegts
 https://paneltv.online:1936/8044/8044/chunklist_w1620388534.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png",CTV CAPRICHO TV
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1 tvg-id="⭐ ELIAS PEÑA TV "tvg-name="⭐ ELIAS PEÑA TV "tvg-logo="https://cdn.m3u.cl/logo/781_Elias_Pina_TV.png"group-title="⭐PELICULAS⭐",⭐|➾ELIAS PEÑA TV
+https://cloud5.streaminglivehd.com:3123/live/ryetvrd2live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="⭐ ESTACION  TV "tvg-name="⭐ ESTACION TV "tvg-logo="https://i.postimg.cc/WzzqTYPd/ESTACION-TV.png"group-title="⭐PELICULAS⭐",⭐|➾ESTACION TV
 https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 group-title="FREE TV" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg",FREE TV ACCION
