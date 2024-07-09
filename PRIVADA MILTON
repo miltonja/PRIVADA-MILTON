@@ -75,21 +75,21 @@ http://190.14.242.93:8086/play/a02b
 http://200.59.188.3:8000/play/a00n
 #EXTINF:-1 group-title="|CO| Col" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",➾ CO |015 CORTO WIN
 http://190.60.36.103:8000/play/a06k
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/ultraBanda_NLogo-295x97.png",Utra HIT
+#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/85CNgNb3/ultra-hit.png",Utra HIT
 http://138.186.20.13:23200/play/a0fp
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png",ULTRA CINE
+#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/vmhbKc5f/Ultra-Cine.png",ULTRA CINE
 http://138.186.20.13:23200/play/a0ew
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraDocuLogoBlack.png",ULTRA DOCUMENTALES
+#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/SxWyWZsZ/Ultra-Docu.png",ULTRA DOCUMENTALES
 http://138.186.20.13:23200/play/a0ex
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamiliaLogoBlack.png",ULTRA FAMILIA
+#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/N0BQb12Q/Ultra-Familia.png",ULTRA FAMILIA
 http://138.186.20.13:23200/play/a0et
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidzLogoBlack.png",ULTRA KIDS
+#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/sgFjGFVQ/Ultra-Kidz.png",ULTRA KIDS
 http://138.186.20.13:23200/play/a0f0
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMachoLogoBlack.png",ULTRA MACHO
+#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/Dy4fzfK3/Ultra-Macho.png",ULTRA MACHO
 http://138.186.20.13:23200/play/a0eu
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMexLogoBlack.png",ULTRA MEX
+#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/wxGTHyZk/UltraMex.png",ULTRA MEX
 http://138.186.20.13:23200/play/a0ev
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/ultraBanda_NLogo-295x97.png",ULTRA MUSIC
+#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/kGBJKq68/ultramusic.png",ULTRA MUSIC
 http://138.186.20.13:23200/play/a0f3
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/JhBp7T6M/TELE-HIT-MUSICA.png",Telehit Latino
 http://138.186.20.13:23200/play/a0gz
