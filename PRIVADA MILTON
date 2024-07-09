@@ -105,6 +105,10 @@ http://138.186.20.13:23200/play/a0dv
 http://138.186.20.13:23200/play/a08x
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE-PREMIUM.png",Cine Premium HD
 http://138.186.20.13:23200/play/a0dt
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png",467 | Capricho TV || ECUADOR
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.imgur.com/qZzSOeU.png",468 |Radio Cuenca Estéreo|| ECUADOR 
+https://eu1.servers10.com:8081/8074/index.m3u8
 #EXTINF:-1 group-title="*MUSIC TV" tvg-logo="https://cdn.m3u.cl/logo/1566_Latina_TV.png",LATINA TV MUSIC HD
 https://paneltv.online:1936/8044/8044/chunklist_w1620388534.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png",CTV CAPRICHO TV
