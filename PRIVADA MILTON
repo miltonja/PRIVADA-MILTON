@@ -111,7 +111,7 @@ http://200.59.188.3:8000/play/a00n
 http://190.60.36.103:8000/play/a06k
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO |026 CORTO WIN SPORTS 21 ENERO
 http://200.59.188.3:8000/play/a00n
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/1tFQDxHf/CARACOL-ESP.png",❄️|➾CARACOL NOTICIAS TV
 http://190.60.40.37:12500/play/a06b/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png"❄️|➾,CARACOL NOTICIAS TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
