@@ -111,20 +111,60 @@ http://200.59.188.3:8000/play/a00n
 http://190.60.36.103:8000/play/a06k
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO |026 CORTO WIN SPORTS 21 ENERO
 http://200.59.188.3:8000/play/a00n
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/1tFQDxHf/CARACOL-ESP.png",❄️|➾CARACOL NOTICIAS TV
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
 http://190.60.40.37:12500/play/a06b/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png"❄️|➾,CARACOL NOTICIAS TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1 group-title=""❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
 http://190.60.40.37:12500/play/a0be/index.m3u8
-#EXTINF:-1 group-title=""❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/v8N29BXR/RCN-INTERNACIONAL.png",❄️|➾RCN HD
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
 http://190.61.42.218:9000/play/a057
-#EXTINF:-1 group-title=""❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
 http://190.61.42.218:9000/play/a058
-#EXTINF:-1 group-title=""❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/jy6NXHI.png",❄️|➾UNO Hd
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/jy6NXHI.png",❄️|➾UNO Hd
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 group-title=""❄️COLOMBIA❄️"tvg-logo="https://i.imgur.com/jy6NXHI.png",❄️|➾UNO Hd
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.imgur.com/jy6NXHI.png",❄️|➾UNO Hd
 http://190.61.42.218:9000/play/a04u
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/K4SLPvTY/CANTINA-TV-ESP.png",❄️|➾Cantina TV | VE
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/RF49W8x7/CANAL-VISION-DORADA-COL.png",❄️|➾CANAL VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/T1w7dSu.png",❄️|➾RANCHENATO TV| SD | Colombia
+http://iptvcolombia.ddns.net:1936/ranchenato/ranchenato_360p/chunklist_w1171414734.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/ry49Mz39/RED-MAS.png",❄️|➾RED MAS
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/01.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/7hmhMp45/CNC-MEDELLIN.png"❄️|➾,CNC Medellín
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/PqybxmdV/HUILA-TV-ESP.png",❄️|➾Huila TV
+https://plataformavideo.com:19360/8020/8020.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/k4RPyrjX/MAS-TELEVISION-ESP.png",❄️|➾Más TV
+https://video.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png",❄️|➾Canal Nets
+https://video.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/39hy97J.png",❄️|➾TELEPACIFICO |Santiago de Cali | Valle del Cauca
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/152Y54xj/CANAL-CAPITAL.png",❄️|➾CANAL CAPITAL
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/tTJbV8Mx/CANAL-INSTITUCIONAL.png",❄️|➾CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/6ppyBrV5/SE-AL-COLOMBIA.png",❄️|➾SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/iBrl0b8.png",❄️|➾Noticiero 90 Minutos 
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/YS6vsHrH/ATN-Televisi-n.png",❄️|➾ATN Televisión (Cúcuta | Norte de Santander) 
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/3w8Y6CBj/ATV-SOACHA-esp.png",❄️|➾ATV SOACHA (CUNDINAMARCA)
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/BvLJ5QQH/CTV-BARRANQUILLA.png",❄️|➾CTV BARRANQUILLA | HD |
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w387031486.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/JhJ94yz6/CALI-TV.png",❄️|➾Cali TV | SD | Cali
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://www.telesanjacinto.com/wp-content/uploads/2022/04/logo-3@4x.png",❄️|➾Tele San Jacinto
+https://video.ejeserver.com/live/telesanjacinto.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/DzCPzymN/TELEISLAS.png",❄️|➾Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/2SmPVc0z/05-02-17-logo-Canal-Trece-color-Naranja.png",❄️|➾Trece + (1080p)
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/85CNgNb3/ultra-hit.png",Utra HIT
 http://138.186.20.13:23200/play/a0fp
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/vmhbKc5f/Ultra-Cine.png",ULTRA CINE
