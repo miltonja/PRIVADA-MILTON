@@ -127,6 +127,8 @@ http://190.60.40.37:12500/play/a0be/index.m3u8
 http://190.61.42.218:9000/play/a057
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
 http://190.61.42.218:9000/play/a058
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/wvmY1yj5/Rcn-xtra-2-ESP.png",❄️|➾RCN EXTRA HD
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png",❄️|➾RCN HD2
 http://181.205.77.118:4849/play/RCNHD2
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/8Pb7CnYT/image.jpg",❄️|➾,Agenda Al Día TV 
