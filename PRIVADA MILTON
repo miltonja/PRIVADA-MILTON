@@ -129,6 +129,8 @@ http://177.53.155.236:8000/play/a03o/index.m3u8
 http://190.61.42.218:9000/play/a057
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
 http://190.61.42.218:9000/play/a058
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/XJXKBPzS/RCN-MAS-ESP.png",❄️|➾RCN Mas+ CO HD
+https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/wvmY1yj5/Rcn-xtra-2-ESP.png",❄️|➾RCN EXTRA HD
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png",❄️|➾RCN HD2
