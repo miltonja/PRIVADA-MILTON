@@ -125,6 +125,10 @@ http://181.78.23.26:45000/play/a02g
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
 http://190.60.40.37:12500/play/a0be/index.m3u8
+#EXTINF:-1tvg-id="LOVE NATURE TV" tvg-name="|❄️ LOVE NATURE TV"tvg-logo="https://i.postimg.cc/rmFBD9kn/love-nature.png"❄️COLOMBIA ❄️",❄️|➾LOVE NATURE TV HD
+http://177.53.155.236:8000/play/a01c/index.m3u8
+#EXTINF:-1tvg-id="RCN NOVELAS" tvg-name="|❄️ RCN NOVELAS"tvg-logo="https://i.postimg.cc/7hXPkRJB/RCN-NOVELAS.png"❄️COLOMBIA ❄️",❄️|➾RCN NOVELAS HD
+http://177.53.155.236:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
 http://190.61.42.218:9000/play/a057
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
