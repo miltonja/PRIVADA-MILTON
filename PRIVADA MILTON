@@ -221,6 +221,8 @@ https://eu1.servers10.com:8081/8074/index.m3u8
 https://paneltv.online:1936/8044/8044/chunklist_w1620388534.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png",CTV CAPRICHO TV
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1 tvg-id="TV PRIME PELICULAS"tvg-logo="https://i.postimg.cc/y8kZtBZr/TV-Prime-Peliculas.png" group-title="⭐ PELICULAS ⭐",⭐|➾ TV PRIME PELICULAS | CL
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="⭐PELICULAS⭐" tvg-logo="https://cdn.m3u.cl/logo/781_Elias_Pina_TV.png",⭐|➾ELIAS PEÑA TV
 https://cloud5.streaminglivehd.com:3123/live/ryetvrd2live.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="⭐PELICULAS⭐" tvg-logo="https://i.postimg.cc/WzzqTYPd/ESTACION-TV.png",⭐|➾ESTACION TV
