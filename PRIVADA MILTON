@@ -1,8 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|001 WIN SPORTS PLUS HD-JULIO 18-2024
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001 WIN SPORTS PLUS HD-JULIO 21-2024
+http://179.1.209.46:8000/play/a07a/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002WIN SPORTS PLUS HD-JULIO 21-2024
+http://168.90.14.199:8082/play/a0ra/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0003 WIN SPORTS PLUS HD-JULIO 21-2024
+http://181.78.4.250:8097/play/a035/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0004 WIN SPORTS PLUS HD-JULIO 18-2024
 http://131.196.13.102:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|001 WIN SPORTS PLUS-JULIO 12-2024
-http://190.61.55.107:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0005 WIN SPORTS PLUS-ABRIL-28-2024
+http://190.95.220.212:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|002 WIN SPORTS PLUS-JULIO 12-2024
 http://190.61.46.126:9000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|003 WIN SPORTS PLUS-JULIO 11-2024
@@ -45,14 +51,8 @@ http://200.69.73.34:6480/play/a00n/index.m3u8
 http://190.61.55.186:1010/play/a00n/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|026-WIN PLUS |MAYO-06
 http://45.71.252.21:3000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|027-WIN PLUS |MAYO-14
-http://181.205.77.118:4849/play/CH14
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/8cqZNGdL/WIN_PLUS_AZUL.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|028-WIN PLUS |MAYO-05
 http://190.60.38.254:1010/play/a08x/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|029- WIN PLUS |MARZO-23
-http://190.186.131.21:81/play/a0la/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|030- SOLO VOZ |MARZO-23
-http://190.186.131.21:81/play/a0k9/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| 031 WIN PLUS |MARZO-15
 http://186.148.195.206:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/Wp7ywq5W/win-sports-Amarillo.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|032-WIN PLUS |MARZO-04
@@ -73,18 +73,10 @@ http://170.239.205.99:4050/play/CH1
 http://190.60.36.103:8000/play/a035
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|040 CORTO WIN PLUS |ENERO 21
 http://200.59.188.3:8000/play/a028
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |003 Win Sports JULIO-12 2024
-http://190.61.46.126:9000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |004 Win Sports JULIO-11 2024
 http://190.108.77.197:1010/play/a096/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |005 Win Sports JULIO-09 2024
 http://45.232.148.101:8000/play/a072/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |006 Win Sports JULIO-07 2024
-http://168.194.103.230:4001/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |007 Win Sports JULIO-07 2024
-http://181.163.39.49:8000/play/a05l
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |010 Win Sports JULIO-04 2024
-http://201.219.246.114:9876/play/a0it/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |012 Win Sports JUNIO-27 2024
 http://190.61.44.34:1010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |013 Win Sports JUNIO-27 2024
@@ -97,8 +89,6 @@ http://190.61.44.34:1010/play/a00b/index.m3u8
 http://45.179.164.30:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |018 Win Sports mayo 29-2024
 http://38.7.101.90:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |020 Win Sports MAYO-14
-http://181.205.77.118:4849/play/CH16
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |021 Win Sports MAYO-05
 http://190.60.38.254:1010/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Col",➾ CO |022 CORTO WIN JUNIO-19
