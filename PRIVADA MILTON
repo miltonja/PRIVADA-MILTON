@@ -29,8 +29,6 @@ http://190.61.42.218:9000/play/a07s
 http://190.60.40.37:12500/play/a0bl/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|005 WIN PLUS NUEVO | JUNO-27-2024
 http://190.60.40.37:12500/play/WINMAS/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|006 WIN SPORTS PLUS | juno-16-2024
-http://190.119.40.74:8200/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|007 WIN SPORTS PLUS | MAYO-29-2024
 http://45.179.164.30:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|008 WIN SPORTS PLUS | MAYO-29-2024
@@ -51,10 +49,10 @@ http://45.181.122.201:8081/play/a01y
 http://200.59.188.3:8000/play/a028
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|018 CORTO-WIN PLUS |ABRIL-30
 http://170.239.205.99:4050/play/CH1
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/rybnSG6z/WIN-PLUS-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001 WIN SPORTS SE PGA-JULIO 30-2024
+http://186.148.195.206:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|019 CORTO-WIN PLUS |ABRIL-25
 http://190.60.36.103:8000/play/a035
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/rybnSG6z/WIN-PLUS-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001 WIN PLUS SE PEGA-JULIO 30-2024
-http://186.148.195.206:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports AGOST-03 2024
 http://181.78.15.155:9800/play/WINNORMAL
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports JULIO-11 2024
@@ -65,8 +63,6 @@ http://201.219.246.114:9876/play/a0it/index.m3u8
 http://190.61.44.34:1010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0004 Win Sports JUNIO-27 2024
 http://190.60.40.165:1010/play/a098/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports juni-16 2024
-http://190.119.40.74:8200/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0007 Win Sports mayo 29-2024
 http://45.179.164.30:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0008 Win Sports mayo 29-2024
@@ -79,6 +75,8 @@ http://138.186.20.13:23200/play/a04s
 http://190.14.242.93:8086/play/a02b
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Col",➾ CO |0012 CORTO WIN MAYO-03
 http://200.59.188.3:8000/play/a00n
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Col",➾ CO |0013 CORTO WIN 
+http://190.60.36.103:8000/play/a06k
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
 http://204.199.89.187:14002/play/a005/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL RESPALDO TDT CUCUTA
