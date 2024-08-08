@@ -155,6 +155,12 @@ https://video.ejeserver.com/live/telesanjacinto.m3u8
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️"tvg-logo="https://i.postimg.cc/2SmPVc0z/05-02-17-logo-Canal-Trece-color-Naranja.png",❄️|➾Trece + (1080p)
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="UNIVISIONEAST TV"tvg-logo="https://i.postimg.cc/PJbfJs9k/223-2234216-univision-logo-white.png"group-title="INTERNACIONAL", UNIVISION EAST
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+#EXTINF:-1 tvg-name="UNIVISION MIAMI TV"tvg-logo="https://i.postimg.cc/dtDGh5nT/800px-Logo-Univision-2019-svg.png"group-title="INTERNACIONAL", UNIVISION MIAMI
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+#EXTINF:-1 tvg-id="UNIMAS TV"tvg-name="UNIMAS MIAMI TV"tvg-logo="https://i.postimg.cc/prPS3RZr/UNIMAS.png"group-title="INTERNACIONALES",UNIMAS USA HD
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/85CNgNb3/ultra-hit.png",Utra HIT
 http://138.186.20.13:23200/play/a0fp
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/vmhbKc5f/Ultra-Cine.png",ULTRA CINE
