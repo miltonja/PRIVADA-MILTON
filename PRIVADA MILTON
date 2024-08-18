@@ -155,6 +155,8 @@ http://190.14.228.107:8000/play/a01r
 http://190.14.228.107:8000/play/a01s
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/N0KphCtB/MI-MUSICA-ROMANTICA.png",Mi Musica ROMANTICA
 http://190.14.228.107:8000/play/a01t
+#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png",TELE HIT MUSICA
+http://190.14.228.107:8000/play/a02e
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/4xLBSkrW/MI-MUSICA-SALSA.png",Mi Musica SALSA
 http://190.14.228.107:8000/play/a01u
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png",CINE FAMILIAR HD
