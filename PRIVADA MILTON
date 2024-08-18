@@ -150,17 +150,21 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u
 #EXTINF:-1 tvg-id="UNIMAS TV"tvg-name="UNIMAS MIAMI TV"tvg-logo="https://i.postimg.cc/prPS3RZr/UNIMAS.png"group-title="INTERNACIONALES",UNIMAS USA HD
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/KvhjjbVt/MI-MUSICA-POPULAR.png",Mi Musica Popular
-http://138.186.20.13:23200/play/a0ej
+http://190.14.228.107:8000/play/a01r
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/hjrgpJcB/MI-MUSICA-REGGATON.png",Mi Musica Reggaeton
-http://138.186.20.13:23200/play/a0ei
+http://190.14.228.107:8000/play/a01s
+#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/N0KphCtB/MI-MUSICA-ROMANTICA.png",Mi Musica ROMANTICA
+http://190.14.228.107:8000/play/a01t
+#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/4xLBSkrW/MI-MUSICA-SALSA.png",Mi Musica SALSA
+http://190.14.228.107:8000/play/a01u
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png",CINE FAMILIAR HD
-http://138.186.20.13:23200/play/a0du
+http://190.14.228.107:8000/play/a00l
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE-HISPANO.png",Cine Hispano HD
-http://138.186.20.13:23200/play/a0dv
+http://190.14.228.107:8000/play/a00m
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/hjHCgfJT/CINE-LATINO.png",Cine Latino
 http://138.186.20.13:23200/play/a08x
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE-PREMIUM.png",Cine Premium HD
-http://138.186.20.13:23200/play/a0dt
+http://190.14.228.107:8000/play/a00n
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png",467 | Capricho TV || ECUADOR
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.imgur.com/qZzSOeU.png",468 |Radio Cuenca Estéreo|| ECUADOR 
