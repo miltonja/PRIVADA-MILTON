@@ -149,24 +149,6 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 #EXTINF:-1 tvg-id="UNIMAS TV"tvg-name="UNIMAS MIAMI TV"tvg-logo="https://i.postimg.cc/prPS3RZr/UNIMAS.png"group-title="INTERNACIONALES",UNIMAS USA HD
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/85CNgNb3/ultra-hit.png",Utra HIT
-http://138.186.20.13:23200/play/a0fp
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/vmhbKc5f/Ultra-Cine.png",ULTRA CINE
-http://138.186.20.13:23200/play/a0ew
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/SxWyWZsZ/Ultra-Docu.png",ULTRA DOCUMENTALES
-http://138.186.20.13:23200/play/a0ex
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/N0BQb12Q/Ultra-Familia.png",ULTRA FAMILIA
-http://138.186.20.13:23200/play/a0et
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/sgFjGFVQ/Ultra-Kidz.png",ULTRA KIDS
-http://138.186.20.13:23200/play/a0f0
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/Dy4fzfK3/Ultra-Macho.png",ULTRA MACHO
-http://138.186.20.13:23200/play/a0eu
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/wxGTHyZk/UltraMex.png",ULTRA MEX
-http://138.186.20.13:23200/play/a0ev
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/kGBJKq68/ultramusic.png",ULTRA MUSIC
-http://138.186.20.13:23200/play/a0f3
-#EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/JhBp7T6M/TELE-HIT-MUSICA.png",Telehit Latino
-http://138.186.20.13:23200/play/a0gz
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/KvhjjbVt/MI-MUSICA-POPULAR.png",Mi Musica Popular
 http://138.186.20.13:23200/play/a0ej
 #EXTINF:-1 group-title="CINE  MUSICA" tvg-logo="https://i.postimg.cc/hjrgpJcB/MI-MUSICA-REGGATON.png",Mi Musica Reggaeton
