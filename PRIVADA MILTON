@@ -3,11 +3,13 @@
 http://8.243.126.131:8000/play/a07f/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/sXg6JwDG/WIN-PLUS-BLANCO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002 WIN SPORTS PLUS HD-AGOSTO 18-2024
 http://190.144.97.26:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/52Wsrx2V/WIN-PLUS-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002 WIN SPORTS PLUS HD-JULIO 24-2024
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/sXg6JwDG/WIN-PLUS-BLANCO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0003 WIN SPORTS PLUS HD-AGOSTO 25-2024
+http://190.5.200.179:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/52Wsrx2V/WIN-PLUS-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0004 WIN SPORTS PLUS HD-JULIO 24-2024
 http://181.78.4.250:8097/play/a035/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0004 WIN SPORTS PLUS HD-JULIO 17-2024
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0005 WIN SPORTS PLUS HD-JULIO 17-2024
 http://131.196.13.102:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/rybnSG6z/WIN-PLUS-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0005 WIN SPORTS PLUS HD-JULIO 04-2024
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/rybnSG6z/WIN-PLUS-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0006 WIN SPORTS PLUS HD-JULIO 04-2024
 http://201.219.246.114:9876/play/a0ar/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/3wBfpP7H/WIN-PLUS-TOMATE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0007 WIN SPORTS PLUS HD-JUNIO-27-2024
 http://190.61.44.34:1010/play/a050/index.m3u8
