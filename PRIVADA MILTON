@@ -81,11 +81,11 @@ http://190.60.38.254:1010/play/a098/index.m3u8
 http://190.14.242.93:8086/play/a02b
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Col",➾ CO |0013 CORTO WIN MAYO-03
 http://200.59.188.3:8000/play/a00n
-#EXTINF:-1 tvg-name="⚽|AZTECA 7 " tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,AZTECA 7 HD
+#EXTINF:-1 tvg-name="⚽|AZTECA 7 " tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| AZTECA 7 HD
 http://190.92.10.66:4000/play/a007/index.m3u8
-#EXTINF:-1 tvg-name="⚽|SKY SPORTS BUNDESLIGA " tvg-logo="https://sender.epglogos.de/302x190_w/623.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,BUNDESLIGA
+#EXTINF:-1 tvg-name="⚽|SKY SPORTS BUNDESLIGA " tvg-logo="https://sender.epglogos.de/302x190_w/623.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| SKY BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 tvg-name="⚽|SKY SPORTS " tvg-logo="https://i.postimg.cc/ZnbD05g8/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,SKY SPORT
+#EXTINF:-1 tvg-name="⚽|SKY SPORTS " tvg-logo="https://i.postimg.cc/ZnbD05g8/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| SKY SPORT
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-name="⚽|SKY SPORTS LA LIGA " tvg-logo="https://i.postimg.cc/6qcghvRb/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| SKY SPORT LA LIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
@@ -95,8 +95,6 @@ http://190.92.10.66:4000/play/a004/index.m3u8
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name="⚽|TUDN " tvg-logo="https://i.postimg.cc/zfX9vnrZ/TUDN-LOGO-COLOR.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,TUDN
 http://190.92.10.66:4000/play/a005/index.m3u8
-#EXTINF:-1 tvg-name="⚽|FUTV "tvg-logo="https://i.postimg.cc/y8zcTZfT/20200720191227-20200709160812futv-x2.jpg" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| FUTV
-http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-name="⚽|BEI SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="⚽|BEIN SPORTS 4 " tvg-logo="https://i.postimg.cc/mZYq6JCz/be-IN-SPORTS4-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|BEIN SPORTS 4 HD
