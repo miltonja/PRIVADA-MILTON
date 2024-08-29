@@ -87,28 +87,28 @@ http://190.92.10.66:4000/play/a007/index.m3u8
 http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-name="⚽|SKY SPORTS " tvg-logo="https://i.postimg.cc/ZnbD05g8/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,SKY SPORT
 http://190.92.10.66:4000/play/a002/index.m3u8
-#EXTINF:-1 tvg-name="⚽|SKY SPORTS LA LIGA " tvg-logo="https://i.postimg.cc/6qcghvRb/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,SKY SPORT LA LIGA
+#EXTINF:-1 tvg-name="⚽|SKY SPORTS LA LIGA " tvg-logo="https://i.postimg.cc/6qcghvRb/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| SKY SPORT LA LIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 tvg-name="⚽|TELEMUNDO 51 " tvg-logo="https://i.postimg.cc/s2VBvppy/Telemundo-51-2018.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,TELEMUNDO 51
+#EXTINF:-1 tvg-name="⚽|TELEMUNDO 51 " tvg-logo="https://i.postimg.cc/s2VBvppy/Telemundo-51-2018.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| TELEMUNDO 51
 http://190.92.10.66:4000/play/a004/index.m3u8
-#EXTINF:-1 tvg-name="⚽|TIGO SPORTRS "tvg-logo="https://i.postimg.cc/TwXt7G6h/1280px-Tigo-Sports-logo.png"group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,TIGO CDN
+#EXTINF:-1 tvg-name="⚽|TIGO SPORTRS "tvg-logo="https://i.postimg.cc/TwXt7G6h/1280px-Tigo-Sports-logo.png"group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| TIGO CDN
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name="⚽|TUDN " tvg-logo="https://i.postimg.cc/zfX9vnrZ/TUDN-LOGO-COLOR.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,TUDN
 http://190.92.10.66:4000/play/a005/index.m3u8
-#EXTINF:-1 tvg-name="⚽|FUTV "tvg-logo="https://i.postimg.cc/y8zcTZfT/20200720191227-20200709160812futv-x2.jpg" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,FUTV
+#EXTINF:-1 tvg-name="⚽|FUTV "tvg-logo="https://i.postimg.cc/y8zcTZfT/20200720191227-20200709160812futv-x2.jpg" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| FUTV
 http://190.92.10.66:4000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-name="⚽|BEI SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|,beIN SPORTS XTRA ñ FHD
+#EXTINF:-1 tvg-name="⚽|BEI SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 4 " tvg-logo="https://i.postimg.cc/mZYq6JCz/be-IN-SPORTS4-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|,BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 4 " tvg-logo="https://i.postimg.cc/mZYq6JCz/be-IN-SPORTS4-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|BEIN SPORTS 4 HD
 http://humsab.xyz/IN_E4/index.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 5"tvg-logo="https://i.postimg.cc/28JKqYft/be-IN-SPORTS5-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|,BEIN SPORTS 5 HD‏
+#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 5"tvg-logo="https://i.postimg.cc/28JKqYft/be-IN-SPORTS5-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|BEIN SPORTS 5 HD‏
 http://humsab.xyz/IN_E5/index.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 7 "tvg-logo="https://i.postimg.cc/prKJywQw/be-IN-SPORTS7-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|,BEIN SPORTS 7 HD‏
+#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 7 "tvg-logo="https://i.postimg.cc/prKJywQw/be-IN-SPORTS7-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|BEIN SPORTS 7 HD‏
 http://humsab.xyz/IN_E7/index.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS " tvg-logo="https://i.postimg.cc/ZYVwSpD5/BEIN-SPORTS-HD.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,BEIN SPORTS 81080 HD
+#EXTINF:-1 tvg-name="⚽|BEIN SPORTS " tvg-logo="https://i.postimg.cc/ZYVwSpD5/BEIN-SPORTS-HD.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|BEIN SPORTS 81080 HD
 http://humsab.xyz/IN_E8/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/h41XzhmH/CINE-PREMIERE.png",❄️|➾CINE PREMIER 24/7 TV
-https://bit.ly/478mxBT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
 http://204.199.89.187:14002/play/a005/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL RESPALDO TDT CUCUTA
