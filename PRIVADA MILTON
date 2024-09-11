@@ -99,14 +99,6 @@ http://190.92.10.66:4000/play/a00b/index.m3u8
 http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-name="⚽|BEI SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 4 " tvg-logo="https://i.postimg.cc/mZYq6JCz/be-IN-SPORTS4-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|BEIN SPORTS 4 HD
-http://humsab.xyz/IN_E4/index.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 5"tvg-logo="https://i.postimg.cc/28JKqYft/be-IN-SPORTS5-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|BEIN SPORTS 5 HD‏
-http://humsab.xyz/IN_E5/index.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 7 "tvg-logo="https://i.postimg.cc/prKJywQw/be-IN-SPORTS7-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|BEIN SPORTS 7 HD‏
-http://humsab.xyz/IN_E7/index.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS " tvg-logo="https://i.postimg.cc/ZYVwSpD5/BEIN-SPORTS-HD.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|BEIN SPORTS 81080 HD
-http://humsab.xyz/IN_E8/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/h41XzhmH/CINE-PREMIERE.png",❄️|➾CINE PREMIER 24/7 TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
