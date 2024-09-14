@@ -81,8 +81,6 @@ http://38.7.101.90:8000/play/a04u/index.m3u8
 http://190.60.38.254:1010/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Col",➾ CO |0012 CORTO WIN MAYO-10
 http://190.14.242.93:8086/play/a02b
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Col",➾ CO |0013 CORTO WIN MAYO-03
-http://200.59.188.3:8000/play/a00n
 #EXTINF:-1 tvg-name="⚽|AZTECA 7 " tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,AZTECA 7 HD
 http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-name="⚽|SKY SPORTS BUNDESLIGA " tvg-logo="https://sender.epglogos.de/302x190_w/623.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,BUNDESLIGA
@@ -101,12 +99,6 @@ http://190.92.10.66:4000/play/a005/index.m3u8
 http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM⚽️",➾ ⚽|,beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 4 " tvg-logo="https://i.postimg.cc/mZYq6JCz/be-IN-SPORTS4-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|,BEIN SPORTS 4 HD
-http://humsab.xyz/IN_E4/index.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 5"tvg-logo="https://i.postimg.cc/28JKqYft/be-IN-SPORTS5-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|,BEIN SPORTS 5 HD‏
-http://humsab.xyz/IN_E5/index.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 7 "tvg-logo="https://i.postimg.cc/prKJywQw/be-IN-SPORTS7-DIGITAL-Mono.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|,BEIN SPORTS 7 HD‏
-http://humsab.xyz/IN_E7/index.m3u8
 #EXTINF:-1 tvg-name="⚽|BEIN SPORTS " tvg-logo="https://i.postimg.cc/ZYVwSpD5/BEIN-SPORTS-HD.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,BEIN SPORTS 81080 HD
 http://humsab.xyz/IN_E8/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
