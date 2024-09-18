@@ -103,6 +103,8 @@ http://190.92.10.66:4000/play/a00c/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="⚽|BEIN SPORTS " tvg-logo="https://i.postimg.cc/ZYVwSpD5/BEIN-SPORTS-HD.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,BEIN SPORTS 81080 HD
 http://humsab.xyz/IN_E8/index.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/prhhZv5v/TELEMUNDO-FLORIDA.png",❄️|➾TELEMUNDO FLORIDA TV
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
 http://204.199.89.187:14002/play/a005/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL RESPALDO TDT CUCUTA
