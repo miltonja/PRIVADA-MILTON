@@ -105,6 +105,12 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 http://humsab.xyz/IN_E8/index.m3u8
 #EXTINF:-1 group-title="❄️24/7❄️" tvg-logo="https://i.postimg.cc/nrQ3wR9R/NETFLIX-ESPA-A.png",❄️|➾ A NEFLIX 01
 http://clubtv.link/1809SEP/key4513/24.php?c=a_neflix01
+#EXTINF:-1 group-title="❄️24/7❄️" tvg-logo="https://i.postimg.cc/8zhZ4M8d/CINEMUNDO.jpg",❄️|➾cinemundo plus
+http://clubtv.link/1809SEP/key4513/24.php?c=cinemundo_plus
+#EXTINF:-1 group-title="❄️24/7❄️" tvg-logo="https://i.postimg.cc/Pq5FqJcm/image.jpg",❄️|➾peliculas mania
+http://clubtv.link/1809SEP/key4513/24.php?c=peliculas_mania
+#EXTINF:-1 group-title="❄️24/7❄️" tvg-logo="https://i.postimg.cc/28TQSGfK/png-transparent-terror-logo-horror-graphic-design-youtube-logo-horror-love-text-film.png",❄️|➾terror mania
+http://clubtv.link/1809SEP/key4513/24.php?c=terror_mania
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/htLF4CWL/HORAX-HORA-TV.png",❄️|➾HORA X HORA TV  HD
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/NjB8XnSB/unicable.png",❄️|➾UNICABLE HD
