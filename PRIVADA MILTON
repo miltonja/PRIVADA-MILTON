@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/rybnSG6z/WIN-PLUS-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0009 WIN SPORTS PLUS HD-JULIO 04-2024
+http://201.219.246.114:9876/play/a0ar/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
 http://181.78.23.26:45000/play/a03d
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001 WIN SPORTS PLUS HD-AGOSTO 31-2024
@@ -17,8 +19,6 @@ http://189.127.167.71:8000/play/a0mv
 http://181.78.4.250:8097/play/a035/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0008 WIN SPORTS PLUS HD-JULIO 17-2024
 http://131.196.13.102:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/rybnSG6z/WIN-PLUS-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0009 WIN SPORTS PLUS HD-JULIO 04-2024
-http://201.219.246.114:9876/play/a0ar/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/3wBfpP7H/WIN-PLUS-TOMATE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0013 WIN SPORTS PLUS HD-JUNIO 27-2024
 http://190.60.40.37:12500/play/a0bk/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0014 WIN SPORTS PLUS HD-JUNIO 26-2024
