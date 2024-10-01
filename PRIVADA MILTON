@@ -77,6 +77,14 @@ http://190.92.10.66:4000/play/a005/index.m3u8
 http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM⚽️",➾ ⚽|,beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png",✳️|➾A NEFLIX01
+http://clubtv.link/Sepfin29/key4513/24.php?c=a_neflix01
+#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/15wmYwRd/image.jpg",✳️|➾ CINEMUNDO PLUS
+http://clubtv.link/Sepfin29/key4513/24.php?c=cinemundo_plus
+#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/nL0xhnwJ/PELICULAS-MANIA.png",✳️|➾PELICULAS MANIA
+http://clubtv.link/Sepfin29/key4513/24.php?c=peliculas_mania
+#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/k4GmVLkt/terror-mania-rojo.png",✳️|➾TERROR MANIA 
+http://clubtv.link/Sepfin29/key4513/24.php?c=terror_mania
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/htLF4CWL/HORAX-HORA-TV.png",❄️|➾HORA X HORA TV  HD
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/NjB8XnSB/unicable.png",❄️|➾UNICABLE HD
