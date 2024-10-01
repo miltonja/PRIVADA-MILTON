@@ -85,6 +85,27 @@ http://clubtv.link/Sepfin29/key4513/24.php?c=cinemundo_plus
 http://clubtv.link/Sepfin29/key4513/24.php?c=peliculas_mania
 #EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/k4GmVLkt/terror-mania-rojo.png",✳️|➾TERROR MANIA 
 http://clubtv.link/Sepfin29/key4513/24.php?c=terror_mania
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="←«🔅GENERAL🔅»→",Azteca GUATE
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→"tvg-id="HISPAN TV"tvg-logo="https://i.imgur.com/AfsVFfM.png",🔆|➾Hispan TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→"tvg-id="TELESUR" tvg-logo="https://i.postimg.cc/pdN7mJ2H/TELESUR.png",🔆|➾Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→"tvg-id="RT ESPAÑOL" tvg-logo="https://i.postimg.cc/Jhn6xS3T/RT-America-Logo.png",🔆|➾RT (Español)
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→"tvg-id="DW (Español)" tvg-logo="https://i.postimg.cc/Gt8YNdJG/DW-ESPA-OL.png",🔆|➾DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→"tvg-id="France 24" tvg-logo="https://i.postimg.cc/D06VWhTM/france-24-espa-ol.png",🔆|➾France 24
+https://cdn.mycloudstream.io/hls/live/broadcast/mff4n5ey/index.m3u8
+#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→"tvg-id="CGTN Español" tvg-logo="https://i.postimg.cc/wMdLGKnF/CGTN-Espanol.png",🔆|➾CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→"tvg-id="24 HORAS INTERNACIONAL" tvg-logo="https://i.imgur.com/IUVRm5L.png",🔆|➾ 24 HORAS INTERNACIOBNAL
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→"tvg-id="TVE Internacional America " tvg-logo="https://i.imgur.com/iODADvi.png",🔆|➾TVE Internacional America 
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→"tvg-id="TVE Star HD " tvg-logo="https://i.imgur.com/zsCZHMh.png",🔆|➾TVE Star HD 
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→"tvg-id="TVN 24 " tvg-logo="https://i.imgur.com/bu6bQMa.png",🔆|➾TVN 24 
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/htLF4CWL/HORAX-HORA-TV.png",❄️|➾HORA X HORA TV  HD
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/NjB8XnSB/unicable.png",❄️|➾UNICABLE HD
