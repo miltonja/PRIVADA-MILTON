@@ -79,6 +79,8 @@ http://190.92.10.66:4000/play/a005/index.m3u8
 http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM⚽️",➾ ⚽|,beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png",✳️|➾Monster Jam
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f
 #EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png",✳️|➾A NEFLIX01
 http://clubtv.link/Sepfin29/key4513/24.php?c=a_neflix01
 #EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/15wmYwRd/image.jpg",✳️|➾ CINEMUNDO PLUS
