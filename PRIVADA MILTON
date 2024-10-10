@@ -33,8 +33,8 @@ http://200.69.73.34:6480/play/a00n/index.m3u8
 http://186.148.195.206:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png",➾ ⚽|0030 WIN SPORTS PLUS |MAYO-10
 http://45.181.122.201:8081/play/a01y
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0004 Win Sports JULIO-17 2024
-http://131.196.13.102:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0004 Win Sports OCTUBRE-10 2024
+http://181.78.11.12:1010/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png",AZTECA 7 HD
 http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://sender.epglogos.de/302x190_w/623.png",BUNDESLIGA
