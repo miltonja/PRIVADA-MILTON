@@ -43,23 +43,23 @@ http://45.181.122.201:8081/play/a01y
 http://209.14.118.166:5801/play/a0mm/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0004 Win Sports JULIO-17 2024
 http://131.196.13.102:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-name="⚽|AZTECA 7 " tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,AZTECA 7 HD
+#EXTINF:-1 tvg-name="⚽|AZTECA 7 " tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| AZTECA 7 HD
 http://190.92.10.66:4000/play/a007/index.m3u8
-#EXTINF:-1 tvg-name="⚽|SKY SPORTS BUNDESLIGA " tvg-logo="https://sender.epglogos.de/302x190_w/623.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,BUNDESLIGA
+#EXTINF:-1 tvg-name="⚽|SKY SPORTS BUNDESLIGA " tvg-logo="https://sender.epglogos.de/302x190_w/623.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-name="⚽|SKY SPORTS " tvg-logo="https://i.postimg.cc/ZnbD05g8/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,SKY SPORT
 http://190.92.10.66:4000/play/a002/index.m3u8
-#EXTINF:-1 tvg-name="⚽|SKY SPORTS LA LIGA " tvg-logo="https://i.postimg.cc/6qcghvRb/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,SKY SPORT LA LIGA
+#EXTINF:-1 tvg-name="⚽|SKY SPORTS LA LIGA " tvg-logo="https://i.postimg.cc/6qcghvRb/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| SKY SPORT LA LIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 tvg-name="⚽|TELEMUNDO 51 " tvg-logo="https://i.postimg.cc/s2VBvppy/Telemundo-51-2018.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,TELEMUNDO 51
+#EXTINF:-1 tvg-name="⚽|TELEMUNDO 51 " tvg-logo="https://i.postimg.cc/s2VBvppy/Telemundo-51-2018.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| TELEMUNDO 51
 http://190.92.10.66:4000/play/a004/index.m3u8
-#EXTINF:-1 tvg-name="⚽|TIGO SPORTRS "tvg-logo="https://i.postimg.cc/TwXt7G6h/1280px-Tigo-Sports-logo.png"group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,TIGO CDN
+#EXTINF:-1 tvg-name="⚽|TIGO SPORTRS "tvg-logo="https://i.postimg.cc/TwXt7G6h/1280px-Tigo-Sports-logo.png"group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| TIGO CDN
 http://190.92.10.66:4000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-name="⚽|TUDN " tvg-logo="https://i.postimg.cc/zfX9vnrZ/TUDN-LOGO-COLOR.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,TUDN
+#EXTINF:-1 tvg-name="⚽|TUDN " tvg-logo="https://i.postimg.cc/zfX9vnrZ/TUDN-LOGO-COLOR.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| TUDN
 http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-name="⚽|FUTV "tvg-logo="https://i.postimg.cc/y8zcTZfT/20200720191227-20200709160812futv-x2.jpg" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,FUTV
 http://190.92.10.66:4000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM⚽️",➾ ⚽|,beIN SPORTS XTRA ñ FHD
+#EXTINF:-1 tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM⚽️",➾ ⚽|beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="🏵️ EXTREME 🏵️"tvg-logo="https://i.postimg.cc/pTQWDVrL/infast-c.png",🏵️|➾INFAST TV HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
