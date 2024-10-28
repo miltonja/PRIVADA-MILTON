@@ -28,7 +28,7 @@ http://200.69.73.34:6480/play/a00n/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0030 WIN SPORTS PLUS |MAYO-10
 http://45.181.122.201:8081/play/a01y
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0004 Win Sports JULIO-17 2024
-http://131.196.13.102:8000/play/a06q/index.m3u8
+http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/485515
 #EXTINF:-1 tvg-name="⚽|AZTECA 7 " tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| AZTECA 7 HD
 http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-name="⚽|SKY SPORTS BUNDESLIGA " tvg-logo="https://sender.epglogos.de/302x190_w/623.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| BUNDESLIGA
