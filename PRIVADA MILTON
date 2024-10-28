@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS PLUS (M)(1080) | 
+http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8511
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS PLUS  (TV)(1080)| 
+http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8512 
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS PLUS (T)(720)| 
+http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/84897
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS PLUS (T)(720)| 
+http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8510
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS (M)(1080)|  
+http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8507
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS (T)(720)| 
+http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8505
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS (T)(720)| 
+http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/84896
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS (L)(SD) |
+http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8506
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS PLUS (T)(M)(SD)|
+http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8508
 #EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ", | LIGA COLOMBIA |
 http://1play.cool:25461/live/6192072480/ac82fc22ff/39957.m3u8
 #EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ", | LIGA COLOMBIA | 
