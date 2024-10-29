@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS PLUS (M)(1080) | 
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="http://goldfull.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS PLUS (M)(1080) | 
+http://goldfull.pro:8880/umvqozvphm/8BkqqFUfYAU8/287807
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="http://goldfull.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS PLUS (M)(1080) | 
+http://goldfull.pro:8880/umvqozvphm/8BkqqFUfYAU8/287808
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="http://goldfull.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS PLUS (M)(1080) | 
 http://goldfull.pro:8880/umvqozvphm/8BkqqFUfYAU8/167738
 #EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS PLUS (M)(1080) | 
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8511
@@ -17,8 +21,12 @@ http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8505
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/84896
 #EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS (L)(SD) |
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8506
-#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS (L)(SD) |
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="http://goldfull.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS (L)(SD) |
 http://goldfull.pro:8880/umvqozvphm/8BkqqFUfYAU8/167739
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="http://goldfull.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS (L)(HD) |
+http://goldfull.pro:8880/umvqozvphm/8BkqqFUfYAU8/287810
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="http://goldfull.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS (L)(SD) |
+http://goldfull.pro:8880/umvqozvphm/8BkqqFUfYAU8/287811
 #EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ", | WIN SPORTS PLUS (T)(M)(SD)|
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8508
 #EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ", | LIGA COLOMBIA |
