@@ -426,6 +426,8 @@ http://204.199.89.187:14002/play/a006/index.m3u8
 http://190.60.40.37:12500/play/a06b/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png"❄️|➾,CARACOL NOTICIAS TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png"❄️|➾,CARACOL NOTICIAS TV
+http://200.106.13.53:8001/play/a0ad/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
 http://190.60.40.37:12500/play/a0be/index.m3u8
 #EXTINF:-1tvg-id="LOVE NATURE TV" tvg-name="|❄️ LOVE NATURE TV"tvg-logo="https://i.postimg.cc/rmFBD9kn/love-nature.png"❄️COLOMBIA ❄️",❄️|➾LOVE NATURE TV HD
