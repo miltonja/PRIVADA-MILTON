@@ -438,8 +438,12 @@ http://190.60.40.37:12500/play/a0be/index.m3u8
 http://177.53.155.236:8000/play/a01c/index.m3u8
 #EXTINF:-1tvg-id="RCN NOVELAS" tvg-name="|❄️ RCN NOVELAS"tvg-logo="https://i.postimg.cc/7hXPkRJB/RCN-NOVELAS.png"❄️COLOMBIA ❄️",❄️|➾RCN NOVELAS HD
 http://177.53.155.236:8000/play/a03o/index.m3u8
+#EXTINF:-1tvg-id="RCN NOVELAS" tvg-name="|❄️ RCN NOVELAS"tvg-logo="https://i.postimg.cc/7hXPkRJB/RCN-NOVELAS.png"❄️COLOMBIA ❄️",❄️|➾RCN NOVELAS HD
+http://200.24.138.131:8002/play/a003/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
 http://190.61.42.218:9000/play/a057
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
+http://200.24.138.131:8002/play/a007/index.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
 http://190.61.42.218:9000/play/a058
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png",❄️|➾RCN HD2
