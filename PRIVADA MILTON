@@ -161,8 +161,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="🏵️PELICULAS PREMIUM 🏵️"tvg-logo="https://i.postimg.cc/0QssJQFr/MY-TIME-MOVIE.png" ,🏵️|➾ MYTIME MOVIE NETWORK MEXICO 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🏵️ MUSICA 🏵️"tvg-logo="httpps://i.imgur.com/QFI2OdJ.png" ,🏵️|➾ XHKG TV NAYARIT 
-https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 #EXTINF:-1 group-title="🏵️ MUSICA 🏵️"tvg-logo="https://i.postimg.cc/TwMmm6xB/Global-TV-logo.png",🏵️|➾ GLOBAL TV 
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1 group-title="🏵️PERU🏵️"tvg-logo="https://i.postimg.cc/4d6DSB2Z/TELECINCO-TRELEW.png",🏵️|➾ TELECINCO TRELEW
@@ -177,12 +175,6 @@ https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 group-title="🏵️ EL SALVADOR 🏵️"tvg-logo="https://i.postimg.cc/yNbnNYgy/WOW-TV-ESP.png",🏵️|➾ WOW TV 
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="🏵️ CULTURA 🏵️"tvg-logo="https://i.postimg.cc/QdFQRJYf/LOVE-NATURE-TIME.png",🏵️|➾ LOV E NATURE | Pluto TV Espanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="🏵️ CULTURA 🏵️"tvg-logo="https://i.postimg.cc/QdFQRJYf/LOVE-NATURE-TIME.png",🏵️|➾ LOVE NATURE ESPANHOL
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="🏵️CULTURA 🏵️"tvg-logo="https://i.postimg.cc/SsGp8Dh4/LOVE-WINE.png",🏵️|➾ Love Wine (ES)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8
 #EXTINF:-1 group-title="🏵️ MUSICA 🏵️"tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200",🏵️|➾ ON TV Portugal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 #EXTINF:-1 group-title="🏵️ MUSICA 🏵️"tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo320.png",🏵️|➾ Radio Love FM
@@ -205,8 +197,6 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3U
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="🏵️ MUSICA 🏵️"tvg-logo="https://i.postimg.cc/7YH5XRtH/Bombi-TV.png",🏵️|➾ BOMBI TV | CL
 https://s3.tvdatta.com:3380/live/bombitvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="🏵️ CHILE 🏵️"tvg-logo="https://i.postimg.cc/jd7kZj4q/EGM-MUSIC.png",🏵️|➾ EGM CHANNEL | CL
-https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="🏵️ MUSICA 🏵️"tvg-logo="https://i.postimg.cc/fLb9yr4T/SALSA-GORDA.png",🏵️|➾ Salsagorda Televisio | US
 https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="🏵️ MUSICA 🏵️"tvg-logo="https://i.postimg.cc/MKPF72F8/Visi-n-TV-ESP.png",🏵️|➾ VISION TV | CL
@@ -370,7 +360,7 @@ http://clubtv.link/Sepfin29/key4513/24.php?c=peliculas_mania
 http://clubtv.link/Sepfin29/key4513/24.php?c=terror_mania
 #EXTINF:-1 group-title="←«🔅GENERAL🔅»→" tvg-logo="https://i.imgur.com/UJhQoUK.png",Azteca GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→tvg-logo=" tvg-logo="https://i.imgur.com/AfsVFfM.png",🔆|➾Hispan TV
+#EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→tvg-logo=" tvg-logo="https://i.postimg.cc/8z8n0Y3b/1200px-Hispan-Tv-logo.png",🔆|➾Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆 NOTICIAS 🔆»→" tvg-logo="https://i.postimg.cc/pdN7mJ2H/TELESUR.png",🔆|➾Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
