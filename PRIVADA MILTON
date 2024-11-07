@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/85zLMcZw/WINSPORTS-BOTON-ROJO.png" group-title="✔️ LIGA COLOMBIANA✔️ ",WIN SPORTS CATELEMPIRE
+https://castlempire.site:443/12345678/12345678/170198.ts
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/85zLMcZw/WINSPORTS-BOTON-ROJO.png" group-title="✔️ LIGA COLOMBIANA✔️ ",WIN SPORTS CATELEMPIRE
+https://castlempire.site:443/12345678/12345678/170197.ts
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/85zLMcZw/WINSPORTS-BOTON-ROJO.png" group-title="✔️ LIGA COLOMBIANA✔️ ",WIN SPORTS CATELEMPIRE
+https://castlempire.site:443/12345678/12345678/170199.ts
 #EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/mk09vwB6/WINSPORTS-BOTON-TOMATE.png" group-title="✔️ LIGA COLOMBIANA✔️ ",WIN SPORTS +
 https://nxt.plus:8443/samuraix/tth9pE3VkWA2/46973
 #EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/mk09vwB6/WINSPORTS-BOTON-TOMATE.png" group-title="✔️ LIGA COLOMBIANA✔️ ",Win S + (p)-
@@ -73,6 +79,12 @@ http://181.204.79.182:8202/play/a04m
 http://200.69.73.34:6480/play/a00n/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0030 WIN SPORTS PLUS |MAYO-10
 http://45.181.122.201:8081/play/a01y
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0000 Win Sports OCTUBRE-28
+https://castlempire.site:443/12345678/12345678/172512.ts
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0000 Win Sports OCTUBRE-28
+https://castlempire.site:443/12345678/12345678/172513.ts
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0000 Win Sports OCTUBRE-28
+https://castlempire.site:443/12345678/12345678/172516.ts
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0000 Win Sports OCTUBRE-28
 http://181.129.230.106:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0000 Win Sports OCTUBRE-28
