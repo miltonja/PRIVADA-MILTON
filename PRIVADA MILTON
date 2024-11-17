@@ -47,8 +47,6 @@ http://38.56.113.50:11211/play/a0tv/index.m3u8
 http://181.78.23.26:45000/play/a03d
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0010 WIN SPORTS PLUS HD-AGOSTO 31-2024
 http://179.51.136.19:8000/play/a0ra/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/52Wsrx2V/WIN-PLUS-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0013 WIN SPORTS PLUS HD-JULIO 24-2024
-http://181.78.4.250:8097/play/a035/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0014 WIN SPORTS PLUS HD-JULIO 17-2024
 http://131.196.13.102:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0017 WIN SPORTS PLUS HD-JUNIO 26-2024
@@ -63,8 +61,6 @@ http://45.181.122.201:8081/play/a01y
 http://181.129.230.106:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports OCTUBRE-28
 http://1play.cool:25461/live/6192072480/ac82fc22ff/30179.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0002 Win Sports OCTUBRE-28
-http://1play.cool:25461/live/6192072480/ac82fc22ff/30266.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0003 Win Sports JULIO-17 2024
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/485515
 #EXTINF:-1 tvg-name="⚽|AZTECA 7 " tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| AZTECA 7 HD
