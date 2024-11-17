@@ -41,6 +41,12 @@ http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/479415
 https://daleplay.club:443/live/btbdd3102/2503202202/5af75b23-584d-491b-849f-44e25ea39d0b.m3u
 #EXTINF:-1 tvg-name="⚽|WIN SPØRTS PLUS"tvg-logo="https://i.postimg.cc/Y24kpYvz/win-sports-lineas.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|WIN SPORTS PLUS HD DALE PLAY
 https://daleplay.club:443/live/btbdd3102/2503202202/58cd8d4d-1881-45c1-9c7a-f65ffa2b7469.m3u
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001  WIN SPORTS PLUS MAYO 04-202
+http://167.250.135.246:81/play/a097/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002  WIN SPORTS JUNIO-27-2024
+http://190.60.37.154:45000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002 WIN SPORTS PLUS NOVIEMBRE 04-2024
+http://200.10.67.170:8000/play/a2vh/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0008 WIN-PLUS NOVIEMBRE 08-2024
 http://38.56.113.50:11211/play/a0tv/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0009 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
