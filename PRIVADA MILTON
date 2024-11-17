@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/mk09vwB6/WINSPORTS-BOTON-TOMATE.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0005-Win S + (p)-
 http://xcm.budtv-ultra.com:25461/bud-3833960/6d654d206a/280080
-#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0006- | WIN SPORTS PLUS HD(1080) | 
-http://xxip25.top:8080/79700582/96651804/78717
 #EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0007- | WIN SPORTS PLUS FHD (1080) | 
 http://xxip25.top:8080/79700582/96651804/78697
 #EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0011- | WIN SPORTS PLUS (M)(1080) | 
@@ -60,7 +58,7 @@ http://45.181.122.201:8081/play/a01y
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0000 Win Sports OCTUBRE-28
 http://181.129.230.106:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports OCTUBRE-28
-http://1play.cool:25461/live/6192072480/ac82fc22ff/30179.m3u8
+http://xxip25.top:8080/79700582/96651804/78717
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0003 Win Sports JULIO-17 2024
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/485515
 #EXTINF:-1 tvg-name="⚽|AZTECA 7 " tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| AZTECA 7 HD
