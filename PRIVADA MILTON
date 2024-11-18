@@ -1,80 +1,172 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/mk09vwB6/WINSPORTS-BOTON-TOMATE.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0005-Win S + (p)
-http://xcm.budtv-ultra.com:25461/bud-3833960/6d654d206a/280080
-#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0007- | WIN SPORTS PLUS FHD (1080) | 
-http://xxip25.top:8080/79700582/96651804/78697
-#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0011- | WIN SPORTS PLUS (M)(1080) | 
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0001 | WIN SPORTS PLUS (M)(1080) | 
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8511
-#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0012- | WIN SPORTS PLUS (TV)(1080)| 
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0002 | WIN SPORTS PLUS  (TV)(1080)| 
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8512 
-#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0014-| WIN SPORTS PLUS (T)(720)| 
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0003 | WIN SPORTS PLUS (T)(720)| 
+http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/84897
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS PLUS|" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0004 | WIN SPORTS PLUS (T)(720)| 
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8510
-#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0015-| WIN SPORTS (T)(720)| 
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0005 | WIN SPORTS (M)(1080)|  
+http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8507
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0006 | WIN SPORTS (T)(720)| 
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8505
-#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0016-| WIN SPORTS (T)(720)| 
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0007 | WIN SPORTS (T)(720)| 
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/84896
-#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0017- | WIN SPORTS (L)(SD) |
+#EXTINF:-1 tvg-id=""tvg-name=" |WIN SPORTS|" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png" group-title="✔️ LIGA COLOMBIANA✔️ ",0008 | WIN SPORTS (L)(SD) |
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8506
-#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0022- | LIGA COLOMBIA | 
+#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0001 | LIGA COLOMBIA |
+http://1play.cool:25461/live/6192072480/ac82fc22ff/39957.m3u8
+#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0002 | LIGA COLOMBIA | 
+http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/516935
+#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0003 | LIGA COLOMBIA | 
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/516934
-#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0023- | LIGA COLOMBIA | 
+#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0004| LIGA COLOMBIA | 
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/516933
-#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0025-| LIGA COLOMBIA | 
+#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0005| LIGA COLOMBIA | 
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/516932
-#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0025- | LIGA COLOMBIA | 
+#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0006 | LIGA COLOMBIA | 
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/516931
-#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0026- | LIGA COLOMBIA | 
+#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0007 | LIGA COLOMBIA | 
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/516929
-#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0027- | LIGA COLOMBIA | 
+#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0008 | LIGA COLOMBIA | 
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/516921
-#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0028- | LIGA COLOMBIA | 
+#EXTINF:-1 tvg-id=""tvg-name=" |LIGA COLOMBIA |" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png" group-title="✔️ EVENTOS DEL DIA ✔️ ",0009 | LIGA COLOMBIA | 
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/479415
 #EXTINF:-1 tvg-name="⚽|WIN SPØRTS PLUS"tvg-logo="https://i.postimg.cc/wBJpb93j/1543.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|WIN SPORTS PLUS FHD DALE PLAY
 https://daleplay.club:443/live/btbdd3102/2503202202/5af75b23-584d-491b-849f-44e25ea39d0b.m3u
-#EXTINF:-1 tvg-name="⚽|WIN SPØRTS PLUS"tvg-logo="https://i.postimg.cc/Y24kpYvz/win-sports-lineas.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|WIN SPORTS PLUS HD DALE PLAY
-https://daleplay.club:443/live/btbdd3102/2503202202/58cd8d4d-1881-45c1-9c7a-f65ffa2b7469.m3u
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001  WIN SPORTS PLUS MAYO 04-202
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001  WIN SPORTS PLUS JULIO 31 2024
+http://45.70.237.125:8000/play/a0em/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002  WIN SPORTS PLUS JULIO 31 2024
+http://181.78.79.131:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0003  WIN SPORTS PLUS AGOSTO 25-2024
+http://190.109.176.90:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001  WIN SPORTS PLUS OCTUBRE 13-2024
+http://38.56.113.50:11211/play/a0tv/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002  WIN SPORTS PLUS JUNIO 27-2024
+http://190.61.44.34:1010/play/a050/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0003  WIN SPORTS PLUS AGOSTO 17-2024
+http://217.26.191.88:8126/play/a0gn/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001  WIN SPORTS PLUS OCTUBRE 13-202
+http://209.14.118.166:5801/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002  WIN SPORTS PLUS MAYO 04-202
 http://167.250.135.246:81/play/a097/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002  WIN SPORTS JUNIO-27-2024
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001  WIN SPORTS JUNIO-27-2024
 http://190.60.37.154:45000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002 WIN SPORTS PLUS NOVIEMBRE 04-2024
 http://200.10.67.170:8000/play/a2vh/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0008 WIN-PLUS NOVIEMBRE 08-2024
-http://38.56.113.50:11211/play/a0tv/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0009 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0003 WIN SPORTS PLUS JULIO 12-2024
+http://190.61.46.126:9000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0003 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
 http://181.78.23.26:45000/play/a03d
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0010 WIN SPORTS PLUS HD-AGOSTO 31-2024
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0004 WIN SPORTS PLUS HD-AGOSTO 31-2024
 http://179.51.136.19:8000/play/a0ra/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0014 WIN SPORTS PLUS HD-JULIO 17-2024
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/sXg6JwDG/WIN-PLUS-BLANCO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0005 WIN SPORTS PLUS HD-AGOSTO 18-2024
+http://8.243.126.131:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0006 WIN SPORTS PLUS HD-JULIO 17-2024
 http://131.196.13.102:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0017 WIN SPORTS PLUS HD-JUNIO 26-2024
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0007 WIN SPORTS PLUS HD-JUNIO 26-2024
 http://190.60.38.254:1010/play/a08x/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0018 WIN SPORTS PLUS-JULIO 11-2024
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0008 WIN SPORTS PLUS-JULIO 11-2024
 http://190.108.77.197:1010/play/a09f/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/Y0N8G4Ym/WIN-PLUS-VU-TV-PLAYER.png" group-title="⚽WIN SPORTS PLUS⚽",➾⚽|0019 WIN SPORTS PLUS-OCT 14
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/Y0N8G4Ym/WIN-PLUS-VU-TV-PLAYER.png" group-title="⚽WIN SPORTS PLUS⚽",➾⚽|0009 WIN SPORTS PLUS-OCT 14
 http://181.204.79.182:8202/play/a04m
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0030 WIN SPORTS PLUS |MAYO-10
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0010 WIN SPORTS PLUS |MAYO-10
 http://45.181.122.201:8081/play/a01y
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0000 Win Sports OCTUBRE-28
-http://181.129.230.106:8000/play/a07a/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports OCTUBRE-28
-http://xxip25.top:8080/79700582/96651804/78717
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0003 Win Sports JULIO-17 2024
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0011 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
+http://181.78.23.26:45000/play/a03d
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0012 WIN SPORTS PLUS HD-AGOSTO 31-2024
+http://179.51.136.19:8000/play/a0ra/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/sXg6JwDG/WIN-PLUS-BLANCO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0013 WIN SPORTS PLUS HD-AGOSTO 18-2024
+http://8.243.126.131:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0014 WIN SPORTS PLUS HD-JUNIO 26-2024
+http://190.60.38.254:1010/play/a08x/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0015 WIN SPORTS PLUS-JULIO 11-2024
+http://190.108.77.197:1010/play/a09f/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/Y0N8G4Ym/WIN-PLUS-VU-TV-PLAYER.png" group-title="⚽WIN SPORTS PLUS⚽",➾⚽|0016 WIN SPORTS PLUS-OCT 14
+http://181.204.79.182:8202/play/a04m
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0017 WIN SPORTS PLUS |MAYO-10
+http://45.181.122.201:8081/play/a01y
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports JLIO-12-2024
+http://190.61.46.126:9000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports OCTUBRE-13-2024
+http://38.56.113.50:11211/play/a0uk/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0002 Win Sports OCTUBRE-10
+http://181.78.11.12:1010/play/a0a4/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0003 Win Sports OCTUBRE-13
+http://209.14.118.166:5801/play/a0mm/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0004 Win Sports OCTUBRE-10
+http://181.78.11.12:1010/play/a0a4/index.m3u8
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports OSEPTIEMBRE-10
+http://181.78.23.26:45000/play/a034
+#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0006 Win Sports JULIO-17 2024
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/485515
+#EXTINF:-1 tvg-name="⚽|WIN SPØRTS PLUS"tvg-logo="https://i.postimg.cc/Y24kpYvz/win-sports-lineas.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|WIN SPORTS PLUS FHD DALE PLAY
+https://daleplay.club:443/live/btbdd3102/2503202202/5af75b23-584d-491b-849f-44e25ea39d0b.m3u
 #EXTINF:-1 tvg-name="⚽|AZTECA 7 " tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| AZTECA 7 HD
 http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1 tvg-name="⚽|MOVISTAR DEPORES "tvg-logo="https://i.postimg.cc/tg1d6Tp4/Movistar-Deportes-1024x768.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾MOVISTAR DEPORES
+http://38.56.113.50:11211/play/a0sd/index.m3u8
 #EXTINF:-1 tvg-name="⚽|SKY SPORTS BUNDESLIGA " tvg-logo="https://sender.epglogos.de/302x190_w/623.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
+#EXTINF:-1 tvg-name="⚽|SKY SPORTS " tvg-logo="https://i.postimg.cc/ZnbD05g8/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,SKY SPORT
+http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-name="⚽|SKY SPORTS LA LIGA " tvg-logo="https://i.postimg.cc/6qcghvRb/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| SKY SPORT LA LIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-name="⚽|TELEMUNDO 51 " tvg-logo="https://i.postimg.cc/s2VBvppy/Telemundo-51-2018.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| TELEMUNDO 51
 http://190.92.10.66:4000/play/a004/index.m3u8
 #EXTINF:-1 tvg-name="⚽|TIGO SPORTRS "tvg-logo="https://i.postimg.cc/TwXt7G6h/1280px-Tigo-Sports-logo.png"group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| TIGO CDN
 http://190.92.10.66:4000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-name="⚽|TUDN " tvg-logo="https://i.postimg.cc/zfX9vnrZ/TUDN-LOGO-COLOR.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| TUDN
+http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-name="⚽|FUTV "tvg-logo="https://i.postimg.cc/y8zcTZfT/20200720191227-20200709160812futv-x2.jpg" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,FUTV
 http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM⚽️",➾ ⚽|beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="⚽|AZTECA 7 " tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|AZTECA 7 HD
+http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1 tvg-name="⚽|SKY SPORTS BUNDESLIGA " tvg-logo="https://sender.epglogos.de/302x190_w/623.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|BUNDESLIGA
+http://190.92.10.66:4000/play/a006/index.m3u8
+#EXTINF:-1 tvg-name="⚽|SKY SPORTS " tvg-logo="https://i.postimg.cc/ZnbD05g8/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|SKY SPORT
+http://190.92.10.66:4000/play/a002/index.m3u8
+#EXTINF:-1 tvg-name="⚽|SKY SPORTS LA LIGA " tvg-logo="https://i.postimg.cc/6qcghvRb/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|SKY SPORT LA LIGA
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-name="⚽|TELEMUNDO 51 " tvg-logo="https://i.postimg.cc/s2VBvppy/Telemundo-51-2018.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|TELEMUNDO 51
+http://190.92.10.66:4000/play/a004/index.m3u8
+#EXTINF:-1 tvg-name="⚽|TIGO SPORTRS "tvg-logo="https://i.postimg.cc/TwXt7G6h/1280px-Tigo-Sports-logo.png"group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|TIGO CDN
+http://190.92.10.66:4000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-name="⚽|TUDN " tvg-logo="https://i.postimg.cc/zfX9vnrZ/TUDN-LOGO-COLOR.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|TUDN
+http://190.92.10.66:4000/play/a005/index.m3u8
+#EXTINF:-1 tvg-name="⚽|FUTV "tvg-logo="https://i.postimg.cc/y8zcTZfT/20200720191227-20200709160812futv-x2.jpg" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽|FUTV
+http://190.92.10.66:4000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM⚽️",➾ ⚽|beIN SPORTS XTRA ñ FHD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png",✳️|➾A NEFLIX01
+http://clubtv.link/Sepfin29/key4513/24.php?c=a_neflix01
+#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/15wmYwRd/image.jpg",✳️|➾ CINEMUNDO PLUS
+http://clubtv.link/Sepfin29/key4513/24.php?c=cinemundo_plus
+#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/nL0xhnwJ/PELICULAS-MANIA.png",✳️|➾PELICULAS MANIA
+http://clubtv.link/Sepfin29/key4513/24.php?c=peliculas_mania
+#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/k4GmVLkt/terror-mania-rojo.png",✳️|➾TERROR MANIA
+http://clubtv.link/Sepfin29/key4513/24.php?c=terror_mania
+#EXTINF:-1 group-title="←«🔅GENERAL🔅»→" tvg-logo="https://i.imgur.com/UJhQoUK.png",Azteca GUATE
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 group-title="←«🔆NOTICIAS🔆»→tvg-logo="https://i.imgur.com/AfsVFfM.png",🔆|➾Hispan TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="←«🔆NOTICIAS🔆»→"tvg-logo="https://i.postimg.cc/pdN7mJ2H/TELESUR.png",🔆|➾Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="←«🔆NOTICIAS🔆»→"tvg-logo="https://i.postimg.cc/Jhn6xS3T/RT-America-Logo.png",🔆|➾RT (Español)
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="←«🔆NOTICIAS🔆»→"tvg-logo="https://i.postimg.cc/Gt8YNdJG/DW-ESPA-OL.png",🔆|➾DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="←«🔆NOTICIAS🔆»→"tvg-logo="https://i.postimg.cc/wMdLGKnF/CGTN-Espanol.png",🔆|➾CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 group-title="←«🔆NOTICIAS🔆»→"tvg-logo="https://i.imgur.com/IUVRm5L.png",🔆|➾ 24 HORAS INTERNACIOBNAL
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 group-title="←«🔆NOTICIAS🔆»→"tvg-logo="https://i.imgur.com/iODADvi.png",🔆|➾TVE Internacional America
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 group-title="←«🔆NOTICIAS🔆»→"tvg-logo="https://i.imgur.com/zsCZHMh.png",🔆|➾TVE Star HD
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 group-title="🏵️ EXTREME 🏵️"tvg-logo="https://i.postimg.cc/pTQWDVrL/infast-c.png",🏵️|➾INFAST TV HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 group-title="🏵️ FREE TV  🏵️"tvg-logo="https://i.postimg.cc/SszzXmnj/freetv-banda-1080x1080-02092024.jpg",🏵️|➾ MMC - Freetv.com | US
