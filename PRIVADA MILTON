@@ -500,6 +500,8 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 group-title="⭐PELICULAS⭐" tvg-logo="https://i.imgur.com/QaocW5x.png",⭐|➾TELEVISION METROPOLIS 19.2 TV HD
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK"tvg-name="⭐PARAMOUNT NETWORK"tvg-logo="https://i.postimg.cc/B6WnV5sb/image.png"group-title="⭐PELICULAS⭐",⭐|➾PARAMOUNT NETWORK 4K
+http://190.216.162.157:8001/play/a01q/index.m3u8
 #EXTINF:-1 group-title="⭐PELICULAS⭐" tvg-logo="https://i.postimg.cc/s2BMXGQ2/MICROVISION-MODIF.png",⭐|➾MICROVISION TV HD
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8
 #EXTINF:-1 group-title="⭐PELICULAS⭐" tvg-logo="https://i.postimg.cc/xddXYnBq/CINE-ESTRELLA-TV-BLANCO.png",⭐|➾CINE ESTRELLA TV * | CL * |HD|
