@@ -139,6 +139,10 @@ http://190.92.10.66:4000/play/a005/index.m3u8
 http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM⚽️",➾ ⚽|beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="MX FAMILY"tvg-logo="https://i.postimg.cc/HnqFmKNx/MX-FAMILY.png" group-title="🏵️CINE 24/7🏵️",🏵️|➾78 | M6 Family
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="MX CLASSIC"tvg-logo="https://i.postimg.cc/HncFfHBR/MX-CLASIC.png" group-title="🏵️CINE 24/7🏵️",🏵️|➾77 | MX Classic
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png",✳️|➾A NEFLIX01
 http://clubtv.link/Sepfin29/key4513/24.php?c=a_neflix01
 #EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/15wmYwRd/image.jpg",✳️|➾ CINEMUNDO PLUS
