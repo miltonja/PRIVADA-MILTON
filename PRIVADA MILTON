@@ -145,6 +145,8 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="OLD TV"tvg-logo="https://i.postimg.cc/HsJB4BhZ/OLD-TV.png" group-title="🏵️CINE 24/7🏵️",🏵️|➾81 | Old
 https://marine2.miplay.cl/old/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="FMH FAMILY TV"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png" group-title="🏵️CINE 24/7🏵️",🏵️|➾127 | FMH Family
+http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png",✳️|➾A NEFLIX01
 http://clubtv.link/Sepfin29/key4513/24.php?c=a_neflix01
 #EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/15wmYwRd/image.jpg",✳️|➾ CINEMUNDO PLUS
