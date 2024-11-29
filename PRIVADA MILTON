@@ -7,8 +7,6 @@ http://181.78.79.131:8000/play/a01u/index.m3u8
 http://190.109.176.90:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001  WIN SPORTS PLUS OCTUBRE 13-2024
 http://38.56.113.50:11211/play/a0tv/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002  WIN SPORTS PLUS JUNIO 27-2024
-http://190.61.44.34:1010/play/a050/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0003  WIN SPORTS PLUS AGOSTO 17-2024
 http://217.26.191.88:8126/play/a0gn/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002  WIN SPORTS PLUS MAYO 04-202
@@ -17,16 +15,12 @@ http://167.250.135.246:81/play/a097/index.m3u8
 http://190.60.37.154:45000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002 WIN SPORTS PLUS NOVIEMBRE 04-2024
 http://200.10.67.170:8000/play/a2vh/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0003 WIN SPORTS PLUS JULIO 12-2024
-http://190.61.46.126:9000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0003 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
 http://181.78.23.26:45000/play/a03d
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0004 WIN SPORTS PLUS HD-AGOSTO 31-2024
 http://179.51.136.19:8000/play/a0ra/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/sXg6JwDG/WIN-PLUS-BLANCO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0005 WIN SPORTS PLUS HD-AGOSTO 18-2024
 http://8.243.126.131:8000/play/a07f/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0006 WIN SPORTS PLUS HD-JULIO 17-2024
-http://131.196.13.102:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0007 WIN SPORTS PLUS HD-JUNIO 26-2024
 http://190.60.38.254:1010/play/a08x/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0008 WIN SPORTS PLUS-JULIO 11-2024
@@ -119,7 +113,7 @@ http://181.78.106.127:9000/play/ca029/index.m3u8
 http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1 tvg-name="⚽|SKY SPORTS BUNDESLIGA " tvg-logo="https://sender.epglogos.de/302x190_w/623.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 tvg-name="⚽|SKY SPORTS " tvg-logo="https://i.postimg.cc/ZnbD05g8/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,SKY SPORT
+#EXTINF:-1 tvg-name="⚽|SKY SPORTS " tvg-logo="https://i.postimg.cc/ZnbD05g8/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| SKY SPORT
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-name="⚽|SKY SPORTS LA LIGA " tvg-logo="https://i.postimg.cc/6qcghvRb/image.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| SKY SPORT LA LIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
@@ -129,7 +123,7 @@ http://190.92.10.66:4000/play/a004/index.m3u8
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name="⚽|TUDN " tvg-logo="https://i.postimg.cc/zfX9vnrZ/TUDN-LOGO-COLOR.png" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| TUDN
 http://190.92.10.66:4000/play/a005/index.m3u8
-#EXTINF:-1 tvg-name="⚽|FUTV "tvg-logo="https://i.postimg.cc/y8zcTZfT/20200720191227-20200709160812futv-x2.jpg" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| ,FUTV
+#EXTINF:-1 tvg-name="⚽|FUTV "tvg-logo="https://i.postimg.cc/y8zcTZfT/20200720191227-20200709160812futv-x2.jpg" group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| FUTV
 http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM⚽️",➾ ⚽|beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
