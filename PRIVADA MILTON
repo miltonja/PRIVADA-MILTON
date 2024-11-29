@@ -47,12 +47,8 @@ http://190.61.42.218:9000/play/a07s
 http://45.181.122.201:8081/play/a01y
 #EXTINF:-1 tvg-name="⚽|WIN SPØRTS PLUS"tvg-logo="https://i.postimg.cc/wBJpb93j/1543.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|WIN SPORTS PLUS FHD DALE PLAY
 https://daleplay.club:443/live/btbdd3102/2503202202/5af75b23-584d-491b-849f-44e25ea39d0b.m3u
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports JLIO-27-2024
-http://190.61.44.34:1010/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports SEPTIEMBRE-17-2024
 http://190.60.40.165:1010/play/a098/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports JLIO-12-2024
-http://190.61.46.126:9000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports JLIO-26-2024
 http://190.60.40.165:1010/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0001 Win Sports OCTUBRE-13-2024
