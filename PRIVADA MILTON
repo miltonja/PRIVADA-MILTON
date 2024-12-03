@@ -61,54 +61,6 @@ http://181.78.23.26:45000/play/a034
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/485515
 #EXTINF:-1 tvg-name="⚽|WIN SPØRTS PLUS"tvg-logo="https://i.postimg.cc/Y24kpYvz/win-sports-lineas.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|WIN SPORTS PLUS FHD DALE PLAY
 https://daleplay.club:443/live/btbdd3102/2503202202/5af75b23-584d-491b-849f-44e25ea39d0b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca 7" tvg-logo="https://i.postimg.cc/Rh879q2y/azteca-7.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: Azteca 7
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/2056bac4-3350-41dc-8cb9-85d650b7f298.m3u
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic" tvg-logo="https://i.postimg.cc/Mpz7wkLW/mas-chic.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: Mas Chic
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/fe9d2981-1dcf-4b43-afbe-c6e538b2e3d0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Unicable" tvg-logo="https://i.postimg.cc/RZxtRrm7/unicable.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: Unicable
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/ca24ba2d-b082-42ea-98df-ad918d864203.m3u
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX: AZ Corazon" tvg-logo="https://i.postimg.cc/X7RfzGfy/corazon.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: AZ Corazon
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/7887c607-63cc-4315-9e55-9f3e008b1321.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Comedy Central" tvg-logo="https://i.postimg.cc/SR09tH8b/comedy-central.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: Comedy Central
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/90444c28-06f5-4574-a46b-1c425bcce22b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: DISTRITO COMEDIA SD" tvg-logo="https://i.postimg.cc/wBGLD1jv/dc-comedia.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: DISTRITO COMEDIA SD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/0cc2e142-1185-409e-9d99-ce4376624801.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: DISTRITO COMEDIA HD" tvg-logo="https://i.postimg.cc/wBGLD1jv/dc-comedia.png" group-title="🇲🇽 MEXICO",MX: DISTRITO COMEDIA HD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/e233f2f1-4348-4028-b989-d77629cc6204.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: AZ Cinema" tvg-logo="https://i.postimg.cc/3RxQG2TD/cinema.png" group-title="🇲🇽 MEXICO",MX: AZ Cinema
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/43918c15-1f97-40a1-94cc-a715b9f56904.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: TLNOVELAS HD" tvg-logo="https://i.postimg.cc/d3T726SN/tlnovelas.png" group-title="🇲🇽 MEXICO",MX: TLNOVELAS HD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/fd133ac1-e08b-4770-9a06-37c5e5bf3db9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: TLNOVELAS SD." tvg-logo="https://i.postimg.cc/d3T726SN/tlnovelas.png" group-title="🇲🇽 MEXICO",MX: TLNOVELAS SD.
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/2b86f4ea-3a48-487e-9fc4-7e711d3d36cc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: TELEVISA MONTERREY" tvg-logo="https://i.postimg.cc/qvsPZ1B3/televisa-monterrey.png" group-title="🇲🇽 MEXICO",MX: TELEVISA MONTERREY
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/191b9cc9-e936-4e42-87a0-591984b20b45.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Hola TV" tvg-logo="https://i.postimg.cc/tJnfd5m7/hola-tv.png" group-title="🇲🇽 MEXICO",MX: Hola TV
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/386cf9b6-460e-41bd-a8e6-e360933c4869.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: GALA TV" tvg-logo="https://i.postimg.cc/MpYWj6QN/gala-tv.png" group-title="🇲🇽 MEXICO",MX: GALA TV
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/094fbfda-ba97-46ce-91c6-7207d18e0149.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Unicable HD" tvg-logo="https://i.postimg.cc/RZxtRrm7/unicable.png" group-title="🇲🇽 MEXICO",MX: Unicable HD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/58e8b943-5af8-4e30-935f-57e3941af601.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESTRELLA TV" tvg-logo="https://i.postimg.cc/4yb97Cb5/estrella-tv.png" group-title="🇲🇽 MEXICO",MX: ESTRELLA TV
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/b9a1b9a0-d926-4d43-a892-ed73cbd1458b.m3u
-#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX: FORO TV" tvg-logo="https://i.postimg.cc/DzXm4k7X/foro-tv.png" group-title="🇲🇽 MEXICO",MX: FORO TV
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/798d4a39-6f63-4310-9202-f0c300ad52f1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: CINE LATINO" tvg-logo="https://i.postimg.cc/NMGqqmCj/cine-latino.png" group-title="🇲🇽 MEXICO",MX: CINE LATINO
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/51eef933-c856-4fe9-8a9b-c9e02c92b4eb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: CANAL ONCE" tvg-logo="https://i.postimg.cc/L4CRSQpK/once.png" group-title="🇲🇽 MEXICO",MX: CANAL ONCE
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/2d7197ec-f2f8-4166-b985-3a7a165c949d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA UNO HD" tvg-logo="https://i.postimg.cc/9F66XvgS/azteca-uno.png" group-title="🇲🇽 MEXICO",MX: AZTECA UNO HD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/86f1835c-1580-4173-b363-8d67abfcd09f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: MILENIO TV" tvg-logo="https://i.postimg.cc/q7jDKYQp/milenio.png" group-title="🇲🇽 MEXICO",MX: MILENIO TV
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/6ddbaa95-7970-4732-9832-3df355255a2f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: De Pelicula" tvg-logo="https://i.postimg.cc/tCG0pKMc/d-pelicula.png" group-title="🇲🇽 MEXICO",MX: De Pelicula
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/3d2d80eb-55d3-4494-9a4d-ba798b4db1ce.m3u
-#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="MX: DE PELICULAS PLUS" tvg-logo="https://i.postimg.cc/cC8FVJWJ/d-pelicula-plus.png" group-title="🇲🇽 MEXICO",MX: DE PELICULAS PLUS
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/409eee46-94da-4157-bd97-0a6f2ea64a58.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: De Pelicula Classico" tvg-logo="https://i.postimg.cc/fWF0N6B1/d-pelicula-clasico.png" group-title="🇲🇽 MEXICO",MX: De Pelicula Classico
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/f2a8c487-4272-4732-9dbd-7b3b998eb1ae.m3u
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="https://p7.hiclipart.com/preview/174/306/410/5bb90a151ba22.jpg" group-title="🎵 MÚSICA",VH1 Classic
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/8ccf3ba9-60da-4ef8-848e-eb275a1c8dfd.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CO | El Tiempo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NUEVO_LOGO_DE_EL_TIEMPO_HD.jpg" group-title="🇨🇴 COLOMBIA",CO | El Tiempo
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/4ceaf6bf-7bdc-449b-bf51-c8a56e05f540.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CO | Win Sports + SD." tvg-logo="https://i.postimg.cc/BbGHGk6k/WINMAS.png" group-title="🇨🇴 COLOMBIA DEPORTES ⚽",CO | Win Sports + SD.
@@ -117,22 +69,6 @@ https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/980f69d6-b851-4258-b480-ec
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/fef94d94-c446-4491-9065-76c5c864e159.m3u
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="CO | Win Sports SD" tvg-logo="https://i.postimg.cc/RCWkD85G/WINSPORTS.png" group-title="🇨🇴 COLOMBIA DEPORTES ⚽",CO | Win Sports SD
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/1c02879d-7c36-4c24-bb99-c8e7a90b4afe.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M | Azteca 7 FHD" tvg-logo="https://i.postimg.cc/Rh879q2y/azteca-7.png" group-title="🇲🇽 MEXICO",M | Azteca 7 FHD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/2d65a703-b942-4cd6-9193-378a146bd0af.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M | Azteca 7 HD" tvg-logo="https://i.postimg.cc/Rh879q2y/azteca-7.png" group-title="🇲🇽 MEXICO",M | Azteca 7 HD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/4e841914-ccd1-4f0d-be9d-76da39e57849.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M | Azteca Clic HD" tvg-logo="http://l3d.us:8080/images/058f6f7297e8817251a783cd39360a27.png" group-title="🇲🇽 MEXICO",M | Azteca Clic HD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/d7116d60-6f05-4348-81b5-e4176b46d3fa.m3u
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="M | Azteca Corazon" tvg-logo="https://i.postimg.cc/X7RfzGfy/corazon.png" group-title="🇲🇽 MEXICO",M | Azteca Corazon
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/38f117ef-b1ac-4045-a5a5-44225cb54479.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M | Azteca Corazon FHD" tvg-logo="https://i.postimg.cc/X7RfzGfy/corazon.png" group-title="🇲🇽 MEXICO",M | Azteca Corazon FHD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/813f68dc-5c80-45a9-a8d9-45ac92653eaa.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M | Azteca Corazon HD" tvg-logo="https://i.postimg.cc/X7RfzGfy/corazon.png" group-title="🇲🇽 MEXICO",M | Azteca Corazon HD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/e9639aac-8626-40c7-bfae-2491c028e887.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M | Azteca Mundo" tvg-logo="https://i.postimg.cc/Wpf60ft8/Azteca-mundo.png" group-title="🇲🇽 MEXICO",M | Azteca Mundo
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/62bb6d91-549b-4f0b-81dc-eb0ede6ac275.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M | Azteca Uno" tvg-logo="https://i.postimg.cc/tJ7P5bDN/azteca-uno.png" group-title="🇲🇽 MEXICO",M | Azteca Uno
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/91ac7d8a-06e7-4b34-9a3f-6f9242038782.m3u
 #EXTINF:-1 group-title="⚫DEPORTES COLOMBIA⚫" tvg-logo="https://i.postimg.cc/MHMCd6xY/win-plus.png",Colombia|| WinSports Plus &gt;)
 http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/499077
 #EXTINF:-1 group-title="⚫DEPORTES COLOMBIA⚫" tvg-logo="https://i.postimg.cc/MHMCd6xY/win-plus.png",Win Sports+ op2
