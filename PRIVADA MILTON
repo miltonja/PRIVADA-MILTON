@@ -61,17 +61,17 @@ http://181.78.23.26:45000/play/a034
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/485515
 #EXTINF:-1 tvg-name="⚽|WIN SPØRTS PLUS"tvg-logo="https://i.postimg.cc/Y24kpYvz/win-sports-lineas.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|WIN SPORTS PLUS FHD DALE PLAY
 https://daleplay.club:443/live/btbdd3102/2503202202/5af75b23-584d-491b-849f-44e25ea39d0b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca 7" tvg-logo="https://i.postimg.cc/Rh879q2y/azteca-7.png" group-title="🇲🇽 MEXICO",MX: Azteca 7
+#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca 7" tvg-logo="https://i.postimg.cc/Rh879q2y/azteca-7.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: Azteca 7
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/2056bac4-3350-41dc-8cb9-85d650b7f298.m3u
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic" tvg-logo="https://i.postimg.cc/Mpz7wkLW/mas-chic.png" group-title="🇲🇽 MEXICO",MX: Mas Chic
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic" tvg-logo="https://i.postimg.cc/Mpz7wkLW/mas-chic.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: Mas Chic
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/fe9d2981-1dcf-4b43-afbe-c6e538b2e3d0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Unicable" tvg-logo="https://i.postimg.cc/RZxtRrm7/unicable.png" group-title="🇲🇽 MEXICO",MX: Unicable
+#EXTINF:-1 tvg-id="" tvg-name="MX: Unicable" tvg-logo="https://i.postimg.cc/RZxtRrm7/unicable.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: Unicable
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/ca24ba2d-b082-42ea-98df-ad918d864203.m3u
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX: AZ Corazon" tvg-logo="https://i.postimg.cc/X7RfzGfy/corazon.png" group-title="🇲🇽 MEXICO",MX: AZ Corazon
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX: AZ Corazon" tvg-logo="https://i.postimg.cc/X7RfzGfy/corazon.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: AZ Corazon
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/7887c607-63cc-4315-9e55-9f3e008b1321.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Comedy Central" tvg-logo="https://i.postimg.cc/SR09tH8b/comedy-central.png" group-title="🇲🇽 MEXICO",MX: Comedy Central
+#EXTINF:-1 tvg-id="" tvg-name="MX: Comedy Central" tvg-logo="https://i.postimg.cc/SR09tH8b/comedy-central.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: Comedy Central
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/90444c28-06f5-4574-a46b-1c425bcce22b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: DISTRITO COMEDIA SD" tvg-logo="https://i.postimg.cc/wBGLD1jv/dc-comedia.png" group-title="🇲🇽 MEXICO",MX: DISTRITO COMEDIA SD
+#EXTINF:-1 tvg-id="" tvg-name="MX: DISTRITO COMEDIA SD" tvg-logo="https://i.postimg.cc/wBGLD1jv/dc-comedia.png" group-title="🇲🇽 MEXICO 🇲🇽",MX: DISTRITO COMEDIA SD
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/0cc2e142-1185-409e-9d99-ce4376624801.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX: DISTRITO COMEDIA HD" tvg-logo="https://i.postimg.cc/wBGLD1jv/dc-comedia.png" group-title="🇲🇽 MEXICO",MX: DISTRITO COMEDIA HD
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/e233f2f1-4348-4028-b989-d77629cc6204.m3u
