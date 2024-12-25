@@ -455,7 +455,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/43dKL4yX/AMERICA-TV.png",AMERICA TV PERU HD
 http://181.78.23.26:45000/play/a029
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://canalrumbatv.com/wp-content/uploads/2022/03/page-logo-white-1.png",RUMBA TV SD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/9XYQYTc5/76e5e73c-1e3d-4dfb-b744-02c31820bb03-m.jpg",RUMBA TV SD
 http://181.78.23.26:45000/play/a04k
 #EXTINF:-1 group-title="PUERTORICO" tvg-logo="https://i.postimg.cc/FR5xgtJf/Telemundo-AL-DIA.png",TELEMUNDO PUERTO RICO TV  HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
