@@ -7,8 +7,6 @@ http://181.78.79.131:8000/play/a01u/index.m3u8
 http://38.56.113.50:11211/play/a0tv/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png",➾ ⚽|0001  WIN SPORTS JUNIO-27-2024
 http://190.60.37.154:45000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png",➾ ⚽|0002 WIN SPORTS PLUS NOVIEMBRE 04-2024
-http://200.10.67.170:8000/play/a2vh/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png",➾ ⚽|0003 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
 http://181.78.23.26:45000/play/a03d
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",➾ ⚽|0004 WIN SPORTS PLUS HD-AGOSTO 31-2024
@@ -49,10 +47,6 @@ http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/499077
 http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/4
 #EXTINF:-1 group-title="⚫DEPORTES COLOMBIA⚫" tvg-logo="https://i.postimg.cc/MHMCd6xY/win-plus.png",Win Sports+ op1
 http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/209215
-#EXTINF:-1 group-title="VOD Italy" tvg-logo="https://i.imgur.com/jxGhINd.png",Monster Jam – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="⭐️ESPECIAL NAVIDAD⭐️" tvg-logo="http://tvlatino.club:2082/images/e9fb4853ffb6a7eb381c29bf12f4d485.png",Cinema Navidad ⁽ᴴᴰ⁾
-http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/512156
 #EXTINF:-1 group-title="⭐️ESPECIAL NAVIDAD⭐️" tvg-logo="http://tvlatino.club:2082/images/f38cd38b8e0304b063f0248269cf47f2.png",Cine Puntoz Navidad ⁽ᴴᴰ⁾
 http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/512157
 #EXTINF:-1 group-title="⭐️ESPECIAL NAVIDAD⭐️" tvg-logo="http://tvlatino.club:2082/images/5b75aa75166a0b689147e4ecc26274be.png",N3tflix Presents Chistmas ©©©
