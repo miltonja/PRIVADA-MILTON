@@ -75,6 +75,18 @@ http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/84896
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8506
 #EXTINF:-1 group-title="✔️ EVENTOS DEL DIA ✔️" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png",0001 | LIGA COLOMBIA |
 http://1play.cool:25461/live/6192072480/ac82fc22ff/39957.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="CANELA CINEMA"tvg-logo="https://i.postimg.cc/xTbpyLP2/CANELA-CINEMA.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINEMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
+#EXTINF:-1 tvg-id=""tvg-name="CANELA CLASICO"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CLASICO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-id=""tvg-name="CANELA TODO CINE"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA TODO CINE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+#EXTINF:-1 tvg-id=""tvg-name="CANELA CINE PICANTE"tvg-logo="https://i.postimg.cc/Pf7FwSYy/CANELA-CUINE-PICANTE.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINE PICANTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
+#EXTINF:-1 tvg-id=""tvg-name="CANELA HORROR"tvg-logo="https://i.postimg.cc/kg31jDjt/CANELA-CINE-HORROR.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA HORROR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
+#EXTINF:-1 tvg-id=""tvg-name="CANELA TRUE CRIME"tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA TRUE CRIME
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 #EXTINF:-1 tvg-id=""tvg-name="RAKUTEN VIKI" tvg-logo="https://i.postimg.cc/fWSmBX2z/RAKUTEN-VIKI-AZUL.png" group-title="🏵️NOVELAS🏵️",🏵️|➾RAKUTEN VIKI
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=30f7f753-8a6e-4a2c-aac0-c76e887845dd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:-1 tvg-id=""tvg-name="FIFA"tvg-logo="https://i.postimg.cc/5tznhGp0/fifa-PNG31.png"group-title="🏵️DEPORTES🏵️",🏵️|➾Rakuten FIFA+
