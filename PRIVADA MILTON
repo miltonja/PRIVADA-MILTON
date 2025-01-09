@@ -139,11 +139,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelata
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="🏵️MUSICA 🏵️" tvg-logo="https://i.postimg.cc/tCwxB5KY/LATIN-ZONE.png",🏵️|➾ Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="🏵️ 🏵️" tvg-logo="https://i.postimg.cc/ydxk9QWp/miami-tv-LATINO.png",🏵️|➾ Miami TV
+#EXTINF:-1 group-title="🏵️MEXICO🏵️" tvg-logo="https://i.postimg.cc/ydxk9QWp/miami-tv-LATINO.png",🏵️|➾ Miami TV
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
 #EXTINF:-1 group-title="🏵️ MUSICA 🏵️" tvg-logo="https://i.postimg.cc/LXwFKSSd/LA-MEGA-MUNDIAL.png",🏵️|➾ La Mega Mundial USA
 https://server40.servistreaming.com:3477/hybrid/play.m3u8
-#EXTINF:-1 group-title="🏵️ MUSICA 🏵️tvg-logo=" tvg-logo="https://i.postimg.cc/TP2BMZgb/002-RADIO-ONLINE-ESP.png",🏵️|➾ 002 Radio TV
+#EXTINF:-1 group-title="🏵️ MUSICA 🏵️tvg-logo="https://i.postimg.cc/TP2BMZgb/002-RADIO-ONLINE-ESP.png",🏵️|➾ 002 Radio TV
 https://cdn.002radio.com:3909/live/radio002live.m3u8
 #EXTINF:-1 group-title="🏵️ COLOMBIA 🏵️" tvg-logo="https://i.postimg.cc/ydY7M24Q/RCN-MAS-HD.png",🏵️|➾ RCN Mas+ .CA -TCL
 https://rcntv-rcnmas-1-ca.tcl.wurl.tv/playlist.m3u8
