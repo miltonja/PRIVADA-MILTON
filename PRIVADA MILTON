@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0000  WIN SPORTS PLUS DICIEMBRE-28
-http://190.242.41.219:9000/play/a0bh/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png",➾ ⚽|0001  WIN SPORTS PLUS NOVIEMBRE-24- 2024
 http://181.78.21.162:9080/play/a035/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",➾ ⚽|0002  WIN SPORTS PLUS JULIO 31 2024
@@ -41,22 +39,6 @@ https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/4ceaf6bf-7bdc-449b-bf51-c8
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/980f69d6-b851-4258-b480-ecad9a4f590b.m3u
 #EXTINF:-1 group-title="🇨🇴 COLOMBIA DEPORTES ⚽" tvg-logo="https://i.postimg.cc/RCWkD85G/WINSPORTS.png",CO | Win Sports  HD
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/fef94d94-c446-4491-9065-76c5c864e159.m3u
-#EXTINF:-1 group-title="🇨🇴 COLOMBIA DEPORTES ⚽" tvg-logo="https://i.postimg.cc/RCWkD85G/WINSPORTS.png",CO | Win Sports SD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/1c02879d-7c36-4c24-bb99-c8e7a90b4afe.m3u
-#EXTINF:-1 group-title="⚫DEPORTES COLOMBIA⚫" tvg-logo="https://i.postimg.cc/MHMCd6xY/win-plus.png",Colombia|| WinSports Plus &gt;)
-http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/499077
-#EXTINF:-1 group-title="⚫DEPORTES COLOMBIA⚫" tvg-logo="https://i.postimg.cc/MHMCd6xY/win-plus.png",Win Sports+ op2
-http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/4
-#EXTINF:-1 group-title="⚫DEPORTES COLOMBIA⚫" tvg-logo="https://i.postimg.cc/MHMCd6xY/win-plus.png",Win Sports+ op1
-http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/209215
-#EXTINF:-1 group-title="⭐️ESPECIAL NAVIDAD⭐️" tvg-logo="http://tvlatino.club:2082/images/f38cd38b8e0304b063f0248269cf47f2.png",Cine Puntoz Navidad ⁽ᴴᴰ⁾
-http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/512157
-#EXTINF:-1 group-title="⭐️ESPECIAL NAVIDAD⭐️" tvg-logo="http://tvlatino.club:2082/images/5b75aa75166a0b689147e4ecc26274be.png",N3tflix Presents Chistmas ©©©
-http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/512158
-#EXTINF:-1 group-title="⭐️ESPECIAL NAVIDAD⭐️" tvg-logo="http://tvlatino.club:2082/images/3b249535acdff92511e2de9bcb4a1cf4.png",Hallmark Christmas ©©©
-http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/512160
-#EXTINF:-1 group-title="⭐️ESPECIAL NAVIDAD⭐️" tvg-logo="http://tvlatino.club:2082/images/8b877e3a74be45dfbcdd77c15c4ec8bc.png",Hallmark en Espanol
-http://tvlatino.club:2082/rudipineda2ds/LfATX9CRLjSP/512161
 #EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png",0001 | WIN SPORTS PLUS (M)(1080) |
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8511
 #EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png",0002 | WIN SPORTS PLUS  (TV)(1080)|
