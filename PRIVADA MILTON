@@ -8,6 +8,8 @@ http://45.181.122.201:8081/play/a01y
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/Y0N8G4Ym/WIN-PLUS-VU-TV-PLAYER.png",➾⚽|0016 WIN SPORTS PLUS-junio-03-2024
 http://190.61.42.218:9000/play/a07s
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0001 Win Sports SEPTIEMBRE-17-2024
+http://181.78.23.26:45000/play/a034
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0001 Win Sports SEPTIEMBRE-17-2024
 http://190.60.40.165:1010/play/a098/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0001 Win Sports OCTUBRE-13-2024
 http://38.56.113.50:11211/play/a0uk/index.m3u8
