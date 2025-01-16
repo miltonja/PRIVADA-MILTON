@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png",➾ ⚽|0003 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
 http://181.78.23.26:45000/play/a03d
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/Y0N8G4Ym/WIN-PLUS-VU-TV-PLAYER.png",➾⚽|0009 WIN SPORTS PLUS-OCT 14
+#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/Y0N8G4Ym/WIN-PLUS-VU-TV-PLAYER.png",➾⚽|0004 WIN SPORTS PLUS-OCT 14
 http://181.204.79.182:8202/play/a04m
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png",➾ ⚽|0010 WIN SPORTS PLUS |MAYO-10
-http://45.181.122.201:8081/play/a01y
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/Y0N8G4Ym/WIN-PLUS-VU-TV-PLAYER.png",➾⚽|0016 WIN SPORTS PLUS-junio-03-2024
 http://190.61.42.218:9000/play/a07s
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0001 Win Sports SEPTIEMBRE-17-2024
