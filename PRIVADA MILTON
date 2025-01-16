@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png",➾ ⚽|0003 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
 http://181.78.23.26:45000/play/a03d
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",➾ ⚽|0004 WIN SPORTS PLUS HD-AGOSTO 31-2024
-http://179.51.136.19:8000/play/a0ra/index.m3u8
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/sXg6JwDG/WIN-PLUS-BLANCO.png",➾ ⚽|0005 WIN SPORTS PLUS HD-AGOSTO 18-2024
-http://8.243.126.131:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png",➾ ⚽|0007 WIN SPORTS PLUS HD-JUNIO 26-2024
-http://190.60.38.254:1010/play/a08x/index.m3u8
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png",➾ ⚽|0008 WIN SPORTS PLUS-JULIO 11-2024
-http://190.108.77.197:1010/play/a09f/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/Y0N8G4Ym/WIN-PLUS-VU-TV-PLAYER.png",➾⚽|0009 WIN SPORTS PLUS-OCT 14
 http://181.204.79.182:8202/play/a04m
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/GtfFf4R2/WINSPORTS-DEG.png",➾ ⚽|0010 WIN SPORTS PLUS |MAYO-10
@@ -67,8 +59,6 @@ https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=829dcd30-3206-4482-a4ee-07a9e430737a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
 #EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png",➾ ⚽| AZTECA 7 HD
 http://190.92.10.66:4000/play/a007/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/tg1d6Tp4/Movistar-Deportes-1024x768.png",➾MOVISTAR DEPORES
-http://38.56.113.50:11211/play/a0sd/index.m3u8
 #EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://sender.epglogos.de/302x190_w/623.png",➾ ⚽| SKY SPOTS BUNDESLIGA
 http://181.78.106.127:9000/play/ca028/index.m3u8
 #EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/NF2PRdg5/Premier-League-Logo4.png",➾ ⚽|SKY LIGA PREMIER
