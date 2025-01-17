@@ -15,20 +15,12 @@ http://tv.nousiptv.com:8080/Oscar-Diaz/Nacional2021/16723
 http://xxip25.top:8080/79700582/96651804/78697
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001  WIN SPORTS PLUS XXIPTV
 http://xxip9.top:8080/live/37931569/37931569/78697.ts
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0001 Win Sports SEPTIEMBRE-17-2024
-http://181.78.23.26:45000/play/a034
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0001 Win Sports SEPTIEMBRE-17-2024
-http://190.60.40.165:1010/play/a098/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0001 Win Sports OCTUBRE-13-2024
-http://38.56.113.50:11211/play/a0uk/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0002 Win Sports OCTUBRE-10
 http://181.78.11.12:1010/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0005 Win Sports OSEPTIEMBRE-10
 http://181.78.23.26:45000/play/a034
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/Y24kpYvz/win-sports-lineas.png",➾ ⚽|WIN SPORTS PLUS FHD DALE PLAY
 https://daleplay.club:443/live/btbdd3102/2503202202/5af75b23-584d-491b-849f-44e25ea39d0b.m3u
-#EXTINF:-1 group-title="🇨🇴 COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NUEVO_LOGO_DE_EL_TIEMPO_HD.jpg",CO | El Tiempo
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/4ceaf6bf-7bdc-449b-bf51-c8a56e05f540.m3u
 #EXTINF:-1 group-title="🇨🇴 COLOMBIA DEPORTES ⚽" tvg-logo="https://i.postimg.cc/BbGHGk6k/WINMAS.png",CO | Win Sports + SD.
 https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/980f69d6-b851-4258-b480-ecad9a4f590b.m3u
 #EXTINF:-1 group-title="🇨🇴 COLOMBIA DEPORTES ⚽" tvg-logo="https://i.postimg.cc/RCWkD85G/WINSPORTS.png",CO | Win Sports  HD
