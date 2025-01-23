@@ -39,7 +39,21 @@ http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8505
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/84896
 #EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png",0008 | WIN SPORTS (L)(SD) |
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8506
-#EXTINF:-1 group-title="✔️ EVENTOS DEL DIA ✔️" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png",0001 | LIGA COLOMBIA |
+#EXTINF:-1 group-title="✔️ TV | WIN PLUS ✔️" tvg-logo="https://od.lk/s/MzlfNDMwOTg4NjRf/primera_colombia.png",0001 | LIGA COLOMBIA |
+http://1play.cool:25461/live/6192072480/ac82fc22ff/39957.m3u8
+#EXTINF:-1 group-title="✔️ TV | WIN BASIC✔️" tvg-logo="http://209.126.82.213/Colombia/winsport.png",COL | Win Sports
+http://1play.cool:25461/live/6192072480/ac82fc22ff/40366.m3u8
+#EXTINF:-1 group-title="✔️ TV | WIN BASIC✔️" tvg-logo="http://209.126.82.213/Colombia/winsport.png",COL | Win Sports FHD
+http://1play.cool:25461/live/6192072480/ac82fc22ff/30179.m3u8
+#EXTINF:-1 group-title="✔️ TV | WIN BASIC✔️" tvg-logo="http://209.126.82.213/Colombia/winsport.png",COL | Win Sports HD
+http://1play.cool:25461/live/6192072480/ac82fc22ff/30266.m3u8
+#EXTINF:-1 group-title="✔️ TV | WIN PLUS✔️" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png",COL | Win Sports Plus FHD
+http://1play.cool:25461/live/6192072480/ac82fc22ff/39958.m3u8
+#EXTINF:-1 group-title="✔️ TV | WIN PLUS✔️" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png",COL | Win Sports Plus HD
+http://1play.cool:25461/live/6192072480/ac82fc22ff/147330.m3u8
+#EXTINF:-1 group-title="✔️ TV | WIN PLUS✔️" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png",COL | Win Sports Plus
+http://1play.cool:25461/live/6192072480/ac82fc22ff/135705.m3u8
+#EXTINF:-1 group-title="✔️ TV | WIN PLUS✔️" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png",COL | Win Sports Plus HD*
 http://1play.cool:25461/live/6192072480/ac82fc22ff/39957.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="CANELA CINEMA"tvg-logo="https://i.postimg.cc/xTbpyLP2/CANELA-CINEMA.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
