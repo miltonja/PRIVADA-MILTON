@@ -375,6 +375,8 @@ http://8.243.126.131:8000/play/a076/index.m3u8
 http://177.53.155.236:8000/play/a01c/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7hXPkRJB/RCN-NOVELAS.png",❄️|➾RCN NOVELAS HD
 http://177.53.155.236:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/vLU4Tcu.png",❄️|➾TV San Jorge
+https://asucap.com/livestream/asucap_envivo.m3u8
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
 http://190.61.42.218:9000/play/a058
 #EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/jy6NXHI.png",❄️|➾ CANL UNO Hd
