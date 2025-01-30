@@ -45,6 +45,32 @@ http://tv-cool.com:25461/6514856540/c0ea81e220/147330
 http://tv-cool.com:25461/6514856540/c0ea81e220/135705
 #EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports Plus HD*" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports Plus HD*
 http://tv-cool.com:25461/6514856540/c0ea81e220/39957
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png" group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS +
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516932.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS +" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png" group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS +
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516931.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS +" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png" group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS +
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516933.ts
+#EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS + FHD" tvg-logo="https://i.postimg.cc/MHM2mgZL/1200px-Win-Sports-nuevo-logo-svg.png"group-title="❄️WIN SPORTS BASIC❄️",WIN SPORTS 
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516934.ts
+#EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS + HD"tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png"group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS + HD
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516935.ts
+#EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS + HD OP 1" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png" group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS + HD OP 1
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516929.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS + VIP 1" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png" group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS + VIP 1
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516921.ts
+#EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS"tvg-logo="https://i.postimg.cc/MHM2mgZL/1200px-Win-Sports-nuevo-logo-svg.png"group-title="❄️WIN SPORTS BASIC❄️",WIN SPORTS OP 1
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/485515.ts
+#EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS+ FHD" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png"group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS+ FHD
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/12840.ts
+#EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS+ HD"tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png"group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS+ HD
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/395946.ts
+#EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS+ HD OP2" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png"group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS+ HD OP2
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/479415.ts
+#EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS+ SD OP2" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png"group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS+ SD OP2
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/505449.ts
+#EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS+ SD"tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png"group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS+ SD 
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/12759.ts
 #EXTINF:-1 tvg-id="" tvg-name="COL | CASA DE LOS FAMOSOS" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",CASA DE LOS FAMOSOS
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586712.ts
 #EXTINF:-1 tvg-id="" tvg-name="COMEDOR" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",COMEDOR
