@@ -45,6 +45,20 @@ http://tv-cool.com:25461/6514856540/c0ea81e220/147330
 http://tv-cool.com:25461/6514856540/c0ea81e220/135705
 #EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports Plus HD*" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports Plus HD*
 http://tv-cool.com:25461/6514856540/c0ea81e220/39957
+#EXTINF:-1 tvg-id="" tvg-name="COL | CASA DE LOS FAMOSOS" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",CASA DE LOS FAMOSOS
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586712.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDOR" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",COMEDOR
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586769.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOFT" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",LOFT
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586770.ts
+#EXTINF:-1 tvg-id="" tvg-name="HABITACION AGUA" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",HABITACION AGUA
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586771.ts
+#EXTINF:-1 tvg-id="" tvg-name="HABITACION FUEGO" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",HABITACION FUEGO
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586772.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEAUTY" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",BEAUTY
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586773.ts
+#EXTINF:-1 tvg-id=""tvg-name="BAÑOS" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",BAÑOS
+http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586774.ts
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA 24 HORAS" tvg-logo="" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA 24 HORAS
 http://tv-cool.com:25461/6514856540/c0ea81e220/264260
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA BEAUTY" tvg-logo="" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA BEAUTY
