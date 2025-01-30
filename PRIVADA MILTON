@@ -31,6 +31,34 @@ http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8505
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/84896
 #EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png",0008 | WIN SPORTS (L)(SD) |
 http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8506
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports" tvg-logo="http://209.126.82.213/Colombia/winsport.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports
+http://tv-cool.com:25461/6514856540/c0ea81e220/40366
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports FHD" tvg-logo="http://209.126.82.213/Colombia/winsport.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports FHD
+http://tv-cool.com:25461/6514856540/c0ea81e220/30179
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports HD" tvg-logo="http://209.126.82.213/Colombia/winsport.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports HD
+http://tv-cool.com:25461/6514856540/c0ea81e220/30266
+#EXTINF:-1 tvg-id="LATINO_Networks_and_Sports_EPGWinSportsPremium.co" tvg-name="COL | Win Sports Plus FHD" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports Plus FHD
+http://tv-cool.com:25461/6514856540/c0ea81e220/39958
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports Plus HD" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports Plus HD
+http://tv-cool.com:25461/6514856540/c0ea81e220/147330
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports Plus " tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports Plus 
+http://tv-cool.com:25461/6514856540/c0ea81e220/135705
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports Plus HD*" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports Plus HD*
+http://tv-cool.com:25461/6514856540/c0ea81e220/39957
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA 24 HORAS" tvg-logo="" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA 24 HORAS
+http://tv-cool.com:25461/6514856540/c0ea81e220/264260
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA BEAUTY" tvg-logo="" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA BEAUTY
+http://tv-cool.com:25461/6514856540/c0ea81e220/264262
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA BAÑOS" tvg-logo="" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA BAÑOS
+http://tv-cool.com:25461/6514856540/c0ea81e220/264261
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA COMEDOR" tvg-logo="" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA COMEDOR
+http://tv-cool.com:25461/6514856540/c0ea81e220/264263
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA HABITACION AGUA" tvg-logo="" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA HABITACION AGUA
+http://tv-cool.com:25461/6514856540/c0ea81e220/264264
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA HABITACION FUEGO" tvg-logo="" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA HABITACION FUEGO
+http://tv-cool.com:25461/6514856540/c0ea81e220/264265
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA LOFT" tvg-logo="" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA LOFT
+http://tv-cool.com:25461/6514856540/c0ea81e220/264266
 #EXTINF:-1 tvg-id=""tvg-name="CANELA CINEMA"tvg-logo="https://i.postimg.cc/xTbpyLP2/CANELA-CINEMA.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
 #EXTINF:-1 tvg-id=""tvg-name="CANELA CLASICO"tvg-logo="https://i.postimg.cc/N0Wq2PYN/Canela-tv-clasicos.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CLASICO
