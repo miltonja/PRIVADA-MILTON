@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/L4G1cr93/Winfutbol-Naranja.png",➾ ⚽|001 WIN SPORTS PLUS  HD-FEBRERO-06
+http://152.231.29.139:8000/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/L4G1cr93/Winfutbol-Naranja.png",➾ ⚽|001 WIN SPORTS PLUS  HD-FEBRERO-06
+http://152.231.29.139:8000/play/a0cu/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/L4G1cr93/Winfutbol-Naranja.png",➾ ⚽|001 WIN SPORTS PLUS JUNIO-27---
 http://190.60.37.154:45000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png",➾ ⚽|0003 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
@@ -53,6 +57,8 @@ http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516932.ts
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516931.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS +" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png" group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS +
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516933.ts
+#EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS + FHD" tvg-logo="https://i.postimg.cc/MHM2mgZL/1200px-Win-Sports-nuevo-logo-svg.png"group-title="❄️WIN SPORTS BASIC❄️",WIN SPORTS 
+http://152.231.29.139:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS + FHD" tvg-logo="https://i.postimg.cc/MHM2mgZL/1200px-Win-Sports-nuevo-logo-svg.png"group-title="❄️WIN SPORTS BASIC❄️",WIN SPORTS 
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516934.ts
 #EXTINF:-1 tvg-id=""tvg-name="CO | WIN SPORTS + HD"tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png"group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS + HD
