@@ -197,6 +197,10 @@ http://190.92.10.66:4000/play/a005/index.m3u8
 http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="⚽️DEPORTES PREMIUM⚽️" tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png",➾ ⚽|beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="←«🔆STAR SPORTS🔆»→"tvg-logo="https://i.postimg.cc/43cpNJwC/1200px-Star-Sports-1-HD.png"group-title="🔆»→DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-name="←«🔆STAR SPORTS🔆»→"tvg-logo="https://i.postimg.cc/FzTTg92W/Star-Sports-1200-HD.png"group-title="🔆»→DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 group-title="🏵️CINE 24/7🏵️" tvg-logo="https://i.postimg.cc/HnqFmKNx/MX-FAMILY.png",🏵️|➾78 | M6 Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 group-title="🏵️CINE 24/7🏵️" tvg-logo="https://i.postimg.cc/HncFfHBR/MX-CLASIC.png",🏵️|➾77 | MX Classic
