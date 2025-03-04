@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/gJjshjNv/WIN-PLUS-ROJO.png",➾ ⚽|000 WIN SPORTS PLUS HD MARZIO-02-2025
+http://200.121.48.5:8081/play/a0k2/index.m3u8
+#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/gJjshjNv/WIN-PLUS-ROJO.png",➾ ⚽|000 WIN SPORTS PLUS HD MARZIO-02-2025
 http://190.60.59.67:8000/play/a0b1/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/gJjshjNv/WIN-PLUS-ROJO.png",➾ ⚽|000 WIN SPORTS PLUS HD MARZIO-02-2025
 http://181.205.220.42:8090/play/a05l/index.m3u8
