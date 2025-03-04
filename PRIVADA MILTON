@@ -19,8 +19,6 @@ http://177.93.52.115:8000/play/a0bn/index.m3u8
 http://201.182.250.126:9999/play/a0rx
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/G2Gv3dvc/WIN-PLANTILLA-1200.png",➾ ⚽|0010 WIN SPORTS PLUS  HD-18 ENERO
 http://181.205.251.114:8090/play/a05l/index.m3u8
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/G2Gv3dvc/WIN-PLANTILLA-1200.png",➾ ⚽|0011 WIN SPORTS PLUS  HD-FEBRERO-12
-http://181.78.208.254:8080/play/a0em/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png",➾ ⚽|0012 WIN SPORTS PLUS  HD-FEBRERO-06
 http://152.231.29.139:8000/play/a0cd/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png",➾ ⚽|0013 WIN SPORTS PLUS  HD-FEBRERO-06
@@ -37,8 +35,6 @@ http://190.14.242.93:8088/play/a025
 http://181.78.23.26:45000/play/a03d
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001  WIN SPORTS PLUS XXIPTV
 http://xxip25.top:8080/79700582/96651804/78697
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002  WIN SPORTS PLUS XXIPTV
-http://cineplay.vip:2086/nachocorte/saHP9RmsmG/81924
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0003  WIN SPORTS PLUS ENERO/2025
 http://xxip9.top:8080/live/37931569/37931569/78697.ts
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0005 Win Sports MARZO-02-2025
@@ -55,28 +51,6 @@ http://190.60.33.237:1010/play/a0eg/index.m3u8
 http://206.62.161.192:8000/play/a0f1/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0005 Win Sports OSEPTIEMBRE-10
 http://181.78.23.26:45000/play/a034
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/Y24kpYvz/win-sports-lineas.png",➾ ⚽|WIN SPORTS PLUS FHD DALE PLAY
-https://daleplay.club:443/live/btbdd3102/2503202202/5af75b23-584d-491b-849f-44e25ea39d0b.m3u
-#EXTINF:-1 group-title="🇨🇴 COLOMBIA DEPORTES ⚽" tvg-logo="https://i.postimg.cc/BbGHGk6k/WINMAS.png",CO | Win Sports + SD.
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/980f69d6-b851-4258-b480-ecad9a4f590b.m3u
-#EXTINF:-1 group-title="🇨🇴 COLOMBIA DEPORTES ⚽" tvg-logo="https://i.postimg.cc/RCWkD85G/WINSPORTS.png",CO | Win Sports  HD
-https://daleplay.club:443/live/dat3792ve/yrjDckzDSaze/fef94d94-c446-4491-9065-76c5c864e159.m3u
-#EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png",0001 | WIN SPORTS PLUS (M)(1080) |
-http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8511
-#EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png",0002 | WIN SPORTS PLUS  (TV)(1080)|
-http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8512
-#EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png",0003 | WIN SPORTS PLUS (T)(720)|
-http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/84897
-#EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/8c2JWmsP/25.png",0004 | WIN SPORTS PLUS (T)(720)|
-http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8510
-#EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png",0005 | WIN SPORTS (M)(1080)|
-http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8507
-#EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png",0006 | WIN SPORTS (T)(720)|
-http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8505
-#EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png",0007 | WIN SPORTS (T)(720)|
-http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/84896
-#EXTINF:-1 group-title="✔️ LIGA COLOMBIANA✔️" tvg-logo="https://i.postimg.cc/bvFzs06G/WIN-SPORTS.png",0008 | WIN SPORTS (L)(SD) |
-http://tv.proyectox.vip:8080/Ramonrodriguez/65432154687/8506
 #EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports" tvg-logo="http://209.126.82.213/Colombia/winsport.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports
 http://tv-cool.com:25461/6514856540/c0ea81e220/40366
 #EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports FHD" tvg-logo="http://209.126.82.213/Colombia/winsport.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports FHD
