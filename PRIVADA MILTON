@@ -235,27 +235,27 @@ http://190.92.10.66:4000/play/a00b/index.m3u8
 http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/y8zcTZfT/20200720191227-20200709160812futv-x2.jpg",➾ ⚽| FUTV
 http://190.92.10.66:4000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM⚽️" tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png",➾ ⚽|beIN SPORTS XTRA ñ FHD
+#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM⚽" tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png",➾ ⚽|beIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="←«🔆STAR SPORTS🔆»→"tvg-logo="https://i.postimg.cc/43cpNJwC/1200px-Star-Sports-1-HD.png"group-title="🔆»→DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
+#EXTINF:-1 tvg-name="←«🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/43cpNJwC/1200px-Star-Sports-1-HD.png"group-title="🔆»→DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-name="←«🔆STAR SPORTS🔆»→"tvg-logo="https://i.postimg.cc/FzTTg92W/Star-Sports-1200-HD.png"group-title="🔆»→DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
+#EXTINF:-1 tvg-name="←«🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/FzTTg92W/Star-Sports-1200-HD.png"group-title="🔆»→DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 group-title="🏵️CINE 24/7🏵️" tvg-logo="https://i.postimg.cc/HnqFmKNx/MX-FAMILY.png",🏵️|➾78 | M6 Family
+#EXTINF:-1 tvg-name="←«🏵️M6 Family" tvg-logo="https://i.postimg.cc/HnqFmKNx/MX-FAMILY.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾78 | M6 Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
-#EXTINF:-1 group-title="🏵️CINE 24/7🏵️" tvg-logo="https://i.postimg.cc/HncFfHBR/MX-CLASIC.png",🏵️|➾77 | MX Classic
+#EXTINF:-1 tvg-name="←«🏵️MX Classic"tvg-logo="https://i.postimg.cc/HncFfHBR/MX-CLASIC.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾77 | MX Classic
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
-#EXTINF:-1 group-title="🏵️CINE 24/7🏵️" tvg-logo="https://i.postimg.cc/HsJB4BhZ/OLD-TV.png",🏵️|➾81 | Old
+#EXTINF:-1 tvg-name="←«🏵️OLD"tvg-logo="https://i.postimg.cc/HsJB4BhZ/OLD-TV.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾81 | Old
 https://marine2.miplay.cl/old/playlist.m3u8
-#EXTINF:-1 group-title="🏵️CINE 24/7🏵️" tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png",🏵️|➾127 | FMH Family
+#EXTINF:-1 tvg-name="←«🏵️FMH Family"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾127 | FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png",✳️|➾A NEFLIX01
+#EXTINF:-1 tvg-name="←«✳️A NEFLIX0✳️1»→"tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png"group-title="←«✳️ 24/7 ✳️»→,✳️|➾A NEFLIX01
 http://clubtv.link/Sepfin29/key4513/24.php?c=a_neflix01
-#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/15wmYwRd/image.jpg",✳️|➾ CINEMUNDO PLUS
+#EXTINF:-1 tvg-name="←«✳️CINEMUNDO PLUS"tvg-logo="https://i.postimg.cc/15wmYwRd/image.jpg"group-title="←«✳️ 24/7 ✳️»→,✳️|➾ CINEMUNDO PLUS
 http://clubtv.link/Sepfin29/key4513/24.php?c=cinemundo_plus
-#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/nL0xhnwJ/PELICULAS-MANIA.png",✳️|➾PELICULAS MANIA
+#EXTINF:-1 tvg-name="←«✳️PELICULAS MANIA"tvg-logo="https://i.postimg.cc/nL0xhnwJ/PELICULAS-MANIA.png"group-title="←«✳️ 24/7 ✳️»→,✳️|➾PELICULAS MANIA
 http://clubtv.link/Sepfin29/key4513/24.php?c=peliculas_mania
-#EXTINF:-1 group-title="←«✳️ 24/7 ✳️»→" tvg-logo="https://i.postimg.cc/k4GmVLkt/terror-mania-rojo.png",✳️|➾TERROR MANIA
+#EXTINF:-1 tvg-name="←«✳️TERROR MANIA"tvg-logo="https://i.postimg.cc/k4GmVLkt/terror-mania-rojo.png"group-title="←«✳️ 24/7 ✳️»→" ,✳️|➾TERROR MANIA
 http://clubtv.link/Sepfin29/key4513/24.php?c=terror_mania
 #EXTINF:-1 group-title="←«🔅GENERAL🔅»→" tvg-logo="https://i.imgur.com/UJhQoUK.png",Azteca GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
