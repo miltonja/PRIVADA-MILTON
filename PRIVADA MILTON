@@ -213,30 +213,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=30f7f753-8a6e-4a2c-aac0-c76e887845dd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:-1 tvg-id=""tvg-name="FIFA"tvg-logo="https://i.postimg.cc/GpDXspkP/FIFA-FUTBOL.png"group-title="🏵️DEPORTES🏵️",🏵️|➾Rakuten FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=829dcd30-3206-4482-a4ee-07a9e430737a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png",➾ ⚽| AZTECA 7 HD
-http://190.92.10.66:4000/play/a007/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://sender.epglogos.de/302x190_w/623.png",➾ ⚽| SKY SPOTS BUNDESLIGA
-http://181.78.106.127:9000/play/ca028/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/NF2PRdg5/Premier-League-Logo4.png",➾ ⚽|SKY LIGA PREMIER
-http://181.78.106.127:9000/play/ca029/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/52wbQdFB/sky-sports-la-ligabueno.png",➾⚽|SKY SPORTS LA LIGA
-http://181.78.106.127:9000/play/ca030/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://sender.epglogos.de/302x190_w/623.png",➾ ⚽| BUNDESLIGA
-http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/ZnbD05g8/image.png",➾ ⚽| SKY SPORT
-http://190.92.10.66:4000/play/a002/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/6qcghvRb/image.png",➾ ⚽| SKY SPORT LA LIGA
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/s2VBvppy/Telemundo-51-2018.png",➾ ⚽| TELEMUNDO 51
-http://190.92.10.66:4000/play/a004/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/TwXt7G6h/1280px-Tigo-Sports-logo.png",➾ ⚽| TIGO CDN
-http://190.92.10.66:4000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/zfX9vnrZ/TUDN-LOGO-COLOR.png",➾ ⚽| TUDN
-http://190.92.10.66:4000/play/a005/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM ⚽️" tvg-logo="https://i.postimg.cc/y8zcTZfT/20200720191227-20200709160812futv-x2.jpg",➾ ⚽| FUTV
-http://190.92.10.66:4000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="⚽️DEPORTES PREMIUM⚽" tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png",➾ ⚽|beIN SPORTS XTRA ñ FHD
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="←«🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/43cpNJwC/1200px-Star-Sports-1-HD.png"group-title="🔆»→DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-name="←«🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/FzTTg92W/Star-Sports-1200-HD.png"group-title="🔆»→DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
