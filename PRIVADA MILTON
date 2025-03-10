@@ -129,20 +129,28 @@ https://tv.nube-x.xyz:8443/GuillermoCepeda/5NU7MKds/106315
 https://tv.nube-x.xyz:8443/GuillermoCepeda/5NU7MKds/102179
 #EXTINF:-1 tvg-name="ALADDIN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="CINE INFANTIL ",ALADDIN
 http://78.159.119.122:2082/LIST-MIGIRATION-oijjtVQ5vS/xavXBD3V5P/676
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 1" tvg-logo="https://i.postimg.cc/TwgF2cSs/bein-sports-logo.png" group-title="⚽BEIN SPORTS⚽",➾ ⚽|BEIN SPORTS 1
-http://78.159.119.122:2082/LIST-MIGIRATION-oijjtVQ5vS/xavXBD3V5P/901
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 2" tvg-logo="https://i.postimg.cc/TwgF2cSs/bein-sports-logo.png" group-title="⚽BEIN SPORTS⚽",➾ ⚽|BEIN SPORTS 2
-http://78.159.119.122:2082/LIST-MIGIRATION-oijjtVQ5vS/xavXBD3V5P/902
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 3" tvg-logo="https://i.postimg.cc/TwgF2cSs/bein-sports-logo.png" group-title="⚽BEIN SPORTS⚽",➾ ⚽|BEIN SPORTS 3
-http://78.159.119.122:2082/LIST-MIGIRATION-oijjtVQ5vS/xavXBD3V5P/903
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 4" tvg-logo="https://i.postimg.cc/TwgF2cSs/bein-sports-logo.png" group-title="⚽BEIN SPORTS⚽",➾ ⚽|BEIN SPORTS 4
-http://78.159.119.122:2082/LIST-MIGIRATION-oijjtVQ5vS/xavXBD3V5P/904
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 5 " tvg-logo="https://i.postimg.cc/TwgF2cSs/bein-sports-logo.png" group-title="⚽BEIN SPORTS⚽",➾ ⚽|BEIN SPORTS 5 
-http://78.159.119.122:2082/LIST-MIGIRATION-oijjtVQ5vS/xavXBD3V5P/905
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 6 " tvg-logo="https://i.postimg.cc/TwgF2cSs/bein-sports-logo.png" group-title="⚽BEIN SPORTS⚽",➾ ⚽|BEIN SPORTS 6 
-http://78.159.119.122:2082/LIST-MIGIRATION-oijjtVQ5vS/xavXBD3V5P/906
-#EXTINF:-1 tvg-name="⚽|BEIN SPORTS 7" tvg-logo="https://i.postimg.cc/TwgF2cSs/bein-sports-logo.png" group-title="⚽BEIN SPORTS⚽",➾ ⚽|BEIN SPORTS 7
-http://78.159.119.122:2082/LIST-MIGIRATION-oijjtVQ5vS/xavXBD3V5P/907
+#EXTINF:-1 tvg-name="⚽️AZTECA 7"tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| AZTECA 7 HD
+http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1 tvg-name="⚽️SKY SPORTS BUNDESLIGA" tvg-logo="https://sender.epglogos.de/302x190_w/623.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| SKY SPOTS BUNDESLIGA
+http://181.78.106.127:9000/play/ca028/index.m3u8
+#EXTINF:-1 tvg-name="⚽️SKY LIGA PREMIER"tvg-logo="https://i.postimg.cc/NF2PRdg5/Premier-League-Logo4.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽|SKY LIGA PREMIER
+http://181.78.106.127:9000/play/ca029/index.m3u8
+#EXTINF:-1 tvg-name="⚽️SKY SPORTS LA LIGA" tvg-logo="https://i.postimg.cc/52wbQdFB/sky-sports-la-ligabueno.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾⚽|SKY SPORTS LA LIGA
+http://181.78.106.127:9000/play/ca030/index.m3u8
+#EXTINF:-1 tvg-name="⚽️BUNDESLIGA"tvg-logo="https://sender.epglogos.de/302x190_w/623.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| BUNDESLIGA
+http://190.92.10.66:4000/play/a006/index.m3u8
+#EXTINF:-1 tvg-name="⚽️SKY SPORTS" tvg-logo="https://i.postimg.cc/ZnbD05g8/image.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| SKY SPORT
+http://190.92.10.66:4000/play/a002/index.m3u8
+#EXTINF:-1 tvg-name="⚽️SKY SPORTS LA LIGA"tvg-logo="https://i.postimg.cc/6qcghvRb/image.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| SKY SPORT LA LIGA
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-name="⚽️TELEMUNDO 51"tvg-logo="https://i.postimg.cc/s2VBvppy/Telemundo-51-2018.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| TELEMUNDO 51
+http://190.92.10.66:4000/play/a004/index.m3u8
+#EXTINF:-1 tvg-name="⚽️TIGO CDN" tvg-logo="https://i.postimg.cc/TwXt7G6h/1280px-Tigo-Sports-logo.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| TIGO CDN
+http://190.92.10.66:4000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-name="⚽️FUTV"tvg-logo="https://i.postimg.cc/y8zcTZfT/20200720191227-20200709160812futv-x2.jpg"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| FUTV
+http://190.92.10.66:4000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-name="⚽️BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽|BEIN SPORTS XTRA ñ FHD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COL | CASA DE LOS FAMOSOS" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",CASA DE LOS FAMOSOS
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586712.ts
 #EXTINF:-1 tvg-id="" tvg-name="COMEDOR" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",COMEDOR
