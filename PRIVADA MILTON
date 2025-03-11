@@ -477,63 +477,61 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 tvg-name="🏵️IMAGEN TV"tvg-logo="https://i.postimg.cc/tT71HsFV/Imagen-Televisi-n.png"group-title="🏵️ MEXICO 🏵️" ,🏵️|➾ Imagen TV+ (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/htLF4CWL/HORAX-HORA-TV.png",❄️|➾HORA X HORA TV  HD
+#EXTINF:-1  tvg-name="❄️HORA X HORA TV"tvg-logo="https://i.postimg.cc/htLF4CWL/HORAX-HORA-TV.png" group-title="❄️COLOMBIA❄️" ,❄️|➾HORA X HORA TV  HD
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/NjB8XnSB/unicable.png",❄️|➾UNICABLE HD
+#EXTINF:-1 tvg-name="❄️UNICABLE HD" tvg-logo="https://i.postimg.cc/NjB8XnSB/unicable.png" group-title="❄️COLOMBIA❄️" ,❄️|➾UNICABLE HD
 http://181.78.105.146:2000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/prhhZv5v/TELEMUNDO-FLORIDA.png",❄️|➾TELEMUNDO FLORIDA TV
+#EXTINF:-1 tvg-name="❄️TELEMUNDO FLORIDA TV" tvg-logo="https://i.postimg.cc/prhhZv5v/TELEMUNDO-FLORIDA.png" group-title="❄️COLOMBIA❄️" ,❄️|➾TELEMUNDO FLORIDA TV
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL RESPALDO TDT CUCUTA
+#EXTINF:-1 tvg-name="❄️CARACOL RESPALDO TDT CUCUTA" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png" group-title="❄️COLOMBIA❄️" ,❄️|➾CARACOL RESPALDO TDT CUCUTA
 http://190.61.55.107:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",CARACOL NOTICIAS TV
+#EXTINF:-1 tvg-name="❄️CARACOL NOTICIAS TV" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png" group-title="❄️COLOMBIA❄️",❄️|➾CARACOL NOTICIAS TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png",❄️|➾CARACOL NOTICIAS TV
+#EXTINF:-1 tvg-name="❄️CARACOL NOTICIAS TV" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png" group-title="❄️COLOMBIA❄️" ,❄️|➾CARACOL NOTICIAS TV
 http://8.243.126.131:8000/play/a076/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/rmFBD9kn/love-nature.png",❄️|➾LOVE NATURE TV HD
-http://177.53.155.236:8000/play/a01c/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7hXPkRJB/RCN-NOVELAS.png",❄️|➾RCN NOVELAS HD
+#EXTINF:-1 tvg-name="❄️RCN NOVELAS HD" tvg-logo="https://i.postimg.cc/7hXPkRJB/RCN-NOVELAS.png" group-title="❄️COLOMBIA❄️" ,❄️|➾RCN NOVELAS HD
 http://177.53.155.236:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/vLU4Tcu.png",❄️|➾TV San Jorge
+#EXTINF:-1 tvg-name="❄️TV SAN JORGE" tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="❄️COLOMBIA❄️" ,❄️|➾TV San Jorge
 https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png",❄️|➾RCN HD
+#EXTINF:-1 tvg-name="❄️RCN HD" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png" group-title="❄️COLOMBIA❄️" ,❄️|➾RCN HD
 http://190.61.42.218:9000/play/a058
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/jy6NXHI.png",❄️|➾ CANL UNO Hd
+#EXTINF:-1 tvg-name="❄️ANAL UNO HD" tvg-logo="https://i.imgur.com/jy6NXHI.png" group-title="❄️COLOMBIA❄️" ,❄️|➾ CANL UNO Hd
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/jy6NXHI.png",❄️|➾ CANL UNO Hd
+#EXTINF:-1 tvg-name="❄️CANAL UNO" tvg-logo="https://i.imgur.com/jy6NXHI.png" group-title="❄️COLOMBIA❄️" ,❄️|➾ CANL UNO Hd
 http://190.61.42.218:9000/play/a04u
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/K4SLPvTY/CANTINA-TV-ESP.png",❄️|➾Cantina TV | VE
+#EXTINF:-1 tvg-name="❄️CANTINA TV" tvg-logo="https://i.postimg.cc/K4SLPvTY/CANTINA-TV-ESP.png" group-title="❄️COLOMBIA❄️" ,❄️|➾Cantina TV | VE
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/RF49W8x7/CANAL-VISION-DORADA-COL.png",❄️|➾CANAL VISION DORADA
+#EXTINF:-1 tvg-name="❄️CANAL VISION DORADA" tvg-logo="https://i.postimg.cc/RF49W8x7/CANAL-VISION-DORADA-COL.png" group-title="❄️COLOMBIA❄️" ,❄️|➾CANAL VISION DORADA
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/T1w7dSu.png",❄️|➾RANCHENATO TV| SD | Colombia
+#EXTINF:-1 tvg-name="❄️RANCHENATO TV" tvg-logo="https://i.imgur.com/T1w7dSu.png" group-title="❄️COLOMBIA❄️" ,❄️|➾RANCHENATO TV| SD | Colombia
 http://iptvcolombia.ddns.net:1936/ranchenato/ranchenato_360p/chunklist_w1171414734.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/ry49Mz39/RED-MAS.png",❄️|➾RED MAS
+#EXTINF:-1 tvg-name="❄️RED MAS" tvg-logo="https://i.postimg.cc/ry49Mz39/RED-MAS.png" group-title="❄️COLOMBIA❄️" ,❄️|➾RED MAS
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/01.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/7hmhMp45/CNC-MEDELLIN.png",CNC Medellín
+#EXTINF:-1 tvg-name="❄️CNC MEDELLIN" tvg-logo="https://i.postimg.cc/7hmhMp45/CNC-MEDELLIN.png" group-title="❄️COLOMBIA❄️",❄️|➾CNC Medellín
 http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/PqybxmdV/HUILA-TV-ESP.png",❄️|➾Huila TV
+#EXTINF:-1 tvg-name="❄️HUILA TV" tvg-logo="https://i.postimg.cc/PqybxmdV/HUILA-TV-ESP.png" group-title="❄️COLOMBIA❄️" ,❄️|➾Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/k4RPyrjX/MAS-TELEVISION-ESP.png",❄️|➾Más TV
+#EXTINF:-1 tvg-name="❄️MAS TV" tvg-logo="https://i.postimg.cc/k4RPyrjX/MAS-TELEVISION-ESP.png" group-title="❄️COLOMBIA❄️" ,❄️|➾Más TV
 https://video.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.imgur.com/39hy97J.png",❄️|➾TELEPACIFICO |Santiago de Cali | Valle del Cauca
+#EXTINF:-1 tvg-name="❄️TELEPACIFICO" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="❄️COLOMBIA❄️" ,❄️|➾TELEPACIFICO |Santiago de Cali | Valle del Cauca
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/tTJbV8Mx/CANAL-INSTITUCIONAL.png",❄️|➾CANAL INSTITUCIONAL
+#EXTINF:-1 tvg-name="❄️CANAL INSTITUCIONAL" tvg-logo="https://i.postimg.cc/tTJbV8Mx/CANAL-INSTITUCIONAL.png" group-title="❄️COLOMBIA❄️" ,❄️|➾CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/6ppyBrV5/SE-AL-COLOMBIA.png",❄️|➾SEÑAL COLOMBIA
+#EXTINF:-1 tvg-name="❄️SEÑAL COLOMBIA" tvg-logo="https://i.postimg.cc/6ppyBrV5/SE-AL-COLOMBIA.png" group-title="❄️COLOMBIA❄️" ,❄️|➾SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/YS6vsHrH/ATN-Televisi-n.png",❄️|➾ATN Televisión (Cúcuta | Norte de Santander)
+#EXTINF:-1 tvg-name="❄️AT TELEVISON" tvg-logo="https://i.postimg.cc/YS6vsHrH/ATN-Televisi-n.png" group-title="❄️COLOMBIA❄️" ,❄️|➾ATN Televisión (Cúcuta | Norte de Santander)
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/3w8Y6CBj/ATV-SOACHA-esp.png",❄️|➾ATV SOACHA (CUNDINAMARCA)
+#EXTINF:-1 tvg-name="❄️ATV SOACHA" tvg-logo="https://i.postimg.cc/3w8Y6CBj/ATV-SOACHA-esp.png" group-title="❄️COLOMBIA❄️" ,❄️|➾ATV SOACHA (CUNDINAMARCA)
 https://movil.ejeserver.com/live/verteve.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/BvLJ5QQH/CTV-BARRANQUILLA.png",❄️|➾CTV BARRANQUILLA | HD |
+#EXTINF:-1 tvg-name="❄️CTV BARRANQULLA" tvg-logo="https://i.postimg.cc/BvLJ5QQH/CTV-BARRANQUILLA.png",❄️|➾CTV BARRANQUILLA | HD |
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w387031486.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/JhJ94yz6/CALI-TV.png",❄️|➾Cali TV | SD | Cali
+#EXTINF:-1 tvg-name="❄️CALI TV" tvg-logo="https://i.postimg.cc/JhJ94yz6/CALI-TV.png" group-title="❄️COLOMBIA❄️" ,❄️|➾Cali TV | SD | Cali
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://www.telesanjacinto.com/wp-content/uploads/2022/04/logo-3@4x.png",❄️|➾Tele San Jacinto
+#EXTINF:-1 tvg-name="❄️TELE SAN JACINTO" tvg-logo="https://www.telesanjacinto.com/wp-content/uploads/2022/04/logo-3@4x.png",❄️|➾Tele San Jacinto
 https://video.ejeserver.com/live/telesanjacinto.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/DzCPzymN/TELEISLAS.png",❄️|➾Teleislas
+#EXTINF:-1 tvg-name="❄️TELE ISLAS" tvg-logo="https://i.postimg.cc/DzCPzymN/TELEISLAS.png" group-title="❄️COLOMBIA❄️" ,❄️|➾Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 group-title="❄️COLOMBIA❄️" tvg-logo="https://i.postimg.cc/2SmPVc0z/05-02-17-logo-Canal-Trece-color-Naranja.png",❄️|➾Trece + (1080p)
+#EXTINF:-1 tvg-name="❄️TRECE+" tvg-logo="https://i.postimg.cc/2SmPVc0z/05-02-17-logo-Canal-Trece-color-Naranja.png" group-title="❄️COLOMBIA❄️" ,❄️|➾Trece + (1080p)
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 #EXTINF:-1 group-title="CINE  MUSICA",MI MUSICA REGIONAL HD
 http://160.20.165.246:8000/play/a019/index.m3u8
