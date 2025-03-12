@@ -533,22 +533,21 @@ https://video.ejeserver.com/live/telesanjacinto.m3u8
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-name="❄️TRECE+" tvg-logo="https://i.postimg.cc/2SmPVc0z/05-02-17-logo-Canal-Trece-color-Naranja.png" group-title="❄️COLOMBIA❄️" ,❄️|➾Trece + (1080p)
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="🏵️MI MUSICA REGIONL"tvg-logo=""group-title="🏵️ MUSICA 🏵️" ,🏵️|➾MI MUSICA REGIONAL
 http://160.20.165.246:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title=" MUSICA",MI MUSICA SALSA HD
-#EXTINF:-1 tvg-name="🏵️"tvg-logo=""group-title="🏵️ MUSICA 🏵️" ,🏵️|➾
+#EXTINF:-1 tvg-name="🏵️MI MUSICA SALSA HD"tvg-logo=""group-title="🏵️ MUSICA 🏵️" ,🏵️|➾MI MUSICA SALSA HD
 http://160.20.165.246:8000/play/a01a/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Hk3tjfDy/Universal-Reality.png",UNIVERSAL REALITY HD
 #EXTINF:-1 tvg-name="🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️" ,🏵️|➾
 http://200.52.150.5:8000/play/a0sz/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",CABLE SUR  TV
 #EXTINF:-1  tvg-name="❄️CABLE SUR TV"tvg-logo="https://www.cablesur.com.co/wp-content/uploads/2022/08/LOGOTIPO.png" group-title="❄️NARIÑO TV❄️" ,❄️|➾CABLE SUR
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
 #EXTINF:-1  tvg-name="❄️TELE PASTO"tvg-logo="https://i.postimg.cc/C5tZVv45/TELEPASTO-1.png" group-title="❄️NARIÑO TV❄️" ,❄️|➾TELEM PASTO
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
 #EXTINF:-1 tvg-name="🏵️DAMAS TV"tvg-logo="https://i.postimg.cc/2j1R5BPC/DAMAS-TV-MEJOR.png"group-title="🏵️ PELICULAS 🏵️" ,🏵️|➾PELICULAS
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+#EXTINF:-1 tvg-name="🏵️A + CINEMA"tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6204324db9f7af67191d94a3"group-title="🏵️ PELICULAS 🏵️" ,🏵️|➾A+ CINEMA
+https://d3e900fnvjyq99.cloudfront.net/d/JWBCCOQICVYX608BU1QH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657287
 #EXTINF:-1  tvg-name="❄️CNC PASTO HITS CHANNEL"tvg-logo="https://i.postimg.cc/Jncpmx5h/CNC-HITS-CHANNEL.png" group-title="❄️NARIÑO TV❄️" ,❄️|➾CNC PASTO HITS CHANNEL
 https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
 #EXTINF:-1 group-title="CNC PASTO" tvg-logo="",CNC PASTO SENTIMIENTO VALLENATO
@@ -561,8 +560,6 @@ https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
 #EXTINF:-1 group-title="CNC PASTO" tvg-logo="",CNC PASTO SON POPULAR
 #EXTINF:-1  tvg-name="❄️SON POPULAR"tvg-logo="https://i.postimg.cc/g0hMtmw8/SON-POPULAR.png" group-title="❄️NARIÑO TV❄️" ,❄️|➾SON POPULAR
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
-#EXTINF:-1 tvg-name="🏵️A + CINEMA"tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6204324db9f7af67191d94a3"group-title="🏵️ PELICULAS 🏵️" ,🏵️|➾A+ CINEMA
-https://d3e900fnvjyq99.cloudfront.net/d/JWBCCOQICVYX608BU1QH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657287
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/P5nbnN0r/Telemundo-51.png",⭐|➾ TELEMUNDO PUERTO RICO TV HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="⭐MUSICA⭐" tvg-logo="https://i.postimg.cc/13mF5Pzd/MI-GENTE-TV.png",⭐|➾ MI GENTE TV HD
