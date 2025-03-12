@@ -537,8 +537,7 @@ https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist
 http://160.20.165.246:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-name="🏵️MI MUSICA SALSA HD"tvg-logo=""group-title="🏵️ MUSICA 🏵️" ,🏵️|➾MI MUSICA SALSA HD
 http://160.20.165.246:8000/play/a01a/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Hk3tjfDy/Universal-Reality.png",UNIVERSAL REALITY HD
-#EXTINF:-1 tvg-name="🏵️"tvg-logo=""group-title="🏵️ PREMIUM 🏵️" ,🏵️|➾
+#EXTINF:-1 tvg-name="🏵️UNIVERSAL REALITY HD"tvg-logo="https://i.postimg.cc/Hk3tjfDy/Universal-Reality.png"group-title="🏵️ PREMIUM 🏵️" ,🏵️|➾UNIVERSAL REALITY HD
 http://200.52.150.5:8000/play/a0sz/index.m3u8
 #EXTINF:-1  tvg-name="❄️CABLE SUR TV"tvg-logo="https://www.cablesur.com.co/wp-content/uploads/2022/08/LOGOTIPO.png" group-title="❄️NARIÑO TV❄️" ,❄️|➾CABLE SUR
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
@@ -550,7 +549,6 @@ https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 https://d3e900fnvjyq99.cloudfront.net/d/JWBCCOQICVYX608BU1QH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657287
 #EXTINF:-1  tvg-name="❄️CNC PASTO HITS CHANNEL"tvg-logo="https://i.postimg.cc/Jncpmx5h/CNC-HITS-CHANNEL.png" group-title="❄️NARIÑO TV❄️" ,❄️|➾CNC PASTO HITS CHANNEL
 https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
-#EXTINF:-1 group-title="CNC PASTO" tvg-logo="",CNC PASTO SENTIMIENTO VALLENATO
 #EXTINF:-1  tvg-name="❄️SENTIMIENTO VALLENATO"tvg-logo="https://i.postimg.cc/CLHnNtL5/CNC-SENTIMIENTO-VALLENATO.png" group-title="❄️NARIÑO TV❄️" ,❄️|➾SENTIMIENTO VALLENATO
 https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
 #EXTINF:-1  tvg-name="❄️SON CORAZON"tvg-logo="https://i.postimg.cc/HsC7bHmF/CNC-SON-CORAZON.png" group-title="❄️NARIÑO TV❄️" ,❄️|➾SON CORAZON
