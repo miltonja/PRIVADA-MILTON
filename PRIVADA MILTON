@@ -179,43 +179,43 @@ http://tv-cool.com:25461/6514856540/c0ea81e220/264264
 http://tv-cool.com:25461/6514856540/c0ea81e220/264265
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA LOFT" tvg-logo="https://i.postimg.cc/Hs3sPfbh/logo-colombia.webp" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA LOFT
 http://tv-cool.com:25461/6514856540/c0ea81e220/264266
-#EXTINF:-1 tvg-name="←«🔆XTREMA ACCION🔆»→"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png"group-title="🔆»→CINE 24/7🔆»→",🔆|➾XTREMA ACCION
+#EXTINF:-1 tvg-name="←«🔆XTREMA ACCION"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png"group-title="🔆»→CINE 24/7🔆»→",🔆|➾XTREMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-name="CINE HISPANO"tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE-HISPANO.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾CINE HISPANO
+#EXTINF:-1 tvg-name="🔆CINE HISPANO"tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE-HISPANO.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾CINE HISPANO
 http://179.189.222.226:8000/play/ch51
-#EXTINF:-1 tvg-name="CINE FAMILIAR"tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾CINE FAMILIAR
+#EXTINF:-1 tvg-name="🔆CINE FAMILIAR"tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾CINE FAMILIAR
 http://179.189.222.226:8000/play/ch52
-#EXTINF:-1 tvg-name="MY TIME ESPAÑA"tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾MY TIME ESPAÑA
+#EXTINF:-1 tvg-name="🔆MY TIME ESPAÑA"tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾MY TIME ESPAÑA
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="MY TIME MEXICO"tvg-logo="https://i.postimg.cc/0QssJQFr/MY-TIME-MOVIE.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾MY TIME MEXICO
+#EXTINF:-1 tvg-name="🔆MY TIME MEXICO"tvg-logo="https://i.postimg.cc/0QssJQFr/MY-TIME-MOVIE.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾MY TIME MEXICO
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FMH FAMILY"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾FMH FAMILY
+#EXTINF:-1 tvg-name="🔆FMH FAMILY"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-name="SONY MOVIES"tvg-logo="https://i.postimg.cc/B62Jv093/1200px-Sony-Movies-Logo-svg.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾SONY MOVIES
+#EXTINF:-1 tvg-name="🔆SONY MOVIES"tvg-logo="https://i.postimg.cc/B62Jv093/1200px-Sony-Movies-Logo-svg.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾SONY MOVIES
 http://181.78.105.146:6060/play/a02l
-#EXTINF:-1 tvg-name="SONY MOVIES"tvg-logo="https://i.postimg.cc/B62Jv093/1200px-Sony-Movies-Logo-svg.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾SONY MOVIES
+#EXTINF:-1 tvg-name="🔆SONY MOVIES"tvg-logo="https://i.postimg.cc/B62Jv093/1200px-Sony-Movies-Logo-svg.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾SONY MOVIES
 http://181.78.105.146:8800/play/a04w
-#EXTINF:-1 tvg-name="←«🔆XTREMA ANIMAL🔆»→"tvg-logo="https://i.postimg.cc/wTdpm9SN/xtrema-tv-aventuras.png"group-title="←«🔆CULTURA🔆»→",🔆|➾XTREMA ANIMAL
+#EXTINF:-1 tvg-name="←«🔆XTREMA ANIMAL🔆»"tvg-logo="https://i.postimg.cc/wTdpm9SN/xtrema-tv-aventuras.png"group-title="←«🔆CULTURA🔆»→",🔆|➾XTREMA ANIMAL
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="CANELA CINEMA"tvg-logo="https://i.postimg.cc/xTbpyLP2/CANELA-CINEMA.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINEMA
+#EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA CINEMA"tvg-logo="https://i.postimg.cc/xTbpyLP2/CANELA-CINEMA.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
-#EXTINF:-1 tvg-id=""tvg-name="CANELA CLASICO"tvg-logo="https://i.postimg.cc/N0Wq2PYN/Canela-tv-clasicos.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CLASICO
+#EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA CLASICO"tvg-logo="https://i.postimg.cc/N0Wq2PYN/Canela-tv-clasicos.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CLASICO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 tvg-id=""tvg-name="CANELA TODO CINE"tvg-logo="https://i.postimg.cc/8PQxyh0Q/CANELA-TODO-CINE.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA TODO CINE
+#EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA TODO CINE"tvg-logo="https://i.postimg.cc/8PQxyh0Q/CANELA-TODO-CINE.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA TODO CINE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:-1 tvg-id=""tvg-name="CANELA CINE PICANTE"tvg-logo="https://i.postimg.cc/Pf7FwSYy/CANELA-CUINE-PICANTE.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINE PICANTE
+#EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA CINE PICANTE"tvg-logo="https://i.postimg.cc/Pf7FwSYy/CANELA-CUINE-PICANTE.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINE PICANTE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
-#EXTINF:-1 tvg-id=""tvg-name="CANELA HORROR"tvg-logo="https://i.postimg.cc/kg31jDjt/CANELA-CINE-HORROR.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA HORROR
+#EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA HORROR"tvg-logo="https://i.postimg.cc/kg31jDjt/CANELA-CINE-HORROR.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA HORROR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-#EXTINF:-1 tvg-id=""tvg-name="CANELA TRUE CRIME"tvg-logo="https://i.postimg.cc/SNy94PXy/TRUE-CRIME-HD.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA TRUE CRIME
+#EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA TRUE CRIME"tvg-logo="https://i.postimg.cc/SNy94PXy/TRUE-CRIME-HD.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA TRUE CRIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
-#EXTINF:-1 tvg-id=""tvg-name="RAKUTEN VIKI" tvg-logo="https://i.postimg.cc/fWSmBX2z/RAKUTEN-VIKI-AZUL.png" group-title="🏵️NOVELAS🏵️",🏵️|➾RAKUTEN VIKI
+#EXTINF:-1 tvg-id=""tvg-name="🏵️RAKUTEN VIKI" tvg-logo="https://i.postimg.cc/fWSmBX2z/RAKUTEN-VIKI-AZUL.png" group-title="🏵️NOVELAS🏵️",🏵️|➾RAKUTEN VIKI
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=30f7f753-8a6e-4a2c-aac0-c76e887845dd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
-#EXTINF:-1 tvg-id=""tvg-name="FIFA"tvg-logo="https://i.postimg.cc/GpDXspkP/FIFA-FUTBOL.png"group-title="🏵️DEPORTES🏵️",🏵️|➾Rakuten FIFA+
+#EXTINF:-1 tvg-id=""tvg-name="🏵️FIFA"tvg-logo="https://i.postimg.cc/GpDXspkP/FIFA-FUTBOL.png"group-title="🏵️DEPORTES🏵️",🏵️|➾Rakuten FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=829dcd30-3206-4482-a4ee-07a9e430737a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
-#EXTINF:-1 tvg-name="←«🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/43cpNJwC/1200px-Star-Sports-1-HD.png"group-title="🔆»→DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
+#EXTINF:-1 tvg-name="←«🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/43cpNJwC/1200px-Star-Sports-1-HD.png"group-title="←«🔆DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-name="←«🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/FzTTg92W/Star-Sports-1200-HD.png"group-title="🔆»→DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
+#EXTINF:-1 tvg-name="←«🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/FzTTg92W/Star-Sports-1200-HD.png"group-title="🔆←«DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-name="←«🏵️M6 Family" tvg-logo="https://i.postimg.cc/HnqFmKNx/MX-FAMILY.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾78 | M6 Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
@@ -225,17 +225,17 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-name="←«🏵️FMH Family"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾127 | FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-name="←«✳️A NEFLIX0✳️1»→"tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png"group-title="←«✳️ 24/7 ✳️»→,✳️|➾A NEFLIX01
+#EXTINF:-1 tvg-name="←«✳️A NEFLIX0"tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png"group-title="←«✳️ 24/7 ✳️»→",✳️|➾A NEFLIX01
 http://clubtv.link/Sepfin29/key4513/24.php?c=a_neflix01
-#EXTINF:-1 tvg-name="←«✳️CINEMUNDO PLUS"tvg-logo="https://i.postimg.cc/15wmYwRd/image.jpg"group-title="←«✳️ 24/7 ✳️»→,✳️|➾ CINEMUNDO PLUS
+#EXTINF:-1 tvg-name="←«✳️CINEMUNDO PLUS"tvg-logo="https://i.postimg.cc/15wmYwRd/image.jpg"group-title="←«✳️ 24/7 ✳️»→",✳️|➾ CINEMUNDO PLUS
 http://clubtv.link/Sepfin29/key4513/24.php?c=cinemundo_plus
-#EXTINF:-1 tvg-name="←«✳️PELICULAS MANIA"tvg-logo="https://i.postimg.cc/nL0xhnwJ/PELICULAS-MANIA.png"group-title="←«✳️ 24/7 ✳️»→,✳️|➾PELICULAS MANIA
+#EXTINF:-1 tvg-name="←«✳️PELICULAS MANIA"tvg-logo="https://i.postimg.cc/nL0xhnwJ/PELICULAS-MANIA.png"group-title="←«✳️ 24/7 ✳️»→",✳️|➾PELICULAS MANIA
 http://clubtv.link/Sepfin29/key4513/24.php?c=peliculas_mania
 #EXTINF:-1 tvg-name="←«✳️TERROR MANIA"tvg-logo="https://i.postimg.cc/k4GmVLkt/terror-mania-rojo.png"group-title="←«✳️ 24/7 ✳️»→" ,✳️|➾TERROR MANIA
 http://clubtv.link/Sepfin29/key4513/24.php?c=terror_mania
-#EXTINF:-1 tvg-name="🔆Azteca GUATE"tvg-logo="https://i.imgur.com/UJhQoUK.png"group-title="←«🔅GENERAL🔅»→" ,Azteca GUATE
+#EXTINF:-1 tvg-name="🔆Azteca GUATE"tvg-logo="https://i.imgur.com/UJhQoUK.png"group-title="←«🔅GENERAL🔅»→",🔆|➾ AZTECA  GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 tvg-name="🔆Telesur"tvg-logo="https://i.postimg.cc/pdN7mJ2H/TELESUR.png"group-title="←«🔆NOTICIAS🔆»→" ,🔆|➾Telesur
+#EXTINF:-1 tvg-name="🔆Telesur"tvg-logo="https://i.postimg.cc/pdN7mJ2H/TELESUR.png"group-title="←«🔆NOTICIAS🔆»→" ,🔆|➾TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆RT (Español)"tvg-logo="https://i.postimg.cc/Jhn6xS3T/RT-America-Logo.png"group-title="←«🔆NOTICIAS🔆»→" ,🔆|➾RT (Español)
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
