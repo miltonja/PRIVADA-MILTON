@@ -572,31 +572,30 @@ http://181.78.23.26:45000/play/a029
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-name="✳️"tvg-logo="https://i.postimg.cc/9XYQYTc5/76e5e73c-1e3d-4dfb-b744-02c31820bb03-m.jpg"group-title="←«✳️ MUSICA ✳️»→",✳️|➾RUMBA TV SD
 http://181.78.23.26:45000/play/a04k
-#EXTINF:-1 tvg-name="🔆MIAMI TV"tvg-logo="https://i.postimg.cc/HjG2SL6w/SUN-BEACH-TV.png"group-title="←«🔆ENTRETENIMIENTO🔆»→,🔆|➾ MIAMI TV ROKU  HD
+#EXTINF:-1 tvg-name="🔆MIAMI TV"tvg-logo="https://i.postimg.cc/HjG2SL6w/SUN-BEACH-TV.png"group-title="←«🔆ENTRETENIMIENTO",🔆»→🔆|➾ MIAMI TV ROKU  HD
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="",LIM TV HD
-#EXTINF:-1 tvg-name="🔆LIM TV"tvg-logo="https://i.imgur.com/CALoCyo.png"group-title="←«🔆GENERAL🔆»→,🔆|➾
+#EXTINF:-1 tvg-name="🔆LIM TV"tvg-logo="https://i.imgur.com/CALoCyo.png"group-title="←«🔆GENERAL🔆»→",🔆|➾LIM TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
-#EXTINF:-1 tvg-name="🔆LA MIA TV"tvg-logo="https://i.imgur.com/XIwTM1h.png"group-title="←«🔆GENERAL🔆»→,🔆|➾LA MIA TV
+#EXTINF:-1 tvg-name="🔆LA MIA TV"tvg-logo="https://i.imgur.com/XIwTM1h.png"group-title="←«🔆GENERAL🔆»→",🔆|➾LA MIA TV
 https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
-#EXTINF:-1 tvg-name="🔆VILLA TV"tvg-logo="https://i.postimg.cc/wxnmRfhK/VILLA-ALTAGRACIA-TV.png"group-title="←«🔆GENERAL🔆»→,🔆|➾VILLA TV
+#EXTINF:-1 tvg-name="🔆VILLA TV"tvg-logo="https://i.postimg.cc/wxnmRfhK/VILLA-ALTAGRACIA-TV.png"group-title="←«🔆GENERAL🔆»→",🔆|➾VILLA TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="",
-#EXTINF:-1 tvg-name="🔆READY TV "tvg-logo="https://i.postimg.cc/8zXJDZkn/Ready.png"group-title="←«🔆GENERAL🔆»→,🔆|➾READY TV CANAL 6  HD
+#EXTINF:-1 tvg-name="🔆READY TV "tvg-logo="https://i.postimg.cc/8zXJDZkn/Ready.png"group-title="←«🔆GENERAL🔆»→",🔆|➾READY TV CANAL 6  HD
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 tvg-name="🔆COLOSAL TV"tvg-logo="https://i.imgur.com/0DZB3eB.png"group-title="←«🔆GENERAL🔆»→,🔆|➾COLOSAL TV
+#EXTINF:-1 tvg-name="🔆COLOSAL TV"tvg-logo="https://i.imgur.com/0DZB3eB.png"group-title="←«🔆GENERAL🔆»→",🔆|➾COLOSAL TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 tvg-name="🔆COCO TV"tvg-logo="https://i.imgur.com/CnAc7jU.png"group-title="←«🔆GENERAL🔆»→,🔆|➾COCO TV
+#EXTINF:-1 tvg-name="🔆COCO TV"tvg-logo="https://i.imgur.com/CnAc7jU.png"group-title="←«🔆GENERAL🔆»→",🔆|➾COCO TV
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-#EXTINF:-1 tvg-name="🔆TELEVISION METROPOLIS 19.2"tvg-logo="https://i.imgur.com/QaocW5x.png"group-title="←«🔆GENERAL🔆»→,🔆|➾TELEVISION METROPOLIS 19.2 TV HD
+#EXTINF:-1 tvg-name="🔆TELEVISION METROPOLIS 19.2"tvg-logo="https://i.imgur.com/QaocW5x.png"group-title="←«🔆GENERAL🔆»→",🔆|➾TELEVISION METROPOLIS 19.2 TV HD
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-#EXTINF:-1 tvg-name="🔆MICROVISION TV"tvg-logo="https://i.postimg.cc/s2BMXGQ2/MICROVISION-MODIF.png"group-title="←«🔆GENERAL🔆»→,🔆|➾MICROVISION HD
+#EXTINF:-1 tvg-name="🔆MICROVISION TV"tvg-logo="https://i.postimg.cc/s2BMXGQ2/MICROVISION-MODIF.png"group-title="←«🔆GENERAL🔆»→",🔆|➾MICROVISION HD
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8
-#EXTINF:-1 tvg-name="🔆SOL TV HD"tvg-logo="https://i.postimg.cc/vBcxYNS6/SOL-TV2-ESP.png" group-title="←«🔆PELICULAS🔆»→,🔆|➾SOL TV HD
+#EXTINF:-1 tvg-name="🔆SOL TV HD"tvg-logo="https://i.postimg.cc/vBcxYNS6/SOL-TV2-ESP.png" group-title="←«🔆PELICULAS🔆»→",🔆|➾SOL TV HD
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1 tvg-name="🔆CINE ESTRELLA TV"tvg-logo="https://i.postimg.cc/xddXYnBq/CINE-ESTRELLA-TV-BLANCO.png" group-title="←«🔆PELICULAS🔆»→,🔆|➾CINE ESTRELLA TV 
+#EXTINF:-1 tvg-name="🔆CINE ESTRELLA TV"tvg-logo="https://i.postimg.cc/xddXYnBq/CINE-ESTRELLA-TV-BLANCO.png" group-title="←«🔆PELICULAS🔆»→",🔆|➾CINE ESTRELLA TV 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-#EXTINF:-1 tvg-name="🔆CANAL 21 TV TV"tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/54/Megavisi%C3%B3n_21_1993.png/revision/latest?cb=20170915221631&path-prefix=es" group-title="←«🔆PELICULAS🔆»→,🔆|➾CANAL 21 TV
+#EXTINF:-1 tvg-name="🔆CANAL 21 TV TV"tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/54/Megavisi%C3%B3n_21_1993.png/revision/latest?cb=20170915221631&path-prefix=es" group-title="←«🔆PELICULAS🔆»→",🔆|➾CANAL 21 TV
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/FHJZChKP/RUN-TIME-CINE-SERIES-ESP.png",RUNTIME CINE SERIES
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
