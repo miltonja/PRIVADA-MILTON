@@ -555,7 +555,6 @@ https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
 https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
 #EXTINF:-1  tvg-name="❄️SON LATINO"tvg-logo="https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg" group-title="❄️NARIÑO TV❄️" ,❄️|➾SON LATINO
 https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
-#EXTINF:-1 group-title="CNC PASTO" tvg-logo="",CNC PASTO SON POPULAR
 #EXTINF:-1  tvg-name="❄️SON POPULAR"tvg-logo="https://i.postimg.cc/g0hMtmw8/SON-POPULAR.png" group-title="❄️NARIÑO TV❄️" ,❄️|➾SON POPULAR
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆 TELEMUNDO PUERTO RICO"tvg-logo="https://i.postimg.cc/P5nbnN0r/Telemundo-51.png"group-title="←«🔆PREMIUM🔆»→,🔆|➾ TELEMUNDO PUERTO RICO
@@ -572,7 +571,7 @@ http://181.78.23.26:45000/play/a029
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-name="✳️RUMBA TV"tvg-logo="https://i.postimg.cc/9XYQYTc5/76e5e73c-1e3d-4dfb-b744-02c31820bb03-m.jpg"group-title="←«✳️ MUSICA ✳️»→",✳️|➾RUMBA TV SD
 http://181.78.23.26:45000/play/a04k
-#EXTINF:-1 tvg-name="🔆MIAMI TV"tvg-logo="https://i.postimg.cc/HjG2SL6w/SUN-BEACH-TV.png"group-title="←«🔆ENTRETENIMIENTO",🔆»→🔆|➾ MIAMI TV ROKU  HD
+#EXTINF:-1 tvg-name="🔆MIAMI TV"tvg-logo="https://i.postimg.cc/HjG2SL6w/SUN-BEACH-TV.png"group-title="←«🔆ENTRETENIMIENTO🔆»→",🔆|➾ MIAMI TV ROKU  HD
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 #EXTINF:-1 tvg-name="🔆LIM TV"tvg-logo="https://i.imgur.com/CALoCyo.png"group-title="←«🔆GENERAL🔆»→",🔆|➾LIM TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
@@ -580,7 +579,6 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆VILLA TV"tvg-logo="https://i.postimg.cc/wxnmRfhK/VILLA-ALTAGRACIA-TV.png"group-title="←«🔆GENERAL🔆»→",🔆|➾VILLA TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="",
 #EXTINF:-1 tvg-name="🔆READY TV "tvg-logo="https://i.postimg.cc/8zXJDZkn/Ready.png"group-title="←«🔆GENERAL🔆»→",🔆|➾READY TV CANAL 6  HD
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆COLOSAL TV"tvg-logo="https://i.imgur.com/0DZB3eB.png"group-title="←«🔆GENERAL🔆»→",🔆|➾COLOSAL TV
