@@ -692,7 +692,7 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="🏵️CANAL 13 HD"tvg-logo="https://i.postimg.cc/pLf0nxwL/canal13san-jauan.png"group-title="🏵️ ARGENTINA 🏵️" ,🏵️|➾CANAL 13 HD
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-name="🔆IDEAS EN 5MINUTOS"tvg-logo="https://i.postimg.cc/5ycqLd2g/IDEAS-EN-5-MINUTOS.png"group-title="←«🔆CLTURA🔆»→,🔆|➾Ideas en 5 Minutos
+#EXTINF:-1 tvg-name="🔆IDEAS EN 5MINUTOS"tvg-logo="https://i.postimg.cc/5ycqLd2g/IDEAS-EN-5-MINUTOS.png"group-title="←«🔆CULTURA🔆»→,🔆|➾Ideas en 5 Minutos
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
 #EXTINF:-1 tvg-name="🔆MTV SHORE"tvg-logo="https://i.postimg.cc/2jqkD1K3/ACAPULCO-SHORE-ESP.png"group-title="←«🔆REALITY🔆»→,🔆|➾MTV Shore
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
