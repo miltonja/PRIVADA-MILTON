@@ -179,7 +179,7 @@ http://tv-cool.com:25461/6514856540/c0ea81e220/264264
 http://tv-cool.com:25461/6514856540/c0ea81e220/264265
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA LOFT" tvg-logo="https://i.postimg.cc/Hs3sPfbh/logo-colombia.webp" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA LOFT
 http://tv-cool.com:25461/6514856540/c0ea81e220/264266
-#EXTINF:-1 tvg-name="←«🔆XTREMA ACCION"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png"group-title="🔆»→CINE 24/7🔆»→",🔆|➾XTREMA ACCION
+#EXTINF:-1 tvg-name="←«🔆XTREMA ACCION"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾XTREMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆CINE HISPANO"tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE-HISPANO.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾CINE HISPANO
 http://179.189.222.226:8000/play/ch51
@@ -195,7 +195,7 @@ http://160.20.165.246:8000/play/a01j/index.m3u8
 http://181.78.105.146:6060/play/a02l
 #EXTINF:-1 tvg-name="🔆SONY MOVIES"tvg-logo="https://i.postimg.cc/B62Jv093/1200px-Sony-Movies-Logo-svg.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾SONY MOVIES
 http://181.78.105.146:8800/play/a04w
-#EXTINF:-1 tvg-name="←«🔆XTREMA ANIMAL🔆»"tvg-logo="https://i.postimg.cc/wTdpm9SN/xtrema-tv-aventuras.png"group-title="←«🔆CULTURA🔆»→",🔆|➾XTREMA ANIMAL
+#EXTINF:-1 tvg-name="←«🔆XTREMA ANIMAL"tvg-logo="https://i.postimg.cc/wTdpm9SN/xtrema-tv-aventuras.png"group-title="←«🔆CULTURA🔆»→",🔆|➾XTREMA ANIMAL
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA CINEMA"tvg-logo="https://i.postimg.cc/xTbpyLP2/CANELA-CINEMA.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
@@ -810,54 +810,46 @@ https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/in
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="⭐CNC DIGTAL TV"tvg-logo="https://i.postimg.cc/152H0fck/CNC-DIGITAL.png"group-title="⭐PERU⭐" ,⭐|➾CNC DIGITAL
 https://cloudvideo.servers10.com:8081/8150/index.m3u8
-#EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://i.postimg.cc/qR5vWwPN/png-clipart-red-bull-north-america-energy-drink-red-bull-gmbh-marketing-red-bull-company-text.png",⚽|RED BULL TV * |HD|
+#EXTINF:-1 tvg-name="🏵️RED BULL TV" tvg-logo="https://i.postimg.cc/x1P52snx/redbulltv.png"group-title="🏵️ DEPORTES 🏵️",🏵️|➾RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT en Español
+#EXTINF:-1 tvg-name="🏵️RT EN ESPAÑOL" tvg-logo="https://i.postimg.cc/g0VnYypn/RT-America-ESP.png"group-title="🏵️ NOTICIAS 🏵️",🏵️|➾RT EN ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/2dqF5S8.jpg",SET Televisión Canal 26.1
+#EXTINF:-1 tvg-name="🏵️SET TELEVISION" tvg-logo="https://i.imgur.com/2dqF5S8.jpg"group-title="🏵️ MEXICO 🏵️",🏵️|➾SET TELEVISION CANAL 26
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/NGyt8sJB/CANAL-100-CHINIQUE.jpg",CANAL 100 CHINIQUE HD
-https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/vmn1ZqWt/CANAL-44-ESP.png",CANAL 44 CHIHUAHUA
+#EXTINF:-1 tvg-name="🏵️CANAL 44 CHIHUAHUA" tvg-logo="https://i.postimg.cc/vmn1ZqWt/CANAL-44-ESP.png"group-title="🏵️ MEXICO 🏵️",🏵️|➾CANAL 44 CHIHUAHUA
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/g08jKfRY/mexiquense.png",MEXIQUENSE TV
+#EXTINF:-1 tvg-name="🏵️MEXIQUENSE TV" tvg-logo="https://i.postimg.cc/g08jKfRY/mexiquense.png"group-title="🏵️ MEXICO 🏵️",🏵️|➾MEXIQUENSE TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/TPcz8wGG/milenio.png",MILENIOTELEVISION NORESTE
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/JCBZaHf.png",NOTICIAS CANAL 10
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/hvDLcRFD/muzzik-ESP.png",MUZZIK  HD
+#EXTINF:-1 tvg-name="←«✳️MUZZIK HD"tvg-logo="https://i.postimg.cc/hvDLcRFD/muzzik-ESP.png"group-title="←«✳️ MUZZIK ✳️»→",✳️|➾MUZZIK  HD
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/J4sM6F3y/MUZZIC-R-R.png",MUZZIK  R&R HD
+#EXTINF:-1 tvg-name="←«✳️MUZZIK  R&R HD"tvg-logo="https://i.postimg.cc/J4sM6F3y/MUZZIC-R-R.png"group-title="←«✳️ MUZZIK ✳️»→",✳️|➾MUZZIK  R&R HD
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/T1kZxnm2/MUZZIC-PIOPSTAR.png",MUZZIK HD
+#EXTINF:-1 tvg-name="←«✳️MUZZIK HD"tvg-logo="https://i.postimg.cc/T1kZxnm2/MUZZIC-PIOPSTAR.png"group-title="←«✳️ MUZZIK ✳️»→",✳️|➾MUZZIK HD
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/VvYWRTJ5/MUZZIC-WWM.png",MUZZIK HD
+#EXTINF:-1 tvg-name="←«✳️MUZZIK HD"tvg-logo="https://i.postimg.cc/VvYWRTJ5/MUZZIC-WWM.png"group-title="←«✳️ MUZZIK ✳️»→" ,✳️|➾MUZZIK HD
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/rF5f5vQG/MUZZIC-TIKTAK.png",MUZZIK TIKTAK HD
+#EXTINF:-1 tvg-name="←«✳️MUZZIK TIKTAK HD"tvg-logo="https://i.postimg.cc/rF5f5vQG/MUZZIC-TIKTAK.png"group-title="←«✳️ MUZZIK ✳️»→",✳️|➾MUZZIK TIKTAK HD
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/s1CfJph3/MUZZIK-JEKA.png",MUZZIK JEKA HD
+#EXTINF:-1 tvg-name="←«✳️MUZZIK JEKA HD"tvg-logo="https://i.postimg.cc/s1CfJph3/MUZZIK-JEKA.png"group-title="←«✳️ MUZZIK ✳️»→",✳️|➾MUZZIK JEKA HD
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/0yHg4zJd/MUZZIK-Z-Z.png",MUZZIK Z&Z  HD
+#EXTINF:-1 tvg-name="←«✳️MUZZIK Z&Z HD"tvg-logo="https://i.postimg.cc/0yHg4zJd/MUZZIK-Z-Z.png"group-title="←«✳️ MUZZIK ✳️»→",✳️|➾MUZZIK Z&Z  HD
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/fTCkJf6z/MUZZIK-SENSE.png",MUZZIK SENSE  HD
+#EXTINF:-1 tvg-name="←«✳️MUZZIK SENSE  HD"tvg-logo="https://i.postimg.cc/fTCkJf6z/MUZZIK-SENSE.png"group-title="←«✳️ MUZZIK ✳️»→",✳️|➾MUZZIK SENSE  HD
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/hvDLcRFD/muzzik-ESP.png",MUZZIK  HD
+#EXTINF:-1 tvg-name="←«✳️MUZZIK HD"tvg-logo="https://i.postimg.cc/hvDLcRFD/muzzik-ESP.png"group-title="←«✳️ MUZZIK ✳️»→",✳️|➾MUZZIK  HD
 https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/vHq0dKb5/MUZZIK-FLASHBACK.png",MUZZIK FLASH BACK  HD
+#EXTINF:-1 tvg-name="←«✳️MUZZIK FLASH BACK  HD"tvg-logo="https://i.postimg.cc/vHq0dKb5/MUZZIK-FLASHBACK.png"group-title="←«✳️ MUZZIK ✳️»→",✳️|➾MUZZIK FLASH BACK  HD
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Hx0VQFBK/MUZZIK-MOBA.png",MUZZIK MOBA  HD
+#EXTINF:-1 tvg-name="←«✳️MUZZIK MOBA HD"tvg-logo="https://i.postimg.cc/Hx0VQFBK/MUZZIK-MOBA.png"group-title="←«✳️ MUZZIK ✳️»→",✳️|➾MUZZIK MOBA  HD
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png",MiTV
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:-1 group-title="Classic" tvg-logo="https://i.postimg.cc/DZk8jbzw/tvs.png",TVS RETRO HD
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/T19HbcXK/trace-urban.png",TRACE URBAN HD
+#EXTINF:-1 tvg-name="←«✳️TRACE URBAN HD"tvg-logo="https://i.postimg.cc/T19HbcXK/trace-urban.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾TRACE URBAN HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="BRAZIL",SIC TV HD
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/DyRMR6cK/CMC-MUSIC.png",CMC TV MUSIC USA HD
+#EXTINF:-1 tvg-name="←«✳️CMC TV MUSIC USA"tvg-logo="https://i.postimg.cc/DyRMR6cK/CMC-MUSIC.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾CMC TV MUSIC USA HD
 https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+#EXTINF:-1 tvg-name="🏵️MI TV PARAGUAY" tvg-logo="https://i.postimg.cc/ZRHb9n2P/MI-TV-PARAGUAY.png"group-title="🏵️ PARAGUAY 🏵️",🏵️|➾MI TV PARAGUAY
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1 tvg-name="🏵️SIC TV BRASIL" tvg-logo="https://i.postimg.cc/SKTjnxXF/SIC-BRAZIL.png"group-title="🏵️ BRASIL 🏵️",🏵️|➾SIC TV BRASIL HD
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 group-title="Reality shows em inglês" tvg-logo="https://i.postimg.cc/nznq9rF7/KALOOPY.png",KALOOPY HD
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/PrhVrrXb/limon-tv.png",LIMON  TV | CR
