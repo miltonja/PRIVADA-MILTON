@@ -200,6 +200,7 @@ http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531757
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA 24 HORAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZtGc57GnJvg0O5LFAispIKwRLrfoP_RQwJtQLgnGX_EerUYrMN6U90s5&s=10" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",LCDLF COLOMBIA 24 HORAS
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531756
 #EXTINF:-1 tvg-id="" tvg-name="LA CASA DE LOS FAMOSOS MX CAM1" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE18jYZamCGggdK3ggO7SUnXkUdPMz3J6-pFUuJLZP3UKv.png" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",LA CASA DE LOS FAMOSOS MX CAM1
+http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/536846
 #EXTINF:-1 tvg-name="←«🔆XTREMA ACCION"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾XTREMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆CINE HISPANO"tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE-HISPANO.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾CINE HISPANO
@@ -871,7 +872,7 @@ https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PR
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-name="🏵️SIC TV BRASIL" tvg-logo="https://i.postimg.cc/SKTjnxXF/SIC-BRAZIL.png"group-title="🏵️ BRASIL 🏵️",🏵️|➾SIC TV BRASIL HD
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-name="🔆KALOOPY HD"tvg-logo="https://i.postimg.cc/nznq9rF7/KALOOPY.png"group-title="←«🔆REALITY🔆»→,🔆|➾KALOOPY HD
+#EXTINF:-1 tvg-name="🔆KALOOPY HD"tvg-logo="https://i.postimg.cc/nznq9rF7/KALOOPY.png"group-title="←«🔆REALITY🔆»→",🔆|➾KALOOPY HD
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-name="🏵️LIMON TV" tvg-logo="https://i.postimg.cc/PrhVrrXb/limon-tv.png"group-title="🏵️ COSTARICA 🏵️",🏵️|➾LIMON  TV 
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8?PlaylistM3UCL
@@ -927,11 +928,11 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-name="←«✳️DELUXE MUSIC"tvg-logo="https://i.imgur.com/E65GQN9.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="🔆DRONE TV"tvg-logo="https://i.imgur.com/fDV10iU.png"group-title="←«🔆REALITY🔆»→,🔆|➾DRONE TV
+#EXTINF:-1 tvg-name="🔆DRONE TV"tvg-logo="https://i.imgur.com/fDV10iU.png"group-title="←«🔆REALITY🔆»→",🔆|➾DRONE TV
 https://airvuz-dronetv-1-au.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="🔆DRONE TV"tvg-logo="https://i.imgur.com/fDV10iU.png"group-title="←«🔆REALITY🔆»→,🔆|➾DRONE TV
+#EXTINF:-1 tvg-name="🔆DRONE TV"tvg-logo="https://i.imgur.com/fDV10iU.png"group-title="←«🔆REALITY🔆»→",🔆|➾DRONE TV
 https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="🔆DRONE TV"tvg-logo="https://i.imgur.com/fDV10iU.png"group-title="←«🔆REALITY🔆»→,🔆|➾DRONE TV
+#EXTINF:-1 tvg-name="🔆DRONE TV"tvg-logo="https://i.imgur.com/fDV10iU.png"group-title="←«🔆REALITY🔆»→",🔆|➾DRONE TV
 https://airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="←«✳️CANELA HITS"tvg-logo="https://i.postimg.cc/vm1wBdRg/Canela-tv-music.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾CANELA HITS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
