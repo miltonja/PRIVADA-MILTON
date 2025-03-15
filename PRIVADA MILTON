@@ -888,9 +888,9 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1 tvg-name="🔆MTV TATTO A DOS"tvg-logo="https://i.postimg.cc/0jTLfNyh/MTV-TATTO-A-DOS-ESP.png"group-title="←«🔆REALITY🔆»→,🔆|➾MTV TATTO A DOS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-8b7QS_hJZdY/YLu9e1SGFLI/AAAAAAABCrk/aO5qeFONSokBmWT8vsROhr1uigX0FizcQCJEEGAsYHg/s512/2021-06-05.png",La Sabrosura TV | CL
+#EXTINF:-1 tvg-name="←«✳️LA SABROSURA"tvg-logo="https://i.postimg.cc/5tV0vS7K/LA-SABROSURA-TV-ESP.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾L SABROSURA
 https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-AX14DpZylvw/Xqx1dYnBM7I/AAAAAAAAyhM/FKTxf_9d9hEY1okFtMwivpO3IIy9KAAcgCK8BGAsYHg/s0/2020-05-01.png",Red Fueguina Radio|CL
+#EXTINF:-1 tvg-name="←«✳️RED FUEGUINA RADIO"tvg-logo="https://i.postimg.cc/7ZNtQXpw/RED-FUEGUINA.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾RED FUEGUINA RADIO
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/2SDtH3h4/Limache-Movil.png",LIMACHI MOVIL TV HD
 https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.m3u8?WebM3UCL
