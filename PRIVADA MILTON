@@ -894,12 +894,10 @@ https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️LIMACHI MOVIL TV" tvg-logo="https://i.postimg.cc/2SDtH3h4/Limache-Movil.png"group-title="🏵️ CHILE 🏵️",🏵️|➾LIMACHI MOVIL TV
 https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.m3u8?WebM3UCL
-#EXTINF:-1 group-title=".RD" tvg-logo="https://digital809tv.com/wp-content/uploads/2019/02/DIGITAL809TV-teless-245-1.png",Digital809TV
+#EXTINF:-1 tvg-name="←«✳️DIGITAL809 TV"tvg-logo="https://digital809tv.com/wp-content/uploads/2019/02/DIGITAL809TV-teless-245-1.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾DIGITAL809 TV
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=231,fit=crop/Yg2O5n2xkwcBl04M/logo-letras-stz-telebista-blanco-YrD9Xep4Wns5VV25.png",STZ TV * |HD|
+#EXTINF:-1 tvg-name="←«✳️STZ TV"tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=231,fit=crop/Yg2O5n2xkwcBl04M/logo-letras-stz-telebista-blanco-YrD9Xep4Wns5VV25.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾STZ TV
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMEINTO" tvg-logo="https://i.postimg.cc/ZK46PS85/CHIVE-TV.png",CHIVE TV HD
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png",Clarity 4K (2160p)
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1 group-title="1WORLD_MUSIC" tvg-logo="https://i.imgur.com/fDV10iU.png",Drone TV
