@@ -892,7 +892,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946
 https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="←«✳️RED FUEGUINA RADIO"tvg-logo="https://i.postimg.cc/7ZNtQXpw/RED-FUEGUINA.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾RED FUEGUINA RADIO
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/2SDtH3h4/Limache-Movil.png",LIMACHI MOVIL TV HD
+#EXTINF:-1 tvg-name="🏵️LIMACHI MOVIL TV" tvg-logo="https://i.postimg.cc/2SDtH3h4/Limache-Movil.png"group-title="🏵️ CHILE 🏵️",🏵️|➾LIMACHI MOVIL TV
 https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 group-title=".RD" tvg-logo="https://digital809tv.com/wp-content/uploads/2019/02/DIGITAL809TV-teless-245-1.png",Digital809TV
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
