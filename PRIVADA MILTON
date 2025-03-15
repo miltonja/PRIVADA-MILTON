@@ -896,23 +896,19 @@ https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
 https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 tvg-name="←«✳️DIGITAL809 TV"tvg-logo="https://digital809tv.com/wp-content/uploads/2019/02/DIGITAL809TV-teless-245-1.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾DIGITAL809 TV
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
-#EXTINF:-1 tvg-name="←«✳️STZ TV"tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=231,fit=crop/Yg2O5n2xkwcBl04M/logo-letras-stz-telebista-blanco-YrD9Xep4Wns5VV25.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾STZ TV
+#EXTINF:-1 tvg-name="←«✳️STZ TV"tvg-logo="https://i.postimg.cc/kXj8PyM0/logo-letras-stz-telebista-blanco-Yr-D9-Xep4-Wns5-VV25.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾STZ TV
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png",Clarity 4K (2160p)
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1 group-title="1WORLD_MUSIC" tvg-logo="https://i.imgur.com/fDV10iU.png",Drone TV
+#EXTINF:-1 tvg-name="🔆DRONE TV"tvg-logo="https://i.imgur.com/fDV10iU.png"group-title="←«🔆REALITY🔆»→,🔆|➾DRONE TV
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="EU_SPAIN" tvg-logo="https://imgur.com/VBVu2bu.png",EITB1
+#EXTINF:-1 tvg-name="🏵️EITB1 ESPAÑA TV" tvg-logo="https://i.postimg.cc/dVKD9Jbb/EITB-1-VU-TV-PLAYER.png"group-title="🏵️ ESPAÑA 🏵️",🏵️|➾EITB1 ESPAÑA
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
-#EXTINF:-1 group-title="EU_SPAIN" tvg-logo="https://imgur.com/VBVu2bu.png",EITB2
+#EXTINF:-1 tvg-name="🏵️EITB2 ESPAÑA TV" tvg-logo="https://i.postimg.cc/4dn33yc9/EITB-2-VU-TV-PLAYER.png"group-title="🏵️ ESPAÑA 🏵️",🏵️|➾EITB2 ESPAÑA
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
-#EXTINF:-1 group-title="Amerika_BRASIL_TVPLUS" tvg-logo="https://play-lh.googleusercontent.com/T-GQv5YRzb2bAbzKfB_QHTVD7DyN-txYukzJp5LM-PF4bxKMWvMFqe9DPCXYrQyNi8o_",Dark Matter TV (Brazil)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_001.m3u8
-#EXTINF:-1 group-title="*DE_GERMAN" tvg-logo="https://i.imgur.com/E65GQN9.png",Deluxe Music
+#EXTINF:-1 tvg-name="←«✳️DELUXE MUSIC"tvg-logo="https://i.imgur.com/E65GQN9.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="TCL_TV" tvg-logo="https://i.postimg.cc/bvZVjbCx/DRONE-TV.png",Drone TV .AU -TCL
+#EXTINF:-1 tvg-name="🔆DRONE TV"tvg-logo="https://i.imgur.com/fDV10iU.png"group-title="←«🔆REALITY🔆»→,🔆|➾DRONE TV
 https://airvuz-dronetv-1-au.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV" tvg-logo="https://i.postimg.cc/bvZVjbCx/DRONE-TV.png",Drone TV .BR -TCL
+#EXTINF:-1 tvg-name="🔆DRONE TV"tvg-logo="https://i.imgur.com/fDV10iU.png"group-title="←«🔆REALITY🔆»→,🔆|➾DRONE TV
 https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TCL_TV" tvg-logo="https://i.imgur.com/fDV10iU.png",Drone Tv .MX -TCL
 https://airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8
