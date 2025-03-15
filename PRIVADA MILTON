@@ -910,12 +910,10 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://airvuz-dronetv-1-au.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆DRONE TV"tvg-logo="https://i.imgur.com/fDV10iU.png"group-title="←«🔆REALITY🔆»→,🔆|➾DRONE TV
 https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV" tvg-logo="https://i.imgur.com/fDV10iU.png",Drone Tv .MX -TCL
+#EXTINF:-1 tvg-name="🔆DRONE TV"tvg-logo="https://i.imgur.com/fDV10iU.png"group-title="←«🔆REALITY🔆»→,🔆|➾DRONE TV
 https://airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_ARGENTINA",Canela Hits
+#EXTINF:-1 tvg-name="←«✳️CANELA HITS"tvg-logo="https://i.postimg.cc/vm1wBdRg/Canela-tv-music.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾CANELA HITS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1 group-title="Amerika_*Latino_MIX",CBN En Español
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 group-title="LATINO" tvg-logo="https://i.postimg.cc/RVCT8Ls2/costarica.png",NORTE VISION TV HD
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 group-title="Amerika_ARGENTINA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d1eb6498df854750a4263",Hollywood HD
