@@ -3,8 +3,6 @@
 http://190.60.59.67:8000/play/a0b1/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/gJjshjNv/WIN-PLUS-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|003WIN SPORTS PLUS HD MARZO-02-2025
 http://181.78.4.250:8097/play/a08i/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/gJjshjNv/WIN-PLUS-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|004IN SPORTS PLUS HD MARZO-02-2025
-http://181.64.186.65:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|005 WIN SPORTS PLUS HD FEBRERO-23
 http://190.60.33.237:1010/play/a0et/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|005WIN SPORTS PLUS HD FEBRERO-23
@@ -33,8 +31,6 @@ http://xxip25.top:8080/79700582/96651804/78697
 http://xxip9.top:8080/live/37931569/37931569/78697.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports MARZO-02-2025
 http://181.78.4.250:8097/play/a08k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports MARZO-02-2025
-http://181.64.186.65:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports FEBRERO-23
 http://190.60.33.237:1010/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports FEBRERO-23
