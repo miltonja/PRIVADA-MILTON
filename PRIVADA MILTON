@@ -155,8 +155,6 @@ http://181.78.106.127:9000/play/ca029/index.m3u8
 http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1 tvg-name="⚽️BUNDESLIGA"tvg-logo="https://sender.epglogos.de/302x190_w/623.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 tvg-name="⚽️SKY SPORTS" tvg-logo="https://i.postimg.cc/ZnbD05g8/image.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| SKY SPORT
-http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-name="⚽️SKY SPORTS LA LIGA"tvg-logo="https://i.postimg.cc/6qcghvRb/image.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| SKY SPORT LA LIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-name="⚽️TELEMUNDO 51"tvg-logo="https://i.postimg.cc/s2VBvppy/Telemundo-51-2018.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| TELEMUNDO 51
@@ -215,8 +213,6 @@ http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531758
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531757
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA 24 HORAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZtGc57GnJvg0O5LFAispIKwRLrfoP_RQwJtQLgnGX_EerUYrMN6U90s5&s=10" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",LCDLF COLOMBIA 24 HORAS
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531756
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE LOS FAMOSOS MX CAM1" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE18jYZamCGggdK3ggO7SUnXkUdPMz3J6-pFUuJLZP3UKv.png" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",LA CASA DE LOS FAMOSOS MX CAM1
-http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/536846
 #EXTINF:-1 tvg-name="←«🔆XTREMA ACCION"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾XTREMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆CINE HISPANO"tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE-HISPANO.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾CINE HISPANO
@@ -243,12 +239,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA TODO CINE"tvg-logo="https://i.postimg.cc/8PQxyh0Q/CANELA-TODO-CINE.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA TODO CINE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA CINE PICANTE"tvg-logo="https://i.postimg.cc/Pf7FwSYy/CANELA-CUINE-PICANTE.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINE PICANTE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
-#EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA HORROR"tvg-logo="https://i.postimg.cc/kg31jDjt/CANELA-CINE-HORROR.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA HORROR
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-#EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA TRUE CRIME"tvg-logo="https://i.postimg.cc/SNy94PXy/TRUE-CRIME-HD.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA TRUE CRIME
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 #EXTINF:-1 tvg-id=""tvg-name="🏵️RAKUTEN VIKI" tvg-logo="https://i.postimg.cc/fWSmBX2z/RAKUTEN-VIKI-AZUL.png" group-title="🏵️NOVELAS🏵️",🏵️|➾RAKUTEN VIKI
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=30f7f753-8a6e-4a2c-aac0-c76e887845dd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:-1 tvg-id=""tvg-name="🏵️FIFA"tvg-logo="https://i.postimg.cc/GpDXspkP/FIFA-FUTBOL.png"group-title="🏵️DEPORTES🏵️",🏵️|➾Rakuten FIFA+
@@ -293,8 +283,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-name="🏵️FREE BANDA TV "tvg-logo="https://i.postimg.cc/SszzXmnj/freetv-banda-1080x1080-02092024.jpg" group-title="🏵️ FREE TV  🏵️",🏵️|➾FREE BANDA TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="🏵️latin zone" tvg-logo="https://i.postimg.cc/tCwxB5KY/LATIN-ZONE.png"group-title="🏵️MUSICA 🏵️",🏵️|➾ Latin Zone TV | US
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️MIAMI TV" tvg-logo="https://i.postimg.cc/ydxk9QWp/miami-tv-LATINO.png"group-title="🏵️MEXICO🏵️",🏵️|➾ Miami TV
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-name="🏵️LA MEGA MUNDIAL"tvg-logo="https://i.postimg.cc/LXwFKSSd/LA-MEGA-MUNDIAL.png"group-title="🏵️ MUSICA 🏵️",🏵️|➾ La Mega Mundial USA
@@ -331,8 +319,6 @@ https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-name="🏵️CIUDAD MAGAZINE" tvg-logo="https://i.postimg.cc/ZRXDqhTD/Ciudad-magazine.png"group-title="🏵️ARGENTINA 🏵️",🏵️|➾ CIUDAD MAGAZINE TV HD
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-name="🏵️TV AZTECA NORESTE"tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png"group-title="🏵️ MEXICO 🏵️" ,🏵️|➾ TV Azteca Noroeste (Monterrey)
-https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-name="🏵️MEGA TV"tvg-logo="https://i.postimg.cc/nVXHvWkB/MEGA-TV.png" group-title="🏵️GENERAL 🏵️",🏵️|➾ MegaTV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 #EXTINF:-1 tvg-name="🏵️RADIO CANAVAL"tvg-logo="https://www.radiocarnaval.cl/wp-content/uploads/2021/03/new-logo-2021.png" group-title="🏵️ MUSICA 🏵️",🏵️|➾ RADIO CARNAVAL TV  
