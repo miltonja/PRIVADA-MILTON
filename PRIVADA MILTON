@@ -149,8 +149,6 @@ http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/513981
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/513979
 #EXTINF:-1 tvg-id="" tvg-name="CO| WIN SPORTS + #6" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="⚫DEPORTES COLOMBIA",CO| WIN SPORTS + #6
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/513980
-#EXTINF:-1 tvg-name="ALADDIN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="CINE INFANTIL ",ALADDIN
-http://78.159.119.122:2082/LIST-MIGIRATION-oijjtVQ5vS/xavXBD3V5P/676
 #EXTINF:-1 tvg-name="⚽️AZTECA 7"tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| AZTECA 7 HD
 http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-name="⚽️SKY SPORTS BUNDESLIGA" tvg-logo="https://sender.epglogos.de/302x190_w/623.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| SKY SPOTS BUNDESLIGA
@@ -239,6 +237,8 @@ http://160.20.165.246:8000/play/a01j/index.m3u8
 http://181.78.105.146:6060/play/a02l
 #EXTINF:-1 tvg-name="🔆SONY MOVIES"tvg-logo="https://i.postimg.cc/B62Jv093/1200px-Sony-Movies-Logo-svg.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾SONY MOVIES
 http://181.78.105.146:8800/play/a04w
+#EXTINF:-1 tvg-name="←«🔆ALADDIN"tvg-logo="http://185.53.90.49:2095/logos/24hhss.png"group-title="←«🔆CINE INFANTIL🔆»→",🔆|➾ALADDIN
+http://78.159.119.122:2082/LIST-MIGIRATION-oijjtVQ5vS/xavXBD3V5P/676
 #EXTINF:-1 tvg-name="←«🔆XTREMA ANIMAL"tvg-logo="https://i.postimg.cc/wTdpm9SN/xtrema-tv-aventuras.png"group-title="←«🔆CULTURA🔆»→",🔆|➾XTREMA ANIMAL
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA CINEMA"tvg-logo="https://i.postimg.cc/xTbpyLP2/CANELA-CINEMA.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINEMA
