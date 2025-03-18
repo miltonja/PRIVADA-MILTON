@@ -653,6 +653,8 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 https://cloudvideo.servers10.com:8081/8032/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="✳️1 MUS TV "tvg-logo="https://i.postimg.cc/rp72rfMn/1music.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾1MUS  TV 
 http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-name="✳️CANAL VM LATINO "tvg-logo="https://i.postimg.cc/cLYwbq9n/VM-LATINO-ESP.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾CANAL VM LATINO
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🔆CANELA TV"tvg-logo="https://i.postimg.cc/RFFpBwMV/CANELA-TV.png"group-title="←«🔆PELICULAS🔆»→",🔆|➾CANELA TV HD
 https://cnm-cn.otteravision.com/out/v1/9b403726f16b42cdb83b8af6b36aa01a/index.m3u8
 #EXTINF:-1 tvg-name="✳️PULA TV HD"tvg-logo="https://i.postimg.cc/T3n9Xmyz/PULA-TV.png"group-title="←«✳️ MUSICA ✳️»→",✳️|➾PULA TV HD
