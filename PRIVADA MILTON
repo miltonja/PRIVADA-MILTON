@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/tJsjwddW/Win-Plus-amarillo.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|000 WIN SPORTS PLUS HD MARZO-22-2025
+http://190.60.46.141:9876/play/a0arw/index.m3u8
+#EXTINF:-1tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/tJsjwddW/Win-Plus-amarillo.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|001 WIN SPORTS PLUS HD MARZO-22-2025
+http://190.60.46.141:9876/play/a0ar/index.m3u8
 #EXTINF:-1tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|000 WIN SPORTS PLUS HD MARZO-22-2025
 http://181.176.174.135:8200/play/a0lg/index.m3u8
 #EXTINF:-1tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|001 WIN SPORTS PLUS HD MARZO-22-2025
