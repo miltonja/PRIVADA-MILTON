@@ -275,19 +275,19 @@ http://clubtv.link/Sepfin29/key4513/24.php?c=peliculas_mania
 http://clubtv.link/Sepfin29/key4513/24.php?c=terror_mania
 #EXTINF:-1 tvg-name="🔆Azteca GUATE"tvg-logo="https://i.imgur.com/UJhQoUK.png"group-title="←«🔅GENERAL🔅»→",🔆|➾ AZTECA  GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 tvg-name="🔆Telesur"tvg-logo="https://i.postimg.cc/pdN7mJ2H/TELESUR.png"group-title="←«🔆NOTICIAS🔆»→" ,🔆|➾TELESUR
+#EXTINF:-1 tvg-name="🔆Telesur"tvg-logo="https://i.postimg.cc/pdN7mJ2H/TELESUR.png"group-title="←«🌐NOTICIAS🌐»→" ,🌐|➾TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-name="🔆RT (Español)"tvg-logo="https://i.postimg.cc/Jhn6xS3T/RT-America-Logo.png"group-title="←«🔆NOTICIAS🔆»→" ,🔆|➾RT (Español)
+#EXTINF:-1 tvg-name="🔆RT (Español)"tvg-logo="https://i.postimg.cc/Jhn6xS3T/RT-America-Logo.png"group-title="←«🌐NOTICIAS🌐»→" ,🌐|➾RT (Español)
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-name="🔆DW (Español)"tvg-logo="https://i.postimg.cc/Gt8YNdJG/DW-ESPA-OL.png"group-title="←«🔆NOTICIAS🔆»→" ,🔆|➾DW (Español)
+#EXTINF:-1 tvg-name="🔆DW (Español)"tvg-logo="https://i.postimg.cc/Gt8YNdJG/DW-ESPA-OL.png"group-title="←«🌐NOTICIAS🌐»→" ,🌐|➾DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="🔆CGTN Español"tvg-logo="https://i.postimg.cc/wMdLGKnF/CGTN-Espanol.png"group-title="←«🔆NOTICIAS🔆»→" ,🔆|➾CGTN Español
+#EXTINF:-1 tvg-name="🔆CGTN Español"tvg-logo="https://i.postimg.cc/wMdLGKnF/CGTN-Espanol.png"group-title="←«🌐NOTICIAS🌐»→" ,🌐|➾CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-name="🔆24 HORAS INTERNACIOBNAL"tvg-logo="https://i.imgur.com/IUVRm5L.png"group-title="←«🔆NOTICIAS🔆»→" ,🔆|➾ 24 HORAS INTERNACIOBNAL
+#EXTINF:-1 tvg-name="🔆24 HORAS INTERNACIOBNAL"tvg-logo="https://i.imgur.com/IUVRm5L.png"group-title="←«🌐NOTICIAS🌐»→" ,🌐|➾ 24 HORAS INTERNACIOBNAL
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-name="🔆TVE Internacional America"tvg-logo="https://i.imgur.com/iODADvi.png"group-title="←«🔆NOTICIAS🔆»→" ,🔆|➾TVE Internacional America
+#EXTINF:-1 tvg-name="🔆TVE Internacional America"tvg-logo="https://i.imgur.com/iODADvi.png"group-title="←«🌐NOTICIAS🌐»→" ,🌐|➾TVE Internacional America
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-#EXTINF:-1 tvg-name="🔆TVE Star HD" tvg-logo="https://i.imgur.com/zsCZHMh.png"group-title="←«🔆NOTICIAS🔆»→",🔆|➾TVE Star HD
+#EXTINF:-1 tvg-name="🔆TVE Star HD" tvg-logo="https://i.imgur.com/zsCZHMh.png"group-title="←«🌐NOTICIAS🌐»→" ,🌐|➾TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-name="🏵️INFAST TV HD"tvg-logo="https://i.postimg.cc/pTQWDVrL/infast-c.png"group-title="🏵️ EXTREME 🏵️" ,🏵️|➾INFAST TV HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
