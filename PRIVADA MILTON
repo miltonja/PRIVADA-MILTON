@@ -982,6 +982,7 @@ https://v1.tustreaming.cl/sabortv/tracks-v1a1/mono.m3u8
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 tvg-name="🏵️SET TELEVISION TV" tvg-logo="https://i.imgur.com/dbJKErB.png"group-title="🏵️ MEXICO 🏵️",🏵️|➾SET TELEVISION
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-name="🎞️HERMANOS 2024"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ5hp8Wkndamho8u29qUjMQnqSYqSbeJUCkQ&s"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Hermanos (2024)
 http://vhost000delivery.nanoflix.com.mx/vhost000/media/content/movies/tt9860566.esp/playlist.m3u8
 #EXTINF:-1 tvg-name="🎞️LA MUJER DFEL MOMENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMSkLuO0Mu6eTkwSaSPcNhwtCWS0fJCq_2A&s"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾La mujer del momento (2023)
@@ -1112,87 +1113,83 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Rebel%20Moon%20-%20Parte%20Dos-%20La%20Guerrera%20que%20Deja%20Marcas%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 tvg-name="🎞️"tvg-logo="https://i.postimg.cc/L66Lqqg6/REBELMOON-PARTE-1.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Rebel Moon (Parte uno) (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Rebel%20Moon%20(Parte%20uno)-%20La%20ni%C3%B1a%20del%20fuego%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Cazafantasmas: Apocalipsis Fantasma (2024)
+#EXTINF:-1 tvg-name="🎞️APOCALIPSISI FANTASMA"tvg-logo="https://i.postimg.cc/jdzWpVjp/CAZAFANTASMAS.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Cazafantasmas: Apocalipsis Fantasma (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Ghostbusters-%20Apocalipsis%20fantasma%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾El Pájaro Loco se va de campamento (2024)
+#EXTINF:-1 tvg-name="🎞️EL PAJARO LOCO SE VA DE CAMPAMENTO"tvg-logo="https://i.postimg.cc/28yg1YsW/EL-PAJARO-LOCO-SE-VA-DE-CAMPAMENTO.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾El Pájaro Loco se va de campamento (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20El%20P%C3%A1jaro%20Loco%20se%20va%20de%20campamento%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾La primera profecía (2024) CAM
+#EXTINF:-1 tvg-name="🎞️LA PRIMERA PROFESIA"tvg-logo="https://i.postimg.cc/D0jDxpXm/LA-PRIMERA-PROFESIA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾La primera profecía (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20La%20primera%20profec%C3%ADa%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Arthur (2024) CAM
+#EXTINF:-1 tvg-name="🎞️ARTHUR 2024"tvg-logo="https://i.postimg.cc/VkbTFRLL/ARTHUR-2024.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Arthur (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Arthur%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Godzilla y Kong: El nuevo imperio (2024) CAM
+#EXTINF:-1 tvg-name="🎞️GODZILA EL NUEVO IMPERIO"tvg-logo="https://i.postimg.cc/hvP6bRhH/GODZILA-EL-NUEVO-IMPERIO.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Godzilla y Kong: El nuevo imperio (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Godzilla%20y%20Kong-%20El%20nuevo%20imperio%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Baghead: Contacto con la muerte (2023) CAM
+#EXTINF:-1 tvg-name="🎞️BAGHEAD CONTACTO CON LA MUERTE"tvg-logo="https://i.postimg.cc/xCQW8zQj/BAGHEAD-CONTACTO-CON-LA-MUERTE.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Baghead: Contacto con la muerte (2023) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Baghead-%20Contacto%20Con%20La%20Muerte%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Imaginario: Juguete diabólico (2024)
+#EXTINF:-1 tvg-name="🎞️IMAGINARIO JUEGO DIABOLICO"tvg-logo="https://i.postimg.cc/bvk7qRKF/IMAGINARIO-JUEGO-DIABOLICO.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Imaginario: Juguete diabólico (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Imaginario-%20juguete%20diab%C3%B3lico%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Godzilla y Kong: El nuevo imperio (2024) CAM
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Godzilla%20y%20Kong-%20El%20nuevo%20imperio%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾El salario del miedo (2024)
+#EXTINF:-1 tvg-name="🎞️SALARIO DEL MIEDO"tvg-logo="https://i.postimg.cc/FHMtt6nL/SALARIO-DEL-MIEDO.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾El salario del miedo (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20El%20salario%20del%20miedo%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Cazafantasmas: Apocalipsis Fantasma (2024) CAM
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Ghostbusters-%20Apocalipsis%20fantasma%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Diario de mi Vagina (2024)
+#EXTINF:-1 tvg-name="🎞️DIARIO DE MI VAGINA"tvg-logo="https://i.postimg.cc/qvhf5rQr/DIARIO-DE-MI-VAGINA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Diario de mi Vagina (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Diario%20de%20mi%20vagina%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Un ladrón romántico (2024)
+#EXTINF:-1 tvg-name="🎞️UN LADRON ROMANTICO"tvg-logo="https://i.postimg.cc/L60KD5tv/UN-LADRON-ROMANTICO.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Un ladrón romántico (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Un%20ladr%C3%B3n%20rom%C3%A1ntico%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Frida (2024)
+#EXTINF:-1 tvg-name="🎞️FRYDA"tvg-logo="https://i.postimg.cc/J7xWyPtf/FRYDA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Frida (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FWatch%20Frida%202024%201080L4T%20mp4.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Atrapados en lo Profundo (2024)
+#EXTINF:-1 tvg-name="🎞️ATRAPADOS EN LO PROFUNDO"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Atrapados en lo Profundo (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Atrapados%20en%20lo%20Profundo%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Kung Fu Panda 4 (2024)
+#EXTINF:-1 tvg-name="🎞️KUNG FU PANDA"tvg-logo="https://i.postimg.cc/prWbGncc/KUNG-FU-PANDA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Kung Fu Panda 4 (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Kung%20Fu%20Panda%204%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Ricky Stanicky: El impostor (2024)
+#EXTINF:-1 tvg-name="🎞️RICKY STANICKY"tvg-logo="https://i.postimg.cc/HxtFykWw/RICKY-STANICKY.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Ricky Stanicky: El impostor (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Ricky%20Stanicky-%20El%20impostor%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Damsel (2024)
+#EXTINF:-1 tvg-name="🎞️DONZELA 2024"tvg-logo="https://i.postimg.cc/8cZ8qPqp/DONZELA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Damsel (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Damsel%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Argylle: Agente secreto (2024)
+#EXTINF:-1 tvg-name="🎞️ ARGYLLE AGENTE SECRETO"tvg-logo="https://i.postimg.cc/ZKqz6pdC/ARGYLLE-AGENTE-SECRETO.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Argylle: Agente secreto (2024)
 http://vod.tuxchannel.mx/peliculas/720/argylle%202024.mkv
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Dune: Parte dos (2024) CAM
+#EXTINF:-1 tvg-name="🎞️DUNE PARTE DOS"tvg-logo="https://i.postimg.cc/4dTTc06g/DUNE-PARTE-UNO.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Dune: Parte dos (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Duna-%20Parte%20dos%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Dune: Parte uno (2021)
+#EXTINF:-1 tvg-name="🎞️DUNE PARTE UNO"tvg-logo="https://i.postimg.cc/s2WrvzZm/DUNE-PARTE-DOS.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Dune: Parte uno (2021)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Duna%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾El astronauta (2024)
+#EXTINF:-1 tvg-name="🎞️EL ASTRONAUTAEL ASTRONAUTA"tvg-logo="https://i.postimg.cc/wvcYQk2s/EL-ASTRONAUTA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾El astronauta (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20El%20astronauta%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Código 8 (Parte 2) (2024)
+#EXTINF:-1 tvg-name="🎞️CODE 8"tvg-logo="https://i.postimg.cc/3xd7Qm8P/CODE-8.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Código 8 (Parte 2) (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20C%C3%B3digo%208-%20Renegados%20(Parte%20II)%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Pobres criaturas (2023)
+#EXTINF:-1 tvg-name="🎞️POBRES CRIATURAS"tvg-logo="https://i.postimg.cc/kXj9HfmQ/POBRES-CRIATURAS.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Pobres criaturas (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Pobres%20Criaturas%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Chicas malas (2024)
+#EXTINF:-1 tvg-name="🎞️CHICAS MALAS"tvg-logo="https://i.postimg.cc/Jzv8r0tt/CHICAS-MALAS.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Chicas malas (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Chicas%20pesadas%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Megamind contra el sindicato del mal (2024)
+#EXTINF:-1 tvg-name="🎞️MEGA MIN COTRA EL SINDICATO DEL ALMA"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Megamind contra el sindicato del mal (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Megamente%20contra%20el%20sindicato%20de%20Doom%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Me llamo Loh Kiwan (2024)
+#EXTINF:-1 tvg-name="ME LLAMO LOH KIWAN🎞️"tvg-logo="https://i.postimg.cc/wMgHCrMV/ME-LLAMO-LOH-KIWAN.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Me llamo Loh Kiwan (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Me%20llamo%20Loh%20Ki-wan%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Madame Web (2024) CAM
+#EXTINF:-1 tvg-name="🎞️MADAME WEB"tvg-logo="https://i.postimg.cc/QtphnD8C/MADAME-WEB.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Madame Web (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Madame%20Web%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Bob Marley: la leyenda (2024) CAM
+#EXTINF:-1 tvg-name="🎞️BOB MARLEY LA LEYENDA"tvg-logo="https://i.postimg.cc/Ss0mrRpH/BOB-MARLEY-LA-LEYENDA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Bob Marley: la leyenda (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Bob%20Marley-%20La%20leyenda%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Buena hamburguesa 2 (2023)
+#EXTINF:-1 tvg-name="🎞️BUENA HAMBURGUESA"tvg-logo="https://i.postimg.cc/TP5RgmBr/BUENA-HAMBURGUESA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Buena hamburguesa 2 (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Buena%20hamburguesa%202%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Franklin (2024)
+#EXTINF:-1 tvg-name="🎞️FRANKLIN 2024"tvg-logo="https://i.postimg.cc/1RryGy7Y/FRANKLIN-2024.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Franklin (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Snoopy%20presenta-%20Bienvenido%20a%20casa%2C%20Franklin%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Radical (2023)
+#EXTINF:-1 tvg-name="🎞️RADICAL 2024"tvg-logo=https://i.postimg.cc/kGs9qytd/RADICAL-2024.jpg""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Radical (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Radical%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Los segundones (2024)
+#EXTINF:-1 tvg-name="🎞️LOS SEGUNDONES"tvg-logo="https://i.postimg.cc/0292FzJs/LOS-SEGUNDONES.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Los segundones (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Los%20menospreciados%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Cazadores en tierra inhóspita (2024)
+#EXTINF:-1 tvg-name="🎞️CAZADORES DE TIERRA INHOSPITA"tvg-logo="https://i.postimg.cc/8z5kkxHX/CAZADORES-DE-TIERRA-INHOSPITA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Cazadores en tierra inhóspita (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Cazadores%20en%20tierra%20inh%C3%B3spita%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Fuerza Bruta Sin Salida (2023)
+#EXTINF:-1 tvg-name="🎞️FUERZA BRUTA SIN SALIDA"tvg-logo="https://i.postimg.cc/SxvSnV1S/FUERZA-BRUTA-SIN-SALIDA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Fuerza Bruta Sin Salida (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Fuerza%20bruta-%20sin%20salida%20online%20HD%20-%20Cuevana%202%20(SUB).mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Mavka: Guardiana del bosque (2023)
+#EXTINF:-1 tvg-name="🎞️MAVKA GUARDIANA DEL BOSQUE"tvg-logo="https://i.postimg.cc/pXkXHPDn/MAVKA-GUARDIANA-DEL-BOSQUE.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Mavka: Guardiana del bosque (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Mavka-%20Guardiana%20del%20bosque%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Wonka (2023)
+#EXTINF:-1 tvg-name="🎞️WONKA"tvg-logo="https://i.postimg.cc/xCH1DHR0/WONKA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Wonka (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Wonka%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Venganza Silenciosa (2023)
+#EXTINF:-1 tvg-name="🎞️VENGANZA SILENCIOSA"tvg-logo="https://i.postimg.cc/Bb0Qq6Y2/VENGANZA-SILENCIOSA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Venganza Silenciosa (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FWatch%20VS1080LAT%20mp4.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Mi gran boda griega 3 (2023)
+#EXTINF:-1 tvg-name="🎞️MI GRAN BODA 3"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Mi gran boda griega 3 (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FWatch%20Gr4n%20Boda%20Gr1ega31080%20mp4.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Ferrari (2023)
+#EXTINF:-1 tvg-name="🎞️FERRARI 2023"tvg-logo="https://i.postimg.cc/JhshxSHH/FERRARI-2023.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Ferrari (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FWatch%20Ferrari%202023%201080p%20WEBRip%20LAT%20DUB%201XBET%20mp4.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Wish: El poder de los deseos (2023)
+#EXTINF:-1 tvg-name="🎞️WISH EL PODER DE LOS DESEOS"tvg-logo="https://i.postimg.cc/Gtx39CVV/WISH-EL-PODER-DE-LOS-DESEOS.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Wish: El poder de los deseos (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Wish-%20El%20poder%20de%20los%20deseos%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Patos! Un viaje patas arriba (2023)
+#EXTINF:-1 tvg-name="🎞️PATOS UN VIAJE PATAS ARRIBA"tvg-logo="https://i.postimg.cc/cJPLbTf9/PATOS-UN-VIAJE-PATAS-ARRIBA.jpg"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Patos! Un viaje patas arriba (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20%C2%A1Patos!%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 tvg-name="🎞️"tvg-logo=""group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾La Cocina (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20The%20Kitchen%20online%20HD%20-%20Cuevana%202.mp4
