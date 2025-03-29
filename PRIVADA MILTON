@@ -982,7 +982,6 @@ https://v1.tustreaming.cl/sabortv/tracks-v1a1/mono.m3u8
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 tvg-name="🏵️SET TELEVISION TV" tvg-logo="https://i.imgur.com/dbJKErB.png"group-title="🏵️ MEXICO 🏵️",🏵️|➾SET TELEVISION
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-name="🎞️HERMANOS 2024"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ5hp8Wkndamho8u29qUjMQnqSYqSbeJUCkQ&s"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾Hermanos (2024)
 http://vhost000delivery.nanoflix.com.mx/vhost000/media/content/movies/tt9860566.esp/playlist.m3u8
 #EXTINF:-1 tvg-name="🎞️LA MUJER DFEL MOMENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMSkLuO0Mu6eTkwSaSPcNhwtCWS0fJCq_2A&s"group-title="←«🎞️PELICULAS 🎞️»→",🎞️|➾La mujer del momento (2023)
