@@ -251,6 +251,18 @@ http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531758
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531757
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA 24 HORAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZtGc57GnJvg0O5LFAispIKwRLrfoP_RQwJtQLgnGX_EerUYrMN6U90s5&s=10" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",LCDLF COLOMBIA 24 HORAS
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531756
+#EXTINF:-1tvg-name="🔷⭕IMAGEN TV" tvg-logo="https://i.postimg.cc/L85mBLFL/Imagen-TV-MX.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾IMAGEN TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+#EXTINF:-1tvg-name="🔷⭕ESTRELLA NEWS" tvg-logo="https://i.postimg.cc/KzYZXFp0/ESTRELLA-NEWS-ESP.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾ESTRELLA NEWS
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1tvg-name="🔷⭕AZTECA UNO" tvg-logo="https://i.postimg.cc/tJM5p798/AZTECA-UNO-FINAL.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾AZTECA UNO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+#EXTINF:-1tvg-name="🔷⭕AZTECA INTERNACIONAL"tvg-logo="https://i.postimg.cc/sXCtR6HZ/AZTECA-INTERNACIONAL.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾AZTECA INTERNACIONAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
+#EXTINF:-1tvg-name="🔷⭕C4 EN ALERTA" tvg-logo="https://i.postimg.cc/TPY7q1G6/C4-En-Alerta.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾C4 EN ALERTA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
+#EXTINF:-1tvg-name="🔷⭕CGTN" tvg-logo="https://i.postimg.cc/wMdLGKnF/CGTN-Espanol.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾CGTN
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 #EXTINF:-1tvg-name="🔷⭕ATOMUND" tvg-logo="https://i.postimg.cc/TY8byJPL/atomun.jpg"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾ATOMUND
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 #EXTINF:-1tvg-name="🔷⭕RT EN ESPAÑOL" tvg-logo="https://i.postimg.cc/yxsxZnVx/RT-ESPA-OL.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾RT EN ESPAÑOL
