@@ -251,6 +251,16 @@ http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531758
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531757
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA 24 HORAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZtGc57GnJvg0O5LFAispIKwRLrfoP_RQwJtQLgnGX_EerUYrMN6U90s5&s=10" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",LCDLF COLOMBIA 24 HORAS
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531756
+#EXTINF:-1tvg-name="🔷⭕RUN TIME TV" tvg-logo="https://i.postimg.cc/x1gW54Rj/Runtime-films.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾RUN TIME TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1tvg-name="🔷⭕RUNTIME ROMANCE" tvg-logo="https://i.postimg.cc/XqLYSsf2/Runtime-Romance-ESP.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾RUNTIME ROMANCE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119
+#EXTINF:-1tvg-name="🔷⭕RUNTIME ACCION" tvg-logo="https://i.postimg.cc/PqVnXRpV/Runtime-Accion.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾RUNTIME ACCION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:-1tvg-name="🔷⭕RUNTIME CRIMEN" tvg-logo="https://i.postimg.cc/fyxP92yN/Runtime-CRIMEN-1.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾RUNTIME CRIMEN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129
+#EXTINF:-1tvg-name="🔷⭕RUNTIME CINE ESPANTO" tvg-logo="https://i.postimg.cc/fbRhhNL0/Runtime-Terror.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾RUNTIME CINE ESPANTO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126
 #EXTINF:-1tvg-name="🔷⭕IMAGEN TV" tvg-logo="https://i.postimg.cc/L85mBLFL/Imagen-TV-MX.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾IMAGEN TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1tvg-name="🔷⭕ESTRELLA NEWS" tvg-logo="https://i.postimg.cc/KzYZXFp0/ESTRELLA-NEWS-ESP.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾ESTRELLA NEWS
