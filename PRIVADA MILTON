@@ -251,6 +251,20 @@ http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531758
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531757
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA 24 HORAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZtGc57GnJvg0O5LFAispIKwRLrfoP_RQwJtQLgnGX_EerUYrMN6U90s5&s=10" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",LCDLF COLOMBIA 24 HORAS
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531756
+#EXTINF:-1tvg-name="⚽ITV DEPORTES" tvg-logo="https://i.postimg.cc/0N0RnsGx/ITV-DEPORTES.png"group-title="🔶⚽ DEPORTES ⚽🔶",⚽🔶|➾ITV DEPORTES
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1tvg-name="⚽AYM SPORTSTV" tvg-logo="https://i.postimg.cc/d3mtQg3W/AYM-SPORTS.jpg"group-title="🔶⚽ DEPORTES ⚽🔶",⚽🔶|➾AYM SPORTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1tvg-name="⚽BEIN SPORTS TV" tvg-logo="https://i.postimg.cc/rwcDgkzS/AAA-BEIN-SPORTS.png"group-title="🔶⚽ DEPORTES ⚽🔶",⚽🔶|➾BEIN SPORTS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1tvg-name="⚽REAL MADRID TV" tvg-logo="https://i.postimg.cc/wxC658z7/real-madrid-tv-es.png"group-title="🔶⚽ DEPORTES ⚽🔶",⚽🔶|➾REALMADRID TB
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1tvg-name="⚽BARCA ONE TV" tvg-logo="https://i.postimg.cc/NFVmns2g/Barca-tv-logo.png"group-title="🔶⚽ DEPORTES ⚽🔶",⚽🔶|➾BARCA ONE
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+#EXTINF:-1tvg-name="⚽AZTECA DEPORTES" tvg-logo="https://i.postimg.cc/Kv1sGQtL/TV-AZTECA-DEPORTES.png"group-title="🔶⚽ DEPORTES ⚽🔶",⚽🔶|➾AZTECA DEPORTES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1tvg-name="🔷⭕TELEMAX TV" tvg-logo="https://i.postimg.cc/Bnpm0HjN/Telemax.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾TELMAX
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1tvg-name="🔷⭕RUN TIME TV" tvg-logo="https://i.postimg.cc/x1gW54Rj/Runtime-films.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾RUN TIME TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 #EXTINF:-1tvg-name="🔷⭕RUNTIME ROMANCE" tvg-logo="https://i.postimg.cc/XqLYSsf2/Runtime-Romance-ESP.png"group-title="🔷⭕ PREMIUM 🔷⭕",🔷⭕|➾RUNTIME ROMANCE
