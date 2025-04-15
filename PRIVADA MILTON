@@ -173,6 +173,16 @@ https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pdgtQa2byG04jUg5G0v7-hk/m3u8
 https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pcCcyH4KDDchN2aFGcg5aao/m3u8
 #EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | 03 • Win Sports SD" tvg-logo="https://i.postimg.cc/k5FJccPz/1200px-Win-Sports-nuevo-logo-svg.png"group-title="⚽💢LIGA BETPLAY💢⚽",CO| 03 • Win Sports SD
 https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pXrDimppqbX9VphdVk0z4AY/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚽⭕CO | 01 • Win+ Fútbol ᴴᴰ" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽⭕DEPORTES COLOMBIA⚽⭕",⚽⭕CO | 01 • Win+ Fútbol ᴴᴰ
+http://170.39.192.130:2095/56985517642w/280225act/316536
+#EXTINF:-1 tvg-id="" tvg-name="⚽⭕CO | 02 •  Win+ Fútbol ᴴᴰ" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽⭕DEPORTES COLOMBIA⚽⭕",⚽⭕CO | 02 •  Win+ Fútbol ᴴᴰ
+http://170.39.192.130:2095/56985517642w/280225act/316537
+#EXTINF:-1 tvg-id="" tvg-name="⚽⭕CO | 03 • Win+ Fútbol ᴴᴰ" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽⭕DEPORTES COLOMBIA⚽⭕",⚽⭕CO | 03 • Win+ Fútbol ᴴᴰ
+http://170.39.192.130:2095/56985517642w/280225act/316538
+#EXTINF:-1 tvg-id="" tvg-name="⚽⭕CO | 04 • Win+ Fútbol ᴴᴰ" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽⭕DEPORTES COLOMBIA⚽⭕",⚽⭕CO | 04 • Win+ Fútbol ᴴᴰ
+http://170.39.192.130:2095/56985517642w/280225act/316539
+#EXTINF:-1 tvg-id="" tvg-name="⚽⭕CO | 03 • Win Sports SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="⚽⭕DEPORTES COLOMBIA",CO | 03 • Win Sports SD
+http://170.39.192.130:2095/56985517642w/280225act/316541
 #EXTINF:-1 tvg-id="" tvg-name="COL | CASA DE LOS FAMOSOS" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",CASA DE LOS FAMOSOS
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586712.ts
 #EXTINF:-1 tvg-id="" tvg-name="COMEDOR" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",COMEDOR
