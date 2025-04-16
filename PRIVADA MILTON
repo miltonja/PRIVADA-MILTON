@@ -33,6 +33,14 @@ http://190.60.33.237:1010/play/a0eg/index.m3u8
 http://206.62.161.192:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="WIN PORTS  tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports OSEPTIEMBRE-10
 http://181.78.23.26:45000/play/a034
+#EXTINF:-1tvg-name="💢❖WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png"group-title="💢❖ WIN SPORTS PLUS 💢❖",💢❖|➾WIN SPORTS PLUS FHD
+http://iptvglobal.site:25461/live/Antonio4/Antonio4/373350.ts
+#EXTINF:-1tvg-name="💢❖WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png"group-title="💢❖ WIN SPORTS PLUS 💢❖",💢❖|➾WIN SPORTS PLUS FHD
+http://iptvglobal.site:25461/live/Antonio4/Antonio4/373351.ts
+#EXTINF:-1tvg-name="💢❖WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png"group-title="💢❖ WIN SPORTS PLUS 💢❖",💢❖|➾WIN SPORTS PLUS FHD
+http://iptvglobal.site:25461/live/Antonio4/Antonio4/373348.ts
+#EXTINF:-1tvg-name="💢❖WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png"group-title="💢❖ WIN SPORTS PLUS 💢❖",💢❖|➾WIN SPORTS PLUS FHD
+http://iptvglobal.site:25461/live/Antonio4/Antonio4/373347.ts
 #EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports" tvg-logo="http://209.126.82.213/Colombia/winsport.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports
 http://tv-cool.com:25461/6514856540/c0ea81e220/40366
 #EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports FHD" tvg-logo="http://209.126.82.213/Colombia/winsport.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports FHD
