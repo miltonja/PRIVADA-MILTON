@@ -9,8 +9,6 @@ http://181.78.6.66:8000/play/a0cc/index.m3u8
 http://190.60.59.67:8000/play/a0b1/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|005 WIN SPORTS PLUS HD FEBRERO-23
 http://190.60.33.237:1010/play/a0et/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|007WIN SPORTS PLUS HD FEBRERO-23
-http://206.62.161.192:8000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|008WIN SPORTS PLUS HD FEBRERO-23
 http://177.93.52.115:8000/play/a0bn/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|0009 WIN SPORTS PLUS HD FEBRERO-23 CORTO
@@ -41,20 +39,6 @@ http://iptvglobal.site:25461/live/Antonio4/Antonio4/373351.ts
 http://iptvglobal.site:25461/live/Antonio4/Antonio4/373348.ts
 #EXTINF:-1tvg-name="💢❖WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png"group-title="💢❖ WIN SPORTS PLUS 💢❖",💢❖|➾WIN SPORTS PLUS FHD
 http://iptvglobal.site:25461/live/Antonio4/Antonio4/373347.ts
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports" tvg-logo="http://209.126.82.213/Colombia/winsport.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports
-http://tv-cool.com:25461/6514856540/c0ea81e220/40366
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports FHD" tvg-logo="http://209.126.82.213/Colombia/winsport.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports FHD
-http://tv-cool.com:25461/6514856540/c0ea81e220/30179
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports HD" tvg-logo="http://209.126.82.213/Colombia/winsport.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports HD
-http://tv-cool.com:25461/6514856540/c0ea81e220/30266
-#EXTINF:-1 tvg-id="LATINO_Networks_and_Sports_EPGWinSportsPremium.co" tvg-name="COL | Win Sports Plus FHD" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports Plus FHD
-http://tv-cool.com:25461/6514856540/c0ea81e220/39958
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports Plus HD" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports Plus HD
-http://tv-cool.com:25461/6514856540/c0ea81e220/147330
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports Plus " tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports Plus 
-http://tv-cool.com:25461/6514856540/c0ea81e220/135705
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports Plus HD*" tvg-logo="http://209.126.82.213/Colombia/winsport_plus.png" group-title="✔️ TV | COLOMBIA",COL | Win Sports Plus HD*
-http://tv-cool.com:25461/6514856540/c0ea81e220/39957
 #EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png" group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS +
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516932.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS +" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png" group-title="❄️FUTBOL COLOMBIA❄️",WIN SPORTS +
@@ -167,30 +151,10 @@ http://190.92.10.66:4000/play/a004/index.m3u8
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name="⚽️BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽|BEIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="CO | 01 • Win+ Fútbol ᴴᴰ" tvg-logo="https://i.postimg.cc/QCBZRgvX/Winfutbol-Naranja.png"group-title="⚽💢LIGA BETPLAY⚽💢",CO| 01 • Win+ Fútbol ᴴᴰ
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pSiGyJ29K7EKkFRgz4ysIX8/m3u8
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="CO | 02 •  Win+ Fútbol ᴴᴰ" tvg-logo="https://i.postimg.cc/QCBZRgvX/Winfutbol-Naranja.png"group-title="⚽💢LIGA BETPLAY⚽💢",CO| 02 •  Win+ Fútbol ᴴᴰ
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pVVZWiLM56gpUyP2mwKvaio/m3u8
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="CO | 03 • Win+ Fútbol ᴴᴰ" tvg-logo="https://i.postimg.cc/QCBZRgvX/Winfutbol-Naranja.png"group-title="⚽💢LIGA BETPLAY⚽💢",CO| 03 • Win+ Fútbol ᴴᴰ
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pf1AcrK7j8dhJ0Ui-wFDPRY/m3u8
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="CO | 04 • Win+ Fútbol ᴴᴰ" tvg-logo="https://i.postimg.cc/QCBZRgvX/Winfutbol-Naranja.png"group-title="⚽💢LIGA BETPLAY⚽💢",CO| 04 • Win+ Fútbol ᴴᴰ
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pR1gjEhKGjU_wyykwTa2iaw/m3u8
-#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="CO | 01 • Win Sports FHD" tvg-logo="https://i.postimg.cc/k5FJccPz/1200px-Win-Sports-nuevo-logo-svg.png"group-title="⚽💢LIGA BETPLAY💢⚽",CO| 01 • Win Sports FHD
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pdgtQa2byG04jUg5G0v7-hk/m3u8
 #EXTINF:-1  tvg-id="Win.Sports.co" tvg-name="CO | 02 •Win Sports HD" tvg-logo="https://i.postimg.cc/k5FJccPz/1200px-Win-Sports-nuevo-logo-svg.png"group-title="⚽💢LIGA BETPLAY💢⚽A",CO| 02 •Win Sports HD
 https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pcCcyH4KDDchN2aFGcg5aao/m3u8
 #EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | 03 • Win Sports SD" tvg-logo="https://i.postimg.cc/k5FJccPz/1200px-Win-Sports-nuevo-logo-svg.png"group-title="⚽💢LIGA BETPLAY💢⚽",CO| 03 • Win Sports SD
 https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pXrDimppqbX9VphdVk0z4AY/m3u8
-#EXTINF:-1 tvg-id="" tvg-name="⚽⭕CO | 01 • Win+ Fútbol ᴴᴰ" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽⭕DEPORTES COLOMBIA⚽⭕",⚽⭕CO | 01 • Win+ Fútbol ᴴᴰ
-http://170.39.192.130:2095/56985517642w/280225act/316536
-#EXTINF:-1 tvg-id="" tvg-name="⚽⭕CO | 02 •  Win+ Fútbol ᴴᴰ" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽⭕DEPORTES COLOMBIA⚽⭕",⚽⭕CO | 02 •  Win+ Fútbol ᴴᴰ
-http://170.39.192.130:2095/56985517642w/280225act/316537
-#EXTINF:-1 tvg-id="" tvg-name="⚽⭕CO | 03 • Win+ Fútbol ᴴᴰ" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽⭕DEPORTES COLOMBIA⚽⭕",⚽⭕CO | 03 • Win+ Fútbol ᴴᴰ
-http://170.39.192.130:2095/56985517642w/280225act/316538
-#EXTINF:-1 tvg-id="" tvg-name="⚽⭕CO | 04 • Win+ Fútbol ᴴᴰ" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽⭕DEPORTES COLOMBIA⚽⭕",⚽⭕CO | 04 • Win+ Fútbol ᴴᴰ
-http://170.39.192.130:2095/56985517642w/280225act/316539
-#EXTINF:-1 tvg-id="" tvg-name="⚽⭕CO | 03 • Win Sports SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="⚽⭕DEPORTES COLOMBIA",CO | 03 • Win Sports SD
-http://170.39.192.130:2095/56985517642w/280225act/316541
 #EXTINF:-1tvg-name="•❖✧24/7 CASA DE LOS " tvg-logo="https://i.postimg.cc/6Qd3TDGC/CASA-DE-LOS-FAMOSOS-AZUL-CLARO.webp"group-title="•❖✧CASA DE LOS FAMOSOS•❖✧",•❖✧|➾24/7 CASA DE LOS FAMOSOS
 http://2.00322.xyz:8000/live/Sheyes3/MDW479BVUU/264549.ts
 #EXTINF:-1tvg-name="•❖✧24/7 CASA DE LOS FAMOSOS " tvg-logo="https://i.postimg.cc/Gp0tLc9c/CASA-DE-LOS-FAMOSOS-AZUL.jpg"group-title="•❖✧CASA DE LOS FAMOSOS•❖✧",•❖✧|➾24/7 CASA DE LOS FAMOSOS
@@ -235,20 +199,6 @@ https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pXTRqlAvYjdxYGXvIp1BwEA/m3u8
 https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pWyVUp2Q9WPzp5Cg57keCsg/m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA 24 HORAS" tvg-logo="https://i.postimg.cc/Hs3sPfbh/logo-colombia.webp" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA 24 HORAS
 http://tv-cool.com:25461/6514856540/c0ea81e220/264260
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA BEAUTY" tvg-logo="https://i.postimg.cc/Hs3sPfbh/logo-colombia.webp" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA BEAUTY
-http://tv-cool.com:25461/6514856540/c0ea81e220/264262
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA BAÑOS" tvg-logo="https://i.postimg.cc/Hs3sPfbh/logo-colombia.webp" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA BAÑOS
-http://tv-cool.com:25461/6514856540/c0ea81e220/264261
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA COMEDOR" tvg-logo="https://i.postimg.cc/Hs3sPfbh/logo-colombia.webp" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA COMEDOR
-http://tv-cool.com:25461/6514856540/c0ea81e220/264263
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA HABITACION AGUA" tvg-logo="https://i.postimg.cc/Hs3sPfbh/logo-colombia.webp" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA HABITACION AGUA
-http://tv-cool.com:25461/6514856540/c0ea81e220/264264
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA HABITACION FUEGO" tvg-logo="https://i.postimg.cc/Hs3sPfbh/logo-colombia.webp" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA HABITACION FUEGO
-http://tv-cool.com:25461/6514856540/c0ea81e220/264265
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA LOFT" tvg-logo="https://i.postimg.cc/Hs3sPfbh/logo-colombia.webp" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA LOFT
-http://tv-cool.com:25461/6514856540/c0ea81e220/264266
-#EXTINF:-1 tvg-id="" tvg-name="CASA DE LOS FAMOSOS ALL STAR USA #3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0ssS-2Nj2S4tPU6eXflP08Tl9gYv4eIK7w&s" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",CASA DE LOS FAMOSOS ALL STAR USA #3
-http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/536842
 #EXTINF:-1 tvg-id="" tvg-name="CASA DE LOS FAMOSOS ALL STAR USA #1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0ssS-2Nj2S4tPU6eXflP08Tl9gYv4eIK7w&s" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",CASA DE LOS FAMOSOS ALL STAR USA #1
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/536843
 #EXTINF:-1 tvg-id="" tvg-name="CASA DE LOS FAMOSOS ALL STAR USA #2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0ssS-2Nj2S4tPU6eXflP08Tl9gYv4eIK7w&s" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",CASA DE LOS FAMOSOS ALL STAR USA #2
