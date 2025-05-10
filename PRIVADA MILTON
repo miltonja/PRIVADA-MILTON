@@ -25,6 +25,10 @@ http://190.60.33.237:1010/play/a0eg/index.m3u8
 http://206.62.161.192:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="WIN PORTS  tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports OSEPTIEMBRE-10
 http://181.78.23.26:45000/play/a034
+#EXTINF:-1tvg-name="💢❖WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="💢❖ WIN SPORTS PLUS 💢❖",💢❖|➾WIN SPORTS PLUS FHD
+http://1play.cool:25461/live/RobinsonS/8376ffcc1b/39958.ts
+#EXTINF:-1tvg-name="💢❖WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="💢❖ WIN SPORTS PLUS 💢❖",💢❖|➾WIN SPORTS PLUS HD
+http://1play.cool:25461/live/RobinsonS/8376ffcc1b/147330.ts
 #EXTINF:-1tvg-name="💢❖WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png"group-title="💢❖ WIN SPORTS PLUS 💢❖",💢❖|➾WIN SPORTS PLUS FHD
 http://iptvglobal.site:25461/live/Antonio4/Antonio4/373350.ts
 #EXTINF:-1tvg-name="💢❖WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png"group-title="💢❖ WIN SPORTS PLUS 💢❖",💢❖|➾WIN SPORTS PLUS FHD
@@ -151,6 +155,8 @@ https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pcCcyH4KDDchN2aFGcg5aao/m3u8
 https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pXrDimppqbX9VphdVk0z4AY/m3u8
 #EXTINF:-1tvg-name="•❖✧24/7 CASA DE LOS " tvg-logo="https://i.postimg.cc/6Qd3TDGC/CASA-DE-LOS-FAMOSOS-AZUL-CLARO.webp"group-title="•❖✧CASA DE LOS FAMOSOS•❖✧",•❖✧|➾24/7 CASA DE LOS FAMOSOS
 http://2.00322.xyz:8000/live/Sheyes3/MDW479BVUU/264549.ts
+#EXTINF:-1tvg-name="•❖✧24/7 CASA DE LOS " tvg-logo="https://i.postimg.cc/6Qd3TDGC/CASA-DE-LOS-FAMOSOS-AZUL-CLARO.webp"group-title="•❖✧CASA DE LOS FAMOSOS•❖✧",•❖✧|➾24/7 CASA DE LOS FAMOSOS
+http://1play.cool:25461/live/RobinsonS/8376ffcc1b/264260.ts
 #EXTINF:-1tvg-name="•❖✧24/7 CASA DE LOS FAMOSOS " tvg-logo="https://i.postimg.cc/Gp0tLc9c/CASA-DE-LOS-FAMOSOS-AZUL.jpg"group-title="•❖✧CASA DE LOS FAMOSOS•❖✧",•❖✧|➾24/7 CASA DE LOS FAMOSOS
 http://netlevel.online:8080/live/Antoniogalvez/CNPFZ/586712.ts
 #EXTINF:-1tvg-name="•❖✧24/7 CASA DE LOS FAMOSOS " tvg-logo="https://i.postimg.cc/ydsNRvFt/CASA-DE-LOS-FAMOSOS.jpg"group-title="•❖✧CASA DE LOS FAMOSOS•❖✧",•❖✧|➾24/7 CASA DE LOS FAMOSOS
