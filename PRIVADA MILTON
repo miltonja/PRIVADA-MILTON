@@ -7,8 +7,6 @@ http://181.78.6.66:8000/play/a06v/index.m3u8
 http://181.78.6.66:8000/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|005 WIN SPORTS PLUS HD FEBRERO-23
 http://190.60.33.237:1010/play/a0et/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|0009 WIN SPORTS PLUS HD FEBRERO-23 CORTO
-http://201.182.250.126:9999/play/a0rx
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|0012 WIN SPORTS PLUS  HD-FEBRERO-06
 http://152.231.29.139:8000/play/a0cd/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|0015 WIN SPORTS PLUS JUNIO-27---
@@ -149,10 +147,6 @@ http://190.92.10.66:4000/play/a004/index.m3u8
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name="⚽️BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽|BEIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1  tvg-id="Win.Sports.co" tvg-name="CO | 02 •Win Sports HD" tvg-logo="https://i.postimg.cc/k5FJccPz/1200px-Win-Sports-nuevo-logo-svg.png"group-title="⚽💢LIGA BETPLAY💢⚽A",CO| 02 •Win Sports HD
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pcCcyH4KDDchN2aFGcg5aao/m3u8
-#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | 03 • Win Sports SD" tvg-logo="https://i.postimg.cc/k5FJccPz/1200px-Win-Sports-nuevo-logo-svg.png"group-title="⚽💢LIGA BETPLAY💢⚽",CO| 03 • Win Sports SD
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pXrDimppqbX9VphdVk0z4AY/m3u8
 #EXTINF:-1tvg-name="•❖✧24/7 CASA DE LOS " tvg-logo="https://i.postimg.cc/6Qd3TDGC/CASA-DE-LOS-FAMOSOS-AZUL-CLARO.webp"group-title="•❖✧CASA DE LOS FAMOSOS•❖✧",•❖✧|➾24/7 CASA DE LOS FAMOSOS
 http://2.00322.xyz:8000/live/Sheyes3/MDW479BVUU/264549.ts
 #EXTINF:-1tvg-name="•❖✧24/7 CASA DE LOS " tvg-logo="https://i.postimg.cc/6Qd3TDGC/CASA-DE-LOS-FAMOSOS-AZUL-CLARO.webp"group-title="•❖✧CASA DE LOS FAMOSOS•❖✧",•❖✧|➾24/7 CASA DE LOS FAMOSOS
@@ -183,26 +177,10 @@ http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586772.ts
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586773.ts
 #EXTINF:-1 tvg-id=""tvg-name="BAÑOS" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg" group-title="⭐️CASA DE LOS FAMOSOS⭐️",BAÑOS
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586774.ts
-#EXTINF:-1 xui-id=""tvg-id=""tvg-name="GENERAL" tvg-logo="https://www.besame.fm/wp-content/uploads/2024/12/famosos-3.png" group-title="💢⭐LA CASA DE LOS FAMOSOS⭐💢",GENERAL
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1paotp5wu-8M10Ry5WS4FAEc/m3u8
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="LOFT" tvg-logo="https://www.besame.fm/wp-content/uploads/2024/12/famosos-3.png" group-title="💢⭐LA CASA DE LOS FAMOSOS⭐💢",LOFT
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pVg5xuW_TzCfJMerTTcZq5Y/m3u8
-#EXTINF:-1 xui-id=""tvg-id=""tvg-name="COMEDOR"tvg-logo="https://www.besame.fm/wp-content/uploads/2024/12/famosos-3.png" group-title="💢⭐LA CASA DE LOS FAMOSOS⭐💢",COMEDOR
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pVGJmNj8iAbYtnelSPhIiPY/m3u8
-#EXTINF:-1 xui-id=""tvg-id=""tvg-name="HABITACION AGUA"tvg-logo="https://www.besame.fm/wp-content/uploads/2024/12/famosos-3.png"group-title="💢⭐LA CASA DE LOS FAMOSOS⭐💢", HABITACION AGUA
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pR4VQRCfYa9DdaKbsyU-o1c/m3u8
-#EXTINF:-1 xui-id=""tvg-id=""tvg-name="HABITACION FUEGO"tvg-logo="https://www.besame.fm/wp-content/uploads/2024/12/famosos-3.png"group-title="💢⭐LA CASA DE LOS FAMOSOS⭐💢",HABITACION FUEGO
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pTz26iW56EK6FUOKruKcd7w/m3u8
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="BEAUTY" tvg-logo="https://www.besame.fm/wp-content/uploads/2024/12/famosos-3.png" group-title="💢⭐LA CASA DE LOS FAMOSOS⭐💢",BEAUTY
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pXTRqlAvYjdxYGXvIp1BwEA/m3u8
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="BAÑOS" tvg-logo="https://www.besame.fm/wp-content/uploads/2024/12/famosos-3.png" group-title="💢⭐LA CASA DE LOS FAMOSOS⭐💢",BAÑOS
-https://micaplay.net:8443/play/uKQOl134nfWva-55MVl1pWyVUp2Q9WPzp5Cg57keCsg/m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA 24 HORAS" tvg-logo="https://i.postimg.cc/Hs3sPfbh/logo-colombia.webp" group-title=" ✰ LA CASA DE LOS FAMOSOS COLOMBIA ✰",LCDLF COLOMBIA 24 HORAS
 http://tv-cool.com:25461/6514856540/c0ea81e220/264260
 #EXTINF:-1 tvg-id="" tvg-name="CASA DE LOS FAMOSOS ALL STAR USA #1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0ssS-2Nj2S4tPU6eXflP08Tl9gYv4eIK7w&s" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",CASA DE LOS FAMOSOS ALL STAR USA #1
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/536843
-#EXTINF:-1 tvg-id="" tvg-name="CASA DE LOS FAMOSOS ALL STAR USA #2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0ssS-2Nj2S4tPU6eXflP08Tl9gYv4eIK7w&s" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",CASA DE LOS FAMOSOS ALL STAR USA #2
-http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/536844
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA LOFT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZtGc57GnJvg0O5LFAispIKwRLrfoP_RQwJtQLgnGX_EerUYrMN6U90s5&s=10" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",LCDLF COLOMBIA LOFT
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/531762
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF COLOMBIA HABITACION FUEGO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZtGc57GnJvg0O5LFAispIKwRLrfoP_RQwJtQLgnGX_EerUYrMN6U90s5&s=10" group-title="☘️ ⭕CASA FAMOSOS USA-COL-MX⭕☘️ ",LCDLF COLOMBIA HABITACION FUEGO
