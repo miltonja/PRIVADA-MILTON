@@ -29,6 +29,10 @@ http://190.60.33.237:1010/play/a0eg/index.m3u8
 http://206.62.161.192:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="WIN PORTS  tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports OSEPTIEMBRE-10
 http://181.78.23.26:45000/play/a034
+#EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="💢🏆 WIN SPORTS PLUS 🏆💢❖",💢🏆|➾WIN SPORTS PLUS FHD
+http://fullgo.xyz:8880/live/DigitalService218f/61936388/287807.ts
+#EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="💢🏆 WIN SPORTS PLUS 🏆💢❖",💢🏆|➾WIN SPORTS PLUS FHD
+http://fullgo.xyz:8880/live/jorgeluis93/X5t8QctY47sS/287807.ts
 #EXTINF:-1tvg-name="💢❖WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="💢❖ WIN SPORTS PLUS 💢❖",💢❖|➾WIN SPORTS PLUS FHD
 http://1play.cool:25461/live/RobinsonS/8376ffcc1b/39958.ts
 #EXTINF:-1tvg-name="💢❖WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="💢❖ WIN SPORTS PLUS 💢❖",💢❖|➾WIN SPORTS PLUS HD
