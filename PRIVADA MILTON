@@ -29,9 +29,9 @@ http://190.60.33.237:1010/play/a0eg/index.m3u8
 http://206.62.161.192:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="WIN PORTS  tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports OSEPTIEMBRE-10
 http://181.78.23.26:45000/play/a034
-#EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/QxtV9ZQc/WIN.png"group-title="💢🏆WIN SPORTS PLUS 🏆💢",💢🏆|➾WIN SPORTS + FIBRA HD
+#EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/m2jwKqNk/WIN-TOMATE-XMLTV.png"group-title="💢🏆WIN SPORTS PLUS 🏆💢",💢🏆|➾WIN SPORTS + FIBRA HD
 http://lb-momo-main.libosmountm.xyz:2086/live/ivantele/nzcSJj5zqFjp/537625.ts
-#EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/gc4n22ZY/WIN-BLANCO.png"group-title="💢🏆WIN SPORTS PLUS 🏆💢",💢🏆|➾WIN SPORTS FHD |opc-2|  
+#EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/kGFcJY0j/WIN-AMARILLO-XMLTV.png"group-title="💢🏆WIN SPORTS PLUS 🏆💢",💢🏆|➾WIN SPORTS FHD |opc-2|  
 http://lb-momo-main.libosmountm.xyz:2086/live/ivantele/nzcSJj5zqFjp/559490.ts
 #EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/ncDdTsZ2/WIN-SPORTS-PURPURA.png"group-title="💢🏆WIN SPORTS PLUS🏆💢",💢🏆|➾WIN SPORTS + HD OPC 2
 http://esquinapremium.site:8080/live/p-christian/gUrxBzRBen/1852.ts
@@ -165,17 +165,15 @@ http://190.92.10.66:4000/play/a004/index.m3u8
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name="⚽️BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽|BEIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1tvg-name="💢AZ CLICK" tvg-logo="https://i.postimg.cc/XNkMdZjC/AZ-CLICK.png"group-title="💢XMLTV 💢",💢|➾AZ CLICK
-http://181.78.109.48:8000/play/a02r/index.m3u8
-#EXTINF:-1tvg-name="💢AZ CORAZON" tvg-logo="https://i.postimg.cc/jdxpXs2k/AZ-CORAZON.png"group-title="💢XMLTV💢",💢|➾AZ CORAZON
+#EXTINF:-1tvg-name="💢AZ CORAZON" tvg-logo="https://i.postimg.cc/T3P9x9C9/AZ-CORAZON-XMLTV.png"group-title="💢XMLTV💢",💢|➾AZ CORAZON
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
-#EXTINF:-1tvg-name="💢TELEMUNDO 51 MIAMI" tvg-logo="https://i.postimg.cc/VvR38hGR/TELEMUNDO-51-XMLTV.png"group-title="💢XMLTV💢",💢|➾TELEMUNDO 51 MIAMI
+#EXTINF:-1tvg-name="💢TELEMUNDO 51 MIAMI" tvg-logo="https://i.postimg.cc/PrTy3hD0/TELEMUNDO-51-XMLTV.png"group-title="💢XMLTV💢",💢|➾TELEMUNDO 51 MIAMI
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8 
-#EXTINF:-1tvg-name="💢TELEVISA NOVELAS " tvg-logo="https://i.postimg.cc/Xq3TtW8q/TELEVISA-TELENOVELAS-XMLTV.png"group-title="💢XMLTV💢",💢|➾TELEVISA NOVELAS 
+#EXTINF:-1tvg-name="💢TELEVISA NOVELAS " tvg-logo="https://i.postimg.cc/L80V81WM/TELEVISA-TELENOVELAS-XMLTV.png"group-title="💢XMLTV💢",💢|➾TELEVISA NOVELAS 
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
-#EXTINF:-1tvg-name="💢AZTECA Internacional"tvg-logo="https://i.postimg.cc/LXddBLgz/AZTECA-INTERNACIONAL-XMLTV.png"group-title="💢XMLTV💢",💢|➾AZTECA Internacional 
+#EXTINF:-1tvg-name="💢AZTECA Internacional"tvg-logo="https://i.postimg.cc/cJgBgJqt/AZTECA-INTER-XMLTV.png"group-title="💢XMLTV💢",💢|➾AZTECA Internacional 
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1tvg-name="💢 AZTECA GUATE " tvg-logo="https://i.postimg.cc/rpRXrQsV/AZTECA-GUATE.png"group-title="💢XMLTV💢",💢|➾ AZTECA GUATE 
+#EXTINF:-1tvg-name="💢 AZTECA GUATE " tvg-logo="https://i.postimg.cc/25sF4fmc/AZTECA-GHUATE-XMLTV.png"group-title="💢XMLTV💢",💢|➾ AZTECA GUATE 
 https://ch1-tva.duin.dev/hls/stream.m3u8 
 #EXTINF:-1tvg-name="💢UNIVISION 24|7" tvg-logo="https://i.postimg.cc/4dpD8ypj/UNIVISION-XMLTV.png"group-title="💢XMLTV💢",💢|➾UNIVISION 24|7
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
