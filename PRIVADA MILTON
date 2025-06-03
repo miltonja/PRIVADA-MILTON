@@ -33,16 +33,10 @@ http://181.78.23.26:45000/play/a034
 http://lb-momo-main.libosmountm.xyz:2086/live/ivantele/nzcSJj5zqFjp/537625.ts
 #EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/kGFcJY0j/WIN-AMARILLO-XMLTV.png"group-title="💢🏆WIN SPORTS PLUS 🏆💢",💢🏆|➾WIN SPORTS FHD |opc-2|  
 http://lb-momo-main.libosmountm.xyz:2086/live/ivantele/nzcSJj5zqFjp/559490.ts
-#EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/ncDdTsZ2/WIN-SPORTS-PURPURA.png"group-title="💢🏆WIN SPORTS PLUS🏆💢",💢🏆|➾WIN SPORTS + HD OPC 2
-http://esquinapremium.site:8080/live/p-christian/gUrxBzRBen/1852.ts
-#EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/ncDdTsZ2/WIN-SPORTS-PURPURA.png"group-title="💢🏆WIN SPORTS PLUS🏆💢",💢🏆|➾WIN SPORTS + FHD
-http://esquinapremium.site:8080/live/p-christian/gUrxBzRBen/1846.ts
 #EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="💢🏆WIN SPORTS PLUS🏆💢",💢🏆|➾WIN SPORTS PLUS FHD
 http://coco3.jimaplus.xyz:8080/live/993353604tv/i7y6m78qm/361.ts
 #EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="💢🏆WIN SPORTS PLUS🏆💢",💢🏆|➾WIN SPORTS PLUS FHD
 http://coco3.jimaplus.xyz:8080/live/993353604tv/i7y6m78qm/359.ts
-#EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="💢🏆WIN SPORTS PLUS🏆💢",💢🏆|➾WIN SPORTS PLUS FHD
-http://593zona.live:8080/live/miki2024/miki2024/395679.ts
 #EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="💢🏆WIN SPORTS PLUS🏆💢",💢🏆|➾WIN SPORTS PLUS FHD
 http://fullgo.xyz:8880/live/DigitalService218f/61936388/287807.ts
 #EXTINF:-1tvg-name="💢🏆WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="💢🏆WIN SPORTS PLUS🏆💢",💢🏆|➾WIN SPORTS PLUS FHD
@@ -247,9 +241,6 @@ https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1tvg-name="🔷PLUTO TV DISEÑO"tvg-logo="https://i.postimg.cc/x1tM9rTM/1280px-Pluto-TV-logo-2024-svg.png"group-title="🔷🟦 TV TEMATICA 🟦🔷",🟦🔷|➾PLUTO TV DISEÑO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64db2e0835425100080f2f5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1tvg-name="🔷PLUTO TV RECETAS"tvg-logo="https://i.postimg.cc/15d7kZ26/PLUTO-TV-RECETAS.png"group-title="🔷🟦 TV TEMATICA 🟦🔷",🟦🔷|➾PLUTO TV RECETAS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="TV TEMÁTICA",351 Tastemade
 #EXTINF:-1tvg-name="🔷TESTEMADE"tvg-logo="https://i.postimg.cc/bvgFCk8q/TESTEMADE-MODIF.png"group-title="🔷🟦 TV TEMATICA 🟦🔷",🟦🔷|➾TESTEMADE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="TV TEMÁTICA",352 Andalucía Cocina
