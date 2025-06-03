@@ -306,40 +306,20 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036&declaredCC1Language=es&ads.caid=telemundoaldia_linear&ads.csid=samsungtvplus_us_telemundoaldia_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=137391198&ads.sfid=16772609&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_gdpr_consent=&ads._fw_h_x_country=US&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=telemundoaldia&ads.xumo_providerId=2561&ads.xumo_providerName=telemundoaldia&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=telemundoaldia&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1tvg-name="🔷⭕EL PAIS ESPAÑA" tvg-logo="https://i.postimg.cc/XvGk0DPq/logo-pais-big.png"group-title="🔷⭕ ESPAÑA 🔷⭕",🔷⭕|➾EL PAIS
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1tvg-name="🔷⭕24 horas España" tvg-logo="https://i.postimg.cc/L5ZTBQzG/1200px-Logo-TVE-24h-svg.png"group-title="🔷⭕ ESPAÑA 🔷⭕",🔷⭕|➾24 horas
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
-#EXTINF:-1tvg-name="🔷⭕tve ESPAÑA" tvg-logo="https://i.postimg.cc/d3qsGgPV/640px-TVE-svg.png"group-title="🔷⭕ ESPAÑA 🔷⭕",🔷⭕|➾tve España
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1tvg-name="🔷⭕EL CONFIDENCIAL" tvg-logo="https://i.postimg.cc/tTFQSktn/1200px-Logo-RTVE-es-svg.png"group-title="🔷⭕ ESPAÑA 🔷⭕",🔷⭕|➾EL CONFIDENCIAL
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-name="←«🔆XTREMA ACCION"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾XTREMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-name="🔆CINE HISPANO"tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE-HISPANO.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾CINE HISPANO
-http://179.189.222.226:8000/play/ch51
-#EXTINF:-1 tvg-name="🔆CINE FAMILIAR"tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾CINE FAMILIAR
-http://179.189.222.226:8000/play/ch52
 #EXTINF:-1 tvg-name="🔆MY TIME ESPAÑA"tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾MY TIME ESPAÑA
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆MY TIME MEXICO"tvg-logo="https://i.postimg.cc/0QssJQFr/MY-TIME-MOVIE.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾MY TIME MEXICO
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆FMH FAMILY"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-name="🔆SONY MOVIES"tvg-logo="https://i.postimg.cc/B62Jv093/1200px-Sony-Movies-Logo-svg.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾SONY MOVIES
-http://181.78.105.146:6060/play/a02l
-#EXTINF:-1 tvg-name="🔆SONY MOVIES"tvg-logo="https://i.postimg.cc/B62Jv093/1200px-Sony-Movies-Logo-svg.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾SONY MOVIES
-http://181.78.105.146:8800/play/a04w
-#EXTINF:-1 tvg-name="←«🔆ALADDIN"tvg-logo="http://185.53.90.49:2095/logos/24hhss.png"group-title="←«🔆CINE INFANTIL🔆»→",🔆|➾ALADDIN
-http://78.159.119.122:2082/LIST-MIGIRATION-oijjtVQ5vS/xavXBD3V5P/676
 #EXTINF:-1 tvg-name="←«🔆XTREMA ANIMAL"tvg-logo="https://i.postimg.cc/wTdpm9SN/xtrema-tv-aventuras.png"group-title="←«🔆CULTURA🔆»→",🔆|➾XTREMA ANIMAL
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA CINEMA"tvg-logo="https://i.postimg.cc/xTbpyLP2/CANELA-CINEMA.jpg"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CINEMA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
-#EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA CLASICO"tvg-logo="https://i.postimg.cc/N0Wq2PYN/Canela-tv-clasicos.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA CLASICO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA TODO CINE"tvg-logo="https://i.postimg.cc/8PQxyh0Q/CANELA-TODO-CINE.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA TODO CINE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:-1 tvg-name=""tvg-logo="https://i.postimg.cc/BQtJJXnd/logo-novelas-inolvidables-Disney-white.png"group-title="←«💞TELENOVELAS Y DRAMAS💞»→,💞|➾NOVELAS INOLVIDABLES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5550
 #EXTINF:-1 tvg-name="PLUTO NOVELAS"tvg-logo="https://i.postimg.cc/gkkcTghq/featured-Image.jpg"group-title="←«💞TELENOVELAS Y DRAMAS💞»→,💞|➾PLUTO NOVELAS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-name="NOVELAS MEXICANAS"tvg-logo="https://i.postimg.cc/CLn9vD1L/featured-Image.jpg"group-title="←«💞TELENOVELAS Y DRAMAS💞»→,💞|➾NOVELAS MEXICANAS
@@ -350,8 +330,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a8691
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-name="BBC DRAMA"tvg-logo="https://i.postimg.cc/nVXXRKBB/BBC-DRAMA.png"group-title="←«💞TELENOVELAS Y DRAMAS💞»→,💞|➾BBC DRAMA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-name="NOVELAS TURCAS"tvg-logo="https://i.postimg.cc/wBfTHLdR/597a7c042ac0623e9cbe32a8f913acc1.jpg"group-title="←«💞TELENOVELAS Y DRAMAS💞»→,💞|➾NOVELAS TURCAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-name="CORAZON TURCO"tvg-logo="https://i.postimg.cc/cJ2wzYcM/CORAZON-TURCO-ESP.png"group-title="←«💞TELENOVELAS Y DRAMAS💞»→,💞|➾CORAZON TURCO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-name="KANAL D DRAMA"tvg-logo="https://i.postimg.cc/nLG0hzvG/kanal-D-Drama.png"group-title="←«💞TELENOVELAS Y DRAMAS💞»→,💞|➾KANAL D DRAMA
