@@ -21,6 +21,18 @@ http://190.60.33.237:1010/play/a0eg/index.m3u8
 http://206.62.161.192:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="WIN PORTS  tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports OSEPTIEMBRE-10
 http://181.78.23.26:45000/play/a034
+#EXTINF:-1 tvg-name="⚽WIN PLUS-2026"tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png"group-title="⚽WIN PLUS-2026⚽",➾🏆 COL• WIN SPORTS+ (HD)
+http://6digital9.chocoplus.xyz:8080/live/2964481224/328caX6Btc5/359.ts
+#EXTINF:-1 tvg-name="⚽WIN PLUS-2026" tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png"group-title="⚽WIN PLUS-2026⚽",➾🏆 COL• WIN SPORTS+ (HD) »1«
+http://6digital9.chocoplus.xyz:8080/live/2964481224/328caX6Btc5/361.ts
+#EXTINF:-1 tvg-name="⚽WIN PLUS-2026" tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png"group-title="⚽WIN PLUS⚽",➾🏆 COL• WIN SPORTS+ (HD) »1«
+http://6digital9.chocoplus.xyz:8080/live/42waze97qe56qa87/95wame27puce82/359.ts
+#EXTINF:-1 tvg-name="⚽WIN PLUS-2026" tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png"group-title="⚽WIN PLUS-2026⚽",➾🏆 COL• WIN SPORTS+ (HD) »2«
+http://6digital9.chocoplus.xyz:8080/live/42waze97qe56qa87/95wame27puce82/360.ts
+#EXTINF:-1 tvg-name="⚽WIN PLUS-2026" tvg-logo="https://i.postimg.cc/mk09vwB6/WINSPORTS-BOTON-TOMATE.png"group-title="⚽WIN PLUS-2026⚽",➾🏆 COL• WIN SPORTS+ (HD) »1«
+http://dash1.chocoplus.xyz:8080/live/995184422tv/t817zy/359.ts
+#EXTINF:-1 tvg-name="⚽WIN PLUS-2026" tvg-logo="https://i.postimg.cc/mk09vwB6/WINSPORTS-BOTON-TOMATE.png"group-title="⚽WIN PLUS-2026⚽",➾🏆 COL• WIN SPORTS+ (HD) »3«
+http://dash1.chocoplus.xyz:8080/live/995184422tv/t817zy/361.ts
 #EXTINF:-1 tvg-name="🏆⚽WIN PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png"group-title="⚽🏆FUTBOL WIN PLUS🏆⚽",➾⚽WIN SPORTS + SD
 http://kazan-tv.com:8091/live/AlejandroAle/YRej9272m/38586.ts
 #EXTINF:-1 tvg-name="🏆⚽WIN PLUS" tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png"group-title="⚽🏆FUTBOL WIN PLUS🏆⚽",➾⚽WIN SPORTS + FHD
