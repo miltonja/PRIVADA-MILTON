@@ -1,24 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="⚽|WIN PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001 WIN  PLUS MAYO-12/2025
 http://190.119.40.74:8200/play/a0tk/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0002 WIN  PLUS MAYO-12/2025
-http://177.253.236.138:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0003 WIN PLUS HDMYO-12/2025
-http://177.253.236.138:8000/play/a04t/index.m3u8
-#EXTINF:-1tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/tJsjwddW/Win-Plus-amarillo.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|000 WIN SPORTS PLUS HD MARZO-22-2025
-http://190.60.46.141:9876/play/a0arw/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|0012 WIN SPORTS PLUS  HD-FEBRERO-06
 http://152.231.29.139:8000/play/a0cd/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|0015 WIN SPORTS PLUS JUNIO-27---
 http://190.60.37.154:45000/play/a00q/index.m3u8
 #EXTINF:-1tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|0018 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
 http://181.78.23.26:45000/play/a03d
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports MARZO-02-2025
-http://181.78.4.250:8097/play/a08k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports FEBRERO-23
 http://190.60.33.237:1010/play/a0eg/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports FEBRERO-23
-http://206.62.161.192:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="WIN PORTS  tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports OSEPTIEMBRE-10
 http://181.78.23.26:45000/play/a034
 #EXTINF:-1 tvg-name="⚽WIN PLUS-2026"tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png"group-title="⚽WIN PLUS-2026⚽",➾🏆 COL• WIN SPORTS+ (HD)
