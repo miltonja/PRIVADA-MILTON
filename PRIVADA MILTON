@@ -11,10 +11,6 @@ http://181.78.23.26:45000/play/a03d
 http://190.60.33.237:1010/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-id="WIN PORTS  tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png"group-title="|CO| Colombia",➾ CO |0005 Win Sports OSEPTIEMBRE-10
 http://181.78.23.26:45000/play/a034
-#EXTINF:-1 tvg-name="⚽WIN PLUS-2026"tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png"group-title="⚽WIN PLUS-2026⚽",➾🏆 COL• WIN SPORTS+ (HD)
-http://6digital9.chocoplus.xyz:8080/live/2964481224/328caX6Btc5/359.ts
-#EXTINF:-1 tvg-name="⚽WIN PLUS-2026" tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png"group-title="⚽WIN PLUS-2026⚽",➾🏆 COL• WIN SPORTS+ (HD) »1«
-http://6digital9.chocoplus.xyz:8080/live/2964481224/328caX6Btc5/361.ts
 #EXTINF:-1 tvg-name="⚽WIN PLUS-2026" tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png"group-title="⚽WIN PLUS⚽",➾🏆 COL• WIN SPORTS+ (HD) »1«
 http://6digital9.chocoplus.xyz:8080/live/42waze97qe56qa87/95wame27puce82/359.ts
 #EXTINF:-1 tvg-name="⚽WIN PLUS-2026" tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png"group-title="⚽WIN PLUS-2026⚽",➾🏆 COL• WIN SPORTS+ (HD) »2«
@@ -105,10 +101,6 @@ https://tv.nube-x.xyz:8443/GuillermoCepeda/5NU7MKds/102184
 https://tv.nube-x.xyz:8443/GuillermoCepeda/5NU7MKds/102180
 #EXTINF:-1 tvg-name="WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/sgnSWqvy/tv-station-win-sports-plus-2457.png" group-title="⚽FUTBOL WIN PLUS⚽" ,➾ ⚽WIN SPORTS PREMIUM SD
 https://tv.nube-x.xyz:8443/GuillermoCepeda/5NU7MKds/102178
-#EXTINF:-1 tvg-name="WIN SPORTS" tvg-logo="https://i.postimg.cc/P5JdgT9M/win-sports.png"group-title="⚽FUTBOL WIN BASIC⚽",➾ ⚽WIN SPORTS BASIC ᴼᵖ¹
-https://tv.nube-x.xyz:8443/GuillermoCepeda/5NU7MKds/5304
-#EXTINF:-1 tvg-name="WIN SPORTS tvg-logo="https://i.postimg.cc/P5JdgT9M/win-sports.png"group-title="⚽FUTBOL WIN BASIC⚽",➾ ⚽WIN SPORTS BASIC ᴼᵖ²
-https://tv.nube-x.xyz:8443/GuillermoCepeda/5NU7MKds/5305
 #EXTINF:-1 tvg-name="WIN SPORTS tvg-logo="https://i.postimg.cc/P5JdgT9M/win-sports.png"group-title="⚽FUTBOL WIN BASIC⚽",➾ ⚽WIN SPORTS BASIC ᴼᵖ³
 https://tv.nube-x.xyz:8443/GuillermoCepeda/5NU7MKds/5306
 #EXTINF:-1 tvg-name="WIN SPORTS tvg-logo="https://i.postimg.cc/P5JdgT9M/win-sports.png"group-title="⚽FUTBOL WIN BASIC⚽",➾ ⚽WIN SPORTS BASIC FHD 
@@ -135,52 +127,16 @@ http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/209215
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/513981
 #EXTINF:-1 tvg-id="" tvg-name="CO| WIN SPORTS + #6" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="❇️DEPORTES COLOMBIA❇️",CO| WIN SPORTS + #6
 http://tvlatino.club:2082/Maturrano31/ynbShdxgSAwr/513980
-#EXTINF:-1 tvg-name="WIN SPORTS "tvg-logo="https://i.postimg.cc/4xnXxt13/WIN-SPORTS.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾WIN SPORTS FHD
-https://goo.su/zzeAm
 #EXTINF:-1 tvg-name="WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN-SPORTS.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾ WIN SPORTS PLUS FHD
 https://goo.su/zzeAm
-#EXTINF:-1 tvg-name="AMC"tvg-logo="https://i.postimg.cc/xTYKgvS9/amc.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾AMC FHD
-https://goo.su/sZ4WSco
 #EXTINF:-1 tvg-name="MI MUSICA HD K-POP"tvg-logo="https://i.postimg.cc/VNrDKXRy/MI-MUSICA-K-POP.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾MI MUSICA HD K-POP
 http://191.52.214.5:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-name="MI MUSICA REGGAETON"tvg-logo="https://i.postimg.cc/hjrgpJcB/MI-MUSICA-REGGATON.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾MI MUSICA REGGAETON
 http://191.52.214.5:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-name="MI MUSICA SALSA FHD"tvg-logo="https://i.postimg.cc/4xLBSkrW/MI-MUSICA-SALSA.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾MI MUSICA SALSA FHD
 http://191.52.214.5:8000/play/a06b/index.m3u8
-#EXTINF:-1 tvg-name="CINE FMILIAR" tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾Cine Familiar
-https://goo.su/81zwtf
-#EXTINF:-1 tvg-name="Clover Channel" tvg-logo="https://i.postimg.cc/L6ZZQsj3/clover-logo-freelogovectors-net.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾Clover Channel
-https://goo.su/GRU8B
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://i.postimg.cc/NfhvdQbm/Investigation-Discovery-Logo-2020.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾ID
-https://goo.su/QXXa
-#EXTINF:-1 tvg-name="DISCOVRY CHANNEL" tvg-logo="https://i.postimg.cc/t4BZYVby/DISCOVERY-CHANNEL.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾Discovery Channel
-https://goo.su/00FYAR
-#EXTINF:-1 tvg-name="ANIMAL PLANEL" tvg-logo="https://i.postimg.cc/QxbVkf6L/Animal-Planet.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾Animal Planet
-https://goo.su/1zyNgX
-#EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://i.postimg.cc/kGKTjVF3/love-nature.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾Love Nature
-https://goo.su/2JUeh
-#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="https://i.postimg.cc/mkkj36Xp/1200px-Discovery-Turbo-logo-svg.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾Discovery Turbo
-https://goo.su/N0U3j
-#EXTINF:-1 tvg-name="PASIONES" tvg-logo="https://i.postimg.cc/kgL9kMfJ/logo-pasiones.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾Pasiones
-https://goo.su/o5l07
-#EXTINF:-1 tvg-name="AZTECA CORAZON" tvg-logo="https://i.postimg.cc/L6wqTXvH/AZ-CORAZON.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾Azteca Corazón
-https://goo.su/hZ5ta
-#EXTINF:-1 tvg-name="CANAL D DRAMMA" tvg-logo="https://i.postimg.cc/nLG0hzvG/kanal-D-Drama.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾Canal Drama
-https://goo.su/HvjYWlr
-#EXTINF:-1 tvg-name="DISCOVERY H&" tvg-logo="https://i.postimg.cc/T312NN8M/250px-Discovery-Home-Health-logo-svg.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾Discovery H&H
-https://goo.su/ErUzD
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://i.postimg.cc/26kQRMx2/tlc.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾TLC
-https://goo.su/ItX63zb
-#EXTINF:-1 tvg-name="GOURMET" tvg-logo="https://i.postimg.cc/y6hrSbVN/EL-GOURMET.png"group-title="←«🔆PREMIUM R&R🔆»→,🔆|➾Gourmet
-https://goo.su/PjwGnmN
 #EXTINF:-1 tvg-name="⚽️AZTECA 7"tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| AZTECA 7 HD
 http://190.92.10.66:4000/play/a007/index.m3u8
-#EXTINF:-1 tvg-name="⚽️SKY SPORTS BUNDESLIGA" tvg-logo="https://sender.epglogos.de/302x190_w/623.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| SKY SPOTS BUNDESLIGA
-http://181.78.106.127:9000/play/ca028/index.m3u8
-#EXTINF:-1 tvg-name="⚽️SKY LIGA PREMIER"tvg-logo="https://i.postimg.cc/NF2PRdg5/Premier-League-Logo4.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽|SKY LIGA PREMIER
-http://181.78.106.127:9000/play/ca029/index.m3u8
-#EXTINF:-1 tvg-name="⚽️SKY SPORTS LA LIGA" tvg-logo="https://i.postimg.cc/52wbQdFB/sky-sports-la-ligabueno.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾⚽|SKY SPORTS LA LIGA
-http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1 tvg-name="⚽️BUNDESLIGA"tvg-logo="https://sender.epglogos.de/302x190_w/623.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-name="⚽️SKY SPORTS LA LIGA"tvg-logo="https://i.postimg.cc/6qcghvRb/image.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| SKY SPORT LA LIGA
@@ -199,16 +155,8 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
 #EXTINF:-1tvg-name="💢AZTECA Internacional"tvg-logo="https://i.postimg.cc/cJgBgJqt/AZTECA-INTER-XMLTV.png"group-title="💢XMLTV💢",💢|➾AZTECA Internacional 
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1tvg-name="💢 AZTECA GUATE " tvg-logo="https://i.postimg.cc/25sF4fmc/AZTECA-GHUATE-XMLTV.png"group-title="💢XMLTV💢",💢|➾ AZTECA GUATE 
-https://ch1-tva.duin.dev/hls/stream.m3u8 
 #EXTINF:-1tvg-name="💢UNIVISION 24|7" tvg-logo="https://i.postimg.cc/4dpD8ypj/UNIVISION-XMLTV.png"group-title="💢XMLTV💢",💢|➾UNIVISION 24|7
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
-#EXTINF:-1tvg-name="•❖✧24/7 CASA DE LOS FAMOSOS " tvg-logo="https://i.postimg.cc/ydsNRvFt/CASA-DE-LOS-FAMOSOS.jpg"group-title="•❖✧CASA DE LOS FAMOSOS•❖✧",•❖✧|➾24/7 CASA DE LOS FAMOSOS
-http://iptvglobal.site:25461/live/Antonio4/Antonio4/640615.ts
-#EXTINF:-1tvg-name="•❖✧24/7 CASA DE LOS FAMOSOS " tvg-logo="https://i.postimg.cc/ydsNRvFt/CASA-DE-LOS-FAMOSOS.jpg"group-title="•❖✧CASA DE LOS FAMOSOS•❖✧",•❖✧|➾24/7 CASA DE LOS FAMOSOS
-http://iptvglobal.site:25461/live/Antonio4/Antonio4/640256.ts
-#EXTINF:-1tvg-name="•❖✧24/7 CASA DE LOS FAMOSOS " tvg-logo="https://i.postimg.cc/ydsNRvFt/CASA-DE-LOS-FAMOSOS.jpg"group-title="•❖✧CASA DE LOS FAMOSOS•❖✧",•❖✧|➾24/7 CASA DE LOS FAMOSOS
-http://iptvglobal.site:25461/live/Antonio4/Antonio4/640611.ts
 #EXTINF:-1tvg-name="🔷SABER MAS" tvg-logo="https://i.postimg.cc/hvb03JKQ/Saber-Mas-Esp.png"group-title="🔷🟦 TV TEMATICA 🟦🔷",🟦🔷|➾SABER MAS
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YN-&coppa=0&c_producer=sabermas&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=1ae4ca47b5d9a9c53bacfe983e8b4633&dnt=0&app_provider=ottera&timestamp=1713853826&id=2606&ip=2806%3A108e%3A16%3A36d4%3Aadb5%3A3eeb%3A971a%3A156f&override_expiration=1500&sign=2lJaFyiADSfR2zs4oCF3Zf2iZ%2Fa2qfPV6YjR5iw1jTI%3D&ads.url=freetv.com&ads.genre=Originales%20de%20FreeTV&%3Chttp://ads.us|ads.us%3E_privacy=1YN-&ads.coppa=0&ads.c_producer=sabermas&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=1ae4ca47b5d9a9c53bacfe983e8b4633&ads.dnt=0
 #EXTINF:-1tvg-name="🔷PLUTO TV CIENCIA"tvg-logo="https://i.postimg.cc/8CM2dmyR/PLUTO-TV-CIENCIA.png"group-title="🔷🟦 TV TEMATICA 🟦🔷",🟦🔷|➾PLUTO TV CIENCIA
