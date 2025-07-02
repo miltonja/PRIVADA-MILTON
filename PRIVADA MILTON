@@ -224,14 +224,6 @@ http://191.52.214.5:8000/play/a06c/index.m3u8
 http://191.52.214.5:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-name="⚽️AZTECA 7"tvg-logo="https://i.postimg.cc/CxpZThj3/Azteca-7.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| AZTECA 7 HD
 http://190.92.10.66:4000/play/a007/index.m3u8
-#EXTINF:-1 tvg-name="⚽️BUNDESLIGA"tvg-logo="https://sender.epglogos.de/302x190_w/623.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| BUNDESLIGA
-http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 tvg-name="⚽️SKY SPORTS LA LIGA"tvg-logo="https://i.postimg.cc/6qcghvRb/image.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| SKY SPORT LA LIGA
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 tvg-name="⚽️TELEMUNDO 51"tvg-logo="https://i.postimg.cc/s2VBvppy/Telemundo-51-2018.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| TELEMUNDO 51
-http://190.92.10.66:4000/play/a004/index.m3u8
-#EXTINF:-1 tvg-name="⚽️TIGO CDN" tvg-logo="https://i.postimg.cc/TwXt7G6h/1280px-Tigo-Sports-logo.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽| TIGO CDN
-http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name="⚽️BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽️DEPORTES PREMIUM ⚽️" ,➾ ⚽|BEIN SPORTS XTRA ñ FHD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1tvg-name="💢AZ CORAZON" tvg-logo="https://i.postimg.cc/T3P9x9C9/AZ-CORAZON-XMLTV.png"group-title="💢XMLTV💢",💢|➾AZ CORAZON
@@ -407,8 +399,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playl
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-name="🏵️LA MEGA MUNDIAL"tvg-logo="https://i.postimg.cc/LXwFKSSd/LA-MEGA-MUNDIAL.png"group-title="🏵️ MUSICA 🏵️",🏵️|➾ La Mega Mundial USA
 https://server40.servistreaming.com:3477/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="🏵️002 RADIO TV"tvg-logo="https://i.postimg.cc/TP2BMZgb/002-RADIO-ONLINE-ESP.png"group-title="🏵️ MUSICA 🏵️",🏵️|➾ 002 Radio TV
-https://cdn.002radio.com:3909/live/radio002live.m3u8
 #EXTINF:-1 tvg-name="🏵️RCN MAS+"tvg-logo="https://i.postimg.cc/ydY7M24Q/RCN-MAS-HD.png"group-title="🏵️ COLOMBIA 🏵️" ,🏵️|➾ RCN Mas+ .CA -TCL
 https://rcntv-rcnmas-1-ca.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="🏵️RCN MAS+" tvg-logo="https://i.postimg.cc/ydY7M24Q/RCN-MAS-HD.png"group-title="🏵️ COLOMBIA 🏵️",🏵️|➾ RCN Mas+ .MX -TCL
@@ -439,8 +429,6 @@ https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-name="🏵️CIUDAD MAGAZINE" tvg-logo="https://i.postimg.cc/ZRXDqhTD/Ciudad-magazine.png"group-title="🏵️ARGENTINA 🏵️",🏵️|➾ CIUDAD MAGAZINE TV HD
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-name="🏵️RADIO CANAVAL"tvg-logo="https://www.radiocarnaval.cl/wp-content/uploads/2021/03/new-logo-2021.png" group-title="🏵️ MUSICA 🏵️",🏵️|➾ RADIO CARNAVAL TV  
-https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-name="🏵️POWER LOVE TV"tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_36.png?v=10" group-title="🏵️ MUSICA 🏵️",🏵️||➾POWER LOVE TV 
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="🏵️WONDER TV"tvg-logo="https://i.postimg.cc/ZnVJMfrk/INWONDER.png" group-title="🏵️ EXTREME 🏵️",🏵️||➾ WONDER TV  HD
@@ -595,10 +583,6 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunk
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="🏵️ALMAHHAD" tvg-logo="https://www.film-tv-video.de/wp-content/uploads/2023/05/B_0523_Al_Mashhad_Logo.jpg.jpg"group-title="🏵️ DEPORTES 🏵️",🏵️|➾ Al Mashhad 
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
-#EXTINF:-1 tvg-name="🏵️ABU DABI SPORTS 1" tvg-logo="https://i.postimg.cc/yd43781B/ABU-DABHI-SPORTS-1.png"group-title="🏵️ DEPORTES 🏵️",🏵️|➾ Abu Dhabi Sports 1 
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-name="🏵️ABU DABI SPORTS 2" tvg-logo="https://i.postimg.cc/j5Hw2Y2f/ABU-DHABI-SPORTS-2.png"group-title="🏵️ DEPORTES 🏵️",🏵️|➾ Abu Dhabi Sports 2 
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-name="🏵️PT" tvg-logo="https://i.postimg.cc/nhRjN7WK/WORLD-POKER-TOUR-modif.png"group-title="🏵️ DEPORTES 🏵️",🏵️|➾WPT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
 #EXTINF:-1 tvg-name="🏵️C4 EN ALERTA" tvg-logo="https://i.postimg.cc/4xH9cbmL/C-4-EN-ALERTA.png"group-title="🏵️ EXTREME 🏵️",🏵️|➾ C4 En Alerta
@@ -607,20 +591,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 tvg-name="🏵️IMAGEN TV"tvg-logo="https://i.postimg.cc/tT71HsFV/Imagen-Televisi-n.png"group-title="🏵️ MEXICO 🏵️" ,🏵️|➾ Imagen TV+ (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:-1  tvg-name="❄️HORA X HORA TV"tvg-logo="https://i.postimg.cc/htLF4CWL/HORAX-HORA-TV.png" group-title="❄️COLOMBIA❄️" ,❄️|➾HORA X HORA TV  HD
-https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
-#EXTINF:-1 tvg-name="❄️UNICABLE HD" tvg-logo="https://i.postimg.cc/NjB8XnSB/unicable.png" group-title="❄️COLOMBIA❄️" ,❄️|➾UNICABLE HD
-http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-name="❄️TELEMUNDO FLORIDA TV" tvg-logo="https://i.postimg.cc/prhhZv5v/TELEMUNDO-FLORIDA.png" group-title="❄️COLOMBIA❄️" ,❄️|➾TELEMUNDO FLORIDA TV
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 tvg-name="❄️CARACOL RESPALDO TDT CUCUTA" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png" group-title="❄️COLOMBIA❄️" ,❄️|➾CARACOL RESPALDO TDT CUCUTA
-http://190.61.55.107:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-name="❄️CARACOL NOTICIAS TV" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png" group-title="❄️COLOMBIA❄️",❄️|➾CARACOL NOTICIAS TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1 tvg-name="❄️CARACOL NOTICIAS TV" tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png" group-title="❄️COLOMBIA❄️" ,❄️|➾CARACOL NOTICIAS TV
-http://8.243.126.131:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-name="❄️RCN NOVELAS HD" tvg-logo="https://i.postimg.cc/7hXPkRJB/RCN-NOVELAS.png" group-title="❄️COLOMBIA❄️" ,❄️|➾RCN NOVELAS HD
-http://177.53.155.236:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-name="❄️CARACOL TV"tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png" group-title="❄️COLOMBIA❄️",❄️|➾ COL| CARACOL ABRIL-2026
+http://cineflex.cc:8080/live/Abrilxaño/Loquita15/21156.ts
+#EXTINF:-1 tvg-name="❄️CARACOL TV"tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png" group-title="❄️COLOMBIA❄️",❄️|➾ COL| CARACOL  ENERO-16-2028
+http://dns.k4livetv.com:8080/live/Gustavo654/Gustavo654/1069698.ts
+#EXTINF:-1 tvg-name="❄️RCN TV"tvg-logo="https://i.postimg.cc/vTFB57yW/RCN-PLANTILLA-720.png"group-title="❄️COLOMBIA❄️",❄️|➾RCN ENERO-16-2028
+http://dns.k4livetv.com:8080/live/Gustavo654/Gustavo654/1069708.ts
+#EXTINF:-1 tvg-name="❄️CARACOL TV"tvg-logo="https://i.postimg.cc/2SP10Srw/caracol-logo-blanco.png" group-title="❄️COLOMBIA❄️",❄️|➾RCN Colombia | (Exclusivo) UHD
+http://galaxypro.online:8080/live/GuillermoPalacios/Memo1212/90151.ts
 #EXTINF:-1 tvg-name="❄️TV SAN JORGE" tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="❄️COLOMBIA❄️" ,❄️|➾TV San Jorge
 https://asucap.com/livestream/asucap_envivo.m3u8
 #EXTINF:-1 tvg-name="❄️RCN HD" tvg-logo="https://i.postimg.cc/MTqdFtHv/RCN-MAS-internacional.png" group-title="❄️COLOMBIA❄️" ,❄️|➾RCN HD
