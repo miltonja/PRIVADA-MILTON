@@ -511,8 +511,6 @@ https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UC
 https://stmvideo6.livecastv.com/elborne/elborne/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️GEN TV "tvg-logo="https://i.postimg.cc/D019jWtJ/GEN-TV-ESP.png"group-title="🏵️ ARGENTINA 🏵️",🏵️|➾ GEN TV | AR
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="🏵️El TRECE "tvg-logo="https://i.postimg.cc/W3gqFb55/EL-TRECE-ESP.png"group-title="🏵️ ARGENTINA 🏵️",🏵️|➾ El TRECE | AR
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️DITI TV"tvg-logo="https://i.postimg.cc/FRHYxvGX/diti-tv.png"group-title="🏵️ ARGENTINA 🏵️",🏵️|➾ DITI TV | AR
 https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️COSMOS TV"tvg-logo="https://cdn.m3u.cl/logo/1143_Cosmos_TV.png"group-title="🏵️ ARGENTINA 🏵️",🏵️|➾ COSMOS TV | AR
