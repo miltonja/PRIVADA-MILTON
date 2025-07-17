@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="⚽|WIN PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001 WIN  PLUS JULIO-17/2025
+http://138.94.3.22:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001 WIN  PLUS MAYO-12/2025
 http://190.119.40.74:8200/play/a0tk/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png"group-title="⚽WIN SPORTS PLUS⚽" ,➾ ⚽|0012 WIN SPORTS PLUS  HD-FEBRERO-06
