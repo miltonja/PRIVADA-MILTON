@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="⚽|WIN PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001 WIN  PLUS JULIO-17/2025
+#EXTINF:-1 tvg-name="⚽|WIN PLUS"tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001 WIN  PLUS JULIO-17/2025
+http://181.143.230.202:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-name="⚽|WIN PLUS"tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001 WIN  PLUS JULIO-17/2025
 http://138.94.3.22:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|0001 WIN  PLUS MAYO-12/2025
 http://190.119.40.74:8200/play/a0tk/index.m3u8
@@ -121,6 +123,20 @@ https://tv.nube-x.xyz:8443/GuillermoCepeda/5NU7MKds/106319
 https://tv.nube-x.xyz:8443/GuillermoCepeda/5NU7MKds/106315
 #EXTINF:-1 tvg-name="WIN SPORTS tvg-logo="https://i.postimg.cc/P5JdgT9M/win-sports.png"group-title="⚽FUTBOL WIN BASIC⚽",➾ ⚽WIN SPORTS BASIC 720
 https://tv.nube-x.xyz:8443/GuillermoCepeda/5NU7MKds/102179
+#EXTINF:-1  tvg-name="MI MUSICA POPULAR HD"group-title="←«❄️MI MUSICA TV❄️»→" tvg-logo="https://i.postimg.cc/KvhjjbVt/MI-MUSICA-POPULAR.png",❄️|➾MI MUSICA POPULAR HD
+http://190.61.116.155:7000/play/a04n
+#EXTINF:-1  tvg-name="MI MUSICA ROMANTICA HD"group-title="←«❄️MI MUSICA TV❄️»→" tvg-logo="https://i.postimg.cc/N0KphCtB/MI-MUSICA-ROMANTICA.png",❄️|➾MI MUSICA ROMANTICA HD
+http://190.61.116.155:7000/play/a04m
+#EXTINF:-1  tvg-name="MI MUSICA SALSA HD"group-title="←«❄️MI MUSICA TV❄️»→" tvg-logo="https://i.postimg.cc/4xLBSkrW/MI-MUSICA-SALSA.png",❄️|➾MI MUSICA SALSA HD
+http://190.61.116.155:7000/play/a04k
+#EXTINF:-1  tvg-name="MI MUSICA RUMBA TV"group-title="←«❄️MI MUSICA TV❄️»→" tvg-logo="https://i.postimg.cc/MTQMHyMh/Rumba-TV-logo.png",❄️|➾MI MUSICA RUMBA TV
+http://138.94.3.22:8000/play/a04r/index.m3u8
+#EXTINF:-1  tvg-name="CINE PLATINO HD"group-title="←«❄️CINE PELICULAS TV❄️»→" tvg-logo="https://i.postimg.cc/ydSmSQP7/CINEMA-PLATINO.png",❄️|➾CINE PLATINO HD
+http://190.61.116.155:7000/play/a0dj
+#EXTINF:-1  tvg-name="CINE PLATINO HD"group-title="←«❄️CINE PELICULAS TV❄️»→" tvg-logo="https://i.postimg.cc/ydSmSQP7/CINEMA-PLATINO.png",❄️|➾CINE PLATINO HD
+http://190.61.116.155:7000/play/a04d
+#EXTINF:-1  tvg-name="CINE PREMIUM HD"group-title="←«❄️CINE PELICULAS TV❄️»→" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE-PREMIUM.png",❄️|➾CINE PREMIUM HD
+http://190.61.116.155:7000/play/a0cg
 #EXTINF:-1tvg-name="💢VEVO ICONOS LATINOS"tvg-logo="https://i.postimg.cc/wMtwCMN6/VEVO-REGIONAL-MEXICO.png"group-title="💢VEVO TV💢",💢|➾VEVO ICONOS LATINO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1tvg-name="💢VEVO Country"tvg-logo="https://i.postimg.cc/CKJ6cgQQ/VEVO-TV-COUNTRY.png"group-title="💢VEVO TV💢",💢|➾VEVO Country
