@@ -341,6 +341,28 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MY TIME ESPAÑA" tvg-name="💢MY TIME ESPAÑA" tvg-logo="group-title="💢PREMIUM💢",💢MY TIME ESPAÑA
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://i.postimg.cc/nznq9rF7/KALOOPY.png",💢|➾Kaloopy HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://i.postimg.cc/nhYFvy1p/FASHION-TV.png",💢|➾World Fashion
+https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://i.postimg.cc/PJTfBz8K/Fashion-TV-HD-3.png",💢|➾Fashion Czech & Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://iptvx.one/picons/world-fashion-channel-en.png",💢|➾World Fashion Channel En
+http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://i.postimg.cc/YC4XKFG7/WORLD-FASHION-BLANCO.png",💢|➾World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://i.postimg.cc/8c68zYsp/MODA-TV-RUSIA-TRANSP.png",💢|➾Мода 1
+https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://i.postimg.cc/28xYbP2y/MODA-TV-RUSIA-JASMINE.png",💢|➾Мода 2
+https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://iptvx.one/picons/fashion-tv.png",💢|➾Мода 3
+https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://i.postimg.cc/MKnHyZfH/MODA-TV-RUSIA.jpg",💢|➾Мода 4
+https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://i.postimg.cc/8c68zYsp/MODA-TV-RUSIA-TRANSP.png",💢|➾Мода 5
+https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://iptvx.one/picons/fashion-tv.png",💢|➾Мода 6
+https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🏵️WEBCAMS🏵️" tvg-logo="https://i.postimg.cc/gcZfdKBG/EXPLORE-ORG-VERDE.png",🏵️|➾ACUARIUM OFF THE PACIFICHD
 https://outbound-production.explore.org/stream-production-10.m3u8
 #EXTINF:-1 group-title="🏵️WEBCAMS🏵️" tvg-logo="https://i.postimg.cc/BQfRv1dH/EXPLORE-ORG-NEGRO.png",🏵️|➾ACUARIUM OFF THE PACIFICHD
