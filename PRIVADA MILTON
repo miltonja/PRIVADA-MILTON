@@ -363,6 +363,12 @@ https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://iptvx.one/picons/fashion-tv.png",💢|➾Мода 6
 https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-name="💢FASHION TV"tvg-logo="http://epg.it999.ru/img/2748.png"group-title="💢LIFESTYLE💢",💢|➾FASHION TV
+http://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1tvg-name="💢FASHION TV  MIDNIGHT SECRETS"tvg-logo="https://i.postimg.cc/pX6Wqht4/fashiontvlogo.png"group-title="💢LIFESTYLE💢",💢|➾FASHION TV  MIDNIGHT SECRETS
+http://fashs043.cloudycdn.services/scte/midnite/midnite_1080p_chunklist.m3u8
+#EXTINF:-1tvg-name="💢FASHION TV CZECH&SLOVAK"tvg-logo="https://i.postimg.cc/NfYZNFjN/FASHION-CZECH-SLOVAK.png"group-title="💢LIFESTYLE💢",💢|➾FASHION TV CZECH&SLOVAK
+http://lb.streaming.sk/fashiontv/stream/index.m3u8
 #EXTINF:-1 group-title="🏵️WEBCAMS🏵️" tvg-logo="https://i.postimg.cc/gcZfdKBG/EXPLORE-ORG-VERDE.png",🏵️|➾ACUARIUM OFF THE PACIFICHD
 https://outbound-production.explore.org/stream-production-10.m3u8
 #EXTINF:-1 group-title="🏵️WEBCAMS🏵️" tvg-logo="https://i.postimg.cc/BQfRv1dH/EXPLORE-ORG-NEGRO.png",🏵️|➾ACUARIUM OFF THE PACIFICHD
