@@ -495,7 +495,7 @@ http://191.52.214.5:8000/play/a06c/index.m3u8
 http://191.52.214.5:8000/play/a06b/index.m3u8
 #EXTINF:-1tvg-name="💢VEVO Country"tvg-logo="https://i.postimg.cc/CKJ6cgQQ/VEVO-TV-COUNTRY.png"group-title="💢VEVO TV💢",💢|➾VEVO Country
 https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-apxt8ie33sx6d/Vevo_Country.m3u8
-#EXTINF:-1tvg-name="💢VEVO Retro Rock"tvg-logo="https://i.postimg.cc/25CKd62W/VEVO-TV-RETRO-ROCK.png"group-title="💢💢",💢|➾VEVO Retro Rock
+#EXTINF:-1tvg-name="💢VEVO Retro Rock"tvg-logo="https://i.postimg.cc/25CKd62W/VEVO-TV-RETRO-ROCK.png"group-title="💢VEVO TV💢",💢|➾VEVO Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 #EXTINF:-1tvg-name="💢Vevo '70s"tvg-logo="https://i.postimg.cc/GhsVd644/VEVO-TV-70-S.png"group-title="💢VEVO TV💢",💢|➾Vevo '70s
 https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8
@@ -626,7 +626,7 @@ https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_cha
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1tvg-name="🔷⭕EL CONFIDENCIAL" tvg-logo="https://i.postimg.cc/tTFQSktn/1200px-Logo-RTVE-es-svg.png"group-title="🔷⭕ ESPAÑA 🔷⭕",🔷⭕|➾EL CONFIDENCIAL
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:-1 tvg-name="←«🔆XTREMA ACCION"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾XTREMA ACCION
+#EXTINF:-1 tvg-name="🔆XTREMA ACCION"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾XTREMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆MY TIME ESPAÑA"tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾MY TIME ESPAÑA
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -634,7 +634,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="🔆FMH FAMILY"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png"group-title="←«🔆CINE 24/7🔆»→",🔆|➾FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-name="←«🔆XTREMA ANIMAL"tvg-logo="https://i.postimg.cc/wTdpm9SN/xtrema-tv-aventuras.png"group-title="←«🔆CULTURA🔆»→",🔆|➾XTREMA ANIMAL
+#EXTINF:-1 tvg-name="🔆XTREMA ANIMAL"tvg-logo="https://i.postimg.cc/wTdpm9SN/xtrema-tv-aventuras.png"group-title="←«🔆CULTURA🔆»→",🔆|➾XTREMA ANIMAL
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="🏵️CANELA TODO CINE"tvg-logo="https://i.postimg.cc/8PQxyh0Q/CANELA-TODO-CINE.png"group-title="🏵️CANELA TV🏵️",🏵️|➾CANELA TODO CINE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
@@ -658,25 +658,25 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=30f7f753-8a6e-4a2c-aac0-c76e887845dd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:-1 tvg-id=""tvg-name="🏵️FIFA"tvg-logo="https://i.postimg.cc/GpDXspkP/FIFA-FUTBOL.png"group-title="🏵️DEPORTES🏵️",🏵️|➾Rakuten FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=829dcd30-3206-4482-a4ee-07a9e430737a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
-#EXTINF:-1 tvg-name="←«🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/43cpNJwC/1200px-Star-Sports-1-HD.png"group-title="←«🔆DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
+#EXTINF:-1 tvg-name="🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/43cpNJwC/1200px-Star-Sports-1-HD.png"group-title="←«🔆DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-name="←«🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/FzTTg92W/Star-Sports-1200-HD.png"group-title="🔆←«DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
+#EXTINF:-1 tvg-name="🔆STAR SPORTS"tvg-logo="https://i.postimg.cc/FzTTg92W/Star-Sports-1200-HD.png"group-title="🔆←«DEPORTES🔆»→",🔆|➾STAR SPORTS 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-name="←«🏵️M6 Family" tvg-logo="https://i.postimg.cc/HnqFmKNx/MX-FAMILY.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾78 | M6 Family
+#EXTINF:-1 tvg-name="🏵️M6 Family" tvg-logo="https://i.postimg.cc/HnqFmKNx/MX-FAMILY.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾78 | M6 Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
-#EXTINF:-1 tvg-name="←«🏵️MX Classic"tvg-logo="https://i.postimg.cc/HncFfHBR/MX-CLASIC.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾77 | MX Classic
+#EXTINF:-1 tvg-name="🏵️MX Classic"tvg-logo="https://i.postimg.cc/HncFfHBR/MX-CLASIC.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾77 | MX Classic
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
-#EXTINF:-1 tvg-name="←«🏵️OLD"tvg-logo="https://i.postimg.cc/HsJB4BhZ/OLD-TV.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾81 | Old
+#EXTINF:-1 tvg-name="🏵️OLD"tvg-logo="https://i.postimg.cc/HsJB4BhZ/OLD-TV.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾81 | Old
 https://marine2.miplay.cl/old/playlist.m3u8
-#EXTINF:-1 tvg-name="←«🏵️FMH Family"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾127 | FMH Family
+#EXTINF:-1 tvg-name="🏵️FMH Family"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png"group-title="🏵️CINE 24/7🏵️",🏵️|➾127 | FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-name="←«✳️A NEFLIX0"tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png"group-title="←«✳️ 24/7 ✳️»→",✳️|➾A NEFLIX01
+#EXTINF:-1 tvg-name="✳️A NEFLIX0"tvg-logo="https://i.postimg.cc/0261trbj/NETFLIX-ESPA-A.png"group-title="←«✳️ 24/7 ✳️»→",✳️|➾A NEFLIX01
 http://clubtv.link/Sepfin29/key4513/24.php?c=a_neflix01
-#EXTINF:-1 tvg-name="←«✳️CINEMUNDO PLUS"tvg-logo="https://i.postimg.cc/15wmYwRd/image.jpg"group-title="←«✳️ 24/7 ✳️»→",✳️|➾ CINEMUNDO PLUS
+#EXTINF:-1 tvg-name="✳️CINEMUNDO PLUS"tvg-logo="https://i.postimg.cc/15wmYwRd/image.jpg"group-title="←«✳️ 24/7 ✳️»→",✳️|➾ CINEMUNDO PLUS
 http://clubtv.link/Sepfin29/key4513/24.php?c=cinemundo_plus
-#EXTINF:-1 tvg-name="←«✳️PELICULAS MANIA"tvg-logo="https://i.postimg.cc/nL0xhnwJ/PELICULAS-MANIA.png"group-title="←«✳️ 24/7 ✳️»→",✳️|➾PELICULAS MANIA
+#EXTINF:-1 tvg-name="✳️PELICULAS MANIA"tvg-logo="https://i.postimg.cc/nL0xhnwJ/PELICULAS-MANIA.png"group-title="←«✳️ 24/7 ✳️»→",✳️|➾PELICULAS MANIA
 http://clubtv.link/Sepfin29/key4513/24.php?c=peliculas_mania
-#EXTINF:-1 tvg-name="←«✳️TERROR MANIA"tvg-logo="https://i.postimg.cc/k4GmVLkt/terror-mania-rojo.png"group-title="←«✳️ 24/7 ✳️»→" ,✳️|➾TERROR MANIA
+#EXTINF:-1 tvg-name="✳️TERROR MANIA"tvg-logo="https://i.postimg.cc/k4GmVLkt/terror-mania-rojo.png"group-title="←«✳️ 24/7 ✳️»→" ,✳️|➾TERROR MANIA
 http://clubtv.link/Sepfin29/key4513/24.php?c=terror_mania
 #EXTINF:-1 tvg-name="🔆Azteca GUATE"tvg-logo="https://i.imgur.com/UJhQoUK.png"group-title="←«🔅GENERAL🔅»→",🔆|➾ AZTECA  GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
@@ -916,11 +916,11 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="❄️SEÑAL COLOMBIA" tvg-logo="https://i.postimg.cc/6ppyBrV5/SE-AL-COLOMBIA.png" group-title="❄️COLOMBIA❄️" ,❄️|➾SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="❄️CTV BARRANQULLA" tvg-logo="https://i.postimg.cc/BvLJ5QQH/CTV-BARRANQUILLA.png",❄️|➾CTV BARRANQUILLA | HD |
+#EXTINF:-1 tvg-name="❄️CTV BARRANQULLA" tvg-logo="https://i.postimg.cc/BvLJ5QQH/CTV-BARRANQUILLA.png" group-title="❄️COLOMBIA❄️" ,❄️|➾CTV BARRANQUILLA | HD |
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w387031486.m3u8
 #EXTINF:-1 tvg-name="❄️CALI TV" tvg-logo="https://i.postimg.cc/JhJ94yz6/CALI-TV.png" group-title="❄️COLOMBIA❄️" ,❄️|➾Cali TV | SD | Cali
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-name="❄️TELE SAN JACINTO" tvg-logo="https://www.telesanjacinto.com/wp-content/uploads/2022/04/logo-3@4x.png",❄️|➾Tele San Jacinto
+#EXTINF:-1 tvg-name="❄️TELE SAN JACINTO" tvg-logo="https://www.telesanjacinto.com/wp-content/uploads/2022/04/logo-3@4x.png" group-title="❄️COLOMBIA❄️",❄️|➾Tele San Jacinto
 https://video.ejeserver.com/live/telesanjacinto.m3u8
 #EXTINF:-1 tvg-name="❄️TELE ISLAS" tvg-logo="https://i.postimg.cc/DzCPzymN/TELEISLAS.png" group-title="❄️COLOMBIA❄️" ,❄️|➾Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
