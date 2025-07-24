@@ -365,6 +365,10 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 #EXTINF:-1tvg-name="💢Dance TV"tvg-logo="https://i.postimg.cc/4dR72nmf/DANCE-TV.png"group-title="💢MUSICA💢",💢|➾Dance TV
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1tvg-name="💢Quantica TV"tvg-logo="https://i.postimg.cc/XNzBVpCm/quantica-tv-1.png"group-title="💢MUSICA💢",💢|➾Quantica TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:-1tvg-name="💢X Level Media "tvg-logo="https://i.postimg.cc/3NmkSZxG/LOGO-3-D-CON-SOMBRA-XLEVEL-02-2-1024x576.png"group-title="💢MUSICA💢",💢|➾X Level Media
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1tvg-name="💢Deep House District"tvg-logo="https://i.postimg.cc/Wb5Zp2f8/DANCE-TV-ROSA.png"group-title="💢MUSICA💢",💢|➾Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1tvg-name="💢Song TV Россия"tvg-logo="https://i.postimg.cc/kgDbBk0m/SONG-TV-FULL-MEJOR.png"group-title="💢MUSICA💢",💢|➾Song TV Россия
