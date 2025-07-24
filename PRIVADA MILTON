@@ -137,7 +137,6 @@ http://190.61.116.155:7000/play/a0dj
 http://190.61.116.155:7000/play/a04d
 #EXTINF:-1  tvg-name="CINE PREMIUM HD"group-title="←«❄️CINE PELICULAS TV❄️»→" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE-PREMIUM.png",❄️|➾CINE PREMIUM HD
 http://190.61.116.155:7000/play/a0cg
-
 #EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
 https://media.streambrothers.com:19360/8158/8158.m3u8
 #EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
@@ -220,6 +219,96 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FMH FAMILY"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png",🔆|➾FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
+#EXTINF:-1tvg-name="💢TELE SIGLO TV" tvg-logo="https://i.postimg.cc/9QC92pfT/TELESIGLO.png"group-title="💢PELICULAS💢",💢|➾TELE SIGLO
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+#EXTINF:-1tvg-name="💢NICOYA TV" tvg-logo="https://i.postimg.cc/CLcscG4m/NICOYA-TV.png"group-title="💢PELICULAS💢",💢|➾NICOYA TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1tvg-name="💢INFINITA TV MOVIES" tvg-logo="https://i.postimg.cc/NfN2CBWw/infinita-en-vivo.png"group-title="💢PELICULAS💢",💢|➾INFINITA TV MOVIES
+https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1tvg-name="💢SOLAR TV" tvg-logo="https://i.postimg.cc/GhzHhswT/SOLAR-TV.png"group-title="💢PELICULAS💢",💢|➾SOLAR TV 
+https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8?PlaylistM3UCL 
+#EXTINF:-1 tvg-name="💢FMH FAMILY"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png"group-title="💢PELICUAS💢",💢|➾FMH FAMILY
+http://160.20.165.246:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-name="💢XTREMA ACCION"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png"group-title="💢PELICULAS💢",💢|➾XTREMA ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1  tvg-name="💢PUNTA CANA TV"tvg-logo="https://i.postimg.cc/tRsTP33M/PUNTA-CANA-TV-ESP.png"group-title="💢PELICUAS💢",💢|➾PUNTA CANA TV
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+#EXTINF:-1  tvg-name="💢ONZA TV"tvg-logo="https://i.postimg.cc/RV35nSyV/Onza-tv.png"group-title="💢PELICUAS💢",💢|➾ONZA TV
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+#EXTINF:-1  tvg-name="💢CANANGA TV"tvg-logo="https://i.postimg.cc/QxG0Rwc2/Carivisi-n.png"group-title="💢PELICUAS💢",💢|➾CANANGA TV
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+#EXTINF:-1  tvg-name="💢NATIVA CHANCHAMAYO"tvg-logo="https://i.postimg.cc/RFJW0sr0/NATIVA-TV.png"group-title="💢PELICUAS💢",💢|➾NATIVA CHANCHAMAYO
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1tvg-name="💢ELIAS PIÑA TV"tvg-logo="https://i.postimg.cc/mZzk00K3/ELIAS-PI-A.png"group-title="💢PELICULAS💢",💢|➾ELIAS PIÑA TV | DO
+https://live.eliaspinatv.com.do/livelan/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1tvg-name="💢XTRA TV" tvg-logo="https://i.postimg.cc/dV0r3KsN/xtrata-tv.png"group-title="💢PELICULAS💢",💢|➾XTRA TV
+https://cnn.essastream.com:3387/live/xtratvlive.m3u8
+#EXTINF:-1tvg-name="💢VILLA ALTA GRACIA" tvg-logo="https://i.postimg.cc/sDSZYYcM/villa-altagracia-tv.png"group-title="💢PELICULAS💢",💢|➾VILLA ALTA GRACIA TV
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+#EXTINF:-1tvg-name="💢TELENOVISA" tvg-logo="https://i.postimg.cc/vB8Qw4Td/TELENOVISA.png"group-title="💢PELICULAS💢",💢|➾TELENOVISA
+https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
+#EXTINF:-1tvg-name="💢AREA 809 EL ORIGINAL " tvg-logo="https://i.postimg.cc/D0r0kCSK/AREA-809.png"group-title="💢PELICULAS💢",💢|➾AREA 809 EL ORIGINAL 
+https://vdo.voxhdnet.com:3159/stream/play.m3u8
+#EXTINF:-1tvg-name="💢CLARO VISION TV " tvg-logo="https://i.postimg.cc/2jX9VKp3/CLARO-VISION-MEJOR.png"group-title="💢PELICULAS💢",💢|➾CLARO VISION TV 
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1tvg-name="💢CENO VISION" tvg-logo="https://i.postimg.cc/3R9vWmBy/color-vision-canal-9-en-vivo-online.png"group-title="💢PELICULAS💢",💢|➾CENO VISION TV TV 
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
+#EXTINF:-1tvg-name="💢CANAL DEL SOL" tvg-logo="https://i.postimg.cc/XJ6yKVVL/CANAL-DEL-SOL-ORIGINAL.png"group-title="💢REPUBLICA D.💢",💢|➾CANAL DEL SOL  
+https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
+#EXTINF:-1tvg-name="💢CASCARA TV" tvg-logo="https://i.postimg.cc/pLgBL4mN/cropped-LOGO-CASCARA.png"group-title="💢PELICULAS💢",💢|➾CASCARA  TV 
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+#EXTINF:-1tvg-name="💢CANALDA TV" tvg-logo="https://i.postimg.cc/1RvwtXXh/canalda-tv.png"group-title="💢PELICULAS💢",💢|➾CANALDA TV
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1tvg-name="💢CANAL DTV" tvg-logo="https://i.postimg.cc/hjHVcthw/cropped-LOGO-DTV.png"group-title="💢PELICULAS💢",💢|➾CANAL DTV 
+https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1tvg-name="💢BEBETO TV" tvg-logo="https://i.postimg.cc/nrfn0HSF/BEBETO-TV.png"group-title="💢PELICULAS💢",💢|➾BEBETO TV 
+https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
+#EXTINF:-1tvg-name="💢BELLAVISION TV" tvg-logo="https://i.postimg.cc/MK6rQnzW/BELLAVISION-HD.png"group-title="💢PELICULAS💢",💢|➾BELLAVISION TV 
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1tvg-name="💢JIMANITV" tvg-logo="https://i.postimg.cc/rySXrgXR/JIMANI-TV-DIGITAL-GRIS.png"group-title="💢PELICULAS💢",💢|➾JIMANI TV
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1tvg-name="💢DELTA TV" tvg-logo="https://i.postimg.cc/2jJCH7Jc/Delta-TV.png"group-title="💢PELICULAS💢",💢|➾DELTA TV
+https://rdn.essastream.com:3949/live/deltatv50live.m3u8
+#EXTINF:-1tvg-name="💢CODIGO TV" tvg-logo="https://i.postimg.cc/TPL7V2SY/CODIGO-TV-MEJOR.png"group-title="💢PELICULAS💢",💢|➾CODIGO  TV
+https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
+#EXTINF:-1tvg-name="💢TVS" tvg-logo="https://i.postimg.cc/02kyHPqZ/tvs-canal-22.png"group-title="💢PELICULAS💢",💢|➾TVS 
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1tvg-name="💢MEGA CINE TV " tvg-logo="https://i.postimg.cc/Znh7NwYf/Mega-Cine-TV-esp.png"group-title="💢PELICULAS💢",💢|➾MEGA CINE TV 
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1tvg-name="💢SAN ISIDRO TV" tvg-logo="https://i.postimg.cc/L5d3mHQh/SAN-ISIDRO-TV.png"group-title="💢PELICULAS💢",💢|➾SAN ISIDRO TV 
+https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
+#EXTINF:-1tvg-name="💢MI TURNO" tvg-logo="https://i.postimg.cc/7LBytLYv/MI-TURNO-TV-HD.png"group-title="💢PELICULAS💢",💢|➾MI TURNO TV
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:-1tvg-name="💢MARKA TV" tvg-logo="https://i.postimg.cc/6TsKV16y/MARKA-TV.png"group-title="💢PELICULAS💢",💢|➾MARKA TV
+https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
+#EXTINF:-1tvg-name="💢CANA TV DIGITAL" tvg-logo="https://i.postimg.cc/vZd8HNJ2/CANA-TV.png"group-title="💢PELICULAS💢",💢|➾CANA TV Digital
+https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+#EXTINF:-1tvg-name="💢GUAYMATE TV"tvg-logo="https://i.postimg.cc/4dYxpnSW/guaymate-tv.png"group-title="💢PELICULAS💢",💢|➾GUAYMATE TV
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1tvg-name="💢POPCORN CENTRAL 6.4" tvg-logo="https://i.postimg.cc/GmHt5QfC/PELIS-Y-POPCORN.png"group-title="💢PELICULAS💢",💢|➾POPCORN CENTRAL 6.4
+https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
+#EXTINF:-1tvg-name="💢MY TIME ESPAÑA"tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png"group-title="💢PELICULAS💢",💢|➾MY TIME ESPAÑA
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1tvg-name="💢MY TIME MEXICOA"tvg-logo="https://i.postimg.cc/d0MMz3qn/MY-TIME-MOVIE-2.png"group-title="💢PELICULAS💢",💢|➾MY TIME MEXICO
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1tvg-name="💢IMAGEN UNIVERSAL TV" tvg-logo="https://i.postimg.cc/Gmbmkz4r/imagen-universal-tv.png"group-title="💢PELICULAS💢",💢|➾IMAGEN UNIVERSAL TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1tvg-name="💢OXI TV " tvg-logo="https://i.postimg.cc/5yx3sYYm/3801-640x360-FFFFFF.png"group-title="💢PELICULAS💢",💢|➾OXI TV 
+https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
+#EXTINF:-1tvg-name="💢NET CHANNELTV" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png"group-title="💢PELICULAS💢",💢|➾NET CHANNEL
+https://media.streambrothers.com:19360/8158/8158.m3u8
+#EXTINF:-1tvg-name="💢COSMOS TV" tvg-logo="https://i.postimg.cc/dV4CRXfr/COSMOS-TV.png"group-title="💢PELICULAS💢",💢|➾COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1tvg-name="💢CINE EN ESPAÑOL TV" tvg-logo="https://i.postimg.cc/rmzMczqT/CINE-EN-ESPA-OL-BLANCO.png"group-title="💢PELICULAS💢",💢|➾CINE EN ESPAÑOL
+https://amg02724-amg02724c1-runtime-latam-2587.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-runtimelatam/cb7e3e167b746f8f9ac26a6cd1f74af6dc0168d50566803f6dab01c17fc34a5081b6f2c3bf4bcdfb6de24094385631004262d519ce647d9e803fe05a240d4920d8c7eb2fc9981102a2da0c2a28bb186f57fe7205a2600a7edda62e23b46cfb2b5742b9583a1862ddec52bd3114dc907bcb3f75deca883342241e409a5e5afba358b3e79a2521a510bda14011ce7a5590d711928b05abe68119dd1ad928ee108392e0f88b52dddbc47ca855b67a5916742ecfd737c29b0ef6f7956b30907468751f53e7b19ab11b6fd109100ababbcaee67ac4b9bdc24cc3161bd06d51ed5358c26f35effb903f4a8badc43476ef1c0593374fa8fcae9f73827cf0591c3b987be1df3940179350f0cb2e14a159fe7c21888c25ac3f873c5fc451436d5891edbbcbc87fdbf844edc74999cb4ca6e121c3b3623d00d8eda4fce20d17ce7fa38100d0316ffcb0495d2970e603314c697489d533aa9cb8786e80b39e1690f15bd338e15563a8c7c4754d100d5d67c60802d0fc51238f8533ac902cabd3ee6aed4eb496ffb8e8761f77de0b80f9da750fd236c1754e0a47b11141e2e90c3690f3975c605d7d2cce065004fb9a49ab09305627e5365510385f6e27e8fb1cc200b13d2473465751d65f56eb7388551236d2fd90eecbf1d7b97031e38f4ab4d1d30129edca591948c850ba268c481ef2c212f506eb87d113021d7b39b50fe3d58240237eb0b6155b4045f7de794c2e0ebe904a99465a43c7111779fb07d2b0842635c088e9e6cdb5b90e177c998c55182ee801f4acb2eb60f0497ddd9369287e2c3411be2c93d7837cdb84da17429d705a648e2b32082c53f600f3f4849cb80269435d0edbff707bb0f886226249f12d39df3a3e96857ea94385a596e470271467f2109e29ebf0a0374e2a822e849d9f850a8515b3d4d35b4f2216eafd764199d26716e8bb5c689a8d85959a00df07ccd1241cc170b77b2ce3bebd7b7a7fbdf6906048fe5f94fe8a38cd1c8d59b237d5b6a65c89105111dad25ff8213e4a30943ff9b84e1cf6d9267dd3bba89b35c8f56c9f9993e82b1bedbd6524d2b303bffc9f6f41adeb0354bba76de3f4872ff98f1fa3f8fb0d6126bd54df28c116fad270c3ba3cfaa3de605e2955346e083794bea773dcff3fa2808ba47cd416327bda7e3672bbd8565d71fc3c5a1551ddc501bbe16083baa2badddbb6b69e5e6415154eb5155892ed0928a0c5b229c74074f5b65f3869ab03a3e01dc7c0c881faaede1be1a58e463a42e4f72fd32a02dca8c03fce7ccb38fe83d77aef40d6c9d6771df2a42bcb1bcf934b05a6da667d36e0a2c43489fba8fe498eea5767917974c8e00c477d0a1c3f427535a2b885d7c225c8d35f3977140f39d75b375036245bfd53a634c25640f1122c61abfd338474b378cf46f98c450b50806f389ee09ad1ab8490acb0239ed5a273e16094759f9d7ec15da3bd37eb5b40853bec5e5f176b5f40dffcad6cafa6b1dcb5e22017cb286dedf821364adc5dedf6538d0b025a2063c790a92caae420cc7c70f2aecedd827ecf230d1587e2147e6a1827e8d738b39ef1f78df38daf0042dfb880e27328a31d99b3d11e67eee080b9a17a1632f81522e18127ed12a8c36543a69ce728dfdaa5e64368503db476063fe8fbad7f47b2070723122286d6a14d54454b25c7a3fc40d5af89ebfb0971f9e5fbf9183730ef64fdbe5550983ff/143/854x480_1650000/index.m3u8
+#EXTINF:-1 tvg-id="CINE HORROR" tvg-name="💢CINEM DE HORROR" tvg-logo="https://i.postimg.cc/2ygsPWhk/CINE-HORROR.png" group-title="💢PELICULAS💢",💢CINE DE HORROR
+https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/cb7e3e167b746f8f9ac26a6cd1f74af6dc0168d50566803f6dab01c17fc34a5081b6f2c3bf4bcdfb6de24094385631004262d519ce647d9e803fe05a240d4920d8c7eb2fc9981102a2da0c2a28bb186f57fe7205a2600a7edda62e23b46cfb2b5742b9583a1862ddec52bd3114dc907bcb3f75deca883342241e409a5e5afba358b3e79a2521a510bda14011ce7a5590d711928b05abe68119dd1ad928ee108392e0f88b52dddbc47ca855b67a5916742ecfd737c29b0ef6f7956b30907468751f53e7b19ab11b6fd109100ababb9fe760a9479d8b24cc3160eb50d51ed5358c26f208a5b603a3ffba8a44446ef6c20d397efa9ccaf8f83a3da963f5b6d6d17a6a9ce5006a42c860aa414159c1a7bf7eeed606a9a6318ca2681e21b2f72fffcc8badc1eae720ff29c7d386fb57231e397c68ed59a78c64d82ce275a9c51653352723a59b5bc095dc4a6a1725ea8356d51d15bcd7b48dde033eb8057139fa75d7014106b9376372f128f78e037c9b290e903638e9673b814ff9ca479fcee9c0361794fde26fda359adf6cc1f50aa864322b69d99b1e7a75605cf3cb4b286ab4a22f86c6cb93b1686a2f96e0f1da5a340b38580742dba2af5c9280d5314656e05d22727b1913d65585329f521a507c912cf2fa5958c5243424eaa37069715dc786e3d3d6879b10fb2f839ea679382d10239c23152a6be4b38f72f42c042b290ace5c3203f52c7276c7b985a5958965cbdc43af3b691b2a85c612531a5b7c6d45cfde38977dea8112b49e850d9ebbc3420bd36ff5565ecf828f2cd5e283ce430ad099561f6685da6890207a89448271fbb81cdfb44514233f4f46d18b5aeb2ddab5fb9671de46c34c0c70fe7db588dca0d36745e89f384159797427566d65290dabd5db4a1576eeb935bc288c8354b9526b3d3e4adbf06934e1fa6212883c7365fff1a1e6acda132fd97afb67cc5f16b45b7f6e8bb230fe97a2e0a0c8204317cef8b959b5b5818cc998de30310f692692c25a462db34c948b03f1bf6f1f85e8dbbf9604f57cf247fdeef27cbc6cf691ed5ef695c7afad2d11090d0df8c3f1fe4e89ed0f43e129de147942cfdae6a43f91b0df0376fe2f83ef663ef47e1437c8bbeb3bca3eb6e2352f95f50329d67b3f8fe1f22b138636b22e2674fcc8db2751acc706973fd9ffb70915df0a1de5135b35ad24fcd5bb3f3cb3bf400255bd0f04dd728798df090a229c74074f5b65f3869ab03a3e01dc7c0c881faaede1be1a58e463a42e4f72fd32a02dca8c03fce7ccb38fe83d77aef40d6c9d6771df2a42bcb1bcf934b05a6da667d36e0a2c43489fba8fe498eea5767917974c8e00c477d0a1c3f427535a2b885d7c225c8d35f3977140f39d75b375036245bfd53a634c25640f1122c61abfd338474b378cf46f98c450b50806f389ee09ad1ab8490acb0239ed5a273e16094759f9d7ec15da3bd37eb5b40853bec5e5f176b5f40dffcad6cafa6b1dcb5e22017cb286dedf821364adc5dedf6538d0b025a2063c790a92caae420cc7c70f2aecedd827ecf230d1587e2147e6a1827e8d738b39ef1f78df38daf0042dfb880e27328a31d99b3d11e67eee080b9a17a1632f81522e18127ed12a8c36543a69ce728dfdaa5e64368503db476063fe8fbad7f47b2070723122286d6a14d54454b25c7a3fc40d5af899bfb0970ce44a6eaf5f0e7ea6a97a1b634792bc/133/854x480_1650000/index.m3u8
+#EXTINF:-1tvg-name="💢MOVIE SPHERE TV" tvg-logo="https://i.postimg.cc/xCg5GTmX/MOVIE-SPHERE-MEJOR.png"group-title="💢PELICULAS💢",💢|➾MOVIE SPHERE
+https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/cb543d167c6c648b9cd43e60d1ef45a6f99553fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505e6cdb1bdd7c03cfbc0bae51486c6531c3c4e664bde27308acda0d2b2bb27e0051fe0f1ec062153b99c80a188938827c0738e11d210361daf35aab664abef86ef603359bf1843a6c6d2d0acc0602fcb038f6bda2041a8673a5af1c58e67707b8df17d6d51ebf9ed44598408071ef159f91e0f68c42dbdac473ca06e4351b516d28cad737c09f1ff2d8c23c68ca212b435304b0a591b31f6d83410e5efdaf99f260fe10ca8c27d2346eee559b15d45aec6aae1ae9e85ed2ebd19b101969f29e0a317fa5bff1dca13364ea3cffa0efd9292ec8f3122215cc348c78786892adf9f2e5a964fe49b016d5137f15f8d323b698aa8aecbfff32f647e4e68455b9df2c19692c894fb6922dfa24d86aa1cd125b3325d2790934b6eeea5f3c76468a8c5196677333471fe2ad6d18e5416132cb6fd8531065c035261b8f48abcf6c3ad9744ded674cd368a9f8519be10c8c7595ebc55a9de767088e4ee2b018dbf503e640335716b6e03e5a5c76aab184a56c1d76d94ce8dfcbae224750acbfe1f7ce46205c79365c0899edee74dbdf93725d4492037438463141c628964bca09450461fd35e2fd4726d757707cb2e96f0d0b37d6dfa7c8c7f7da54b97ae4caff12262f1636ee644b753893fea671c91567323a51890461039a025949e5dc89d39c927dc7936ae56c2c4423e6f8054e04573c3258cfde389908b1c54af7ca980f8cc282104c8939e3321198d1ce65b7b8d290015cc6d83a7300b6dd23d77c24c365b67adba810d2d3045e4524211b35a76dbafe8ffa164f8b55a3b1c2fb/189/848x480_1686360/index.m3u8
+#EXTINF:-1 tvg-id="FREE TV LIVE" tvg-name="💢FREE TV LIVE" tvg-logo="https://i.postimg.cc/NLvK5R0m/live.jpg"group-title="💢PELICULAS💢",💢FREE TV LIVE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?url=&genre=&ic=&us_privacy=1YNY&coppa=1&user_id=&ip=&ipv6=&c_duration=3600&c_producer=chiquilines&c_rating=TV-G&c_lang=es&ua=&hls_marker=1&content_channel=Chiquilines&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120&terminate=true&sid=&deviceDNT=0&advertisingId=&deviceLat=0&deviceLon=0&deviceModel=&deviceVersion=&embedPartner=freetv&serverSideAds=true&appName=freetv&deviceId=&appVersion=&deviceType=&deviceMake=&includeDeviceUA=true
+#EXTINF:-1tvg-name="💢BJGTJME " tvg-logo="https://i.postimg.cc/NjCpBxs8/BJGTJME-PELICULAS.png"group-title="💢PELICULAS💢",💢|➾BJGTJME 
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1tvg-name="💢VEVO ICONOS LATINOS"tvg-logo="https://i.postimg.cc/wMtwCMN6/VEVO-REGIONAL-MEXICO.png"group-title="💢VEVO TV💢",💢|➾VEVO ICONOS LATINO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1tvg-name="💢VEVO Country"tvg-logo="https://i.postimg.cc/CKJ6cgQQ/VEVO-TV-COUNTRY.png"group-title="💢VEVO TV💢",💢|➾VEVO Country
