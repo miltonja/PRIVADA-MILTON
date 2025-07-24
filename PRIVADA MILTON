@@ -137,6 +137,13 @@ http://190.61.116.155:7000/play/a0dj
 http://190.61.116.155:7000/play/a04d
 #EXTINF:-1  tvg-name="CINE PREMIUM HD"group-title="←«❄️CINE PELICULAS TV❄️»→" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE-PREMIUM.png",❄️|➾CINE PREMIUM HD
 http://190.61.116.155:7000/play/a0cg
+
+#EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
+https://media.streambrothers.com:19360/8158/8158.m3u8
+#EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
+https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
+#EXTINF:-1  tvg-name="VIBRA TV"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/7hSTzjYT/VIBRA-TV.png",🔆|➾VIBRA TV
+https://sc1.wasidata.com/VibraPlus/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=app120425
 #EXTINF:-1  tvg-name="TELEVISION METROPOLISTV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/QaocW5x.png",🔆|➾TELEVISION METROPOLIS 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1  tvg-name="LIM TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/SRYkJfJQ/LIM-TV.png",🔆|➾LIM TV PLAY
