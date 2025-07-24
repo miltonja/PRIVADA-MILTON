@@ -369,6 +369,10 @@ https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:-1tvg-name="💢X Level Media "tvg-logo="https://i.postimg.cc/3NmkSZxG/LOGO-3-D-CON-SOMBRA-XLEVEL-02-2-1024x576.png"group-title="💢MUSICA💢",💢|➾X Level Media
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+#EXTINF:-1tvg-name="💢Q-MUSIC"tvg-logo="https://i.postimg.cc/sX0PdKz0/artworks-k-TPEHjymj-Cy5-Kuyj-3w-K7xg-t1080x1080.jpg"group-title="💢MUSICA💢",💢|➾Q-Music (Belgium)
+https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
+#EXTINF:-1tvg-name="💢Radio Contact "tvg-logo="https://i.postimg.cc/R0SwW2VD/Logo-Radio-Contacto.png"group-title="💢MUSICA💢",💢|➾Radio Contact
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 #EXTINF:-1tvg-name="💢Deep House District"tvg-logo="https://i.postimg.cc/Wb5Zp2f8/DANCE-TV-ROSA.png"group-title="💢MUSICA💢",💢|➾Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1tvg-name="💢Song TV Россия"tvg-logo="https://i.postimg.cc/kgDbBk0m/SONG-TV-FULL-MEJOR.png"group-title="💢MUSICA💢",💢|➾Song TV Россия
