@@ -93,6 +93,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8
 #EXTINF:-1tvg-name="💢Chicas Guapas" tvg-logo="https://i.postimg.cc/2SDB5qHj/e1703a9f-f50f-4119-87a0-1a403337085c-1739988085-276071-256x256.jpg"group-title="💢FILMS 24/7💢",💢|➾Chicas Guapas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15068
+#EXTINF:-1tvg-name="💢FARRA PLAY" tvg-logo="https://i.postimg.cc/8kH1qDvy/FARRA-P.png"group-title="💢MUSICA LATINA💢",💢|➾FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8
 #EXTINF:-1tvg-name="💢La Bocina Latina" tvg-logo="https://i.postimg.cc/44QZpmPF/LA-BOCINA-LATINA-TV.png"group-title="💢MUSICA LATINA💢",💢|➾La Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1tvg-name="💢Trace Latina" tvg-logo="https://i.postimg.cc/qq5Mfg76/TRACE-Latina-Logo.png"group-title="💢MUSICA LATINA💢",💢|➾Trace Latina
@@ -547,6 +549,8 @@ http://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_h
 http://fashs043.cloudycdn.services/scte/midnite/midnite_1080p_chunklist.m3u8
 #EXTINF:-1tvg-name="💢FASHION TV CZECH&SLOVAK"tvg-logo="https://i.postimg.cc/NfYZNFjN/FASHION-CZECH-SLOVAK.png"group-title="💢LIFESTYLE💢",💢|➾FASHION TV CZECH&SLOVAK
 http://lb.streaming.sk/fashiontv/stream/index.m3u8
+#EXTINF:-1tvg-name="💢MTV CON MI EX HD"tvg-logo="https://i.postimg.cc/hPSXSMV4/LA-VENGANZA-DE-LOS-EX.png"group-title="💢REALITY💢",MTV CON MI EX 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
 #EXTINF:-1tvg-name="💢MTV CON MI EX HD"tvg-logo="https://i.postimg.cc/hPSXSMV4/LA-VENGANZA-DE-LOS-EX.png"group-title="💢REALITY💢",MTV CON MI EX HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638693db857364000781b471/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1tvg-name="💢MTV Shore | link 2"tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png"group-title="💢REALITY💢",MTV Shore | link 2
