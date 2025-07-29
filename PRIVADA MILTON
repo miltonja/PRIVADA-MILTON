@@ -117,6 +117,8 @@ https://media.streambrothers.com:19360/8158/8158.m3u8
 https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
 #EXTINF:-1  tvg-name="VIBRA TV"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/7hSTzjYT/VIBRA-TV.png",🔆|➾VIBRA TV
 https://sc1.wasidata.com/VibraPlus/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=app120425
+#EXTINF:-1  tvg-name="RETRO PLAY OLI TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/LsBFdBWc/OLI-TV-EL-MEJOR.png",🔆|➾RETRO PLAY OLI TV
+https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="TELEVISION METROPOLISTV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/QaocW5x.png",🔆|➾TELEVISION METROPOLIS 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1  tvg-name="LIM TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/SRYkJfJQ/LIM-TV.png",🔆|➾LIM TV PLAY
