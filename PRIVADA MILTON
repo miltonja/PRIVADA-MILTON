@@ -830,8 +830,6 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?Playlist
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️RADIO FAVORITA TV"tvg-logo="https://i.postimg.cc/D03tGy1Y/RADIO-FAVORITA.png"group-title="🏵️ CHILE 🏵️" ,🏵️|➾ RADIO FAVORITA | CL
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="🏵️RADIO FISSTA" tvg-logo="https://i.postimg.cc/YC1x5hPR/qv-EXhgwb-400x400.png"group-title="🏵️ CHILE 🏵️",🏵️|➾ RADIO FIESSTA | CL
-https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️RADIO 88 ESTERO" tvg-logo="https://i.postimg.cc/mrRzQNf1/88-STEREO.png"group-title="🏵️COSTA RICA 🏵️" ,🏵️|➾ RADIO 88 ESTEREO | CR
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️TELE COLOR TV" tvg-logo="https://i.postimg.cc/Gp48GS3M/TELECOLOR.png"group-title="🏵️PERU 🏵️" ,🏵️|➾ TELE COLOR TV | PE
@@ -862,8 +860,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️CANAL 7 JUJUY"tvg-logo="https://i.postimg.cc/66CgkJfK/Canal-7-Jujuy.png"group-title="🏵️ ARGENTINA 🏵️",🏵️|➾ CANAL 7 JUJUY | AR
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="🏵️CANAL 7 NEQUEN "tvg-logo="https://i.postimg.cc/zvrTvQht/Canal7-Neuqu-n.png"group-title="🏵️ ARGENTINA 🏵️",🏵️|➾ CANAL 7 NEQUEN | AR
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️CANAL 7 TV"tvg-logo="https://cdn.m3u.cl/logo/1350_Canal_7_TV.png"group-title="🏵️ ARGENTINA 🏵️",🏵️|➾ CANAL 7 TV | AR
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️CANAL CINCO TIGRE"tvg-logo="https://i.postimg.cc/fbtKHwhh/CINCO-TV.png"group-title="🏵️ ARGENTINA 🏵️",🏵️|➾CANAL CINCO TIGRE| AR
@@ -882,8 +878,6 @@ https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8?PlaylistM3UCL
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️13 MAX TELEVISION"tvg-logo="https://i.postimg.cc/vBnSCR1V/13max-HD.png"group-title="🏵️ ARGENTINA 🏵️",🏵️|➾ 13 Max Television | AR
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="🏵️MONI TV"tvg-logo="https://i.postimg.cc/VkH4VLLN/MONI-TV-ESP.png"group-title="🏵️ ARGENTINA 🏵️",🏵️|➾ MONI TV | CL
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️KANAL D DRAMA"tvg-logo="https://i.postimg.cc/nLG0hzvG/kanal-D-Drama.png"group-title="🏵️ NOVELAS 🏵️" ,🏵️|➾ KANAL D DRAMA | TR
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️MEGA CINE TV"tvg-logo="https://i.postimg.cc/Znh7NwYf/Mega-Cine-TV-esp.png"group-title="🏵️ PELICULAS 🏵️" ,🏵️|➾ MEGA CINETV | DO
@@ -908,8 +902,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="🏵️REAL MADROD TV"tvg-logo="https://i.postimg.cc/pd3v02Pb/REAL-MADRID-esp-TV.png"group-title="🏵️ DEPORTES 🏵️",🏵️|➾ Realmadrid TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f9ba32f7f0af0008fbcb3d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb43-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ad58b114-23ee-4023-be37-d11303c83d67
-#EXTINF:-1 tvg-name="🏵️SHARJAH SPORTS 2"tvg-logo="https://i.postimg.cc/ZKPWKtGG/image.png"group-title="🏵️ DEPORTES 🏵️",🏵️|➾ Sharjah Sports TV
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="🏵️DBAI SPORTS 2"tvg-logo="https://i.postimg.cc/j5Hw2Y2f/ABU-DHABI-SPORTS-2.png"group-title="🏵️ DEPORTES 🏵️",🏵️|➾ Dubai Sports 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="🏵️DUBAI SPORTS" tvg-logo="https://i.postimg.cc/yd43781B/ABU-DABHI-SPORTS-1.png"group-title="🏵️ DEPORTES 🏵️",🏵️|➾ Dubai Sports
