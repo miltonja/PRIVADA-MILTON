@@ -1,42 +1,22 @@
 #EXTM3U
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS JULIO-17/2025
 http://181.143.230.202:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/65kLLHhZ/WIN-PLUS-VERDE-FONDO.png",➾ ⚽|0001 WIN  PLUS Agosto-30/2025
+http://181.205.130.194:4000/play/a0f1
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/65kLLHhZ/WIN-PLUS-VERDE-FONDO.png",➾ ⚽|0001 WIN  PLUS JULIO-17/2025
 http://138.94.3.22:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/W17NRPTs/WINMASGRANDE.png",➾ ⚽|0015 WIN SPORTS PLUS JUNIO-27---
 http://190.60.37.154:45000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/dVvS75SQ/WIN-SPORTS-JN-IPTV-VERDE.png",➾ ⚽|0018 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
 http://181.78.23.26:45000/play/a03d
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/dVvS75SQ/WIN-SPORTS-JN-IPTV-VERDE.png",➾ CO |0005 Win Sports FEBRERO-23
-http://190.60.33.237:1010/play/a0eg/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0005 Win Sports OSEPTIEMBRE-10
 http://181.78.23.26:45000/play/a034
 #EXTINF:-1 group-title="⚽WIN PLUS-2026⚽" tvg-logo="https://i.postimg.cc/3RfmBh6h/WINSPORTS-BOTON-AZUL-OSCURO.png",➾🏆 COL• WIN SPORTS+ (HD) »2«
 http://6digital9.chocoplus.xyz:8080/live/42waze97qe56qa87/95wame27puce82/360.ts
-#EXTINF:-1 group-title="⚽🏆FUTBOL WIN PLUS🏆⚽" tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png",➾⚽WIN SPORTS + FHD
-http://tvlatino.club:2082/live/PERU28/B9TuuHfCqmYJ/209215.ts
-#EXTINF:-1 group-title="⚽🏆FUTBOL WIN PLUS🏆⚽" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png",➾⚽WIN SPORTS + FHD
-http://home-playtv.com:80/live/FamiliaChanto/RKFAU/516934.ts
-#EXTINF:-1 group-title="⚽🏆FUTBOL WIN PLUS🏆⚽" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png",➾⚽WIN SPORTS + VIP 1
-http://home-playtv.com:80/live/FamiliaChanto/RKFAU/516921.ts
-#EXTINF:-1 group-title="⚽🏆FUTBOL WIN PLUS🏆⚽" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",➾⚽WIN SPORTS +FHD
-http://imaxplay.net:8080/live/AndrMel/ERVGB/516934.ts
 #EXTINF:-1 group-title="⚽🏆FUTBOL WIN PLUS🏆⚽" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png",➾⚽ WIN SPORTS+ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
 http://2.magmas5.com:8000/live/jmorenoi/MGA41K2I1S/131984.ts
 #EXTINF:-1 group-title="⚽🏆FUTBOL WIN PLUS🏆⚽" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png",➾⚽WIN SPORTS +ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
 http://2.magmas5.com:8000/live/jmorenoi/MGA41K2I1S/131985.ts
-#EXTINF:-1 group-title="⚽🏆FUTBOL WIN PLUS🏆⚽" tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png",➾⚽WIN SPORTS + FHD
-http://fortv.cc:8080/live/vNay0H/219352/78717.ts
-#EXTINF:-1 group-title="💢🏆WIN SPORTS PLUS🏆💢" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png",💢🏆|➾WIN SPORTS PLUS FHD
-http://coco3.jimaplus.xyz:8080/live/993353604tv/i7y6m78qm/361.ts
-#EXTINF:-1 group-title="💢❖ WIN SPORTS PLUS 💢❖" tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png",💢❖|➾WIN SPORTS PLUS FHD
-http://iptvglobal.site:25461/live/Antonio4/Antonio4/373350.ts
-#EXTINF:-1 group-title="💢❖ WIN SPORTS PLUS 💢❖" tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png",💢❖|➾WIN SPORTS PLUS FHD
-http://iptvglobal.site:25461/live/Antonio4/Antonio4/373351.ts
-#EXTINF:-1 group-title="💢❖ WIN SPORTS PLUS 💢❖" tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png",💢❖|➾WIN SPORTS PLUS FHD
-http://iptvglobal.site:25461/live/Antonio4/Antonio4/373348.ts
-#EXTINF:-1 group-title="💢❖ WIN SPORTS PLUS 💢❖" tvg-logo="https://i.postimg.cc/YC6w5CFn/Win-Plus-azul-celeste.png",💢❖|➾WIN SPORTS PLUS FHD
-http://iptvglobal.site:25461/live/Antonio4/Antonio4/373347.ts
 #EXTINF:-1 group-title="❄️FUTBOL COLOMBIA❄️" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png",WIN SPORTS +
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516932.ts
 #EXTINF:-1 group-title="❄️FUTBOL COLOMBIA❄️" tvg-logo="https://i.postimg.cc/gk4ckbXV/800px-Win-F-tbol-logo-svg.png",WIN SPORTS +
