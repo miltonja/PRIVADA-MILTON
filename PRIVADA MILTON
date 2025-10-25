@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png",➾ ⚽|WIN SPORTS ➕ (EXCLUSIVO)
+http://tv.zapping.life:8080/live/huvargas01/latinplus6485/8510.ts
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png",➾ ⚽| WIN SPORTS PLUS HD (EXCLUSIVO)
+http://xxip25.top:8080/live/YR5GXy/051679/78697.ts
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png",➾ ⚽|Win+ Fútbol ᴴᴰ
+http://tv.zapping.life:8080/live/huvargas01/latinplus6485/84896.ts
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",➾ ⚽|Win Sports Plus
+http://dns.k4livetv.com:8080/live/Gustavo654/Gustavo654/1069728.ts
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",➾ ⚽| Win Sports + OP1
+http://dns.k4livetv.com:8080/live/Gustavo654/Gustavo654/1078707.ts
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",➾ ⚽|Win Sports Plus
+http://dns.k4livetv.com:8080/live/Gustavo654/Gustavo654/1069728.ts
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",➾ ⚽|Win Sports Plus
+http://dns.k4livetv.com:8080/live/Gustavo654/Gustavo654/1069724.ts
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/gJjshjNv/WIN-PLUS-ROJO.png",➾ ⚽|0001 WIN  PLUS SEP-03-/2025
 http://207.230.10.42:1010/play/a0fg/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/gJjshjNv/WIN-PLUS-ROJO.png",➾ ⚽|0001 WIN  PLUS HD SEP-03-/2025
