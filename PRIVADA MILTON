@@ -1,4 +1,17 @@
+
 #EXTM3U
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/wMxCxDSq/WIN-SPORTS-VERDE-VU-TV-PLAYER.png",➾ ⚽|COL-WinSports +
+http://live.zapping.life:8080/live/83LeticiaSanseviero/MA5Ku9DeMJ/8510.ts
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/wMxCxDSq/WIN-SPORTS-VERDE-VU-TV-PLAYER.png",➾ ⚽|WinSports + (M)(1080)
+http://live.zapping.life:8080/live/83LeticiaSanseviero/MA5Ku9DeMJ/8511.ts
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/wMxCxDSq/WIN-SPORTS-VERDE-VU-TV-PLAYER.png",➾ ⚽|Winsport + (T)(720)
+http://live.zapping.life:8080/live/83LeticiaSanseviero/MA5Ku9DeMJ/84897.ts
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/cCDv39xn/WIN-SPORTS-PLUS-ROJO-VU-TV.png",➾ ⚽|WIN SPORTS PLUS OP2
+http://liontv.es:8080/live/HelenDuarte/189023/858605.ts
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/cCDv39xn/WIN-SPORTS-PLUS-ROJO-VU-TV.png",➾ ⚽| WIN SPORTS+ (HD) »1«
+ http://liontv.es:8080/live/HelenDuarte/189023/1444739.ts
+#EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/ZqqDF0xv/WIN-SPORTS-PLUS-AMARILLO-VU-TV-PLAYER.png",➾ ⚽|WIN SPORTS+
+ http://fortv.cc:8080/live/u4aJFM/606739/78697.ts
 #EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png",➾ ⚽|WIN SPORT + OPC #2
 http://flx.lat:8080/live/Clemente2024/J5XtVRb6KPLj/120512.ts
 #EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png",➾ ⚽|WIN SPORT  OPC #3
