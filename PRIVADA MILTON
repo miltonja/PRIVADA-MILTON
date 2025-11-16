@@ -41,6 +41,14 @@ http://flx.lat:8080/live/Clemente2024/J5XtVRb6KPLj/120512.ts
 #EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png",➾ ⚽| Win Sports + OP1
 http://tvgusplay.online:80/live/123456789/123456789/69064.ts
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV013-/2025
+http://190.61.55.235:8000/play/a101awer/index.m3u8
+#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0002WIN  PLUS NOV013-/2025
+http://190.61.55.235:8000/play/a101/index.m3u8
+#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0003 WIN  PLUS NOV013-/2025
+http://190.61.55.235:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0004 WIN  PLUS NOV013-/2025
+http://190.60.55.141:9100/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0005 WIN  PLUS NOV013-/2025
 http://190.60.40.165:1010/play/a0e4/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV013-/2025
 http://190.60.40.165:1010/play/a0kk/index.m3u8
