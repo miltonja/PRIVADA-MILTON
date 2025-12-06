@@ -244,6 +244,8 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FMH FAMILY"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png",🔆|➾FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
+#EXTINF:-1tvg-name="💢GALAVISION"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/640px-Galavision_Logo_2024.svg.png"group-title="💢MEXICO💢",💢|➾GALAVISION
+http://206.212.244.71:8080/Abxc5k/363887/58770
 #EXTINF:-1tvg-name="💢TELE SIGLO TV" tvg-logo="https://i.postimg.cc/9QC92pfT/TELESIGLO.png"group-title="💢PELICULAS💢",💢|➾TELE SIGLO
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1tvg-name="💢NICOYA TV" tvg-logo="https://i.postimg.cc/CLcscG4m/NICOYA-TV.png"group-title="💢PELICULAS💢",💢|➾NICOYA TV
