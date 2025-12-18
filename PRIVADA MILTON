@@ -39,8 +39,6 @@ http://209.14.117.146:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV013-/2025
 http://200.69.92.222:8000/play/a03v/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV013-/2025
-http://45.173.12.70:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV013-/2025
 http://8.243.126.131:8000/play/a0kv/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV013-/2025
 http://8.242.175.210:8000/play/a04j/index.m3u8
@@ -48,14 +46,10 @@ http://8.242.175.210:8000/play/a04j/index.m3u8
 http://191.97.15.250:45000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV013-/2025
 http://191.97.9.94:8000/play/a0cl/index.m3u8
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV013-/2025
-http://190.61.55.235:8000/play/a101awer/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0002WIN  PLUS NOV013-/2025
 http://190.61.55.235:8000/play/a101/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0005 WIN  PLUS NOV013-/2025
 http://190.60.40.165:1010/play/a0e4/index.m3u8
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV013-/2025
-http://186.148.163.18:8000/play/a081/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV09-/2025
 http://177.93.52.115:8000/play/a0bn/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV09-/2025
@@ -66,8 +60,6 @@ http://177.93.38.108:8000/play/a0cm/index.m3u8
 http://181.78.71.49:1025/play/a0wg/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS NOV-12/2025
 http://181.78.23.26:45000/play/a03d
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/8crf7S90/WIN-PLUS-AMARILLO.png",➾ ⚽|0001 WIN  PLUS JULIO-17/2025
-http://181.143.230.202:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/65kLLHhZ/WIN-PLUS-VERDE-FONDO.png",➾ ⚽|0001 WIN  PLUS Agosto-30/2025
 http://181.205.130.194:4000/play/a0f1
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/W17NRPTs/WINMASGRANDE.png",➾ ⚽|0015 WIN SPORTS PLUS JUNIO-27---
@@ -82,8 +74,6 @@ http://2.magmas5.com:8000/live/jmorenoi/MGA41K2I1S/131985.ts
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/manifest.m3u8
 #EXTINF:-1tvg-name="💢Mi Miedo Canal" tvg-logo="https://i.postimg.cc/WpFf03Vc/MI-MIEDO-TV.png"group-title="💢FILMS 24/7💢",💢|➾Mi Miedo Canal
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-miedo-canal/manifest.m3u8
-#EXTINF:-1tvg-name="💢FLOU Detonación" tvg-logo="https://i.postimg.cc/8zsvr8Rs/FLOU-DETONACIONES.png"group-title="💢FILMS 24/7💢",💢|➾FLOU Detonación
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-detonacion/playlist.m3u8
 #EXTINF:-1tvg-name="💢Mi Raza Canal" tvg-logo="https://i.postimg.cc/wTqLgR3X/MI-RAZA.png"group-title="💢FILMS 24/7💢",💢|➾Mi Raza Canal
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal/master.m3u8
 #EXTINF:-1tvg-name="💢Mi Raza Canal Plus" tvg-logo="https://i.postimg.cc/nVYByGVV/MI-RAZA-TV-ORIGINAL.png"group-title="💢FILMS 24/7💢",💢|➾Mi Raza Canal Plus
