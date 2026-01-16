@@ -1,7 +1,29 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-name="✳️RUMBA TV"tvg-logo="https://i.postimg.cc/9XYQYTc5/76e5e73c-1e3d-4dfb-b744-02c31820bb03-m.jpg"group-title="←«✳️ MUSICA ✳️»→",✳️|➾RUMBA TV hd
-http://181.78.23.26:45000/play/a04k
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/cCDv39xn/WIN-SPORTS-PLUS-ROJO-VU-TV.png",➾ ⚽| WIN SPORTS+
+http://nocable.cc:8080/live/r7GVVH/729540/78697.ts
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/cCDv39xn/WIN-SPORTS-PLUS-ROJO-VU-TV.png",➾ ⚽| WIN SPORTS+
+http://nocable.cc:8080/live/r7GVVH/729540/78717.ts
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/rybnSG6z/WIN_PLUS_AMARILLO.png",➾ ⚽| WIN SPORTS+
+http://tvmate.icu:8080/live/darcell2737/2705998/78697.ts
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/rybnSG6z/WIN_PLUS_AMARILLO.png",➾ ⚽| WIN SPORTS+
+http://tvmate.icu:8080/live/darcell2737/2705998/78717.ts
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/sXg6JwDG/WIN_PLUS_BLANCO.png",➾ ⚽| WIN SPORTS+
+http://canal-pro.xyz:8080/live/EtbmFQWPkvNR/ExkJNJC8bAcu/359.ts
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/52Wsrx2V/WIN_PLUS_VERDE.png",➾ ⚽| WIN SPORTS+
+http://tvstar.icu:8080/live/scottiecheeze@yahoo.com/7vyh8aDqBq/78697.ts
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/52Wsrx2V/WIN_PLUS_VERDE.png",➾ ⚽| WIN SPORTS+
+http://tvstar.icu:8080/live/scottiecheeze@yahoo.com/7vyh8aDqBq/78717.ts
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/52Wsrx2V/WIN_PLUS_VERDE.png",➾ ⚽| WIN SPORTS+
+http://tvstar.icu:8080/live/Gizvid250@giz.com/1234@4321/78697.ts
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/ncDdTsZ2/WIN_SPORTS_PURPURA.png",➾ ⚽| WIN SPORTS+
+http://imaxplay.net:2082/live/YvRtGkKVCp/xG5ZcqyF77/516934.ts
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/ncDdTsZ2/WIN_SPORTS_PURPURA.png",➾ ⚽| WIN SPORTS+
+http://imaxplay.net:2082/live/YvRtGkKVCp/xG5ZcqyF77/516931.ts
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/ncDdTsZ2/WIN_SPORTS_PURPURA.png",➾ ⚽| WIN SPORTS+
+http://imaxplay.net:2082/live/YvRtGkKVCp/xG5ZcqyF77/516921.ts
+#EXTINF:-1 group-title="⚽WIN PLUS 2026⚽" tvg-logo="https://i.postimg.cc/pTSZJv63/WIN_PLUS_OTTPLAYER.png",➾ ⚽| WIN SPORTS+
+http://fortv.cc:8080/live/u4aJFM/606739/78697.ts
 #EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/cCDv39xn/WIN-SPORTS-PLUS-ROJO-VU-TV.png",➾ ⚽| WIN SPORTS+ (HD) »1«
 http://nocable.cc:8080/live/r7GVVH/729540/78697.ts
 #EXTINF:-1 group-title="⚽WIN SPORTS PREMIUM⚽" tvg-logo="https://i.postimg.cc/cCDv39xn/WIN-SPORTS-PLUS-ROJO-VU-TV.png",➾ ⚽| WIN SPORTS+ (HD) »1«
