@@ -122,6 +122,8 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1tvg-name="💢SPORTY TV" tvg-logo="https://i.postimg.cc/TwnvzY9P/Sporty-TV.jpg"group-title="💢DEPORTES💢",💢|➾SPORTY TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1tvg-name="💢NEXTV HD" tvg-logo="https://i.postimg.cc/Vsx6t401/NEXT_TV.png"group-title="💢FILMS 24/7💢",💢|➾NEXTV HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1tvg-name="💢GritosTV by Trinian" tvg-logo="https://i.postimg.cc/DfBdWP9j/GRITOS-TV.png"group-title="💢FILMS 24/7💢",💢|➾GritosTV by Trinian
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/manifest.m3u8
 #EXTINF:-1tvg-name="💢Mi Miedo Canal" tvg-logo="https://i.postimg.cc/WpFf03Vc/MI-MIEDO-TV.png"group-title="💢FILMS 24/7💢",💢|➾Mi Miedo Canal
