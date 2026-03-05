@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:-1 group-title="⚽ESPN⚽" tvg-logo="https://i.postimg.cc/L6FWS22Q/espndeportes-horizontal-white.png",➾ ⚽|ESPN 2 EN VIVO
+http://181.78.82.6:46090/play/a00i/index.m3u8
  #EXTINF:-1tvg-name="💢CASA DE LOSM FAMOSOS PRINCIPAL" tvg-logo=""group-title="💢CASA DE LOS FAMOSOS💢",💢|➾🏆 CASA DE LOS FAMOSOS PRINCIPAL
  http://micaplay.net:8080/live/ggus8844/FGgmz6zWpc/1050526.ts
  #EXTINF:-1tvg-name="💢CASA DE LOS FAMOSOS COMEDOR" tvg-logo=""group-title="💢CASA DE LOS FAMOSOS💢",💢|➾🏆 CASA DE LOS FAMOSOS PRINCIPAL
