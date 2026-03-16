@@ -20,8 +20,6 @@ http://191.97.15.250:45000/play/a07l/index.m3u8
 http://190.60.40.165:1010/play/a0e4/index.m3u8
 #EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/65kLLHhZ/WIN-PLUS-VERDE-FONDO.png",➾ ⚽|0001 WIN  PLUS Agosto-30/2025
 http://181.205.130.194:4000/play/a0f1
-#EXTINF:-1 group-title="⚽WIN SPORTS PLUS⚽" tvg-logo="https://i.postimg.cc/dVvS75SQ/WIN-SPORTS-JN-IPTV-VERDE.png",➾ ⚽|0018 CORTO WIN SPORTS PLUS SEPTIEMBE 10 -2024
-http://181.78.23.26:45000/play/a03d
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png",➾ CO |0005 Win Sports SEPTIEMBRE-10
 http://181.78.23.26:45000/play/a034
 #EXTINF:-1 group-title="⚽🏆FUTBOL WIN PLUS🏆⚽" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png",➾⚽WIN SPORTS +ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ
@@ -34,22 +32,10 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1tvg-name="💢NEXTV HD" tvg-logo="https://i.postimg.cc/Vsx6t401/NEXT_TV.png"group-title="💢FILMS 24/7💢",💢|➾NEXTV HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1tvg-name="💢GritosTV by Trinian" tvg-logo="https://i.postimg.cc/DfBdWP9j/GRITOS-TV.png"group-title="💢FILMS 24/7💢",💢|➾GritosTV by Trinian
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/manifest.m3u8
-#EXTINF:-1tvg-name="💢Mi Miedo Canal" tvg-logo="https://i.postimg.cc/WpFf03Vc/MI-MIEDO-TV.png"group-title="💢FILMS 24/7💢",💢|➾Mi Miedo Canal
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-miedo-canal/manifest.m3u8
-#EXTINF:-1tvg-name="💢Mi Raza Canal" tvg-logo="https://i.postimg.cc/wTqLgR3X/MI-RAZA.png"group-title="💢FILMS 24/7💢",💢|➾Mi Raza Canal
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal/master.m3u8
-#EXTINF:-1tvg-name="💢Mi Raza Canal Plus" tvg-logo="https://i.postimg.cc/nVYByGVV/MI-RAZA-TV-ORIGINAL.png"group-title="💢FILMS 24/7💢",💢|➾Mi Raza Canal Plus
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8
 #EXTINF:-1tvg-name="💢Chicas Guapas" tvg-logo="https://i.postimg.cc/2SDB5qHj/e1703a9f-f50f-4119-87a0-1a403337085c-1739988085-276071-256x256.jpg"group-title="💢FILMS 24/7💢",💢|➾Chicas Guapas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15068
 #EXTINF:-1tvg-name="💢FARRA PLAY" tvg-logo="https://i.postimg.cc/8kH1qDvy/FARRA-P.png"group-title="💢MUSICA LATINA💢",💢|➾FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
-#EXTINF:-1tvg-name="💢La Bocina Latina" tvg-logo="https://i.postimg.cc/44QZpmPF/LA-BOCINA-LATINA-TV.png"group-title="💢MUSICA LATINA💢",💢|➾La Bocina Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
-#EXTINF:-1tvg-name="💢Trace Latina" tvg-logo="https://i.postimg.cc/qq5Mfg76/TRACE-Latina-Logo.png"group-title="💢MUSICA LATINA💢",💢|➾Trace Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 #EXTINF:-1tvg-name="💢HITS MEXICANOS" tvg-logo="https://i.postimg.cc/VNQH7FL9/HITS-MEXICANOS.png"group-title="💢MUSICA LATINA💢",💢|➾HITS MEXICANOS
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
 #EXTINF:-1tvg-name="💢Rockola Televisión" tvg-logo="https://i.postimg.cc/L6xfX4Zr/ROCKOLA-TELEVISION.png"group-title="💢MUSICA LATINA💢",💢|➾Rockola Televisión
@@ -68,16 +54,12 @@ https://media.streambrothers.com:19360/8158/8158.m3u8
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
 https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
-#EXTINF:-1  tvg-name="VIBRA TV"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/7hSTzjYT/VIBRA-TV.png",🔆|➾VIBRA TV
-https://sc1.wasidata.com/VibraPlus/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=app120425
 #EXTINF:-1  tvg-name="RETRO PLAY OLI TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/LsBFdBWc/OLI-TV-EL-MEJOR.png",🔆|➾RETRO PLAY OLI TV
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="TELEVISION METROPOLISTV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/QaocW5x.png",🔆|➾TELEVISION METROPOLIS 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1  tvg-name="LIM TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/SRYkJfJQ/LIM-TV.png",🔆|➾LIM TV PLAY
 https://tv.invasivamedia.com/hls/limtv.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-name="MOYOBAMBA TELEVISION"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/FzCGdrxR/MTV-TV.png",🔆|➾MOYOBAMBA TELEVISION
-https://live.obslivestream.com/mtv/index.m3u8
 #EXTINF:-1  tvg-name="AURORA MEDIA FILMS TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/ydz1gzWB/AURORA-MEDIA-FILMS.png",🔆|➾AURORA MEDIA FILMS
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1  tvg-name="MULTICANAL  TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/BvqzKzWM/MULTICANAL.png",🔆|➾MULTICANAL
@@ -98,14 +80,10 @@ https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1  tvg-name="COSMOS TV"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png",🔆|➾COSMOS TV HD SAN JUAN
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1  tvg-name="CINEMA +"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/FKDf00vC/cinema-plus.png",🔆|➾CINEMA +
-https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1  tvg-name="CR TELEVISION"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/DykqPGVG/CR-TELEVISION.png",🔆|➾CR TELEVISISON
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1  tvg-name="RED TV VENTANAS"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/LX9pr521/Red-TVE-Ventanas.png",🔆|➾RED TV VENTANAS
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-name="CANAL 3 IMPRESIONANTE"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/CLYjkTPF/CANAL-3-IMPRESIONANTE-BLANCO.png",🔆|➾CANAL 3 IMPRESIONANTE
-https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 #EXTINF:-1  tvg-name="FEECUENCIA MUSICAL"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.imgur.com/vPxvbVv.png",🔆|➾FRECUENCIA MUSICAL
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1  tvg-name="AMC EN ESPAÑOL"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/MHxvcrLV/AMC-EN-ESPA-OL-NUEVO.png",🔆|➾AMC EN ESPAÑOL
@@ -146,26 +124,14 @@ https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="MY TIME MEXICO"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/0QssJQFr/MY-TIME-MOVIE.png",🔆|➾MY TIME MEXICO
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FMH FAMILY"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png",🔆|➾FMH FAMILY
-http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1tvg-name="💢GALAVISION"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/640px-Galavision_Logo_2024.svg.png"group-title="💢MEXICO💢",💢|➾GALAVISION
 http://206.212.244.71:8080/Abxc5k/363887/58770
-#EXTINF:-1tvg-name="💢TELE SIGLO TV" tvg-logo="https://i.postimg.cc/9QC92pfT/TELESIGLO.png"group-title="💢PELICULAS💢",💢|➾TELE SIGLO
-https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1tvg-name="💢NICOYA TV" tvg-logo="https://i.postimg.cc/CLcscG4m/NICOYA-TV.png"group-title="💢PELICULAS💢",💢|➾NICOYA TV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1tvg-name="💢INFINITA TV MOVIES" tvg-logo="https://i.postimg.cc/NfN2CBWw/infinita-en-vivo.png"group-title="💢PELICULAS💢",💢|➾INFINITA TV MOVIES
 https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1tvg-name="💢SOLAR TV" tvg-logo="https://i.postimg.cc/GhzHhswT/SOLAR-TV.png"group-title="💢PELICULAS💢",💢|➾SOLAR TV 
-https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8?PlaylistM3UCL 
-#EXTINF:-1 tvg-name="💢FMH FAMILY"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png"group-title="💢PELICLAS💢",💢|➾FMH FAMILY
-http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-name="💢XTREMA ACCION"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png"group-title="💢PELICULAS💢",💢|➾XTREMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1  tvg-name="💢PUNTA CANA TV"tvg-logo="https://i.postimg.cc/tRsTP33M/PUNTA-CANA-TV-ESP.png"group-title="💢PELICULAS💢",💢|➾PUNTA CANA TV
-https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
-#EXTINF:-1  tvg-name="💢ONZA TV"tvg-logo="https://i.postimg.cc/RV35nSyV/Onza-tv.png"group-title="💢PELICULAS💢",💢|➾ONZA TV
-https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 #EXTINF:-1  tvg-name="💢CANANGA TV"tvg-logo="https://i.postimg.cc/QxG0Rwc2/Carivisi-n.png"group-title="💢PELICUAS💢",💢|➾CANANGA TV
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1  tvg-name="💢NATIVA CHANCHAMAYO"tvg-logo="https://i.postimg.cc/RFJW0sr0/NATIVA-TV.png"group-title="💢PELICULAS💢",💢|➾NATIVA CHANCHAMAYO
