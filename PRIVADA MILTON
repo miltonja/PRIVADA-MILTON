@@ -66,6 +66,8 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="EL NUEVE TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/W1M9rKn8/CANAL_9_PARANA_ESP.png",🔆|➾EL NUEVE ARGENTINA
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1  tvg-name="EL DIEZ TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/R0m4v7Wp/CANAL_10_CORDOBA_ESP.png",🔆|➾EL DIEZ
+https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1  tvg-name="TELEMAX TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/CxHRCnbG/TELEMAX-VU-TV-PLAYER.png",🔆|➾TELEMAX ARGENTINA
 http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1  tvg-name="TELE NORD NORTE"group-title="←«🔆PREMIUM🔆»→" tvg-logo="https://i.postimg.cc/90GvWbYj/TELENORD_TV12HD.png",🔆|➾TELENORD NORTE
