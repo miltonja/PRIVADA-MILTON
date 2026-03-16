@@ -1,5 +1,11 @@
 
 #EXTM3U
+#EXTINF:-1tvg-name="💢RT EN ESPAÑOL" tvg-logo="https://i.postimg.cc/yxsxZnVx/RT_ESPAÑOL.png"group-title="💢NOTICIAS💢",💢|➾RT ESPAñol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1tvg-name="💢DW EN ESPAÑOL" tvg-logo="https://i.postimg.cc/Gt8YNdJG/DW_ESPAÑOL.png"group-title="💢NOTICIAS💢",💢|➾DW EN ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1tvg-name="💢TELESUR" tvg-logo="https://i.postimg.cc/pdN7mJ2H/TELESUR.png"group-title="💢NOTUICIAS💢",💢|➾TELESUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="⚽ESPN⚽" tvg-logo="https://i.postimg.cc/L6FWS22Q/espndeportes-horizontal-white.png",➾ ⚽|ESPN 2 EN VIVO
 http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1 group-title="⚽ESPN⚽" tvg-logo="https://i.postimg.cc/d1Vk0fG5/ESPN2.png",➾ ⚽|ESPN 3 PORTUGAL
@@ -68,6 +74,10 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1  tvg-name="EL DIEZ TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/R0m4v7Wp/CANAL_10_CORDOBA_ESP.png",🔆|➾EL DIEZ
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1  tvg-name="EL SIETE TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://www.betanoticias.com/wp-content/uploads/2014/04/canal-7-neuquen.png",🔆|➾EL SIETE NEQUEN
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-name="9 TELEVIDA"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/rw8DSp5w/Canal_9_Televida_(Logo_navideño_-_2013).png",🔆|➾9 TELEVIDA
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="TELEMAX TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/CxHRCnbG/TELEMAX-VU-TV-PLAYER.png",🔆|➾TELEMAX ARGENTINA
 http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1  tvg-name="TELE NORD NORTE"group-title="←«🔆PREMIUM🔆»→" tvg-logo="https://i.postimg.cc/90GvWbYj/TELENORD_TV12HD.png",🔆|➾TELENORD NORTE
