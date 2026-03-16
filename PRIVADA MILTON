@@ -48,10 +48,28 @@ https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg0
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1tvg-name="💢VIAJAR" tvg-logo="https://i.postimg.cc/BQfLnL6Y/2560px-Viajar-Tv-logo-svg.png"group-title="💢TEMATICA💢",💢|➾VIAJAR
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
+#EXTINF:-1tvg-name="💢24 HORAS" tvg-logo="https://i.postimg.cc/63CN8J6F/1200px-Logo_Canal_24_horas.svg.png"group-title="💢ESPAÑA💢",💢|➾24 HORAS
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
 https://media.streambrothers.com:19360/8158/8158.m3u8
 #EXTINF:-1  tvg-name="TELE COSTA TV"group-title="←«🔆PREMIUM🔆»→" tvg-logo="https://i.postimg.cc/5N40Szwd/TELECOSTA.png",🔆|➾TELE COSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1  tvg-name="R&E TV"group-title="←«🔆PREMIUM🔆»→" tvg-logo="https://i.postimg.cc/1zLsN3w7/R&E_TELEVISION_esp.png",🔆|➾R&E TV
+https://live.ryetv.net/livelan/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-name="AMERICA TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/43dKL4yX/AMERICA_TV.png",🔆|➾AMERICA ARGENTINA
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXTINF:-1  tvg-name="CANAL 26 TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/pdxCpFsq/canal_26_argentina.png",🔆|➾CANAL 26
+http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1  tvg-name="EL TRECE TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/nL9j0Bty/EL_TRECE_ESP.png",🔆|➾EL TRECE
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1  tvg-name="EL NUEVE TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/xThb31Cy/CANAL_9_RESISTENCIA_ESP.png",🔆|➾EL NUEVE RESISTENCIA ARGENTINA
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="EL NUEVE TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/W1M9rKn8/CANAL_9_PARANA_ESP.png",🔆|➾EL NUEVE ARGENTINA
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1  tvg-name="TELEMAX TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/CxHRCnbG/TELEMAX-VU-TV-PLAYER.png",🔆|➾TELEMAX ARGENTINA
+http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1  tvg-name="TELE NORD NORTE"group-title="←«🔆PREMIUM🔆»→" tvg-logo="https://i.postimg.cc/90GvWbYj/TELENORD_TV12HD.png",🔆|➾TELENORD NORTE
+https://angelistic.live:3785/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
 https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
 #EXTINF:-1  tvg-name="RETRO PLAY OLI TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/LsBFdBWc/OLI-TV-EL-MEJOR.png",🔆|➾RETRO PLAY OLI TV
