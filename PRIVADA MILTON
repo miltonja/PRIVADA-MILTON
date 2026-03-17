@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/V6RSXgpV/City-TV.png",CITY TV  (🇨🇴)
 http://181.78.12.119:16123/play/ch42/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/XqbrNnj4/CARACOL_GRIS.png",Caracol HD  (🇨🇴)
-http://181.78.12.119:16123/play/ch58/index.m3u8
+http://181.78.82.6:46090/play/a05y
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/cL3kKZ04/CANAL_CARACOL.png",Caracol HD  (🇨🇴)
 http://corgol.com@181.78.82.6:46090/play/a05y
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/qRzwz4pC/Cable_Noticias_azul.png",Cablenoticias (Colombia) (🇨🇴)
