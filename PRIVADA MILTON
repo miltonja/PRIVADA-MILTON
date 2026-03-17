@@ -64,6 +64,8 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 https://live.ryetv.net/livelan/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-name="AMERICA TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/43dKL4yX/AMERICA_TV.png",🔆|➾AMERICA ARGENTINA
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXTINF:-1  tvg-name="A 24 TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",🔆|➾A 24 ARGENTINA
+https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
 #EXTINF:-1  tvg-name="CANAL 26 TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/pdxCpFsq/canal_26_argentina.png",🔆|➾CANAL 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1  tvg-name="EL TRECE TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/nL9j0Bty/EL_TRECE_ESP.png",🔆|➾EL TRECE
@@ -80,6 +82,8 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="TELEMAX TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/CxHRCnbG/TELEMAX-VU-TV-PLAYER.png",🔆|➾TELEMAX ARGENTINA
 http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1  tvg-name="CANAL DE LA CIUDAD"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/fy86TyqD/Logo-Canal-de-la-Ciudad.png",🔆|➾CANAL DE LA CIUDAD ARGENTINA
+https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 #EXTINF:-1  tvg-name="TELE NORD NORTE"group-title="←«🔆PREMIUM🔆»→" tvg-logo="https://i.postimg.cc/90GvWbYj/TELENORD_TV12HD.png",🔆|➾TELENORD NORTE
 https://angelistic.live:3785/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
