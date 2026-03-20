@@ -357,6 +357,10 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
 https://media.streambrothers.com:19360/8158/8158.m3u8
+#EXTINF:-1  tvg-name="MEGA TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/NMbvwD4S/MegaPlus.png",🔆|➾MEGA TV CHILE
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-name="CHILE CHANNEL"group-title="←«🔆CHILE🔆»→" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg",🔆|➾CHILE CHANNEL
+https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-name="TELE COSTA TV"group-title="←«🔆PREMIUM🔆»→" tvg-logo="https://i.postimg.cc/5N40Szwd/TELECOSTA.png",🔆|➾TELE COSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1  tvg-name="R&E TV"group-title="←«🔆PREMIUM🔆»→" tvg-logo="https://i.postimg.cc/1zLsN3w7/R&E_TELEVISION_esp.png",🔆|➾R&E TV
