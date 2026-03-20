@@ -383,6 +383,8 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="EL NUEVE TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/W1M9rKn8/CANAL_9_PARANA_ESP.png",🔆|➾EL NUEVE ARGENTINA
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1  tvg-name="CANAL NUEVE TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/13X3DQTQ/1200px-Canal-9-Bio-Bio-Television-2012-logo.png",🔆|➾CANAL NUEVE
+http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 #EXTINF:-1  tvg-name="EL DIEZ TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://i.postimg.cc/R0m4v7Wp/CANAL_10_CORDOBA_ESP.png",🔆|➾EL DIEZ
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1  tvg-name="EL SIETE TV"group-title="←«🔆ARGENTINA🔆»→" tvg-logo="https://www.betanoticias.com/wp-content/uploads/2014/04/canal-7-neuquen.png",🔆|➾EL SIETE NEQUEN
