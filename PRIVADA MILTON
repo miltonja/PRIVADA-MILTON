@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1tvg-name="💢RED BULL TV ESPAÑOL" tvg-logo="https://i.postimg.cc/9XdczTGh/REDBULL_TV.png"group-title="💢PREMIUM💢",💢|➾RED BULL TV ESPAÑOL
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1tvg-name="💢MUDO SERIES" tvg-logo="https://i.postimg.cc/Vvqys4Vd/MUNDO-SERIES-TV.png"group-title="💢PREMIUM💢",💢|➾MUNDO SERIES
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 #EXTINF:-1tvg-name="💢ACAPULCO SHORE 2 BRAZIL " tvg-logo="https://i.postimg.cc/T3QzjxbP/ACAPULCO_SHORE-2.png"group-title="💢PREMIUM💢",💢|➾ACAPULCO SHORE 2 BRAZIL
