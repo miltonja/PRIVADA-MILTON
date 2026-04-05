@@ -1,13 +1,43 @@
 #EXTM3U
+#EXTINF:-1tvg-name="💢XITE NUEVO LATINO" tvg-logo="https://i.postimg.cc/GpMMMkyx/XITE-NUEVO-LATINO.png"group-title="💢PREMIUM💢",💢|➾XITE NUEVO LATINO
+https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1tvg-name="💢XITE SIEMPRE LATINO" tvg-logo="https://i.postimg.cc/Mpqdqs0N/XITE-SIEMPRE-LATINO.png"group-title="💢PREMIUM💢",💢|➾XITE SIEMPRE LATINO
+https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
+#EXTINF:-1tvg-name="💢W TV" tvg-logo="https://i.postimg.cc/bvr7b222/WTV_CANAL_20.png"group-title="💢PREMIUM💢",💢|➾W TV
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+#EXTINF:-1tvg-name="💢VOS & TV" tvg-logo="https://i.postimg.cc/dttBjS5B/VOS-TV.png"group-title="💢PREMIUM💢",💢|➾VOS & TV
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1tvg-name="💢TREK EXPLORING THE KNOWN" tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/Trek_logo_0.png"group-title="💢PREMIUM💢",💢|➾TREK EXPLORING THE KNOWN
+https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1tvg-name="💢TREC COLOMBIA" tvg-logo="https://i.postimg.cc/dQGh9H2N/1280px-Canal-Trece-logo-svg.png"group-title="💢PREMIUM💢",💢|➾TRECE COLOMBIA
+https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1tvg-name="💢TV DIREC 13" tvg-logo="https://i.postimg.cc/BZ1L95X9/TV-DIRECT-13.png"group-title="💢PREMIUM💢",💢|➾TV DIRECT 13
+https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1tvg-name="💢" tvg-logo="https://i.postimg.cc/xd3rb4x9/TV-CISNE.png"group-title="💢PREMIUM💢",💢|➾TV CISNE
+https://video2.lhdserver.es/tvcisne/live.m3u8
+#EXTINF:-1tvg-name="💢TELEMUNDO AL DIA" tvg-logo="https://i.postimg.cc/3NwPrnLY/Telemundo-Logo-White-360x300.png"group-title="💢PREMIUM💢",💢|➾TELEMUNDO AL DIA
+https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
+#EXTINF:-1tvg-name="💢TELEMUNDO ACCION" tvg-logo="https://i.postimg.cc/WzfCx6B5/TELEMUNDO_INTER.png"group-title="💢PREMIUM💢",💢|➾TELEMUNDO ACCION
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1tvg-name="💢TELE MAX"tvg-logo="https://i.postimg.cc/rppQFsWT/TELEMAX_RD.png"group-title="💢PREMIUM💢",💢|➾TELE MAX
+https://mlb.essastream.com:8081/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-name="💢SERIALLY CRIME ITALY" tvg-logo="https://i.postimg.cc/0jKYBpGR/Serially-Crime.jpg"group-title="💢PREMIUM💢",💢|➾SERIALLY CRIME ITALY
+https://ixmediasrl-seriallycrime-1-it.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1tvg-name="💢RIO TV" tvg-logo="https://i.postimg.cc/28qv0RfR/RIO_TV_ORIG.png"group-title="💢PREMIUM💢",💢|➾RIO TV
+https://stream.amelbasoluciones.co/live/riotv.m3u8
+#EXTINF:-1tvg-name="💢RETROX PLUS" tvg-logo="https://i.postimg.cc/cCz3tpsF/RETRO-X-PLUS.png"group-title="💢PREMIUM💢",💢|➾RETROX PLUS
+https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
+#EXTINF:-1tvg-name="💢R&E TV" tvg-logo="https://i.postimg.cc/1zLsN3w7/R&E_TELEVISION_esp.png"group-title="💢PREMIUM💢",💢|➾R&E TV
+https://live.ryetv.net/livelan/stream.m3u8
 #EXTINF:-1tvg-name="💢RED BULL TV ESPAÑOL" tvg-logo="https://i.postimg.cc/9XdczTGh/REDBULL_TV.png"group-title="💢PREMIUM💢",💢|➾RED BULL TV ESPAÑOL
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1tvg-name="💢MUDO SERIES" tvg-logo="https://i.postimg.cc/Vvqys4Vd/MUNDO-SERIES-TV.png"group-title="💢PREMIUM💢",💢|➾MUNDO SERIES
+#EXTINF:-1tvg-name="💢MUDO SERIES" tvg-logo="https://i.postimg.cc/B6QN6YP5/MUNDO_SERIES_TV.png"group-title="💢PREMIUM💢",💢|➾MUNDO SERIES
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 #EXTINF:-1tvg-name="💢ACAPULCO SHORE 2 BRAZIL " tvg-logo="https://i.postimg.cc/T3QzjxbP/ACAPULCO_SHORE-2.png"group-title="💢PREMIUM💢",💢|➾ACAPULCO SHORE 2 BRAZIL
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 #EXTINF:-1tvg-name="💢ACAPULCO SHORE " tvg-logo="https://i.postimg.cc/T3QzjxbP/ACAPULCO_SHORE-2.png"group-title="💢PREMIUM💢",💢|➾ACAPULCO SHORE ESPAÑOL
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
-#EXTINF:-1tvg-name="💢ACAPULCO SHORE " tvg-logo="https://i.postimg.cc/sg74QNHL/ACAPULCO_MTV_SHORE_VU_TV-.png"group-title="💢PREMIUM💢",💢|➾ACAPULCO SHORE ESPAÑOL
+#EXTINF:-1tvg-name="💢ACAPULCO SHORE " tvg-logo="https://i.postimg.cc/5ydk26Wq/MTV_SHORE_ESP.png"group-title="💢PREMIUM💢",💢|➾ACAPULCO SHORE ESPAÑOL
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/V6RSXgpV/City-TV.png",CITY TV  (🇨🇴)
 http://181.78.12.119:16123/play/ch42/index.m3u8
