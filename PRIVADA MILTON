@@ -33,6 +33,8 @@ https://live.ryetv.net/livelan/stream.m3u8
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1tvg-name="💢MUDO SERIES" tvg-logo="https://i.postimg.cc/B6QN6YP5/MUNDO_SERIES_TV.png"group-title="💢PREMIUM💢",💢|➾MUNDO SERIES
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
+#EXTINF:-1tvg-name="💢COREANO ESPAÑA TV" tvg-logo="https://i.postimg.cc/wjjTB9Ks/COREA_TV_ESP.png"group-title="💢PREMIUM💢",💢|➾COREANO ESPAÑA
+https://d12gw43btk2com.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-okhb3cso3rj4v/e66911c8_a9c5_4206_979f_1ad694dcb8ad/hls/playlist.m3u8
 #EXTINF:-1tvg-name="💢ACAPULCO SHORE 2 BRAZIL " tvg-logo="https://i.postimg.cc/T3QzjxbP/ACAPULCO_SHORE-2.png"group-title="💢PREMIUM💢",💢|➾ACAPULCO SHORE 2 BRAZIL
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 #EXTINF:-1tvg-name="💢ACAPULCO SHORE " tvg-logo="https://i.postimg.cc/T3QzjxbP/ACAPULCO_SHORE-2.png"group-title="💢PREMIUM💢",💢|➾ACAPULCO SHORE ESPAÑOL
