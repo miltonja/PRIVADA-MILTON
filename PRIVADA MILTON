@@ -45,6 +45,8 @@ https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1tvg-name="💢ACAPULCO SHORE " tvg-logo="https://i.postimg.cc/5ydk26Wq/MTV_SHORE_ESP.png"group-title="💢PREMIUM💢",💢|➾ACAPULCO SHORE ESPAÑOL
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
+#EXTINF:-1tvg-name="💢360 RFTV COSTARICA E40 PARAGUAY" tvg-logo="https://i.postimg.cc/52BJ8mTy/360RFTV-COSTARICA.jpg"group-title="💢PREMIUM💢",💢|➾ 360 RFTV COSTARICA (🇨🇷)
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/V6RSXgpV/City-TV.png",CITY TV  (🇨🇴)
 http://181.78.12.119:16123/play/ch42/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/cL3kKZ04/CANAL_CARACOL.png",Caracol HD  (🇨🇴)
