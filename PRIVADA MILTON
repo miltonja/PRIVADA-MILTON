@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1tvg-name="💢WINSPORTS PLUS (🇨🇴)" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png"group-title="💢PREMIUM💢",💢|➾WINSPORT PLUS (🇨🇴)
+http://147.135.114.221:8001/play/a00u/index.m3u8
 #EXTINF:-1tvg-name="💢XITE NUEVO LATINO" tvg-logo="https://i.postimg.cc/GpMMMkyx/XITE-NUEVO-LATINO.png"group-title="💢PREMIUM💢",💢|➾XITE NUEVO LATINO
 https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
 #EXTINF:-1tvg-name="💢XITE SIEMPRE LATINO" tvg-logo="https://i.postimg.cc/Mpqdqs0N/XITE-SIEMPRE-LATINO.png"group-title="💢PREMIUM💢",💢|➾XITE SIEMPRE LATINO
