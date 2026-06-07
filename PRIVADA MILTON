@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1tvg-name="💢WIN SPORTS" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png"group-title="💢COLOMBIA💢",💢|➾WIN SPORTS
+http://astra.fibernetisp.com.co/play/a04g/index.m3u8
 #EXTINF:-1tvg-name="💢XITE NUEVO LATINO" tvg-logo="https://i.postimg.cc/GpMMMkyx/XITE-NUEVO-LATINO.png"group-title="💢PREMIUM💢",💢|➾XITE NUEVO LATINO
 https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
 #EXTINF:-1tvg-name="💢XITE SIEMPRE LATINO" tvg-logo="https://i.postimg.cc/Mpqdqs0N/XITE-SIEMPRE-LATINO.png"group-title="💢PREMIUM💢",💢|➾XITE SIEMPRE LATINO
