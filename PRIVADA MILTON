@@ -23,7 +23,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 group-title="💢PREMIUM💢" tvg-logo="https://i.postimg.cc/dttBjS5B/VOS-TV.png",💢|➾VOS & TV
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-#EXTINF:-1 group-title="💢PREMIUM💢" tvg-logo="https://i.postimg.cc/BZ1L95X9/TV-DIRECT-13.png",💢|➾TV DIRECT 13
+#EXTINF:-1 group-title="💢PREMIUM💢" tvg-logo="https://i.postimg.cc/BZ1L95X9/TV-DIRECT-13.png",💢|➾TV DIRECT 13 HD
 https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="💢PREMIUM💢" tvg-logo="https://i.postimg.cc/xd3rb4x9/TV-CISNE.png",💢|➾TV CISNE
 https://video2.lhdserver.es/tvcisne/live.m3u8
