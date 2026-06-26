@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1tvg-name="💢MIX FM (UK) (🇬🇧)" tvg-logo="https://i.postimg.cc/Gt1DR8Fh/MIX-FM-102-3-HD.png"group-title="💢PREMIUM💢",💢|➾MIX FM (UK) (🇬🇧)
+https://strm.mixlive.eu/mixfm/index.m3u8
+#EXTINF:-1tvg-name="💢LA DESCARGA" tvg-logo="https://i.postimg.cc/XNTJsczd/LA-DESCARGA-TV.png"group-title="💢PREMIUM💢",💢|➾LA DESCARGA 
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 group-title="💢COLOMBIA💢" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png",💢|➾WIN SPORTS
 http://astra.fibernetisp.com.co/play/a04g/index.m3u8
 #EXTINF:-1 group-title="💢PREMIUM💢" tvg-logo="https://i.postimg.cc/GpMMMkyx/XITE-NUEVO-LATINO.png",💢|➾XITE NUEVO LATINO
